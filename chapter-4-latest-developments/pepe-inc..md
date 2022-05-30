@@ -30,7 +30,6 @@ In the upcoming months, the team plans on implementing new features, such as:
 * [@LordJamieVShill](https://twitter.com/LordJamieVShiLL)
 * [@toomucheth](https://twitter.com/toomucheth)&#x20;
 * [@PabloRicasso](https://twitter.com/PabloRicasso)&#x20;
-* [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 * [@Pepeguykek](https://twitter.com/pepeguykek)
 * [@Jujimufu69](https://twitter.com/jujimufu69)
 * [@jlsoul1](https://twitter.com/jlsoul1)
