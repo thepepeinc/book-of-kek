@@ -1,8 +1,10 @@
 # How It Works
 
+{% hint style="info" %}
 _Thanks to the recently introduced_ [_Drops page_](https://pepe.wtf/drops) _by Pepe.wtf, the purchasing of new released cards got automated via the site. All future drops will be announced via the PepePawnShop._
+{% endhint %}
 
-To stay tunes, simply join the PepePawnShop [Telegram group](https://t.me/PepePawnShop), say "Hello" or even better - "GM" and introduce yourself. If you’re looking for assistance buying or selling Rare Pepes, Fakes Rares, or Danks, you’ve also come to the right place.
+To stay tune_d_, simply join the PepePawnShop [Telegram group](https://t.me/PepePawnShop), say "Hello" or even better - "GM" and introduce yourself. If you’re looking for assistance buying or selling Rare Pepes, Fakes Rares, or Danks, you’ve also come to the right place.
 
 Please do not post items for sale or wanted items in the chat. No dispenser, OS, FND links etc.
 
