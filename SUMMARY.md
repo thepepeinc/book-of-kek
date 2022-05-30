@@ -2,6 +2,7 @@
 
 * [The Book of Kek](README.md)
 * [Resources](resources.md)
+* [How to Contribute to the Book of Kek](how-to-contribute-to-the-book-of-kek.md)
 
 ## Chapter 1 - Historical Lore
 
@@ -25,7 +26,8 @@
   * [Rare Pepe Valuation](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/rare-pepe-valuation.md)
   * [Rare Pepe Scientists](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/rare-pepe-scientists.md)
   * [Most Famous Rare Pepe Artists](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/most-famous-rare-pepe-artists.md)
-  * [Series & Card Specific Lore](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore.md)
+  * [Series & Card Specific Lore](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/README.md)
+    * [Series 1](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-1.md)
   * [Famous Rare Pepe auctions](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-auctions.md)
   * [“The Rarest Book” by Eleonora Brizi](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)
 * [Fake Rares & Dank Rares](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/README.md)

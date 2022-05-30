@@ -1,3 +1,10 @@
+---
+description: >-
+  This page aims to aggregate the biggest inventory of RP card- &
+  series-specific lore with the community's help. To contribute please reach out
+  to wiki@pepe.wtf
+---
+
 # Series & Card Specific Lore
 
 There are 1774 different Rare Pepe Cards broken up into 36 series, each with (mostly) 50 unique cards.
@@ -8,7 +15,7 @@ Cards in series 31-36 were created in 2018.
 
 Not all Rare Pepes are equally rare, some cards were issued 1000 times, some 100 times, some just once. Some, like PEPECASH, are issued 1 billion times.
 
-![Non-rare Rare Pepes](<../../.gitbook/assets/non-rare rare pepes.jpg>)
+![Non-rare Rare Pepes](<../../../.gitbook/assets/non-rare rare pepes.jpg>)
 
 However, the center of the bell curve sits around the 100–300 issuance levels, and some cards have also been subject to significant burn reductions. Each Rare Pepe has unique qualities.
 
@@ -16,7 +23,7 @@ Some of most valuable cards include the [Nakamoto RAREPEPE](http://rarepepedirec
 
 ## Famous Rare Pepe collections:
 
-!["History of Art" Rare Pepe collection, by DanDarkPill](<../../.gitbook/assets/Screenshot 2022-04-25 141119.png>)
+!["History of Art" Rare Pepe collection, by DanDarkPill](<../../../.gitbook/assets/Screenshot 2022-04-25 141119.png>)
 
 * **History of Art collection**\
   ****The Rare Pepe History of Art Series is a collection of Rare Pepe, all in series 8, by the anonymous twitter personality [Dan Dark Pill](https://twitter.com/DanDarkPill), designed in the style of famous artists such as Pablo Picasso, Vincent Van Gogh, and Salvador Dali. The collection was intended to be 24 cards, but only seven were completed (#1-6 and #8). Although 100 supply of each pepe were minted, 86 or more of each card is believed to be in a counterparty wallet for whom the private keys are permanently lost, making these cards extraordinarily rare and valuable. Less than 5 complete sets are known to exist, and [one is available at auction house Scarce City](https://scarce.city/auctions/rarepepe-history-of-art) for prospective buyers.
@@ -27,7 +34,7 @@ Some of most valuable cards include the [Nakamoto RAREPEPE](http://rarepepedirec
 * **Mr. Hansel Triptych collection**\
   Mr. Hansel, one of the most prolific artists in the Rare Pepe Directory, made this [3-part series](https://pepe.wtf/sets/Mr-Hansel-Triptych) of pepe the frog depictions set in 1910.
 
-## Famous Rare pepe cards:
+## Famous Rare Pepe cards:
 
 * ****[**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) **** (Series 1, Card 1, 1/300)\
   ****The first Rare Pepe ever attached to the Bitcoin blockchain. The Rare Pepe that started it all and the most iconic in the collection. The creator, known only as Mike, planted the seed for all of tokenized cryptoart and subsequently NFTs, with this card. There was no marketplace, there was no community of crypto artists and collectors, there was no plan to make an 18 month run of cards. He simply posted the image in a telegram chat and named it using the XCP protocol. It is based upon Dorian Satoshi Nakamoto, an elderly man [misidentified by Newsweek magazine](https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html) in 2014 as Satoshi Nakamoto, the anonymous creator of Bitcoin. Ownership of the Nakamoto Card gains you access to the very exclusive 300 Club.
@@ -40,7 +47,7 @@ Some of most valuable cards include the [Nakamoto RAREPEPE](http://rarepepedirec
 * ****[**LORDKEK**](https://pepe.wtf/asset/LORDKEK) **** (Series 1, Card 34, 1/10, **divisible**)\
   The LORDKEK card has legendary status amongst the Rare Pepe community. It’s a deity of the Rare Pepes. When creating (minting) the card, its creator [@Robness](https://twitter.com/robnessofficial) mistakenly made the card infinitely divisible, causing the card to break not long after its mint. Particles (commonly referred to as “dust”) of the card started trading. Apart from the 7 addresses that hold one full card (and are most likely not keen on selling them), it’s practically impossible for a single individual nowadays to collect a full LORDKEK card. The only dispensers which are selling parts of the card, are offering fractions of it (.00001). [@Robness](https://twitter.com/robnessofficial) was the one who minted the asset onto the blockchain, but the artwork for the card was made by another artist, [@NeedMoney90](https://pepe.wtf/artists/NeedMoney90). Albeit, when asked, both of the creators agreed that there were such strong memetic forces at play when the card was being created, concluding that it must have been [Kek](https://pepe.wtf/artists/Kek) himself responsible for the creation of the LORDKEK card.\
   It’s often spoken that the card possesses mystical properties and is therefore considered magical.
-* ****[**UFOPEPE**](series-and-card-specific-lore.md#series-specific-lore) (Series 1, Card 37, 1/800)\
+* ****[**UFOPEPE**](./#series-specific-lore) (Series 1, Card 37, 1/800)\
   Also created by Mike, UFOPEPE is the first known GIF NFT.
 * ****[**HERNIAPEPE**](https://pepe.wtf/asset/HERNIAPEPE) (Series 1, Card 45, 1/115)\
   Mike Hearn was a longtime Bitcoin developer dating back to its earliest days. During the infamous Blocksize Wars, Hearn was a strong proponent of raising the block size, and even created an alternative client to Bitcoin Core known as Bitcoin XT. When his proposal failed to gain adoption, Hearn declared Bitcoin a failed project in January 2016, and publicly declared he was selling all of his bitcoin (at the then-price of around $400) and leaving the community entirely. His declaration, which was plastered on [his personal blog](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7) and an extensive [interview in The New York times](https://www.nytimes.com/2016/01/17/business/dealbook/the-bitcoin-believer-who-gave-up.html), was described by many bitcoiners such as bittorrent founder Bram Cohen as a “[whiny ragequit](https://bramcohen.medium.com/whiny-ragequitting-cab164b1e88)”.
