@@ -6,6 +6,8 @@ description: >-
 
 # How to Contribute to the Book of Kek
 
+![CULTOFKEK by Mr Hansel](.gitbook/assets/CULTOFKEK.png)
+
 All loyal followers and worshipers of Kek may exercise their right to contribute to the holy writings inside the BoK.
 
 {% hint style="info" %}
