@@ -36,6 +36,10 @@ You can find the official submission rules [here](https://fakeraredirectory.com/
 
 ### Submission Process:
 
+{% hint style="warning" %}
+_Please note: The submission to Fake Rares is currently paused, but due to resume after series 8. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons.md) _or_ [_Dank Rares_](dank-rares-submission-rules.md) _instead._
+{% endhint %}
+
 1. Submit your fake to [Fakeasf.club](https://fakeasf.club/)
 2. Email [fakepepeilluminati@protonmail.com](mailto:fakepepeilluminati@protonmail.com)
    * In the email include: Artist name, Image and XChain link
