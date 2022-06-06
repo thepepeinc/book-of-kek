@@ -54,7 +54,7 @@ With the number of internet users growing, Pepe was ripe for the taking.
 
 Other communities outside of 4chan started percolating Pepe. He started getting the attention which the 4chan community did not like.
 
-![Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet.jpg>) ![Nicki Minaj Pepe IG post](<../../.gitbook/assets/nicki minaj pepe post.png>)
+![Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (1).jpg>) ![Nicki Minaj Pepe IG post](<../../.gitbook/assets/nicki minaj pepe post (1).png>)
 
 Even some celebrities like Nicki Minaj and Katy Perry jumped on the Pepe-trend and posted him on their profiles, further increasing his popularity amongst "[the normies](https://www.urbandictionary.com/define.php?term=Normie)”.
 
@@ -72,7 +72,7 @@ At the same time, while all of this drama was culminating online, Matt was launc
 
 As a way of revolting against the unwelcomed outsiders, the 4chan community started creating angry and offensive versions of Pepe the Frog, some more distasteful than others.
 
-![Angry Pepe](<../../.gitbook/assets/angry pepe (1).png>)
+![Angry Pepe](<../../.gitbook/assets/angry pepe.png>)
 
 This was the birth of “The Angry Frog” meme, inspired by popular [videos](https://www.youtube.com/results?search\_query=screaming+frogs) of screaming frogs that went viral at the time.
 
@@ -124,7 +124,7 @@ Essentially, the 4chan community wanted to embarrass the “outside world” by 
 
 On October 13th, 2015, Donald Trump tweeted an illustration of Pepe as himself standing at a podium with the President of the United States Seal. This was the seal of approval for the 4chan community.
 
-![Trump's Pepe tweet](<../../.gitbook/assets/trump tweet (1).jpg>)
+![Trump's Pepe tweet](<../../.gitbook/assets/trump tweet.jpg>)
 
 > _“To most voters this seemed odd. But if you were spending years creating Pepe memes and you saw this, you were probably like “Wow, maybe this guy is right for us.””_ - Matt Braynard, execute director of "Look Ahead America" and director of strategy and data for the Trump campaign
 

@@ -9,7 +9,7 @@ description: The memorial room of famous Pepe posts
 On November 8th, 2014, Katy Perry tweeted a picture of Pepe crying with the caption "Australian jet lag got me like".\
 Over the next three years, the tweet received more than 17,000 likes and 10,500 retweets.
 
-![The Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (1).jpg>)
+![The Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (2).jpg>)
 
 ### Nicki Minaj's Instagram Post
 
@@ -23,7 +23,7 @@ Over the next two years, the post received more than 281,000 likes and 13,900 co
 On October 13th, 2015, Donald Trump tweeted an illustration of Pepe as himself standing at a podium with the President of the United States Seal.\
 Within 16 months, the post gathered upwards of 11,000 likes and 8,100 retweets.
 
-![The Donald Trump Pepe tweet](<../../.gitbook/assets/trump tweet.jpg>)
+![The Donald Trump Pepe tweet](<../../.gitbook/assets/trump tweet (1).jpg>)
 
 ### Wendy's tweet
 

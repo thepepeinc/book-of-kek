@@ -17,7 +17,7 @@ description: >-
 
 * [Pepe.wtf](https://pepe.wtf/)
 * [Rare Pepe Directory](http://rarepepedirectory.com/)
-*
+* [Fake Rare Directory](https://fakeraredirectory.com/)
 * [Dank Rare Directory](https://www.dankdirectory.io/)
 * [Rare Pepe Finder](https://rarepepefinder.com/)
 * [Dankset.io](https://dankset.io/)
@@ -82,7 +82,6 @@ description: >-
 ## Articles
 
 * [What Is CryptoArt? - Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart)
-* [The Magic of Counterparty Bitcoin](https://www.xprotectx.com/post/the-magic-of-counterparty-bitcoin)
 * [The origin assets of the digital antiquities market (NFTs)](https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9)
 * [Rare Pepe Wallet & The Birth of CryptoArt — Artnome](https://www.artnome.com/news/2018/1/23/rare-pepe-wallet-the-birth-of-cryptoart)
 * [Bitcoin NFTs on Counterparty (and How to Get or Create Your First One)](https://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/)

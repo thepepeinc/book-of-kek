@@ -11,7 +11,7 @@ Fun fact: The legend has it that the cards in Series 0 of the Fake Rares were su
 
 Below you can find some more card specific lore:
 
-![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1) (1).gif>)
+![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1).gif>)
 
 [FAKEASF](https://pepe.wtf/asset/FAKEASF) - Series 1, Card 1, 1/1,656&#x20;
 
