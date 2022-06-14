@@ -11,6 +11,12 @@ description: >-
 
 Below you can find some more card specific lore:
 
+![FREEDOMKEK](https://user-images.githubusercontent.com/106767091/173695130-dde4591b-22d6-428d-8167-d8e460adc9dd.jpeg)
+
+[FREEDOMKEK](https://pepe.wtf/asset/FREEDOMKEK) - Series 0, Card 1, 1/300
+
+On September 21 2021, Rare Scrilla was banned from the Rare Pepe Trading Group Telegram channel for violating the number one rule: you can only share Official Rare Pepes in the Rare Pepe Trading Group. Rare Scrilla shared a Fake Rare that was rejected from the directory in 2018. You see, Scrilla had just rediscovered the fake in his wallet, so he figured he’d share it in the chat and give a few away to ppl who shared their addresses. He was quickly banned from the chat, so he decided to spin up a new chat and subsequent directory called Fake Rares. The new chat quickly filled up, and Scrilla offered the FREEDOMKEK card – the fake that got him fake banned in the first place – to anyone who shared the card in the Rare Pepe chat. It was a “Proof of Ban” card and thus became the first card in the Fake Rare directory. Series 0, Card 1. The Rare Pepe administrators eventually unbanned Scrilla and even participated in the new Fake Rares community, and the rest has been written on the blockchain. Read the rest of the story [here](https://fakeraredirectory.com/la-faka-has-been-defeated/).
+
 ![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1).gif>)
 
 [FAKEASF](https://pepe.wtf/asset/FAKEASF) - Series 1, Card 1, 1/1,656&#x20;
