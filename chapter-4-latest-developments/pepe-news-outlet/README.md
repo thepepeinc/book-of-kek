@@ -7,11 +7,46 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## FROGS > FIAT, [NFT.NYC](https://www.nft.nyc/) Edition
+
+June 14th, 2022 ; [source](https://twitter.com/ScrillaVentura/status/1536010933797003270?s=20&t=Vdx1MxUGJEyQR3pv1OGQSQ)
+
+Story by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
+
+Starting on June 19th to 23rd, taking place in TriBeCa, 80 W Broadway, "FROGS > FIAT" is taking over New York City.
+
+![image](https://user-images.githubusercontent.com/106767091/173698571-8fc2c195-9ce7-4794-97c8-9cda5b870656.png)
+
+
+Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20&t=PKjaZg5EiktvibjYJ_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
+
+Visitors can also scoop a VIP ticket to DJ Qbert for Wednesday evening. Get the tickets [here](https://scarce.city/sales/FOVRFNYC).
+
+The event ends with an auction party on Thursday featuring live bidding. Beer and food are included for frens.
+
+
+
+## FAKEBASEL auction in Basel, Switzerland
+
+June 14th, 2022 ; [source](https://twitter.com/fabooowy/status/1535409554271391745?s=20&t=FTy-b7BqfbfCxILHSAivMg)
+
+Story by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
+
+![FU5v7PJXEAYvxXb-output](https://user-images.githubusercontent.com/106767091/173697094-aa7c654b-c89c-43ee-a1b7-a4ecd8947fb0.gif)
+
+The FAKEBASEL frog gallery is happening from Wednesday 15th to Saturday 18th, June 2022, in [Parzelle403](https://www.parzelle403.ch/FAKE-BASEL), Basel. The exhibition features both physical and digital FAKE RARE goods, ready for auction.
+
+The auction is hosted by [Scarce.city](https://scarce.city/).
+
+You can check out the auctioned goodies [here](https://scarce.city/collections/fake-basel-22).
+
+
+
 ## The Pepe Museum Exhibit
 
 April 5th, 2022 ; [source](https://twitter.com/raulmarcosl/status/1511461112293769237?s=20\&t=DvTSKR6GTIVNkzhULOwCDA)
 
-Story by: [@PabloRicasso](https://twitter.com/FeelsRareMan)
+Story by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 [Espacio SOLO](https://coleccionsolo.com/), the famous Madrid museum approached [@raulmarcosi](https://twitter.com/raulmarcosl) after seeing his and his team's work on [https://pepe.wtf](https://pepe.wtf)
 

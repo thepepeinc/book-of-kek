@@ -7,9 +7,15 @@ description: >-
 
 # Fake Rares Card Specific Lore
 
-Fun fact: The legend has it that the cards in Series 0 of the Fake Rares were submitted for approval to be a part of the Rare Pepe collection but were not approved. While not all of them were scientifically denied - the rule was that each card had to be an older XCP asset and not part of any directory.
+> Fun fact: The legend has it that the cards in Series 0 of the Fake Rares were submitted for approval to be a part of the Rare Pepe collection but were not approved. While not all of them were scientifically denied - the rule was that each card had to be an older XCP asset and not part of any directory.
 
 Below you can find some more card specific lore:
+
+![FREEDOMKEK](https://user-images.githubusercontent.com/106767091/173695130-dde4591b-22d6-428d-8167-d8e460adc9dd.jpeg)
+
+[FREEDOMKEK](https://pepe.wtf/asset/FREEDOMKEK) - Series 0, Card 1, 1/300
+
+On September 21 2021, Rare Scrilla was banned from the Rare Pepe Trading Group Telegram channel for violating the number one rule: you can only share Official Rare Pepes in the Rare Pepe Trading Group. Rare Scrilla shared a Fake Rare that was rejected from the directory in 2018. You see, Scrilla had just rediscovered the fake in his wallet, so he figured he’d share it in the chat and give a few away to ppl who shared their addresses. He was quickly banned from the chat, so he decided to spin up a new chat and subsequent directory called Fake Rares. The new chat quickly filled up, and Scrilla offered the FREEDOMKEK card – the fake that got him fake banned in the first place – to anyone who shared the card in the Rare Pepe chat. It was a “Proof of Ban” card and thus became the first card in the Fake Rare directory. Series 0, Card 1. The Rare Pepe administrators eventually unbanned Scrilla and even participated in the new Fake Rares community, and the rest has been written on the blockchain. Read the rest of the story [here](https://fakeraredirectory.com/la-faka-has-been-defeated/).
 
 ![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1).gif>)
 
@@ -41,6 +47,12 @@ The FAKETORCH, another community-created card… and the only 1 of 1 card in the
 
 Fake version of [MISSPEPE](https://pepe.wtf/asset/MISSPEPE), a Rare Pepe submitted back in the day. Both cards were made and submitted by the same artist - [Ffmad](https://pepe.wtf/artists/Ffmad). This MISSPEPEPUNK is an NFT teacher, who is specialized in "green ones". For each of the 100 cards, a unique profile picture will be associated in the near future.
 
+
+![FAKEWAX](https://user-images.githubusercontent.com/106767091/173689937-83e88c31-03f2-47bd-a7b9-5f48d57c12b7.jpg)
+
+[FAKEWAX](https://pepe.wtf/asset/FAKEWAX) - Series 4, Card 51, 1/150
+
+[FAKEWAX](https://pepe.wtf/asset/FAKEWAX) was the only 51st card in a series (as every other series has 50 cards). The artwork for the card was made by [Viva La Vandal](https://pepe.wtf/artists/Viva-La-Vandal). As all of Series 4 was an audio collection, what made the FAKEWAX card so special is the fact that holders of it could redeem an actual vinyl with all of the special content from the audio series.
 
 
 ![PEPEFICATION](../../.gitbook/assets/PEPEFICATION.gif)
