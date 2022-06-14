@@ -7,21 +7,38 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## La Faka Has Been Defeated
+## FROGS > FIAT, [NFT.NYC](https://www.nft.nyc/) Edition
 
-June 14th, 2022 ; [source](https://fakeraredirectory.com/la-faka-has-been-defeated/)
+June 14th, 2022 ; [source](https://twitter.com/ScrillaVentura/status/1536010933797003270?s=20&t=Vdx1MxUGJEyQR3pv1OGQSQ)
 
 Story by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 
-On September 21 2021, Rare Scrilla was banned from the Rare Pepe Trading Group Telegram channel for violating the number one rule: you can only share Official Rare Pepes in the Rare Pepe Trading Group. Rare Scrilla shared a Fake Rare that was rejected from the directory in 2018.
+Starting on June 19th to 23rd, taking place in TriBeCa, 80 W Broadway, "FROGS > FIAT" is taking over New York City.
 
-![brave_LspSELhi7c](https://user-images.githubusercontent.com/106767091/173693356-9cd82fcf-3cd1-4b42-8b84-e33ccef5ba62.png)
+![image](https://user-images.githubusercontent.com/106767091/173698571-8fc2c195-9ce7-4794-97c8-9cda5b870656.png)
 
-> You see, Scrilla had just rediscovered the fake in his wallet, so he figured he’d share it in the chat and give a few away to ppl who shared their addresses.
 
-He was quickly banned from the chat, so he decided to spin up a new chat and subsequent directory called Fake Rares. The new chat quickly filled up, and Scrilla offered the FREEDOMKEK card – the fake that got him fake banned in the first place – to anyone who shared the card in the Rare Pepe chat. It was a “Proof of Ban” card and thus became the first card in the Fake Rare directory. Series 0, Card 1. The Rare Pepe administrators eventually unbanned Scrilla and even participated in the new Fake Rares community, and the rest has been written on the blockchain.
+Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20&t=PKjaZg5EiktvibjYJ_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
 
-Read the rest of the story [here](https://fakeraredirectory.com/la-faka-has-been-defeated/).
+Visitors can also scoop a VIP ticket to DJ Qbert for Wednesday evening. Get the tickets [here](https://scarce.city/sales/FOVRFNYC).
+
+The event ends with an auction party on Thursday featuring live bidding. Beer and food are included for frens.
+
+
+
+## FAKEBASEL auction in Basel, Switzerland
+
+June 14th, 2022 ; [source](https://twitter.com/fabooowy/status/1535409554271391745?s=20&t=FTy-b7BqfbfCxILHSAivMg)
+
+Story by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
+
+![FU5v7PJXEAYvxXb-output](https://user-images.githubusercontent.com/106767091/173697094-aa7c654b-c89c-43ee-a1b7-a4ecd8947fb0.gif)
+
+The FAKEBASEL frog gallery is happening from Wednesday 15th to Saturday 18th, June 2022, in [Parzelle403](https://www.parzelle403.ch/FAKE-BASEL), Basel. The exhibition features both physical and digital FAKE RARE goods, ready for auction.
+
+The auction is hosted by [Scarce.city](https://scarce.city/).
+
+You can check out the auctioned goodies [here](https://scarce.city/collections/fake-basel-22).
 
 
 
