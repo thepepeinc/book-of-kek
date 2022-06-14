@@ -7,7 +7,7 @@ description: >-
 
 # Fake Rares Card Specific Lore
 
-Fun fact: The legend has it that the cards in Series 0 of the Fake Rares were submitted for approval to be a part of the Rare Pepe collection but were not approved. While not all of them were scientifically denied - the rule was that each card had to be an older XCP asset and not part of any directory.
+> Fun fact: The legend has it that the cards in Series 0 of the Fake Rares were submitted for approval to be a part of the Rare Pepe collection but were not approved. While not all of them were scientifically denied - the rule was that each card had to be an older XCP asset and not part of any directory.
 
 Below you can find some more card specific lore:
 
@@ -41,6 +41,12 @@ The FAKETORCH, another community-created card… and the only 1 of 1 card in the
 
 Fake version of [MISSPEPE](https://pepe.wtf/asset/MISSPEPE), a Rare Pepe submitted back in the day. Both cards were made and submitted by the same artist - [Ffmad](https://pepe.wtf/artists/Ffmad). This MISSPEPEPUNK is an NFT teacher, who is specialized in "green ones". For each of the 100 cards, a unique profile picture will be associated in the near future.
 
+
+![FAKEWAX](https://user-images.githubusercontent.com/106767091/173689937-83e88c31-03f2-47bd-a7b9-5f48d57c12b7.jpg)
+
+[FAKEWAX](https://pepe.wtf/asset/FAKEWAX) - Series 4, Card 51, 1/150
+
+[FAKEWAX](https://pepe.wtf/asset/FAKEWAX) was the only 51st card in a series (as every other series has 50 cards). The artwork for the card was made by [Viva La Vandal](https://pepe.wtf/artists/Viva-La-Vandal). As all of Series 4 was an audio collection, what made the FAKEWAX card so special is the fact that holders of it could redeem an actual vinyl with all of the special content from the audio series.
 
 
 ![PEPEFICATION](../../.gitbook/assets/PEPEFICATION.gif)
