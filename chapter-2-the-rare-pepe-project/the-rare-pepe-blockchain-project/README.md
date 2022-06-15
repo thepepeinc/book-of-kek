@@ -1,6 +1,6 @@
 # The Rare Pepe Blockchain Project
 
-On September 9th, 2016 at 01:46:42 (UTC), history was made.
+**On September 9th, 2016 at 01:46:42 (UTC), history was made.**
 
 Verifiable [on the blockchain](https://www.blockchain.com/btc/block/428919), the first Rare Pepe, in digital form, with an integrated, transferable, immutable certificate of authenticity, was created.
 
