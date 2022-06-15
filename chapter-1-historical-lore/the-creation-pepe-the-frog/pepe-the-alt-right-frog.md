@@ -32,13 +32,13 @@ Unfortunately, for the majority of people, the alt-right’s use of Pepe just dr
 
 [Alex Jones](https://en.wikipedia.org/wiki/Alex\_Jones), host of the "Infowars" show, also loved referencing Pepe on-air.
 
-## Lord Kek & the country of Kekistan
+## Lord Kek & the Kingdom of Kekistan
 
 After some time, a 4chan user discovered an ancient Egyptian frog god called Kek. It became an instant hit.
 
 ![The Egyptian frog God Kek, "Feels Good Man" documentary](<../../.gitbook/assets/egyptian lord kek.png>)
 
-The word “kek” fit perfectly as it was used by gamers as a variation of “lel”, which was by itself a variation of “lol” or “laughing out loud”. It didn’t take long for some people to propose the idea of “Kekistan” - an imaginary country, a promised land for Pepes.
+The word “kek” fit perfectly as it was used by gamers as a variation of “lel”, which was by itself a variation of “lol” or “laughing out loud”. It didn’t take long for some people to propose the idea of “Kekistan” - an imaginary kingdom, a promised land for Pepes.
 
 At this time, rumors of Hilary Clinton being ill began circulating online and the 4chan community grabbed onto that. They would create memes of her being ill and in a weird way “manifest” for this to be a reality.
 
