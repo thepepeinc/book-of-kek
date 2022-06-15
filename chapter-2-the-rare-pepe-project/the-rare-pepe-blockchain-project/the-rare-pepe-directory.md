@@ -6,8 +6,6 @@ There are fraudulent Rare Pepes, imitations and tokens which are named to mimic 
 
 **If a Pepe isn’t listed on the directory, it isn’t Certified Rare.**
 
-**Submissions to the Rare Pepe Directory are closed for the foreseeable future.**
-
 Rare Pepe Scientists worked for years to certify exactly **1774 Rares** from dozens of artists around the world. After the certification was complete, it was time to close submissions and let the rareness bake into these amazing pieces of artwork.
 
 There were rules which had to be strictly adhered to when creating and submitting a new Rare Pepe for approval. The rules can still be found on the directory, but we're listing them below as well.
@@ -15,6 +13,10 @@ There were rules which had to be strictly adhered to when creating and submittin
 All Rare Pepes had to be issued on the Counterparty Protocol, include an “Asset Name” such as “RAREPEPE”, be 100% made up, rare and dank. Some of the cards had bonus content and in-game utility as well. Ultimately the rarity depends on artist, issuance, supply, collectability, cultural significance, and originality.
 
 > _“Submissions must be ORIGINAL. Our rareness quality team examines each Pepe for rareness. (no stealing!) Our experts understand that lots of Pepe’s borrow from each other to an extent, but try to add as much Original content as possible. Also make sure your Pepe is dank. Check latest submissions on the directory to compare.”_
+
+{% hint style="info" %}
+Submissions to the Rare Pepe Directory are closed for the foreseeable future.
+{% endhint %}
 
 ### Rare Pepes submission rules:
 
