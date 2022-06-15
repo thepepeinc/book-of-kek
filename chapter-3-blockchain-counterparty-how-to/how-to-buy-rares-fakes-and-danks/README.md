@@ -2,9 +2,9 @@
 
 The easiest way to buy the newest releases of Fake Rares and Fake Commons is via the [Drops page](https://pepe.wtf/drops) of pepe.wtf. You can stay tuned for future drop announcements via the [PepePawnShop Telegram Chat](https://t.me/PepePawnShop).
 
-There are numerous other ways to buy Rare Pepes, Fake Rares and Dank Rares via [dispensers](../dispensers-what-are-they-how-to-use-them.md), [marketplaces](../../resources.md#marketplaces) and auction houses like [Scarce.city](../scarce.city.md#scarce.city) with Bitcoin or other currencies such as [Pepe Cash](../what-is-pepecash.md) and XCP, or wrapped RPCs on the Ethereum Blockchain via the [Emblem Vault](../emblem-vault/) on OpenSea.&#x20;
+There are numerous other ways to buy Rare Pepes, Fake Rares and Dank Rares via [dispensers](../dispensers-what-are-they-how-to-use-them.md), [marketplaces](../../resources.md#marketplaces) and auction houses like [Scarce.city](../scarce.city.md#scarce.city), using Bitcoin or other currencies such as [Pepe Cash](../what-is-pepecash.md) and XCP, or wrapped RPCs on the Ethereum Blockchain via the [Emblem Vault](../emblem-vault/) on OpenSea.&#x20;
 
-The tutorial on the next page merely serves as an introductory approach to buying RPCs using [Rare Pepe Wallet](https://rarepepewallet.com/) and Xchain.
+The tutorial on the next page merely serves as an introductory approach to buying RPCs using [Rare Pepe Wallet](https://rarepepewallet.com/) and[ Xchain](https://xchain.io/).
 
 ### How to Buy Rare Pepes - Tutorials:
 

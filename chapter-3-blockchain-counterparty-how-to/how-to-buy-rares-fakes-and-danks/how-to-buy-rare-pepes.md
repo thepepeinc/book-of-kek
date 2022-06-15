@@ -1,6 +1,8 @@
-# How to buy Rare Pepes
+---
+description: Let’s get a Rare Pepe Card.
+---
 
-Let’s get a Rare Pepe Card.
+# How to buy Rare Pepes
 
 #### **Step 1:**
 
