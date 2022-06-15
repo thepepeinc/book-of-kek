@@ -8,7 +8,7 @@ description: Pepe.wtf, an all-in-one platform for everything Pepe.
 
 [Pepe.wtf](https://pepe.wtf/) is an all-in-one platform for Rare Pepes, Fare Rares and Dank Rares. It aims to be the center social hub of the Pepe community, providing easy-to-use tools for and frictionless Pepe exploring, buying or selling.
 
-![Pepe.wtf Homepage](<../.gitbook/assets/pepewtf homepage.png>)
+![Pepe.wtf Homepage](<../.gitbook/assets/Screen Shot 2022-06-14 at 9.08.46 PM.png>)
 
 ### Features
 
@@ -16,7 +16,7 @@ The platform wants to make the initial stages of the Pepe experience much easier
 
 The site also features a [Leaderboard](https://pepe.wtf/leaderboard) of all wallets carrying Pepe Cards, sorted by highest number of cards collected, with the current leader owning an impressive collection of 1667/1774 unique cards.
 
-It's built-in marketplace aggregator makes the world of Pepe much more digestible to even the greenest of Pepe enthusiasts.
+Its built-in marketplace aggregator makes the world of Pepe much more digestible to even the greenest of Pepe enthusiasts.
 
 ![Pepe.wtf improved the UX game for Pepes drastically](<../.gitbook/assets/Screenshot 2022-04-14 013607.png>)
 
