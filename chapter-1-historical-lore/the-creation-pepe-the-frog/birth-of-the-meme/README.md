@@ -1,14 +1,14 @@
 ---
-description: The "Feels Good Man" meme is bor
+description: The "Feels Good Man" meme is born.
 ---
 
 # Birth of The Meme
 
 Furie started posting his comics to his MySpace blog (voluntarily deleted since then) in a long series of posts surrounding the Boy's Club characters.
 
-Fans of the “Boy’s Club” comic also began uploading Furie's work online.
+Fans of the **Boy’s Club** comic also began uploading Furie's work online.
 
-One particular comic gained a lot of attention. In it, Pepe pulls his pants all the way down to pee and is spotted by his comic book buddy. Later when questioned about the weird habit by Landwolf he responds with: "Feels good, man."
+One particular comic gained a lot of attention. In it, Pepe pulls his pants all the way down to pee and is spotted by his comic book buddy. Later when questioned about the weird habit by Landwolf he responds with: "**Feels good, man."**
 
 ![The comic that started it all](<../../../.gitbook/assets/feelsgoodman og comic.jpg>)
 
