@@ -7,7 +7,7 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## Joe Looney joins Pepe Inc.
+## Joe Looney joins the Pepe Inc.
 
 June 13th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1536425389245054976?s=20\&t=K2hyFywQsHoWcpRxbNraVQ)
 
