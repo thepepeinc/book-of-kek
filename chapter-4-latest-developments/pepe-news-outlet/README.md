@@ -13,6 +13,10 @@ June 13th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/15364253
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
+OG Rare Pepe RPW creator Joe Looney joins Pepe.Inc full-time. He will be developing the Bitcoin/Counterparty ecosystem.&#x20;
+
+_Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch?v=A1y4CDOtvos\&ab\_channel=NFTCulture) _from August 31, 2021 check it out!_&#x20;
+
 {% embed url="https://twitter.com/wasthatawolf/status/1536434424560091141?s=20&t=K2hyFywQsHoWcpRxbNraVQ" %}
 The Beginning of a New Era
 {% endembed %}
