@@ -8,11 +8,11 @@ Part of the reason why Rare Pepes are so valuable is because they are **more dif
 
 ![In February 2017, Bitcointalk member American Pegasus purchased a "My Little Pepe" card for 1 million PEPECASH (approximately $3,500 at the time of sale).](<../../.gitbook/assets/my little pepe.jpg>)
 
-Pepe valuation is based on 3 factors:
+Pepe valuation comes from 3 sources:
 
-* Age (issuance date)
-* Rarity (supply)
-* Dankness (memetic power)
+* How old is the Rare Pepe
+* How rare is the Rare Pepe
+* How dank is the Rare Pepe
 
 ![The Pepe valuation triangle](../../.gitbook/assets/pepevalue.jpg)
 
