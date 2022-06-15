@@ -7,9 +7,19 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## Joe Looney joins Pepe Inc.
+
+June 13th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1536425389245054976?s=20\&t=K2hyFywQsHoWcpRxbNraVQ)
+
+Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+{% embed url="https://twitter.com/wasthatawolf/status/1536434424560091141?s=20&t=K2hyFywQsHoWcpRxbNraVQ" %}
+The Beginning of a New Era
+{% endembed %}
+
 ## FROGS > FIAT, [NFT.NYC](https://www.nft.nyc/) Edition
 
-June 14th, 2022 ; [source](https://twitter.com/ScrillaVentura/status/1536010933797003270?s=20\&t=Vdx1MxUGJEyQR3pv1OGQSQ)
+June 12th, 2022 ; [source](https://twitter.com/ScrillaVentura/status/1536010933797003270?s=20\&t=Vdx1MxUGJEyQR3pv1OGQSQ)
 
 Submitted by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 
@@ -27,7 +37,7 @@ The event ends with an auction party on Thursday featuring live bidding. Beer an
 
 ## FAKEBASEL Auction in Basel, Switzerland
 
-June 14th, 2022 ; [source](https://twitter.com/fabooowy/status/1535409554271391745?s=20\&t=FTy-b7BqfbfCxILHSAivMg)
+June 12th, 2022 ; [source](https://twitter.com/fabooowy/status/1535409554271391745?s=20\&t=FTy-b7BqfbfCxILHSAivMg)
 
 Submitted by: [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 
