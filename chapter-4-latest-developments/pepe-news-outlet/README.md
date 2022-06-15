@@ -21,6 +21,16 @@ _Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch
 The Beginning of a New Era
 {% endembed %}
 
+## Danks are now being dropped at Pepe.wtf
+
+June 13th, 2022 ; [source](https://twitter.com/DankDirectory/status/1536814235291996166?s=20\&t=aKfKhQq925gmK8uh\_-tbqg)
+
+Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+[Dank Rares](https://www.dankdirectory.io/) have been added to the [drops on Pepe.wtf](https://pepe.wtf/drops) starting with cards by [SteveWeave](https://pepe.wtf/artists/SteveWeave), [Regan](https://pepe.wtf/artists/Regan) and [Zoku](https://pepe.wtf/artists/Zoku). Let the dankness begin!
+
+{% embed url="https://twitter.com/DankDirectory/status/1536814235291996166?s=20&t=aKfKhQq925gmK8uh_-tbqg" %}
+
 ## FROGS > FIAT, [NFT.NYC](https://www.nft.nyc/) Edition
 
 June 12th, 2022 ; [source](https://twitter.com/ScrillaVentura/status/1536010933797003270?s=20\&t=Vdx1MxUGJEyQR3pv1OGQSQ)
