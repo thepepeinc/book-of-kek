@@ -23,3 +23,12 @@ The creators behind PepePawnShop are [@Vince\_Van\_Dough](https://twitter.com/Vi
 ![JLSoul.eth](<../../.gitbook/assets/Jlsoul1 pfp.png>) ![Vincent Van Dough](../../.gitbook/assets/FQP36jjXwAsmno8.png)
 
 The team will assist everyone settle their trades by offering a catered experience tailored to their needs, whether they are a seasoned Pepe collector or a first time buyer.
+
+**PepePawnShop core team members:**
+
+* @ApemanGo
+* @pepeguykek
+* @jujimufu
+* @GigaChadPepe
+* @JLSOUL1
+* @VincentVanDough&#x20;
