@@ -7,6 +7,12 @@ description: >-
 
 # Creator Onboarding to XCP
 
+{% hint style="warning" %}
+For this tutorial we will focus on creating a token using the [CounterWallet](../best-pepe-wallets.md#counterwallet) web version.
+
+If you are using the [Freewallet](../best-pepe-wallets.md#freewallet.io) desktop version, please follow this guide: [Creator Onboarding to XCP Freewallet Desktop](https://github.com/robotlovecoffee/xcponboarding/wiki/Creator:-Onboarding-to-XCP-Freewallet-Desktop) made by [RobotLoveCoffee](https://robotlovecoffee.io/).
+{% endhint %}
+
 ## Steps:
 
 {% content-ref url="1.-create-a-counterparty-xcp-wallet.md" %}
