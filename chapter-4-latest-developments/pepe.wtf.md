@@ -4,13 +4,13 @@ description: Pepe.wtf, an all-in-one platform for everything Pepe.
 
 # Pepe.wtf
 
-### What is [Pepe.wtf](https://pepe.wtf/)?
+## What is [Pepe.wtf](https://pepe.wtf/)?
 
 [Pepe.wtf](https://pepe.wtf/) is an all-in-one platform for Rare Pepes, Fare Rares and Dank Rares. It aims to be the center social hub of the Pepe community, providing easy-to-use tools for and frictionless Pepe exploring, buying or selling.
 
 ![Pepe.wtf Homepage](<../.gitbook/assets/Screen Shot 2022-06-14 at 9.08.46 PM.png>)
 
-### Features
+## Features
 
 The platform wants to make the initial stages of the Pepe experience much easier. You can [browse the site](https://pepe.wtf/catalogue) to find the best plays by series, but also by [Artists](https://pepe.wtf/artists) and [Sets](https://pepe.wtf/sets), a long-desired feature by the community.
 
@@ -26,7 +26,7 @@ Users can have a view of all the necessary data about Rares, Fakes or Danks from
 
 ![Activity tab for Rare Pepes](<../.gitbook/assets/Screenshot 2022-05-07 005434.png>)
 
-Activity tabs on [pepe.wtf](https://pepe.wtf) allow users to have a broader market overview. They show monthly total sales, volume and asset count, as well as a chronological list of sales that are happening on the market starting from the latest. Activity tabs are supported for [Rares](https://pepe.wtf/activity), [Fakes](https://pepe.wtf/new/activity/Fake-Rares) and [Danks](https://pepe.wtf/new/activity/Dank-Rares).
+**Activity tabs** on [pepe.wtf](https://pepe.wtf) allow users to have a broader market overview. They show monthly total sales, volume and asset count, as well as a chronological list of sales that are happening on the market starting from the latest. Activity tabs are supported for [Rares](https://pepe.wtf/activity), [Fakes](https://pepe.wtf/new/activity/Fake-Rares) and [Danks](https://pepe.wtf/new/activity/Dank-Rares).
 
 {% hint style="warning" %}
 As of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
@@ -34,11 +34,15 @@ As of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, bec
 
 ### Introducing: [**Drops**](https://pepe.wtf/drops)****
 
-Drops are a newly added feature that automated the purchasing of new released and by doing so, massively enriches the user experience on the platform. Now, Pepe gatherers can buy a newly released drop straight from the Pepe.wtf website.
+Drops are a newly added feature that automated the purchasing of new released and by doing so, massively enriches the user experience on the platform. Now, Pepe gatherers can buy a newly released drops straight from the Pepe.wtf website. You can stay tuned for future drop announcements via the [PepePawnShop Telegram Chat](https://t.me/PepePawnShop).
+
+![Drops on Pepe.wtf](<../.gitbook/assets/Screen Shot 2022-06-14 at 9.10.51 PM.png>)
 
 To kick things off, the first card on Drops was [DAWNOFHOPE](https://pepe.wtf/asset/DAWNOFHOPEPE) by [FourLeafClover](https://pepe.wtf/artists/FourLeafClover).
 
-### Pepe.wtf team
+![DAWNOFHOPEPE](../.gitbook/assets/DAWNOFHOPEPE.gif)
+
+## Pepe.wtf team
 
 Pepe.wtf is the brainchild of [@pepe](https://twitter.com/pepe) himself and [Carbono](https://carbono.com/).
 
