@@ -63,6 +63,10 @@ The auction is hosted by [Scarce.city](https://scarce.city/).
 
 You can check out the auctioned goodies [here](https://scarce.city/collections/fake-basel-22).
 
+{% embed url="https://twitter.com/ScrillaVentura/status/1537086856936017925?s=20&t=aKfKhQq925gmK8uh_-tbqg" %}
+FAKEBASEL
+{% endembed %}
+
 ![](<../../.gitbook/assets/2022-06-13 12.40.49.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.45.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.18.jpg>)
 
 ## La Faka Has Been Defeated
