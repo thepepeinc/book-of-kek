@@ -6,7 +6,7 @@ There are fraudulent Rare Pepes, imitations and tokens which are named to mimic 
 
 **If a Pepe isn’t listed on the directory, it isn’t Certified Rare.**
 
-Submissions to the Rare Pepe Directory are closed for the foreseeable future.
+**Submissions to the Rare Pepe Directory are closed for the foreseeable future.**
 
 Rare Pepe Scientists worked for years to certify exactly **1774 Rares** from dozens of artists around the world. After the certification was complete, it was time to close submissions and let the rareness bake into these amazing pieces of artwork.
 
