@@ -21,7 +21,7 @@ Also, [Pepe.wtf](https://t.co/7H2dOxwXNK) is showing them as PFPs in the leaderb
 
 Pepe.wtf will continue working and adding cool things to the 300 club. Hats off to the incredible work developed by [@TheNakasClub](https://twitter.com/TheNakasClub)!
 
-{% embed url="https://twitter.com/al_fernandz/status/1537397646415040514?s=20&t=c15c4QCZmsw3pyxSUBc6-Q" %}
+![](<../../.gitbook/assets/Screen Shot 2022-06-16 at 9.16.35 PM.png>) ![](../../.gitbook/assets/FVXtT\_NWAAAG3Vj.jpeg)
 
 ## Joe Looney joins the Pepe Inc.
 
