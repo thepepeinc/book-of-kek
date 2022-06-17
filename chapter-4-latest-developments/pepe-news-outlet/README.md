@@ -7,6 +7,20 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## Pepe.wtf added the 'Nakamotos 300 Club'
+
+June 16th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1537397646415040514?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
+
+Submitted by [@FeelsRareMan](https://twitter.com/FeelsRareMan)
+
+RAREPEPE (also known as the Nakamoto card) is the first NFT of the Rare Pepe collection, created in September 2016, with a supply of 300 cards. RAREPEPE is a museum piece, and it can now be collected as a pure NFT, numbered from 1 to 300 thanks to the parsing of the Bitcoin blockchain. For each ID, a unique "Nakamoto" PFP is associated.
+
+Also, [Pepe.wtf](https://t.co/7H2dOxwXNK) is showing them as PFPs in the leaderboard. Now the members of the 300 club have the place they deserve: [http://pepe.wtf/leaderboard](https://t.co/3ErD6pYeaH)
+
+Pepe.wtf will continue working and adding cool things to the 300 club. Hats off to the incredible work developed by [@TheNakasClub](https://twitter.com/TheNakasClub)!
+
+{% embed url="https://twitter.com/al_fernandz/status/1537397646415040514?s=20&t=c15c4QCZmsw3pyxSUBc6-Q" %}
+
 ## Joe Looney joins the Pepe Inc.
 
 June 13th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1536425389245054976?s=20\&t=K2hyFywQsHoWcpRxbNraVQ)
@@ -70,6 +84,16 @@ FAKEBASEL
 {% endembed %}
 
 ![](<../../.gitbook/assets/2022-06-13 12.40.49.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.45.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.18.jpg>)
+
+## [Deca.art](https://deca.art/) now supports all assets on Pepe.wtf
+
+June 6th, 2022 ; [source](https://twitter.com/0xDecaArt/status/1533932680517013504?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
+
+Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+PEPE IS UTILITY. The art curation platform [Deca.art](https://deca.art/) added support for Rare Pepes, Fake Rares, Fake Commons and Dank Rares on June 6th, 2022. Users can now create and curate their galleries to exhibit their frogs in all their glory!
+
+{% embed url="https://twitter.com/0xDecaArt/status/1533932680517013504?s=20&t=c15c4QCZmsw3pyxSUBc6-Q" %}
 
 ## La Faka Has Been Defeated
 
