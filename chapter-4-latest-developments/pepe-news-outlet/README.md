@@ -7,7 +7,7 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## Pepe.wtf added the 'Nakamotos 300 Club'
+## Pepe.wtf added the 'Nakamoto 300 Club'
 
 June 16th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1537397646415040514?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
 
