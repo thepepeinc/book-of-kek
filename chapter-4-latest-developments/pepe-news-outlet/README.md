@@ -13,6 +13,8 @@ June 16th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1537397646415
 
 Submitted by [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 
+**Nakamoto Cards get ID #s and companion PFPs**
+
 RAREPEPE (also known as the Nakamoto card) is the first NFT of the Rare Pepe collection, created in September 2016, with a supply of 300 cards. RAREPEPE is a museum piece, and it can now be collected as a pure NFT, numbered from 1 to 300 thanks to the parsing of the Bitcoin blockchain. For each ID, a unique "Nakamoto" PFP is associated.
 
 Also, [Pepe.wtf](https://t.co/7H2dOxwXNK) is showing them as PFPs in the leaderboard. Now the members of the 300 club have the place they deserve: [http://pepe.wtf/leaderboard](https://t.co/3ErD6pYeaH)
