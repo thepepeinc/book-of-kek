@@ -43,6 +43,8 @@ Starting on June 19th to 23rd, taking place in TriBeCa, 80 W Broadway, "FROGS > 
 
 Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20\&t=PKjaZg5EiktvibjYJ\_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
 
+![IRL Fake Rares dispenser at FROGS>FIAT NYC](<../../.gitbook/assets/Mint IRL Fakes.jpeg>)
+
 Visitors can also scoop a VIP ticket to DJ Qbert for Wednesday evening. Get the tickets [here](https://scarce.city/sales/FOVRFNYC).
 
 The event ends with an auction party on Thursday featuring live bidding. Beer and food are included for frens.
