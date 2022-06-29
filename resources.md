@@ -50,6 +50,7 @@ description: >-
 * [How to Use Emblem Vault](https://desktopcommando.medium.com/how-to-use-emblemvault-14ba241ca42a) - by DesktopCommando
 * [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58) - by DesktopCommando
 * [How to Move Rare Pepes from XCP to ETH with Emblem Vault](https://www.youtube.com/watch?v=S4gNPzLunjA\&ab\_channel=NFTgames) - by Gillies
+* [How to Crack an Emblem Vault](https://www.youtube.com/watch?v=y-VEZR8e2Ro\&ab\_channel=MELLOWMINING) - by Mellow Mining
 * [How to buy Rarepepe NFTs on OpenSea (2022 Full Buyer's Guide)](https://www.youtube.com/watch?v=in8dHrKRrlo\&ab\_channel=DANIELGOTHITS) - by DANIEL GOT HITS
 * [How to create a Counterparty asset dispenser on xchain.io using FreeWallet](https://subterranean.medium.com/how-to-create-a-counterparty-asset-dispenser-on-xchain-io-using-freewallet-70ebe5b3e62f) - by Subterranea
 
