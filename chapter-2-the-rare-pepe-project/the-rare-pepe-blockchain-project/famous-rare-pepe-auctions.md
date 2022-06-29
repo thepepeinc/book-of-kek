@@ -27,7 +27,7 @@ A [RAREPEPE](https://pepe.wtf/asset/RAREPEPE), 1 of 300 ever made, was scooped f
 
 However, the star of the show was definitely [HOMERPEPE](https://pepe.wtf/asset/HOMERPEPE), a 1 of 1 Rare Pepe card.
 
-![HOMERPEPE](../../.gitbook/assets/HOMERPEPE.jpg) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1) (1) (1).jpg>)
+![HOMERPEPE](../../.gitbook/assets/HOMERPEPE.jpg) ![RAREPEPE](../../.gitbook/assets/RAREPEPE.jpeg)
 
 The bidding started at 20,000 PEPECASH and quickly surpassed 100,000. The excitement rose and the bidding was down to two individuals.
 
@@ -41,7 +41,7 @@ Due to the excitement in the room, both individuals actually stood up to claim t
 
 In the end Peter Kell, an internet marketer and entrepreneur, became the proud owner of the HOMERPEPE card. People openly mocked Peter for this purchase but he knew what he had. Memes were art.
 
-![Peter Kell with his prize possession - HOMERPEPE](<../../.gitbook/assets/Screenshot 2022-03-27 202651.png>)
+![Peter Kell with his prize possession - HOMERPEPE](<../../.gitbook/assets/Screenshot 2022-03-27 202651 (1).png>)
 
 In March 2021, HOMERPEPE sold for 205ETH ($320,000 at the time). This event galvanized collectors, pushing Pepe into the NFT collective consciousness.
 
@@ -55,7 +55,7 @@ Later next month, on 7th of October, Sotheby’s official Twitter account [annou
 
 3 of the 53 showcased NFTs were Rare Pepes, auctioned by TokenAngles, an Italian collector active in the space since 2019 and the owner of the famous HOMERPEPE.
 
-![PEPEAIR](../../.gitbook/assets/PEPEAIR.png) ![PEPENOPOLOUS](../../.gitbook/assets/PEPENOPOULOS.jpg) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1) (1).jpg>)
+![PEPEAIR](../../.gitbook/assets/PEPEAIR.png) ![PEPENOPOLOUS](../../.gitbook/assets/PEPENOPOULOS.jpg) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1).jpg>)
 
 The 3 auctioned Pepes were: [RAREPEPE](https://pepe.wtf/asset/RAREPEPE) (the famous Nakamoto Card), [PEPENOPOLOUS](https://pepe.wtf/asset/PEPENOPOULOS) - a 1/1 Series 3 card and [PEPEAIR](https://pepe.wtf/asset/PEPEAIR) - a 1/100 Series 28 card. The auction lasted until the 26th of October.
 

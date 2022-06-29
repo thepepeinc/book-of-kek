@@ -22,4 +22,8 @@ _**Work in progress**_ - if you would like to [contribute](../../../how-to-contr
 
 **Series 1, Card 2 -** [**GOXPEPE**](https://pepe.wtf/asset/GOXPEPE) is in reference to Mark Karpelès who was the former CEO of the Bitcoin exchange Mt. GOX. You can learn more about him here: [https://en.wikipedia.org/wiki/Mark\_Karpel%C3%A8s](https://en.wikipedia.org/wiki/Mark\_Karpel%C3%A8s)
 
-## Series 1, Card 3 -
+## Series 1, Card 25 - PEPEVIAGRA
+
+![Original Image: Rokurokubi (long-necked monster) disguise](<../../../.gitbook/assets/S01 C25 - PEPEVIAGRA card and origcopy.jpg>)
+
+In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
