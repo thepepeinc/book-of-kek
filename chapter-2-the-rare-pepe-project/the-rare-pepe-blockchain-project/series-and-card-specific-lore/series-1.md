@@ -7,7 +7,7 @@ description: >-
 # Series 1
 
 {% hint style="info" %}
-_**Work in progress**_ - if you would like to [contribute](../../../how-to-contribute-to-the-book-of-kek.md) your card-specific story, send us an email titled **"BoK Edit Request"** to [wiki@pepe.wtf.](mailto:wiki@pepe.wtf?subject=BoK%20Edit%20Request)&#x20;
+_**Work in progress**_ - if you would like to contribute your card-specific story, please follow the steps in [how-to-contribute-to-the-book-of-kek.md](../../../how-to-contribute-to-the-book-of-kek.md "mention") or send us an email titled **"BoK Edit Request"** to [wiki@pepe.wtf.](mailto:wiki@pepe.wtf?subject=BoK%20Edit%20Request)&#x20;
 {% endhint %}
 
 ## Series 1, Card 1 - RAREPEPE
@@ -26,4 +26,4 @@ _**Work in progress**_ - if you would like to [contribute](../../../how-to-contr
 
 ![Original Image: Rokurokubi (long-necked monster) disguise](<../../../.gitbook/assets/S01 C25 - PEPEVIAGRA card and origcopy.jpg>)
 
-In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
+Series 1 Card 25 - [PEPEVIAGRA](https://pepe.wtf/asset/PEPEVIAGRA). In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
