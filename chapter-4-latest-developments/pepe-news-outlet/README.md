@@ -7,6 +7,28 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## VVD announces curated Fake Rares Series 8
+
+June 29th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1541599342590537729?s=20\&t=7HfJZNSzMPqx7GJxIL\_EvQ)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+On June 27th, 2022, the famed NFT collector VincentVanDough announced the release date and lineup of the highly-anticipated Fake Rares Series 8, curated by VVD himself and featuring an incredible lineup of some of the most acclaimed NFT artists of our time.&#x20;
+
+According to VVD, Series 8 will launch on July 1st and will last most of the month. Dropping 2 cards per day on [https://pepe.wtf/drops](https://pepe.wtf/drops), Monday to Saturday, taking Sundays off.
+
+{% embed url="https://twitter.com/Vince_Van_Dough/status/1541599342590537729?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
+
+The announcement was quickly followed by two promo videos, made by Fake Rare artists [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD) & [@viva\_la\_vandal](https://twitter.com/viva\_la\_vandal), including a more detailed schedule and only adding to the anticipation felt by the whole of the Pepe community.
+
+{% embed url="https://twitter.com/Vince_Van_Dough/status/1541869455646392320?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
+Promo video by [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD)
+{% endembed %}
+
+{% embed url="https://twitter.com/Vince_Van_Dough/status/1542230932425306112?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
+Promo video by [@viva\_la\_vandal](https://twitter.com/viva\_la\_vandal)
+{% endembed %}
+
 ## Pepe.wtf added the 'Nakamoto 300 Club'
 
 June 16th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1537397646415040514?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
