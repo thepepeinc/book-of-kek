@@ -7,49 +7,53 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## A new and improved look for pepe.wtf and Matt Kane's Notkamoto Card
+## A new and improved look for pepe.wtf
 
-July 7th, 2022 ; [source](https://twitter.com/al_fernandz/status/1542861523764248579?s=20&t=yUZ5WGFd0_JS5-WPbF7gsQ)
+July 7th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1542861523764248579?s=20\&t=yUZ5WGFd0\_JS5-WPbF7gsQ)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collective collections of Fake Rares, Dank Rares and Fake Commons. 
+On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collective collections of Fake Rares, Dank Rares and Fake Commons.&#x20;
 
 {% embed url="https://twitter.com/al_fernandz/status/1542861523764248579?s=20&t=yUZ5WGFd0_JS5-WPbF7gsQ" %}
 
-Although OG RarePepes will always be a focal point on the site, the team behind pepe.wtf believe that this new central location (for all collections) will only help streamline the learning experience for anyone starting their journey into the Pepeverse (especially through aspects like curated news, history, and the Book of Kek). 
+Although OG RarePepes will always be a focal point on the site, the team behind pepe.wtf believe that this new central location (for all collections) will only help streamline the learning experience for anyone starting their journey into the Pepeverse (especially through aspects like curated news, history, and the Book of Kek).
 
-Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna_Lu_Arts](https://twitter.com/Luna_Lu_Arts) for their collective time and effort to build this elegant new home. 
+Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna\_Lu\_Arts](https://twitter.com/Luna\_Lu\_Arts) for their collective time and effort to build this elegant new home.&#x20;
 
-**Matt Kane: The Notkamoto Card**
+## Matt Kane's NOTKAMOTO card launches S8 of Fake Rares
 
-[![s97ayq-image.jpg](https://i.postimg.cc/05zxP0jm/s97ayq-image.jpg)](https://postimg.cc/0r1hCmp2) 
+July 1st, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1542964638450479104?s=20\&t=U2PT7wtbkflif8EHXwelZQ)
 
-As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016. 
+Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince_Van_Dough) 
+[![s97ayq-image.jpg](https://i.postimg.cc/05zxP0jm/s97ayq-image.jpg)](https://postimg.cc/0r1hCmp2)
+
+As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016.&#x20;
+
+Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince\_Van\_Dough)&#x20;
 
 **About the artist:**
 
-As referenced on the [official Notkamoto site](https://notkamotos.club/), Kane is known for using custom generative software to digitally paint master copies of original masterpieces. 
+As referenced on the [official Notkamoto site](https://notkamotos.club/), Kane is known for using custom generative software to digitally paint master copies of original masterpieces.
 
-However, with NOTKAMOTO he challenges the standard practice of the master copy genre by applying his unique designs - a stylistic practice that started in 2006, three years before the advent of Bitcoin and when he just began programming. 
+However, with NOTKAMOTO he challenges the standard practice of the master copy genre by applying his unique designs - a stylistic practice that started in 2006, three years before the advent of Bitcoin and when he just began programming.
 
->*“The most compelling brushstrokes to consider emulating in this new paradigm has less to do with image, more to do with honoring the culture, memes, exhibition history, provenance, market, technology, and general context that surround a masterpiece NFT.”* - Kane 
+> _“The most compelling brushstrokes to consider emulating in this new paradigm has less to do with image, more to do with honoring the culture, memes, exhibition history, provenance, market, technology, and general context that surround a masterpiece NFT.”_ - Kane
 
 **Community Initiative:**
 
-[As mentioned on Twitter](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20&t=NrD6EAPHU7POOtTr6MvDNQ), 69 patronage editions will shortly become available on a dispenser for 1 BTC each. To become eligible for a NOTKAMOTO, Kanes has detailed the process and conditions [here](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20&t=NrD6EAPHU7POOtTr6MvDNQ): 
+[As mentioned on Twitter](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ), 69 patronage editions will shortly become available on a dispenser for 1 BTC each. To become eligible for a NOTKAMOTO, Kanes has detailed the process and conditions [here](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ):&#x20;
 
 {% embed url="https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20&t=NrD6EAPHU7POOtTr6MvDNQ" %}
 
-Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](discord.gg/gazers) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO. 
+Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](discord.gg/gazers/) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO.&#x20;
 
 Ultimately, while the original RAREPEPE Nakamoto card served as the progenitor of the [CryptoArt movement](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), Notkamoto by Kanes is a shining example of a work that reflects the current state of digital craftsmanship and dank culture.
 
 **Official Links:**
 
-[Matt Kane Website](https://mattkane.com/) 
+[Matt Kane Website](https://mattkane.com/)
 
 [Twitter](https://twitter.com/mattkaneartist)
 
@@ -67,7 +71,7 @@ June 29th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/15415993
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-On June 27th, 2022, the famed NFT collector VincentVanDough announced the release date and lineup of the highly-anticipated Fake Rares Series 8, curated by VVD himself and featuring an incredible lineup of some of the most acclaimed NFT artists of our time.&#x20;
+On June 27th, 2022, the famed NFT collector VincentVanDough announced the release date and lineup of the highly-anticipated Fake Rares Series 8, curated by VVD himself and featuring an incredible lineup of some of the most acclaimed NFT artists of our time.
 
 According to VVD, Series 8 will launch on July 1st and will last most of the month. Dropping 2 cards per day on [https://pepe.wtf/drops](https://pepe.wtf/drops), Monday to Saturday, taking Sundays off.
 
@@ -107,7 +111,7 @@ Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 OG Rare Pepe RPW creator Joe Looney joins Pepe.Inc full-time. He will be focusing on developing the Bitcoin/Counterparty ecosystem!
 
-_Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch?v=A1y4CDOtvos\&ab\_channel=NFTCulture) _from August 31, 2021 check it out!_&#x20;
+_Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch?v=A1y4CDOtvos\&ab\_channel=NFTCulture) _from August 31, 2021 check it out!_
 
 {% embed url="https://twitter.com/wasthatawolf/status/1536434424560091141?s=20&t=K2hyFywQsHoWcpRxbNraVQ" %}
 The Beginning of a New Era
@@ -183,11 +187,11 @@ Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 ### How it all Began
 
-On September 21 2021, [Rare Scrilla](https://pepe.wtf/artists/Rare-Scrilla) was banned from the [Rare Pepe Trading Telegram](https://t.me/joinchat/QJdrG2ehHAfk5lKw) group for violating the number one rule: you can only share Official Rare Pepes in the Rare Pepe Trading Group. Rare Scrilla shared a Fake Rare that was rejected from the directory in 2018. You see, Scrilla had just rediscovered the fake in his wallet, so he figured he’d share it in the chat and give a few away to people who shared their addresses. He was quickly banned from the chat, so he decided to spin up a new chat and subsequent directory called Fake Rares. The [new chat](https://t.me/OFFICIALFAKERARES) quickly filled up, and Scrilla offered the FREEDOMKEK card – the fake that got him fake banned in the first place – to anyone who shared the card in the Rare Pepe chat.&#x20;
+On September 21 2021, [Rare Scrilla](https://pepe.wtf/artists/Rare-Scrilla) was banned from the [Rare Pepe Trading Telegram](https://t.me/joinchat/QJdrG2ehHAfk5lKw) group for violating the number one rule: you can only share Official Rare Pepes in the Rare Pepe Trading Group. Rare Scrilla shared a Fake Rare that was rejected from the directory in 2018. You see, Scrilla had just rediscovered the fake in his wallet, so he figured he’d share it in the chat and give a few away to people who shared their addresses. He was quickly banned from the chat, so he decided to spin up a new chat and subsequent directory called Fake Rares. The [new chat](https://t.me/OFFICIALFAKERARES) quickly filled up, and Scrilla offered the FREEDOMKEK card – the fake that got him fake banned in the first place – to anyone who shared the card in the Rare Pepe chat.
 
 It was a “Proof of Ban” card and thus became the first card in the Fake Rare directory. Series 0, Card 1. The Rare Pepe administrators eventually unbanned Scrilla and even participated in the new Fake Rares community, and the rest has been written on the blockchain.
 
-### The Faka Nostra Holdup&#x20;
+### The Faka Nostra Holdup
 
 Scrilla was having difficulties managing the website, so he recruited the Austrian Connect and his wife take over that shit. He was sorting through hundreds of submissions using a proton mail account, which is garbage even if you know how to use email. Scrilla is first and foremost, an artist and musician… the technical stuff… not his forte. He needed a Queen of Cards to help curate the collection and a Meme Lord Tech Guru to elevate the website and keep the chat fakeasf. Enter [Fake Annie](https://pepe.wtf/artists/Fake-Annie) and [Indelible](https://pepe.wtf/artists/Indelible). Shit ran smooth for maybe a week, but ultimately, they were hacked by a team of Eastern European gangstas – the squad called themselves [La Faka Nostra](https://twitter.com/LaFakaNostra) – around Series 2. They threatened the team, stole their memes and overtook the chat… they had DJPEPE at gun point and made him give up password access to Fakes.
 
