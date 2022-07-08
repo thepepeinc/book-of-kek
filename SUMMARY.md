@@ -34,6 +34,7 @@
     * [Series 17](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-17.md)
     * [Series 23](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-23.md)
   * [Famous Rare Pepe auctions](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-auctions.md)
+  * [Artists & Collectors Interviews](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md)
   * [“The Rarest Book” by Eleonora Brizi](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)
 * [Fake Rares & Dank Rares](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/README.md)
   * [Fake Rare Artists](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rare-artists.md)
