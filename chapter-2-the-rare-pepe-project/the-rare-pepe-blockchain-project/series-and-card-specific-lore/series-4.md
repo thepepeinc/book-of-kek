@@ -14,9 +14,9 @@ description: >-
 
 ## Series 4, Card 15 - UNLUCKYPEPE
 
-![](<../../../.gitbook/assets/S04 C15 - UNLUCKYPEPE card and source.jpg>)
+****![](../../../.gitbook/assets/UNLUCKYPEPE.gif)****
 
-Series 4, Card 15 - UNLUCKYPEPE was created by the mysterious artist known only as "Dan Dark Pill" who has since removed his account from Twitter. Dan created some of the most valuable Rare Pepe cards in existence including two 1 of 1 cards - ONLYONEPEPE and REDPUTINPEPE. He also created a whole series of fine art parody pieces, the Putin Series, and the extremely rare 1 of 29 card DARKPILLPEPE.&#x20;
+**Series 4, Card 15 -** [**UNLUCKYPEPE**](https://pepe.wtf/asset/UNLUCKYPEPE) **** was created by the mysterious artist known only as "[Dan Dark Pill](https://pepe.wtf/artists/DanDarkPill)" who has since removed his account from Twitter. Dan created some of the most valuable Rare Pepe cards in existence including two 1 of 1 cards - [ONLYONEPEPE](https://pepe.wtf/asset/ONLYONEPEPE) and [REDPUTINPEPE](https://pepe.wtf/asset/REDPUTINPEPE). He also created a whole series of fine art parody pieces, the Putin Series, and the extremely rare 1 of 29 card [DARKPILLPEPE](https://pepe.wtf/asset/DARKPILLPEPE).&#x20;
 
 The source image is a 10 year old meme known as "[Bad Luck Brian](https://knowyourmeme.com/memes/bad-luck-brian)" which has been used for years on redit for jokes relating to bad news.
 

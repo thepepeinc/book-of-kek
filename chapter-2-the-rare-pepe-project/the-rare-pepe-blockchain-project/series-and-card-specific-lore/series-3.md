@@ -1,7 +1,13 @@
+---
+description: >-
+  Further reading about the references made in Series 3, Cards 1-50 as well as
+  links & original images (if available).
+---
+
 # Series 3
 
 ## Series 3, Card 4 - BOMINABLPEPE
 
 ![](<../../../.gitbook/assets/S03 C04 - BOMINABLPEPE card and source.jpg>)
 
-BOMINABLPEPE was created by an unknown artist who also created the cards EYEOFTHEPEPE and TSUPEPE. The source image as created by the artist [Bobby Chiu](https://www.imaginismstudios.com/bobby-chiu) of [Imaginism Studios](https://www.imaginismstudios.com/). The image is untitled, and I'm not sure how the Rare Pepe artist came across it because as far as I can tell, it was not published anywhere except for the above linked bio page. Bobby one of three character designers credited for Tim Burton's Alice in Wonderland. &#x20;
+**Series 3, Card 4 -** [**BOMINABLPEPE**](https://pepe.wtf/asset/BOMINABLPEPE) was created by an unknown artist who also created the cards [EYEOFTHEPEPE](https://pepe.wtf/asset/EYEOFTHEPEPE) and [TSUPEPE](https://pepe.wtf/asset/TSUPEPE). The source image as created by the artist [Bobby Chiu](https://www.imaginismstudios.com/bobby-chiu) of [Imaginism Studios](https://www.imaginismstudios.com/). The image is untitled, and it is unsure how the Rare Pepe artist came across it because it wasn't published anywhere except for the above linked bio page of Bobby Chiu. Bobby is one of three character designers credited for Tim Burton's Alice in Wonderland. &#x20;

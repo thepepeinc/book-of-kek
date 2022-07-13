@@ -26,9 +26,9 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 ![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source.jpg>)
 
-GURUPEPE was created by artist, auctioneer extraordinaire, and all around good guy [Theo Goodman](https://twitter.com/theog\_\_). He also created the Series 1 cards PEPENATION, KEISERPEPE, HYIPPEPE, and PONZIPEPE along with several other great cards such as EGGPLANTPEPE and GROYPERMONKY.
+**Series 1, Card 14 -** [**GURUPEPE**](https://pepe.wtf/asset/GURUPEPE) was created by artist, auctioneer extraordinaire, and all around good guy [Theo Goodman](https://twitter.com/theog\_\_). He also created the Series 1 cards [PEPENATION](https://pepe.wtf/asset/PEPENATION), [KEISERPEPE](https://pepe.wtf/asset/KEISERPEPE), [HYIPPEPE](https://pepe.wtf/asset/HYIPPEPE), and [PONZIPEPE](https://pepe.wtf/asset/PONZIPEPE) along with several other great cards such as [EGGPLANTPEPE](https://pepe.wtf/asset/EGGPLANTPEPE) and [GROYPERMONKY](https://pepe.wtf/asset/GROYPERMONKY).
 
-When I was researching the card, I posed the question "who is displayed in GURUPEPE" to Theo, when Rare Pepe OG [Shawn Leary](https://counterparty.io/team/shawn-leary/) jumped in with the now infamous quote, "I know I'm right, i'm a retired rare pepe scientist." I should have known better than to question [Shawn](https://twitter.com/shawnleary)!&#x20;
+When researching the card, I asked the question "who is displayed in GURUPEPE?" to Theo, when Rare Pepe OG [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary) jumped in with the now infamous quote, "I know I'm right. I'm a retired rare pepe scientist." I should have known better than to question [Shawn](https://twitter.com/shawnleary)!&#x20;
 
 ![](<../../../.gitbook/assets/GURUPEPE edit.png>)
 
@@ -36,4 +36,4 @@ When I was researching the card, I posed the question "who is displayed in GURUP
 
 ![Original Image: Rokurokubi (long-necked monster) disguise](<../../../.gitbook/assets/S01 C25 - PEPEVIAGRA card and origcopy.jpg>)
 
-Series 1 Card 25 - [PEPEVIAGRA](https://pepe.wtf/asset/PEPEVIAGRA). In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
+**Series 1 Card 25 -** [**PEPEVIAGRA**](https://pepe.wtf/asset/PEPEVIAGRA). In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
