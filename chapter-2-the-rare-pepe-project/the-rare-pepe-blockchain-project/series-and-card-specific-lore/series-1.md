@@ -22,6 +22,16 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 **Series 1, Card 2 -** [**GOXPEPE**](https://pepe.wtf/asset/GOXPEPE) is in reference to Mark Karpelès who was the former CEO of the Bitcoin exchange Mt. GOX. You can learn more about him here: [https://en.wikipedia.org/wiki/Mark\_Karpel%C3%A8s](https://en.wikipedia.org/wiki/Mark\_Karpel%C3%A8s)
 
+## Series 1, Card 14 - GURUPEPE
+
+![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source.jpg>)
+
+GURUPEPE was created by artist, auctioneer extraordinaire, and all around good guy [Theo Goodman](https://twitter.com/theog\_\_). He also created the Series 1 cards PEPENATION, KEISERPEPE, HYIPPEPE, and PONZIPEPE along with several other great cards such as EGGPLANTPEPE and GROYPERMONKY.
+
+When I was researching the card, I posed the question "who is displayed in GURUPEPE" to Theo, when Rare Pepe OG [Shawn Leary](https://counterparty.io/team/shawn-leary/) jumped in with the now infamous quote, "I know I'm right, i'm a retired rare pepe scientist." I should have known better than to question [Shawn](https://twitter.com/shawnleary)!&#x20;
+
+![](<../../../.gitbook/assets/GURUPEPE edit.png>)
+
 ## Series 1, Card 25 - PEPEVIAGRA
 
 ![Original Image: Rokurokubi (long-necked monster) disguise](<../../../.gitbook/assets/S01 C25 - PEPEVIAGRA card and origcopy.jpg>)
