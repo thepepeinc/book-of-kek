@@ -45,7 +45,7 @@ Some of most valuable cards include the [Nakamoto RAREPEPE](http://rarepepedirec
 
 ![RAREPEPE](../../../.gitbook/assets/RAREPEPE.png)
 
-* ****[**GOXPEPE**](https://pepe.wtf/asset/GOXPEPE) **** (Series 1, Card 2, 1/1,500)
+* ****[**GOXPEPE**](https://pepe.wtf/asset/GOXPEPE) **** (Series 1, Card 2, 1/1,500) was created by "Mike", the same person who started the whole Rare Pepe project when he released the above RAREPEPE card. Find more information about GOXPEPE in [series-1.md](series-1.md "mention").
 
 ![GOXPEPE](<../../../.gitbook/assets/S01 C02 - GOXPEPE.jpg>)
 
