@@ -127,7 +127,7 @@ Interview with RareScrilla, the creator of DJPEPE
 * [**LUKEJRPEPE**](https://pepe.wtf/asset/LUKEJRPEPE) (Series 21, Card 7, 1/500)\
   [Luke-Jr](https://twitter.com/LukeDashjr) is also a longtime Bitcoin Core contributor. He is known to be a very devout Catholic.
 
-![LUKEJRPEPE](../../../.gitbook/assets/LUKEJRPEPE.jpeg)
+![LUKEJRPEPE](<../../../.gitbook/assets/LUKEJRPEPE (1).jpeg>)
 
 * ****[**YELLPEPE**](https://pepe.wtf/asset/YELLPEPE) (Series 30, Card 3, 1/2,600)\
   On June 21, 2017 the late Rare Pepe artist Nathan Carson, also known as [@streetarthustle](https://twitter.com/streetarthustle), was in a crowded classroom when he was dared by members of the Rare Pepe Blockchain Trading Group to scream “PEPE!!” loudly. [He recorded this](https://youtu.be/UH7x6CUa2XQ), and it was immortalized into the series 30 card YELLPEPE.

@@ -19,7 +19,7 @@ On September 21 2021, [Rare Scrilla](https://pepe.wtf/artists/Rare-Scrilla) was 
 
 It was a “Proof of Ban” card and thus became the first card in the Fake Rare directory. Series 0, Card 1. The Rare Pepe administrators eventually unbanned Scrilla and even participated in the new Fake Rares community, and the rest has been written on the blockchain. Read the rest of the story [here](https://fakeraredirectory.com/la-faka-has-been-defeated/).
 
-![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1).gif>)
+![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1) (1).gif>)
 
 [FAKEASF](https://pepe.wtf/asset/FAKEASF) - Series 1, Card 1, 1/1,656
 

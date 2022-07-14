@@ -183,7 +183,7 @@ May 26th, 2022 ; [source](https://fakeraredirectory.com/la-faka-has-been-defeate
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-![LAFAKADEMISE](<../../.gitbook/assets/LAFAKADEMISE (1).jpeg>)
+![LAFAKADEMISE](../../.gitbook/assets/LAFAKADEMISE.jpeg)
 
 ### How it all Began
 
