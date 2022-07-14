@@ -30,11 +30,21 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 ## Series 1, Card 10 - STILLPEPE
 
-![](<../../../.gitbook/assets/S01 C10 - STILLPEPE card and source.jpg>)
+![Screen Capture from the "Still D.R.E." Music Video](<../../../.gitbook/assets/S01 C10 - STILLPEPE card and source.jpg>)
+
+[STILLPEPE](https://pepe.wtf/asset/STILLPEPE) was created by [Joe Looney](https://twitter.com/wasthatawolf). Not only did Joe create 13 amazing Rare Pepe cards including [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY), [IMWITHPEPE](https://pepe.wtf/asset/IMWITHPEPE), [PEPEGOTCHI](https://pepe.wtf/asset/PEPEGOTCHI), and [BADHAIRDAY](https://pepe.wtf/asset/BADHAIRDAY) he wrote the Rarepepe wallet software purely to benefit fans of Rare Pepe's. [Here](https://medium.com/@rareartlabs/rareaf-talks-joe-looney-rare-pepe-wallet-db309924c72b) is a Medium article where Joe was interviewed by R.A.R.E Art Labs about the RPW.
+
+The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop\_Dogg) and [Dr. Dre](https://en.wikipedia.org/wiki/Dr.\_Dre). A link to the video on YouTube is below.
 
 
 
 {% embed url="https://youtu.be/_CL6n0FJZpk" %}
+
+## Series 1, Card 7 - PEPEPARTY
+
+![](<../../../.gitbook/assets/S01 C07 - PEPEPARTY card and source.jpg>)
+
+**Series 1, Card 7 -** [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY) was another masterpiece created by Joe Looney (see STILLPEPE for further information about Joe). The card depicts three Counterparty developers who I believe are [Matt Elias](https://counterparty.io/team/matt-elias/) (Top Left) [Matt Young ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepe's and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
 
 ## Series 1, Card 14 - GURUPEPE
 
@@ -48,8 +58,28 @@ The man pictured on the card is Vinay Gupta, Co-Founder of Ethereum. As Theo put
 
 ![](<../../../.gitbook/assets/GURUPEPE edit.png>)
 
+## Series 1, Card 22 - DAOPEPEHACK
+
+![](<../../../.gitbook/assets/S01 C22 - DAOPEPEHACK card and source.jpg>)
+
+**Series 1, Card 22 -** [DAOPEPEHACK](https://pepe.wtf/asset/DAOPEPEHACK) was created by [Héctor Cárdenas](https://twitter.com/hcarpach). He also created [HARDPEPEFORK](https://pepe.wtf/asset/HARDPEPEFORK), [PEPEMINING](https://pepe.wtf/asset/PEPEMINING), and [RARECHAVEZ](https://pepe.wtf/asset/RARECHAVEZ). The person depicted in the card is [Stephan Tual](https://www.crunchbase.com/person/stephan-tual), the CCO of the Ethereum Foundation at the time of the first major hack on any blockchain entitled the [DAO Hack](https://en.wikipedia.org/wiki/The\_DAO\_\(organization\)) which ultimately split the Ethereum community into two camps - those that believed the blockchain should be rolled back to the pre-hack state and those that did not. This resulted in the formation of ETC or Ethereum Classic. [Here](https://medium.com/decentralize-today/q-a-stephan-tual-former-cco-of-ethereum-and-founder-of-slock-it-the-dao-cf934fe28a4c) is an interview with Stephan that was done on Medium by Ameer Rosic.&#x20;
+
+## Series 1, Card 24 - PEPEONECOIN
+
+![](<../../../.gitbook/assets/S01 C24 - PEPEONECOIN card and source.jpg>)
+
+**Series 1, Card 24 -** [PEPEONECOIN](https://pepe.wtf/asset/PEPEONECOIN) was created by [DanDarkPill](https://pepe.wtf/artists/DanDarkPill). Dan created 7 series 1 cards, the 6 card "Putin Set" and 7 card "Rare Pepe History of Art Series Set" along with several other very memorable cards in the set before deleting his Twitter profile and disappearing from the public eye.&#x20;
+
+The person depicted in the card is [Ruji Ignatova](https://en.wikipedia.org/wiki/Ruja\_Ignatova) the founder of the OnceCoin Ponzi scheme. She was recently added to the [FBI's top 10 most wanted list](https://www.fbi.gov/wanted/topten/ruja-ignatova/@@download.pdf). Once known as the "cryptoqueen" Ignatova has been missing since 2017. She is wanted for defrauding victims out of more than 4 billion dollars. [Here](https://briefly.co.za/105908-ruja-ignatova-where-founder-ponzi-scheme-onecoin.html) is some further reading about Ignatova.
+
 ## Series 1, Card 25 - PEPEVIAGRA
 
 ![Original Image: Rokurokubi (long-necked monster) disguise](<../../../.gitbook/assets/S01 C25 - PEPEVIAGRA card and origcopy.jpg>)
 
-**Series 1 Card 25 -** [**PEPEVIAGRA**](https://pepe.wtf/asset/PEPEVIAGRA). In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 an unknown artist took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
+**Series 1 Card 25 -** [**PEPEVIAGRA**](https://pepe.wtf/asset/PEPEVIAGRA) **** was created by [DanDarkPill](https://pepe.wtf/artists/DanDarkPill). In the mid-1840s, ukiyo-e master [Utagawa Kuniyoshi](http://en.wikipedia.org/wiki/Utagawa\_Kuniyoshi) (1797-1861) created a number of woodblock prints showing legendary [tanuki](http://en.wikipedia.org/wiki/Tanuki) (raccoon dogs) using their humorously large scrota in creative ways. You can view them [here](http://pinktentacle.com/2009/06/all-purpose-tanuki-testicles-prints-by-kuniyoshi/). In 2016 Dan took it upon himself to update Kuniyoshi's image by turning the Rokurokubi into a Pepe and the wielder of the monster a Wojak.&#x20;
+
+## Series 1, Card 26 - PEPEGUN
+
+![](<../../../.gitbook/assets/S01 C26 - PEPEGUN card and source.jpg>)
+
+**Series1, Card 26 -** [PEPEGUN](https://pepe.wtf/asset/PEPEGUN) is another [DanDarkPil](https://pepe.wtf/artists/DanDarkPill)l creation. The card is a depiction of the then [Cornell University](https://www.cornell.edu/) Associate Professor [Emin Gün Sirer](https://www.cs.cornell.edu/people/egs/). He is a former [IC3](https://www.ic3.gov/) Co-Director, and the founder of [Ava Labs](https://www.avalabs.org/).
