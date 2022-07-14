@@ -41,7 +41,9 @@ Some of most valuable cards include the [Nakamoto RAREPEPE](http://rarepepedirec
 ## Famous Rare Pepe cards:
 
 * ****[**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) **** (Series 1, Card 1, 1/300)\
-  ****The first Rare Pepe ever attached to the Bitcoin blockchain. The Rare Pepe that started it all and the most iconic in the collection. The creator, known only as Mike, planted the seed for all of tokenized cryptoart and subsequently NFTs, with this card. There was no marketplace, there was no community of crypto artists and collectors, there was no plan to make an 18 month run of cards. He simply posted the image in a telegram chat and named it using the XCP protocol. It is based upon Dorian Satoshi Nakamoto, an elderly man [misidentified by Newsweek magazine](https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html) in 2014 as Satoshi Nakamoto, the anonymous creator of Bitcoin. Ownership of the Nakamoto Card gains you access to the very exclusive 300 Club.
+  ****The first Rare Pepe ever attached to the Bitcoin blockchain. The Rare Pepe that started it all and the most iconic in the collection. The creator, known only as Mike, planted the seed for all of tokenized cryptoart and subsequently NFTs, with this card. There was no marketplace, there was no community of crypto artists and collectors, there was no plan to make an 18 month run of cards. He simply posted the image in a telegram chat and named it using the XCP protocol. It is based upon Dorian Satoshi Nakamoto, an elderly man [misidentified by Newsweek magazine](https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html) in 2014 as Satoshi Nakamoto, the anonymous creator of Bitcoin. Ownership of the Nakamoto Card gains you access to the very exclusive 300 Club.&#x20;
+
+Find more information about RAREPEPE in [series-1.md](series-1.md "mention").
 
 ![RAREPEPE](../../../.gitbook/assets/RAREPEPE.png)
 
