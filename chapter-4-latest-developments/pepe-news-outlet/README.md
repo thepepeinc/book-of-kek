@@ -7,13 +7,30 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## Welcome to the FAKEVERSE
+
+July 28th, 2022 ; [source](https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A)
+
+Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
+
+On the 19th of July, [AL Fernandz](https://twitter.com/al_fernandz?s=20&t=EFVnMu0qbGu-_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 FakeRare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough). 
+
+{% embed url="https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A" %}
+
+Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
+
+> _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
+
+[![1p8c4l-image.gif](https://i.postimg.cc/yNdbLLsB/1p8c4l-image.gif)](https://postimg.cc/TKz0wqKH)
+
+
 ## A new and improved look for pepe.wtf
 
 July 7th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1542861523764248579?s=20\&t=yUZ5WGFd0\_JS5-WPbF7gsQ)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collective collections of Fake Rares, Dank Rares and Fake Commons.&#x20;
+On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collections of Fake Rares, Dank Rares and Fake Commons.&#x20;
 
 {% embed url="https://twitter.com/al_fernandz/status/1542861523764248579?s=20&t=yUZ5WGFd0_JS5-WPbF7gsQ" %}
 
