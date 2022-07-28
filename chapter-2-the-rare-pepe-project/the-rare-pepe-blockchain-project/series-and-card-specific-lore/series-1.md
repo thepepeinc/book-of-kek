@@ -48,7 +48,7 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 ## Series 1, Card 14 - GURUPEPE
 
-![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source (1).jpg>)
+![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source.jpg>)
 
 **Series 1, Card 14 -** [**GURUPEPE**](https://pepe.wtf/asset/GURUPEPE) was created by artist, auctioneer extraordinaire, and all around good guy [Theo Goodman](https://twitter.com/theog\_\_). He also created the Series 1 cards [PEPENATION](https://pepe.wtf/asset/PEPENATION), [KEISERPEPE](https://pepe.wtf/asset/KEISERPEPE), [HYIPPEPE](https://pepe.wtf/asset/HYIPPEPE), and [PONZIPEPE](https://pepe.wtf/asset/PONZIPEPE) along with several other great cards such as [EGGPLANTPEPE](https://pepe.wtf/asset/EGGPLANTPEPE) and [GROYPERMONKY](https://pepe.wtf/asset/GROYPERMONKY).
 

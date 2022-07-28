@@ -2,7 +2,7 @@
 
 When the [Rare Pepe Blockchain Project](./) first started, a team of “meme scientists”, also called **Rare Pepe Scientists**, emerged to verify the dankness of the incoming tide of Rare Pepes into the project. As these cards were really dank, the group saw significant interest in adding them to a collection.
 
-![A Rare Pepe scientist deanonymized](<../../.gitbook/assets/rare pepe scientist.png>)
+![A Rare Pepe scientist deanonymized](<../../.gitbook/assets/rare pepe scientist (1).png>)
 
 They made sure that each individual Rare Pepe was original, humane, and **dank**.
 

@@ -9,20 +9,19 @@ description: >-
 
 ## Welcome to the FAKEVERSE
 
-July 28th, 2022 ; [source](https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A)
+July 28th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1549352175054327814?s=20\&t=-NcXHkfQWe6d1sLdw1i08A)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-On the 19th of July, [AL Fernandz](https://twitter.com/al_fernandz?s=20&t=EFVnMu0qbGu-_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 FakeRare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough). 
+On the 19th of July, [AL Fernandz](https://twitter.com/al\_fernandz?s=20\&t=EFVnMu0qbGu-\_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 Fake Rare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough).
 
 {% embed url="https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A" %}
 
-Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
+Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
 
-> _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
+> _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
 [![1p8c4l-image.gif](https://i.postimg.cc/yNdbLLsB/1p8c4l-image.gif)](https://postimg.cc/TKz0wqKH)
-
 
 ## A new and improved look for pepe.wtf
 
@@ -30,13 +29,13 @@ July 7th, 2022 ; [source](https://twitter.com/al\_fernandz/status/15428615237642
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collections of Fake Rares, Dank Rares and Fake Commons.&#x20;
+On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expansive and engrossing collections of Fake Rares, Dank Rares and Fake Commons.
 
 {% embed url="https://twitter.com/al_fernandz/status/1542861523764248579?s=20&t=yUZ5WGFd0_JS5-WPbF7gsQ" %}
 
 Although OG RarePepes will always be a focal point on the site, the team behind pepe.wtf believe that this new central location (for all collections) will only help streamline the learning experience for anyone starting their journey into the Pepeverse (especially through aspects like curated news, history, and the Book of Kek).
 
-Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna\_Lu\_Arts](https://twitter.com/Luna\_Lu\_Arts) for their collective time and effort to build this elegant new home.&#x20;
+Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna\_Lu\_Arts](https://twitter.com/Luna\_Lu\_Arts) for their collective time and effort to build this elegant new home.
 
 ## Matt Kane's NOTKAMOTO card launches S8 of Fake Rares
 
@@ -46,9 +45,9 @@ Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
 [![s97ayq-image.jpg](https://i.postimg.cc/05zxP0jm/s97ayq-image.jpg)](https://postimg.cc/0r1hCmp2)
 
-As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016.&#x20;
+As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016.
 
-Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince\_Van\_Dough)&#x20;
+Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince\_Van\_Dough)
 
 **About the artist:**
 
@@ -60,11 +59,11 @@ However, with NOTKAMOTO he challenges the standard practice of the master copy g
 
 **Community Initiative:**
 
-[As mentioned on Twitter](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ), 69 patronage editions will shortly become available on a dispenser for 1 BTC each. To become eligible for a NOTKAMOTO, Kanes has detailed the process and conditions [here](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ):&#x20;
+[As mentioned on Twitter](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ), 69 patronage editions will shortly become available on a dispenser for 1 BTC each. To become eligible for a NOTKAMOTO, Kanes has detailed the process and conditions [here](https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20\&t=NrD6EAPHU7POOtTr6MvDNQ):
 
 {% embed url="https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20&t=NrD6EAPHU7POOtTr6MvDNQ" %}
 
-Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](discord.gg/gazers/) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO.&#x20;
+Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](discord.gg/gazers/) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO.
 
 Ultimately, while the original RAREPEPE Nakamoto card served as the progenitor of the [CryptoArt movement](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), Notkamoto by Kanes is a shining example of a work that reflects the current state of digital craftsmanship and dank culture.
 

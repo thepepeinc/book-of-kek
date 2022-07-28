@@ -128,12 +128,12 @@ Interview with RareScrilla, the creator of DJPEPE
 * ****[**FEELSGOODMAN**](https://pepe.wtf/asset/FEELSGOODMAN) (Series 20, Card 50, 1/500)\
   While the Rare Pepe Directory was closed in March 2018, one notable exception was made for the 1000th card, which had been set aside for Matt Furie, Pepe's creator. On October 5, 2021, Furie finally submitted the artwork for FEELSGOODMAN, making the Rare Pepe Directory officially complete. Learn more about the card in [this](https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=7476abeb2cb94ba5) podcast from Deeze Spaces with Matt Furie and Joe Looney.
 
-![FEELSGOODMAN](../../../.gitbook/assets/FEELSGOODMAN.png)
+![FEELSGOODMAN](<../../../.gitbook/assets/FEELSGOODMAN (1).png>)
 
 * [**LUKEJRPEPE**](https://pepe.wtf/asset/LUKEJRPEPE) (Series 21, Card 7, 1/500)\
   [Luke-Jr](https://twitter.com/LukeDashjr) is also a longtime Bitcoin Core contributor. He is known to be a very devout Catholic.
 
-![LUKEJRPEPE](<../../../.gitbook/assets/LUKEJRPEPE (1).jpeg>)
+![LUKEJRPEPE](../../../.gitbook/assets/LUKEJRPEPE.jpeg)
 
 * ****[**YELLPEPE**](https://pepe.wtf/asset/YELLPEPE) (Series 30, Card 3, 1/2,600)\
   On June 21, 2017 the late Rare Pepe artist Nathan Carson, also known as [@streetarthustle](https://twitter.com/streetarthustle), was in a crowded classroom when he was dared by members of the Rare Pepe Blockchain Trading Group to scream “PEPE!!” loudly. [He recorded this](https://youtu.be/UH7x6CUa2XQ), and it was immortalized into the series 30 card YELLPEPE.
