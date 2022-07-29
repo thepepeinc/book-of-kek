@@ -19,6 +19,10 @@ On the 19th of July, [AL Fernandz](https://twitter.com/al\_fernandz?s=20\&t=EFVn
 
 Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
 
+Every planet represents a group of holders with the same number of cards, the closer they are to the star the danker they live in the universe.
+
+Search for different cards and explore the cosmos!
+
 > _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
 [![1p8c4l-image.gif](https://i.postimg.cc/yNdbLLsB/1p8c4l-image.gif)](https://postimg.cc/TKz0wqKH)
