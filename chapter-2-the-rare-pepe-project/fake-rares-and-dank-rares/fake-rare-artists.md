@@ -13,7 +13,7 @@ The list of artists contributing to Fake Rares is extensive and growing, for a c
 * ****[**Al**](https://pepe.wtf/artists/Al)****
 * ****[**Afonso Caravagio**](https://pepe.wtf/artists/Afonso-Caravagio-X-Aisha-Venus)****
 * ****[**Alpha Centaury Kid**](https://pepe.wtf/artists/Alpha-Centauri-Kid)
-* [Archain Nair](https://pepe.wtf/artists/ARCHAIN-NAIR)
+* [**Archain Nair**](https://pepe.wtf/artists/ARCHAIN-NAIR)****
 * ****[**Carsonated**](https://pepe.wtf/artists/Carsonated)****
 * ****[**Claire Silver**](https://pepe.wtf/artists/Claire-Silver)****
 * ****[**Coit**](https://twitter.com/CoitNft)****

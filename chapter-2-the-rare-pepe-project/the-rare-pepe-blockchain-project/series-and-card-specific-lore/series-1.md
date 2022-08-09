@@ -32,7 +32,7 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 ![Screen Capture from the "Still D.R.E." Music Video](<../../../.gitbook/assets/S01 C10 - STILLPEPE card and source.jpg>)
 
-[STILLPEPE](https://pepe.wtf/asset/STILLPEPE) was created by [Joe Looney](https://twitter.com/wasthatawolf). Not only did Joe create 13 amazing Rare Pepe cards including [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY), [IMWITHPEPE](https://pepe.wtf/asset/IMWITHPEPE), [PEPEGOTCHI](https://pepe.wtf/asset/PEPEGOTCHI), and [BADHAIRDAY](https://pepe.wtf/asset/BADHAIRDAY) he wrote the Rarepepe wallet software purely to benefit fans of Rare Pepe's. [Here](https://medium.com/@rareartlabs/rareaf-talks-joe-looney-rare-pepe-wallet-db309924c72b) is a Medium article where Joe was interviewed by R.A.R.E Art Labs about the RPW.
+**Series 1, Card 10** - [STILLPEPE](https://pepe.wtf/asset/STILLPEPE) was created by [Joe Looney](https://twitter.com/wasthatawolf). Not only did Joe create 13 amazing Rare Pepe cards including [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY), [IMWITHPEPE](https://pepe.wtf/asset/IMWITHPEPE), [PEPEGOTCHI](https://pepe.wtf/asset/PEPEGOTCHI), and [BADHAIRDAY](https://pepe.wtf/asset/BADHAIRDAY) he wrote the Rarepepe wallet software purely to benefit fans of Rare Pepe's. [Here](https://medium.com/@rareartlabs/rareaf-talks-joe-looney-rare-pepe-wallet-db309924c72b) is a Medium article where Joe was interviewed by R.A.R.E Art Labs about the RPW.
 
 The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop\_Dogg) and [Dr. Dre](https://en.wikipedia.org/wiki/Dr.\_Dre). A link to the video on YouTube is below.
 
@@ -83,3 +83,9 @@ The person depicted in the card is [Ruji Ignatova](https://en.wikipedia.org/wiki
 ![](<../../../.gitbook/assets/S01 C26 - PEPEGUN card and source.jpg>)
 
 **Series1, Card 26 -** [PEPEGUN](https://pepe.wtf/asset/PEPEGUN) is another [DanDarkPil](https://pepe.wtf/artists/DanDarkPill)l creation. The card is a depiction of the then [Cornell University](https://www.cornell.edu/) Associate Professor [Emin Gün Sirer](https://www.cs.cornell.edu/people/egs/). He is a former [IC3](https://www.ic3.gov/) Co-Director, and the founder of [Ava Labs](https://www.avalabs.org/).
+
+## Series 1, Card 28 - DASHPEPE
+
+![Original Image Source: cointelegraph](<../../../.gitbook/assets/S01 C28 - DASHPEPE card and source.jpg>)
+
+**Series 1, Card 28** - [DASHPEPE](https://pepe.wtf/asset/DASHPEPE) was created by the artist [ICQPEPE](https://pepe.wtf/artists/ICQPEPE). ICQ created a total of 24 cards for the Rare Pepe series including the extremely rare 1 of 3 card [JONGPEPE](https://pepe.wtf/asset/JONGPEPE), the classic [NOFAPPEPE](https://pepe.wtf/asset/NOFAPPEPE), and what is probably the only artist "self portrait" in the series [ICQPEPE](https://pepe.wtf/asset/ICQPEPE). The card depicts the creator of the crypto currency Dash - [Evan Duffield](https://www.worldcryptoindex.com/creators/evan-duffield/) and the image was taken from a [cointelegraph article](https://cointelegraph.com/news/dashs-2nd-birthday-we-are-complementary-to-bitcoin-not-a-competitor) discussing the second birthday of Dash.&#x20;
