@@ -6,7 +6,7 @@ description: >-
 
 # Series 9
 
-## Series 9, Card 6 - RUBBERPEPE
+## Series 9 Card 6 - RUBBERPEPE
 
 ![RUBBERPEPE and two screen captures from the 5 min. video](<../../../.gitbook/assets/S09 C06 - card and source.jpg>)
 

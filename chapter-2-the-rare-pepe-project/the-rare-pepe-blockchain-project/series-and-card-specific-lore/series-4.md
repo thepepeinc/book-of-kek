@@ -6,7 +6,7 @@ description: >-
 
 # Series 4
 
-## Series 4, Card 14 - LEANPEPE
+## Series 4 Card 14 - LEANPEPE
 
 ![](<../../../.gitbook/assets/S04 C14 - LEANPEPE card and source.jpg>)
 
