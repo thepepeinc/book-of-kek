@@ -6,11 +6,11 @@ description: >-
 
 # Series 9
 
-## Series 9 Card 6 - RUBBERPEPE
+## Series 9, Card 6 - RUBBERPEPE
 
-![RUBBERPEPE and two screen captures from the 5min video](<../../../.gitbook/assets/S09 C06 - card and source.jpg>)
+![RUBBERPEPE and two screen captures from the 5 min. video](<../../../.gitbook/assets/S09 C06 - card and source.jpg>)
 
-**Series 9 Card 6 -** [**RUBBERPEPE**](https://pepe.wtf/asset/RUBBERPEPE) was created by an unknown artist. The artist also created the cards [THEANCAPEPE](https://pepe.wtf/asset/THEANCAPEPE), [STEALPEPE](https://pepe.wtf/asset/STEALPEPE), [PPKING](https://pepe.wtf/asset/PPKING), [PREPEDATOR](https://pepe.wtf/asset/PREPEDATOR), and [SCORPEPE](https://pepe.wtf/asset/SCORPEPE). The card appears to be a hand drawn interpretation of the character Johnny played by [Chris Cunningham](https://en.wikipedia.org/wiki/Chris\_Cunningham) in the 2005 British experimental short film/music video which was written, directed, and produced by Cunningham as well. In the opening scene, an off screen voice can be heard saying "do you want mama to come in?", which causes Johnny to throw a fit for which he is then given a sedative to calm him down. The rest of the video is just Johnny maneuvering his wheel chair while the [Aphex Twin](https://en.wikipedia.org/wiki/Aphex\_Twin) track "Afx237 v. 7" from the album [_Drukqs_](https://en.wikipedia.org/wiki/Drukqs) plays in the background. That is the band's logo in the top right corner of the card.&#x20;
+**Series 9 Card 6 -** [**RUBBERPEPE**](https://pepe.wtf/asset/RUBBERPEPE) was created by an unknown artist. The artist also created the cards [THEANCAPEPE](https://pepe.wtf/asset/THEANCAPEPE), [STEALPEPE](https://pepe.wtf/asset/STEALPEPE), [PPKING](https://pepe.wtf/asset/PPKING), [PREPEDATOR](https://pepe.wtf/asset/PREPEDATOR), and [SCORPEPE](https://pepe.wtf/asset/SCORPEPE). The card appears to be a hand drawn interpretation of the character Johnny played by [Chris Cunningham](https://en.wikipedia.org/wiki/Chris\_Cunningham) in the 2005 British experimental short film/music video [Rubber Johnny](https://youtu.be/eRvfxWRi6qQ) which was written, directed, and produced by Cunningham as well. In the opening scene, an off screen voice can be heard saying "do you want mama to come in?", which causes Johnny to throw a fit for which he is then given a sedative to calm him down. The rest of the video is just Johnny maneuvering his wheel chair while the [Aphex Twin](https://en.wikipedia.org/wiki/Aphex\_Twin) track "Afx237 v. 7" from the album [_Drukqs_](https://en.wikipedia.org/wiki/Drukqs) plays in the background. That is the band's logo in the top right corner of the card.&#x20;
 
 ![The Band's Twitter account](<../../../.gitbook/assets/S09 C06 - RUBBERPEPE 3 of 2.png>)
 

@@ -6,6 +6,18 @@ description: >-
 
 # Series 5
 
+## Series 5, Card 2 - SPESSMUHPEPE
+
+![](<../../../.gitbook/assets/S05 C02 - SPESSMUHPEPE card and source.jpg>)
+
+**Series 5, Card 2** - [SPESSMUHPEPE](https://pepe.wtf/asset/SPESSMUHPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1HDXVbA9WS5WwuhxqmWjwAY8eAgehGo5TH). They also created the other two Warhammer 40,000 cards that made it into the Rare Pepe project - [GODEMPEPE](https://pepe.wtf/asset/GODEMPEPE) and [GUARDSPEPE](https://pepe.wtf/asset/GUARDSPEPE). The image on the card is a modified version of the character [Space Marine](https://warhammer40k.fandom.com/wiki/Space\_Marines) from the board game [Warhammer 40,000](https://en.wikipedia.org/wiki/Warhammer\_40,000).&#x20;
+
+## Series 5, Card 3 - GUARDSPEPE
+
+![](<../../../.gitbook/assets/S05 C03 - GUARDSPEPE source and card.jpg>)
+
+**Series 5, Card 5** - [GUARDSPEPE](https://pepe.wtf/asset/GUARDSPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1HDXVbA9WS5WwuhxqmWjwAY8eAgehGo5TH). They also created the other two Warhammer 40,000 cards that made it into the Rare Pepe project - [GODEMPEPE](https://pepe.wtf/asset/GODEMPEPE) and [SPESSMUHPEPE](https://pepe.wtf/asset/SPESSMUHPEPE). The image on the card is a pepefied version of the Astra Militarum, also known as the Imperial Guard. In the game, the Imperial Guard is the largest coherent fighting force in the galaxy. Perhaps that is why the artist minted 1 billion of them! You can learn more about the Imperial Guard and Warhammer 40,000 [here](https://warhammer40k.fandom.com/wiki/Astra\_Militarum).
+
 ## Series 5, Card 6 - PEPEDUCREUX
 
 ![](<../../../.gitbook/assets/S05 C06 - PEPEDUCREUX card and source.jpg>)

@@ -6,7 +6,7 @@ description: >-
 
 # Series 4
 
-## Series 4 Card 14 - LEANPEPE
+## Series 4, Card 14 - LEANPEPE
 
 ![](<../../../.gitbook/assets/S04 C14 - LEANPEPE card and source.jpg>)
 
@@ -23,3 +23,11 @@ The source image is a 10 year old meme known as "[Bad Luck Brian](https://knowyo
 ![](<../../../.gitbook/assets/brian 33.jpg>)
 
 {% embed url="https://youtu.be/hl-vCcTENWA" %}
+
+## Series 4, Card 24 - PEPEDANCE
+
+![](<../../../.gitbook/assets/S04 C24 - PEPEDANCE source and card.jpg>)
+
+**Series 4, Card 24** - [PEPEDANCE](https://pepe.wtf/asset/PEPEDANCE) was created by the duo [Nicolas Sierro](https://pepe.wtf/artists/Nicolas-Sierro) ([@NicolasSierro](https://twitter.com/NicolasSierro) on Twitter) and Hilaire De Rien ([@HilaireDeRien](https://twitter.com/HilaireDeRien) on Twitter). They also created the cards [MARINEPEINE](https://pepe.wtf/asset/MARINEPEINE), [NICOSARKOS](https://pepe.wtf/asset/NICOSARKOS), [PEPEVIDEODRO](https://pepe.wtf/asset/PEPEVIDEODRO), [MONBOURARNO](https://pepe.wtf/asset/MONBOURARNO), and [PEPETHSOG](https://pepe.wtf/asset/PEPETHESOG). While the card states that it is a tribute to the American dancer, actor, and singer [Fred Astaire](https://en.wikipedia.org/wiki/Fred\_Astaire), the image the artists chose to display on the card is [RanXerox](https://en.wikipedia.org/wiki/RanXerox) from the Italian science fiction graphic novel series of the same name.  Rare Pepe OG [rarepepenews](https://twitter.com/rarepepenews) has an interview with Hilaire on his website [here](http://rarepepenews.com/card-creator-interviews/hilaire-de-rien/). The full comic book page is pictured below.
+
+![](<../../../.gitbook/assets/S04  C24 - PEPEDANCE comic page.jpg>)
