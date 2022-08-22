@@ -14,7 +14,7 @@ description: Pepe.wtf, an all-in-one platform for everything Pepe.
 
 The platform wants to make the initial stages of the Pepe experience much easier. You can [browse the site](https://pepe.wtf/catalogue) to find the best plays by series, but also by [Artists](https://pepe.wtf/artists) and [Sets](https://pepe.wtf/sets), a long-desired feature by the community.
 
-The site also features a [Leaderboard](https://pepe.wtf/leaderboard) of all wallets carrying Pepe Cards, sorted by highest number of cards collected, with the current leader owning an impressive collection of 1667/1774 unique cards.
+The site also features a [Leaderboard](https://pepe.wtf/leaderboard) of all wallets carrying Pepe Cards, sorted by highest number of cards collected, with the current leader owning an impressive collection of 1680/1774 unique cards.
 
 Its built-in marketplace aggregator makes the world of Pepe much more digestible to even the greenest of Pepe enthusiasts.
 
@@ -40,7 +40,7 @@ Drops are a newly added feature that automated the purchasing of new released an
 
 To kick things off, the first card on Drops was [DAWNOFHOPE](https://pepe.wtf/asset/DAWNOFHOPEPE) by [FourLeafClover](https://pepe.wtf/artists/FourLeafClover).
 
-![DAWNOFHOPEPE](<../.gitbook/assets/DAWNOFHOPEPE (1).gif>)
+![DAWNOFHOPE ](<../.gitbook/assets/DAWNOFHOPEPE (1).gif>)
 
 ## Pepe.wtf team
 
