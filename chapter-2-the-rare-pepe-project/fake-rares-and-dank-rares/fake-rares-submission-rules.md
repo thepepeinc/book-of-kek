@@ -1,41 +1,36 @@
----
-description: >-
-  Please note: The submission to Fake Rares is currently paused, but due to
-  resume after series 8. In the meantime, you can submit your art to the Fake
-  Commons or Dank Rares instead.
----
-
 # Fake Rares Submission Rules
+
+{% hint style="warning" %}
+_Please note: The submission to Fake Rares is currently paused. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons/) _or_ [_Dank Rares_](dank-rares-submission-rules.md) _instead._
+{% endhint %}
+
+![FAKECHATS](<../../.gitbook/assets/FAKECHATS small.png>)
 
 First thing you need to do when creating your Fake Rare, is to create a [Counterparty](../../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/) asset to associate with it.
 
 To the non crypto-coin person this can be quite the learning task. To people already involved in Bitcoin it’s not that hard. Visit [this guide](https://github.com/robotlovecoffee/xcponboarding/wiki/Creator:-Onboarding-to-XCP-Freewallet-Desktop) to learn how to create an asset.
 
-The cost to create an asset is .5 XCP (and a little bitcoin for the miner fee).
+The cost to create an asset is 0.5 XCP (and a little bitcoin for the miner fee).
 
 To submit to the Fake Rare Directory, you will need to DESTROY 1 [FAKEASF](https://pepe.wtf/asset/FAKEASF). You can destroy the token by using the [Freewallet.io](http://freewallet.io/) app. Once approved your card will appear on [fakeraredirectory.com](http://fakeraredirectory.com/).
 
 You can find the official submission rules [here](https://fakeraredirectory.com/fake-submission-rules/).
 
-### Submission Rules:
+### Real Fakes Submission Rules:
 
-1. Fakes **must be 400 x 560**. They can look like trading cards and pay homage to RAREPEPEs, but this is not a requirement.
-2. Please keep animated gif’s under 10MB in size. Use Compression. If you’d like to submit a mp4, consider using enhanced.cards to generate your JSON.&#x20;
-3. Issuance must be **LOCKED**, so your Fake cannot be inflated.
-4. **Your Fake must not be divisible**.
-5. Your artwork should have something to do with Pepe.
-6. Make sure your artwork doesn’t suck too bad.&#x20;
-7. No NSFW content, please.
-8. Your token must have somewhere between 21 and 10,000 issuances – See Above for details on Commons Issuance policy and burn requirement for cards wanting to release as a sub 21 issuance.
-9. No websites or QR codes, please.
-10. Only 1 submission per artist until approved or denied. If denied, you will be contacted via email.
-11. Please be patient. It takes time to curate these exceptional fakes.&#x20;
-12. Don’t distribute, sell or share your piece publicly before it is published in the directory.&#x20;
+1. **Fakes must be 400×560**. We all have a little OCD, so please include the right size in your submission… you can link a high-resolution image to your asset, but make sure it follows the same aspect ratio please.
+2. Your fake can look like a trading card, but this is not required. It can be animated gif as well, but keep them to 3mb or less in size if possible. Use compression.
+3. **Issuance must be LOCKED** so your Fake cannot be inflated.
+4. **Your fake must NOT be DIVISIBLE**… when creating an asset, the default is set to divisible, so make sure you click the toggle, otherwise you’ll have to pick a new name for your fake.
+5. No NSFW content please… we don’t have HR on staff and we’re all adults here… so use your best judgement.
+6. **You must issue at least 21 tokens** and no more than 10,000.
+7. No websites and no QR codes please.
+8. The general rule of thumb is only one submission per artist until approved or denied. After approval or denial you may submit again. If you’ve been waiting a while and have a fire new piece… you may wanna swap for your previous submission… or at least submit to Commons so it can be sniped. Oh, **this rule doesn’t apply to Commons**… submit to your heart’s content in Commons.
+9. We don’t get paid to do this… we have real life responsibilities… we move as fast as we can, but the best shit takes time. Please bear with us as we sort through your submissions.
+10. Don’t share or sell your Fake prior to approval, otherwise we’ll have to kick your submission… once published, please feel free to drop your piece however you see fit. We love [Scarce.City](https://scarce.city/) and the [PepePawnShop](https://pepe.wtf/), but to each his own.
 
-**NOTE:** **Please don’t destroy your FAKEASF until your card is ready and you are certain it will be approved.** Once your submission is accepted you will receive further instructions on the FAKEASF destroy. After the destroy is completed, you will receive confirmation via email once your submission is added to the directory.
+**NOTE: Please don’t destroy your FAKEASF (or PEPECASH) until asked to do so**… once your submission is accepted, someone will give you further instructions on the sacrifice. You can destroy the token by using the [Freewallet.io](http://freewallet.io/) desktop application.
 
-### Submission Process:
-
-{% hint style="warning" %}
-_Please note: The submission to Fake Rares is currently paused, but due to resume after series 8. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons.md) _or_ [_Dank Rares_](dank-rares-submission-rules.md) _instead._
+{% hint style="info" %}
+Reach out on the [Official Telegram Chat](https://t.me/OFFICIALFAKERARES) if you need help.
 {% endhint %}
