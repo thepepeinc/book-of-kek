@@ -7,11 +7,13 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## SuperTrip64 releases a multiplayer game alongside his S8 Fake WAGMIWORLD
+## Fake Rares S8 concludes with VVD & ACK
 
-July 28th, 2022 ; [source](https://twitter.com/SuperTrip64/status/1552720983961862145?s=20\&t=YN-fFeszZoZ9Z06J44bpsw)
+July 30th, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1553189429136826369)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1553189429136826369?s=20&t=YN-fFeszZoZ9Z06J44bpsw" %}
 
 ## SuperTrip64 releases a multiplayer game alongside his S8 Fake WAGMIWORLD
 

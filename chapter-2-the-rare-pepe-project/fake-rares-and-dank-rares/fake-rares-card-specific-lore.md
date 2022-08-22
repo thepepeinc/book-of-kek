@@ -83,7 +83,7 @@ From [Wizard X](https://pepe.wtf/artists/Wizard-X), the creator of the card: "On
 
 [WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD) is [SuperTrip64](https://twitter.com/SuperTrip64)'s contribution to the legendary [Series 8](https://fakeraredirectory.com/series-8/) of Fake Rares, [curated by Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough/status/1541599342590537729) and marking 2022's "Summer of Pepe".&#x20;
 
-![WAGMIWORLD](<../../.gitbook/assets/wagmiworld (1).png>)
+![WAGMIWORLD](../../.gitbook/assets/wagmiworld.png)
 
 SuperTrip64 develops pure 64 Bit Visuals™ games, playable via his website [SuperTrip.Land](http://supertrip.land). Upon releasing his card WAGMIWORLD he also [released a multiplayer game](https://twitter.com/SuperTrip64/status/1552720983961862145), in which players could explore a Pepe-themed amusement park during a 24h event, uniting [770 unique players](https://twitter.com/SuperTrip64/status/1553153594752466947) in what is considered the first ever 64bit Pepe game.
 
