@@ -1,7 +1,7 @@
 # Table of contents
 
 * [The Book of Kek](README.md)
-* [Resources](resources.md)
+* [Resources & Links](resources.md)
 * [How to Contribute to the Book of Kek](how-to-contribute-to-the-book-of-kek.md)
 
 ## Chapter 1 - Historical Lore
@@ -54,7 +54,11 @@
   * [Fake Rares Card Specific Lore](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-card-specific-lore.md)
   * [Fake Commons](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-commons/README.md)
     * [Fake Commons Submission Rules](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-commons/fake-commons-submission-rules.md)
-  * [Dank Rares Submission Rules](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/dank-rares-submission-rules.md)
+
+***
+
+* [Dank Rares](dank-rares/README.md)
+  * [Dank Rares Submission Rules](dank-rares/dank-rares-submission-rules.md)
 
 ## Chapter 3 - Blockchain, Counterparty, How to
 

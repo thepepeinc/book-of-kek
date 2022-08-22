@@ -1,7 +1,7 @@
 # Fake Rares Submission Rules
 
 {% hint style="warning" %}
-_Please note: The submission to Fake Rares is currently paused. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons/) _or_ [_Dank Rares_](dank-rares-submission-rules.md) _instead._
+_Please note: The submission to Fake Rares is currently paused. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons/) _or_ [_Dank Rares_](broken-reference) _instead._
 {% endhint %}
 
 ![FAKECHATS](<../../.gitbook/assets/FAKECHATS small.png>)

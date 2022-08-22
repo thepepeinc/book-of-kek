@@ -4,7 +4,7 @@ description: >-
   Communities, tutorials, marketplaces, blockchain explorers, wallets, etc...
 ---
 
-# Resources
+# Resources & Links
 
 ## Counterparty Tools
 
@@ -133,3 +133,4 @@ description: >-
 * [Deeze Spaces with Matt Furie and Joe Looney about FEELSGOODMAN](https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=7476abeb2cb94ba5)
 * [How NFTs are Invading the Art World - by VICE News](https://youtu.be/mGlfFjcZFRE)
 * [Art On The Blockchain Podcast: AOTB Episode 4 featuring Joe Looney](https://itunes.apple.com/us/podcast/art-on-the-blockchain-podcast/id1294782966?)
+* [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)

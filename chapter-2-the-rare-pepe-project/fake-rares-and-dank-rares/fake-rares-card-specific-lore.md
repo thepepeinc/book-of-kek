@@ -7,6 +7,10 @@ description: >-
 
 # Fake Rares Card Specific Lore
 
+{% hint style="info" %}
+_**Work in progress**_ - if you would like to contribute your card-specific story, please follow the steps in [how-to-contribute-to-the-book-of-kek.md](../../how-to-contribute-to-the-book-of-kek.md "mention") or send us an email titled **"BoK Edit Request"** to [wiki@pepe.wtf.](mailto:wiki@pepe.wtf?subject=BoK%20Edit%20Request)&#x20;
+{% endhint %}
+
 > The legend has it that the cards in Series 0 of the Fake Rares were submitted for approval to be a part of the Rare Pepe collection but were not approved. While not all of them were scientifically denied - the rule was that each card had to be an older XCP asset and not part of any directory.
 
 Below you can find some more card specific lore.
@@ -74,3 +78,14 @@ From [Wizard X](https://pepe.wtf/artists/Wizard-X), the creator of the card: "On
 [SeerLight](https://pepe.wtf/artists/SeerLight), the creator revealed how the idea of the card came to be: "I was showering and thought... What about a Pepe but make it Ghost in a Shell? Added a bit of vaporwave and tada!"
 
 ![PEPEPOPO](../../.gitbook/assets/PEPEPOPO.gif)
+
+## [WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD) - Series 8, Card 43, 1/100
+
+[WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD) is [SuperTrip64](https://twitter.com/SuperTrip64)'s contribution to the legendary [Series 8](https://fakeraredirectory.com/series-8/) of Fake Rares, [curated by Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough/status/1541599342590537729) and marking 2022's "Summer of Pepe".&#x20;
+
+![WAGMIWORLD](<../../.gitbook/assets/wagmiworld (1).png>)
+
+SuperTrip64 develops pure 64 Bit Visuals™ games, playable via his website [SuperTrip.Land](http://supertrip.land). Upon releasing his card WAGMIWORLD he also [released a multiplayer game](https://twitter.com/SuperTrip64/status/1552720983961862145), in which players could explore a Pepe-themed amusement park during a 24h event, uniting [770 unique players](https://twitter.com/SuperTrip64/status/1553153594752466947) in what is considered the first ever 64bit Pepe game.
+
+{% embed url="https://twitter.com/SuperTrip64/status/1552720983961862145" %}
+

@@ -7,6 +7,24 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## SuperTrip64 releases a multiplayer game alongside his S8 Fake WAGMIWORLD
+
+July 28th, 2022 ; [source](https://twitter.com/SuperTrip64/status/1552720983961862145?s=20\&t=YN-fFeszZoZ9Z06J44bpsw)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+## SuperTrip64 releases a multiplayer game alongside his S8 Fake WAGMIWORLD
+
+July 28th, 2022 ; [source](https://twitter.com/SuperTrip64/status/1552720983961862145?s=20\&t=YN-fFeszZoZ9Z06J44bpsw)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+3D artist [SuperTrip64](https://twitter.com/SuperTrip64) released a multiplayer game alongside his Fake Rare S8C43, [WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD). The game went live on SuperTrip64's website [SuperTrip.Land](https://t.co/UPJ7Nvqoew), where players were able to test the gameplay experience in a 24h alpha launch event.  [770 unique players](https://twitter.com/SuperTrip64/status/1553153594752466947) participated in the event, marking the release of what's probably the first ever 64bit multiplayer Pepe game!
+
+{% embed url="https://twitter.com/SuperTrip64/status/1552720983961862145?s=20&t=YN-fFeszZoZ9Z06J44bpsw" %}
+
+
+
 ## Welcome to the FAKEVERSE
 
 July 28th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1549352175054327814?s=20\&t=-NcXHkfQWe6d1sLdw1i08A)
@@ -26,6 +44,24 @@ Search for different cards and explore the cosmos!
 > _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
 [![1p8c4l-image.gif](https://i.postimg.cc/yNdbLLsB/1p8c4l-image.gif)](https://postimg.cc/TKz0wqKH)
+
+## Rares, Fakes & the OGs on Rug Radio
+
+July 20th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1549879030790356992)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+On July 20th_,_ [Farokh](https://twitter.com/farokh) invited the OGs of Rares & Fakes to his daily podcast show GM NFTs on [Rug Radio](https://twitter.com/RugRadio): [Joe Looney](https://twitter.com/wasthatawolf), [Robness](https://twitter.com/ROBNESSOFFICIAL), [Rare Scrilla](https://twitter.com/ScrillaVentura) & [Fake Annie](https://twitter.com/fakefakeannie) joined him to talk about the beginnings of the [Rare Pepe Project](../../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), the current success of [Fake Rares](../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) and the hype around [VVD's curated Series 8](./#vvd-announces-curated-fake-rares-series-8), as well as the Book Of Kek.
+
+_"Today after diving into some of the positive macros we jumped into the Rare Pepe rabbit hole. Learning about everything from the creation, the inspiration to the eventual deviation due to strict moderation that became the Fake Rares. Listen in for a history lesson on all things Rare Pepe."_
+
+**Listen to the full episode here:**
+
+{% embed url="https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos" %}
+
+**Spotify:** [https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)
+
+**Apple Music:** [https://podcasts.apple.com/us/podcast/gm-nfts-on-rug-radio-rare-pepes-fake-rares-and-the-ogs/id1623389858?i=1000570609718](https://podcasts.apple.com/us/podcast/gm-nfts-on-rug-radio-rare-pepes-fake-rares-and-the-ogs/id1623389858?i=1000570609718)
 
 ## A new and improved look for pepe.wtf
 
