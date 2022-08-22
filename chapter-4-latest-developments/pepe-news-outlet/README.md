@@ -15,9 +15,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
 
-{% embed url="https://twitter.com/FAKERARES_XCP/status/1553006852971151360" %}
-[LILYPAD](https://pepe.wtf/asset/LILYPAD)
-{% endembed %}
+![GRANTYUM](../../.gitbook/assets/GRANTYUM.png) ![LILYPAD](../../.gitbook/assets/LILYPAD.jpeg)
 
 This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading artists in the NFT space onboarded to Fake Rares & XCP, as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
@@ -55,9 +53,9 @@ Search for different cards and explore the cosmos!
 
 > _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
-[![1p8c4l-image.gif](https://i.postimg.cc/yNdbLLsB/1p8c4l-image.gif)](https://postimg.cc/TKz0wqKH)
+![PEPEVERSE](../../.gitbook/assets/FAKEVERSE.png)
 
-## Rares, Fakes & the OGs on Rug Radio
+## Rares, Fakes & the Pepe OGs on Rug Radio
 
 July 20th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1549879030790356992)
 
