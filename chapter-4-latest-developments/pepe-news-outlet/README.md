@@ -15,7 +15,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
 
-![GRANTYUM](../../.gitbook/assets/GRANTYUM.png) ![LILYPAD](../../.gitbook/assets/LILYPAD.jpeg)
+![GRANTYUM](../../.gitbook/assets/GRANTYUM.png) ![LILYPAD](<../../.gitbook/assets/LILYPAD (1).jpeg>)
 
 This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading artists in the NFT space onboarded to Fake Rares & XCP, as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
@@ -43,7 +43,7 @@ Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
 On the 19th of July, [AL Fernandz](https://twitter.com/al\_fernandz?s=20\&t=EFVnMu0qbGu-\_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 Fake Rare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough).
 
-{% embed url="https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A" %}
+![PEPEVERSE](../../.gitbook/assets/FAKEVERSE.png)
 
 Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
 
@@ -53,7 +53,7 @@ Search for different cards and explore the cosmos!
 
 > _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
-![PEPEVERSE](../../.gitbook/assets/FAKEVERSE.png)
+{% embed url="https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A" %}
 
 ## Rares, Fakes & the Pepe OGs on Rug Radio
 
