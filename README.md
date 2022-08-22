@@ -17,3 +17,5 @@ We invite you to take a deep dive down the Pepe frog hole... 🐸
 ## Who are the authors?
 
 The Book of Kek has been written by Lord Kek's most devoted disciples, the members of [Pepe Inc.](https://twitter.com/PepeInc\_), the powerful organization that is also behind [pepe.wtf](chapter-4-latest-developments/pepe.wtf.md) and the [PepePawnShop](chapter-4-latest-developments/pepepawnshop/).
+
+![PEPEINC](<.gitbook/assets/PEPEINC (1).jpeg>) ![FAKEPAWNSHOP](.gitbook/assets/FAKEPAWNSHOP.jpeg)
