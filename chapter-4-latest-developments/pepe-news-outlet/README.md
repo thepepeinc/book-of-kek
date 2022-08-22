@@ -7,11 +7,19 @@ description: >-
 
 # PEPE NEWS OUTLET
 
-## Fake Rares S8 concludes with VVD & ACK
+## Fake Rares S8 concludes with VVD & ACK drop
 
-July 30th, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1553189429136826369)
+July 30th, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1553006852971151360)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1553006852971151360" %}
+[LILYPAD](https://pepe.wtf/asset/LILYPAD)
+{% endembed %}
+
+This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading artists in the NFT space onboarded to Fake Rares & XCP, as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1553189429136826369?s=20&t=YN-fFeszZoZ9Z06J44bpsw" %}
 
@@ -21,9 +29,11 @@ July 28th, 2022 ; [source](https://twitter.com/SuperTrip64/status/15527209839618
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-3D artist [SuperTrip64](https://twitter.com/SuperTrip64) released a multiplayer game alongside his Fake Rare S8C43, [WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD). The game went live on SuperTrip64's website [SuperTrip.Land](https://t.co/UPJ7Nvqoew), where players were able to test the gameplay experience in a 24h alpha launch event.  [770 unique players](https://twitter.com/SuperTrip64/status/1553153594752466947) participated in the event, marking the release of what's probably the first ever 64bit multiplayer Pepe game!
+3D artist [SuperTrip64](https://twitter.com/SuperTrip64) released a multiplayer game alongside his Fake Rare S8C43, [WAGMIWORLD](https://pepe.wtf/asset/WAGMIWORLD). The game went live on SuperTrip64's website [SuperTrip.Land](https://t.co/UPJ7Nvqoew), where players were able to test the gameplay experience in a 24h alpha launch event. [770 unique players](https://twitter.com/SuperTrip64/status/1553153594752466947) participated in the event, marking the release of what's probably the first ever 64bit multiplayer Pepe game!
 
 {% embed url="https://twitter.com/SuperTrip64/status/1552720983961862145?s=20&t=YN-fFeszZoZ9Z06J44bpsw" %}
+SuperTrip64
+{% endembed %}
 
 
 
