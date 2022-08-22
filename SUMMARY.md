@@ -48,10 +48,10 @@
   * [Famous Rare Pepe auctions](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-auctions.md)
   * [Artists & Collectors Interviews](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md)
   * [“The Rarest Book” by Eleonora Brizi](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)
-* [Fake Rares & Dank Rares](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/README.md)
+* [Fake Rares, Commons & Danks](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/README.md)
   * [Fake Rare Artists](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rare-artists.md)
-  * [Fake Rares Card Specific Lore](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-card-specific-lore.md)
   * [Fake Rares Submission Rules](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-submission-rules.md)
+  * [Fake Rares Card Specific Lore](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-card-specific-lore.md)
   * [Fake Commons](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-commons.md)
   * [Dank Rares Submission Rules](chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/dank-rares-submission-rules.md)
 

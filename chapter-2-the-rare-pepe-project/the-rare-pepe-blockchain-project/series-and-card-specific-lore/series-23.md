@@ -18,7 +18,7 @@ For the start of Series 23, [MrHansel](https://twitter.com/bettidlomas) created 
 
 ![I could not find our hero striking this pose in the walkthrough, but it is online as a standalone image](../../../.gitbook/assets/fa7f316900ecf0d96ba6567decbbce8d.jpg)
 
-## Series 23 Card 4 - BAYLOP
+## Series 23, Card 4 - BAYLOP
 
 ![](<../../../.gitbook/assets/S23 C04 - BAYLOP card and source.jpg>)
 

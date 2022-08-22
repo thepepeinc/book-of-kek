@@ -7,13 +7,13 @@ description: >-
 
 # Fake Rares Submission Rules
 
-First thing you need to do when creating your Fake Rare, is to create a Counterparty asset to associate with it.
+First thing you need to do when creating your Fake Rare, is to create a [Counterparty](../../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/) asset to associate with it.
 
 To the non crypto-coin person this can be quite the learning task. To people already involved in Bitcoin it’s not that hard. Visit [this guide](https://github.com/robotlovecoffee/xcponboarding/wiki/Creator:-Onboarding-to-XCP-Freewallet-Desktop) to learn how to create an asset.
 
 The cost to create an asset is .5 XCP (and a little bitcoin for the miner fee).
 
-To submit to the Fake Rare Directory, you will need to DESTROY 1 FAKEASF. You can destroy the token by using the [Freewallet.io](http://freewallet.io/) app. Once approved your card will appear on [fakeraredirectory.com](http://fakeraredirectory.com/).
+To submit to the Fake Rare Directory, you will need to DESTROY 1 [FAKEASF](https://pepe.wtf/asset/FAKEASF). You can destroy the token by using the [Freewallet.io](http://freewallet.io/) app. Once approved your card will appear on [fakeraredirectory.com](http://fakeraredirectory.com/).
 
 You can find the official submission rules [here](https://fakeraredirectory.com/fake-submission-rules/).
 

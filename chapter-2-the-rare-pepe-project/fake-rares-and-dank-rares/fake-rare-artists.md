@@ -1,14 +1,10 @@
 # Fake Rare Artists
 
-From there, the project started to evolve.
-
-Artists were becoming competitive in creating high quality fakes that pay tribute to the modern NFT culture and Rare Pepe culture with a dash of _fakeness_.
-
-The project became community driven, both by original Rare Pepe artists and newcomers alike.
+Artists were becoming competitive in creating high quality fakes that pay tribute to the modern NFT culture and Rare Pepe culture with a dash of _fakeness_. The project became community driven, both by original Rare Pepe artists and newcomers alike.
 
 Everyone has an equal chance to stand out and prove themselves as great Pepe artists. Even some well known artists tagged along the journey and contributed their own Fake Rares.
 
-The list of artists contributing to Fake Rares is extensive and growing, for a complete list of all Fake Rares artists visit [pepe.wtf/artists/Fake-Rares](https://pepe.wtf/new/artists/Fake-Rares). Here are some of them (in alphabetical order):
+The list of artists contributing to Fake Rares is extensive and growing, for a complete list of all Fake Rares artists visit [pepe.wtf/artists/Fake-Rares](https://pepe.wtf/new/artists/Fake-Rares). Here are some of the most prolific (in alphabetical order):
 
 * ****[**Al**](https://pepe.wtf/artists/Al)****
 * ****[**Afonso Caravagio**](https://pepe.wtf/artists/Afonso-Caravagio-X-Aisha-Venus)****
@@ -39,6 +35,7 @@ The list of artists contributing to Fake Rares is extensive and growing, for a c
 * ****[**Jak**](https://pepe.wtf/artists/Jak)****
 * ****[**Jake**](https://pepe.wtf/artists/Jake)****
 * [**JB**](https://pepe.wtf/artists/JB)****
+* ****[**Joe Pease**](https://twitter.com/joepease)****
 * ****[**Killer Acid**](https://pepe.wtf/artists/Killer-Acid)****
 * ****[**Kristy Glas**](https://pepe.wtf/artists/KristyGlas)****
 * ****[**Looney**](https://pepe.wtf/artists/Looney)****
