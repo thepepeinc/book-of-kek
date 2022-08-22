@@ -7,6 +7,36 @@ description: >-
 
 # PEPE NEWS OUTLET
 
+## FAKEWAX drops retroactively including a vinyl compilation of all tracks on Fake Rares S4
+
+August 18th, 2022 ; [source](https://fakeraredirectory.com/fakewax/)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+"FAKEWAX was emancipated and given Fake Statehood in Series 4 thanks to a frog and 50+ creators. The Fake scientists decided we needed to add the Special Edition [FAKEWAX](https://pepe.wtf/asset/FAKEWAX) card Viva La Vandal created retroactively, and make it the 51st state of the ground-breaking [Series 4](https://fakeraredirectory.com/series-4/) collection of the Fake Rares. The card is not just a card. It’s a summation of the hard work the creators and developers of Series 4, which features entirely music NFTs.
+
+![FAKEWAX](../../.gitbook/assets/FAKEWAX.jpeg)
+
+One FAKEWAX equals one FAKE WAX Volume 1 record. Thirty original tracks made for the Fake Rare series are spliced together thanks to Pimpernel Jones, who mastered all the tracks, and 80s Kurt Russell who A\&R’ed the project."&#x20;
+
+Read more about FAKEWAX and its full tracklist [here](https://fakeraredirectory.com/fakewax/).
+
+{% hint style="info" %}
+If you own a [FAKEWAX.REDEEM](https://xchain.io/asset/FAKEWAX.REDEEM) fill out this [CLAIM FORM](https://xcpsub.io/fakewax) to receive your record!
+{% endhint %}
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1559989580404760579" %}
+[CLAIM FORM](https://xcpsub.io/fakewax)
+{% endembed %}
+
+{% hint style="info" %}
+As a tribute to FAKEWAX, Fake master [Pepenardo](https://twitter.com/PepenardoStudio) released [FAKEFAKEWAX](https://pepe.wtf/asset/FAKEFAKEWAX), a 35 numbered limited edition vinyl available only via 48h silent auction at the [pepepawnshop](../pepepawnshop/ "mention").
+{% endhint %}
+
+{% embed url="https://twitter.com/PepePawnShop/status/1556717003062272000" %}
+FAKEFAKEWAX Silent Auction
+{% endembed %}
+
 ## Fake Rares S8 concludes with VVD & ACK drop
 
 July 30th, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1553006852971151360)
