@@ -11,11 +11,11 @@ As of March 2022, [Pepe Inc.](https://twitter.com/PepeInc\_) has been birthed. [
 In the upcoming months, the team plans on implementing new features, such as:
 
 * adding support for Fake Rares and Dank Rares :white\_check\_mark:
-* adding automated drops via pepe.wtf :white\_check\_mark:
-* integrating OTC trades and secondary markets, directly on-site&#x20;
+* adding automated [drops](https://pepe.wtf/drops) via pepe.wtf :white\_check\_mark:
+* conducting [artists & collectors interviews](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md) :white\_check\_mark:
+* documenting [background information ](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/)on cards :white\_check\_mark:
+* integrating OTC trades and secondary markets, directly on-site
 * user profile and multiple wallet linking
-* conducting artist interviews
-* documenting background information on cards
 
 ...and much more.
 
