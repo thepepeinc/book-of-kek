@@ -12,9 +12,9 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 ## Series 1, Card 1 - RAREPEPE
 
-![](../../../.gitbook/assets/RAREPEPE.png)
+<figure><img src="../../../.gitbook/assets/S01 C01 - RAREPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
 
-**Series 1, Card 1 -** [**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) is the card that started it all. The anonymous artist that goes only by "Mike" posted a link to this asset on the Counterparty platform on September 9, 2016 with little explanation. He was also the first and only "Rare Pepe Scientist" for cards 1 - 1,000. The image is a parody of Dorian Nakamoto who was falsely identified as the real Satoshi Nakamoto in a high-profile article in the US magazine "Newsweek" on March 6, 2014. You can read more about it here: [https://en.wikipedia.org/wiki/Satoshi\_Nakamoto](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto)
+**Series 1, Card 1 -** [**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) is the card that started it all. The anonymous artist that goes only by "Mike" posted a link to this asset on the Counterparty platform on September 9, 2016 with little explanation. He was also the first and only "Rare Pepe Scientist" for cards 1 - 1,000. The image is a parody of Dorian Nakamoto who was falsely identified as the real Satoshi Nakamoto in a [high-profile article](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto) in the US magazine "Newsweek" on March 6, 2014.
 
 ## Series 1, Card 2 - GOXPEPE
 
@@ -44,7 +44,7 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 ![](<../../../.gitbook/assets/S01 C07 - PEPEPARTY card and source.jpg>)
 
-**Series 1, Card 7 -** [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY) was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers who I believe are [Matt Elias](https://counterparty.io/team/matt-elias/) (Top Left) [Matt Young ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
+**Series 1, Card 7 -** [PEPEPARTY](https://pepe.wtf/asset/PEPEPARTY) was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers - [Evan Wagner](https://counterparty.io/team/evan-wagner/) (Top Left), [Robby Dermody](https://counterparty.io/team/robby-dermody/)[ ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
 
 ## Series 1, Card 14 - GURUPEPE
 

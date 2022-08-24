@@ -6,6 +6,14 @@ description: >-
 
 # Series 4
 
+## Series 4, Card 4 - SALTYTADPEPE
+
+<figure><img src="../../../.gitbook/assets/S04 C04 - SALTYTADPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 4, Card 4** - [SALTYTADPEPE](https://pepe.wtf/asset/SALTYTADPEPE) was created by  an [unknown artist](https://pepe.wtf/artists/1K91tkFMHE8ZucozbBJGxHniCQfoCKRiKy). They created a total of 4 cards for the Rare Pepe series including [SADMILKPEPE](https://pepe.wtf/asset/SADMILKPEPE) and [BLOCKPEPE](https://pepe.wtf/asset/BLOCKPEPE).\
+\
+The background of the card is a section of the [color woodblock print](https://ukiyo-e.org/image/aic/99030\_512676) _"The Great Wave off Kanagawa (Kanagawa oki nami ura), from the series Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)"_ by the Japanese artist [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) between 1830 and 1832.&#x20;
+
 ## Series 4, Card 14 - LEANPEPE
 
 ![](<../../../.gitbook/assets/S04 C14 - LEANPEPE card and source.jpg>)
