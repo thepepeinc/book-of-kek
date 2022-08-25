@@ -5,7 +5,7 @@ description: >-
   Pepe folks for Pepe folks.
 ---
 
-# PEPE NEWS OUTLET
+# Pepe News Outlet 📰
 
 ## FAKEWAX drops retroactively including a vinyl compilation of all tracks on Fake Rares S4
 
@@ -15,7 +15,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 "FAKEWAX was emancipated and given Fake Statehood in Series 4 thanks to a frog and 50+ creators. The Fake scientists decided we needed to add the Special Edition [FAKEWAX](https://pepe.wtf/asset/FAKEWAX) card Viva La Vandal created retroactively, and make it the 51st state of the ground-breaking [Series 4](https://fakeraredirectory.com/series-4/) collection of the Fake Rares. The card is not just a card. It’s a summation of the hard work the creators and developers of Series 4, which features entirely music NFTs.
 
-![FAKEWAX](../../.gitbook/assets/FAKEWAX.jpeg)
+![FAKEWAX](../.gitbook/assets/FAKEWAX.jpeg)
 
 One FAKEWAX equals one FAKE WAX Volume 1 record. Thirty original tracks made for the Fake Rare series are spliced together thanks to Pimpernel Jones, who mastered all the tracks, and 80s Kurt Russell who A\&R’ed the project."&#x20;
 
@@ -30,7 +30,7 @@ If you own a [FAKEWAX.REDEEM](https://xchain.io/asset/FAKEWAX.REDEEM) fill out t
 {% endembed %}
 
 {% hint style="info" %}
-As a tribute to FAKEWAX, Fake master [Pepenardo](https://twitter.com/PepenardoStudio) released [FAKEFAKEWAX](https://pepe.wtf/asset/FAKEFAKEWAX), a 35 numbered limited edition vinyl available only via 48h silent auction at the [pepepawnshop](../pepepawnshop/ "mention").
+As a tribute to FAKEWAX, Fake master [Pepenardo](https://twitter.com/PepenardoStudio) released [FAKEFAKEWAX](https://pepe.wtf/asset/FAKEFAKEWAX), a 35 numbered limited edition vinyl available only via 48h silent auction at the [pepepawnshop](../chapter-4-latest-developments/pepepawnshop/ "mention").
 {% endhint %}
 
 {% embed url="https://twitter.com/PepePawnShop/status/1556717003062272000" %}
@@ -45,7 +45,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
 
-![GRANTYUM](../../.gitbook/assets/GRANTYUM.png) ![LILYPAD](<../../.gitbook/assets/LILYPAD (1).jpeg>)
+![GRANTYUM](../.gitbook/assets/GRANTYUM.png) ![LILYPAD](<../.gitbook/assets/LILYPAD (1).jpeg>)
 
 This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading artists in the NFT space onboarded to Fake Rares & XCP, as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
@@ -73,7 +73,7 @@ Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
 On the 19th of July, [AL Fernandz](https://twitter.com/al\_fernandz?s=20\&t=EFVnMu0qbGu-\_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 Fake Rare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough).
 
-![PEPEVERSE](../../.gitbook/assets/FAKEVERSE.png)
+![PEPEVERSE](../.gitbook/assets/FAKEVERSE.png)
 
 Created as a homage to collectors, FAKEVERSE (capped at 100 cards) goes beyond static visuals and rarity metrics by reflecting the activity of its holders in real time. In the Fakeverse, holders with the same amount of cards live together on different planets and can view the assets on the interactive page here: [http://pepe.wtf/fakeverse](http://pepe.wtf/fakeverse)
 
@@ -91,7 +91,7 @@ July 20th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1549879030790
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-On July 20th_,_ [Farokh](https://twitter.com/farokh) invited the OGs of Rares & Fakes to his daily podcast show GM NFTs on [Rug Radio](https://twitter.com/RugRadio): [Joe Looney](https://twitter.com/wasthatawolf), [Robness](https://twitter.com/ROBNESSOFFICIAL), [Rare Scrilla](https://twitter.com/ScrillaVentura) & [Fake Annie](https://twitter.com/fakefakeannie) joined him to talk about the beginnings of the [Rare Pepe Project](../../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), the current success of [Fake Rares](../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) and the hype around [VVD's curated Series 8](./#vvd-announces-curated-fake-rares-series-8), as well as the Book Of Kek.
+On July 20th_,_ [Farokh](https://twitter.com/farokh) invited the OGs of Rares & Fakes to his daily podcast show GM NFTs on [Rug Radio](https://twitter.com/RugRadio): [Joe Looney](https://twitter.com/wasthatawolf), [Robness](https://twitter.com/ROBNESSOFFICIAL), [Rare Scrilla](https://twitter.com/ScrillaVentura) & [Fake Annie](https://twitter.com/fakefakeannie) joined him to talk about the beginnings of the [Rare Pepe Project](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), the current success of [Fake Rares](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) and the hype around [VVD's curated Series 8](./#vvd-announces-curated-fake-rares-series-8), as well as the Book Of Kek.
 
 _"Today after diving into some of the positive macros we jumped into the Rare Pepe rabbit hole. Learning about everything from the creation, the inspiration to the eventual deviation due to strict moderation that became the Fake Rares. Listen in for a history lesson on all things Rare Pepe."_
 
@@ -143,7 +143,7 @@ However, with NOTKAMOTO he challenges the standard practice of the master copy g
 
 {% embed url="https://twitter.com/MattKaneArtist/status/1542952953400549376?s=20&t=NrD6EAPHU7POOtTr6MvDNQ" %}
 
-Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](discord.gg/gazers/) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO.
+Alongside exhibiting work in [Sotheby’s 2021 Natively Digital auction](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/meules-after-claude-monet?locale=en), Kanes also has a [“Gazers” discord](../chapter-4-latest-developments/pepe-news-outlet/discord.gg/gazers/) named after his [Art Blocks collection](https://www.artblocks.io/project/215) where people can talk about NOTKAMOTO.
 
 Ultimately, while the original RAREPEPE Nakamoto card served as the progenitor of the [CryptoArt movement](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), Notkamoto by Kanes is a shining example of a work that reflects the current state of digital craftsmanship and dank culture.
 
@@ -197,7 +197,7 @@ Also, [Pepe.wtf](https://t.co/7H2dOxwXNK) is showing them as PFPs in the leaderb
 
 Pepe.wtf will continue working and adding cool things to the 300 club. Hats off to the incredible work developed by [@TheNakasClub](https://twitter.com/TheNakasClub)!
 
-![](<../../.gitbook/assets/Screen Shot 2022-06-16 at 9.16.35 PM.png>) ![](../../.gitbook/assets/FVXtT\_NWAAAG3Vj.jpeg)
+![](<../.gitbook/assets/Screen Shot 2022-06-16 at 9.16.35 PM.png>) ![](../.gitbook/assets/FVXtT\_NWAAAG3Vj.jpeg)
 
 ## Joe Looney joins the Pepe Inc.
 
@@ -235,13 +235,13 @@ Starting on June 19th to 23rd, taking place in TriBeCa, 80 W Broadway, "FROGS > 
 
 Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20\&t=PKjaZg5EiktvibjYJ\_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
 
-![IRL Fake Rares dispenser at FROGS>FIAT NYC](<../../.gitbook/assets/Mint IRL Fakes.jpeg>)
+![IRL Fake Rares dispenser at FROGS>FIAT NYC](<../.gitbook/assets/Mint IRL Fakes.jpeg>)
 
 Visitors can also scoop a VIP ticket to DJ Qbert for Wednesday evening. Get the tickets [here](https://scarce.city/sales/FOVRFNYC).
 
 The event ends with an auction party on Thursday featuring live bidding. Beer and food are included for frens.
 
-![FROGS>FIAT NFT.NYC Edition](../../.gitbook/assets/FROGSOVRFIAT.jpeg)
+![FROGS>FIAT NFT.NYC Edition](../.gitbook/assets/FROGSOVRFIAT.jpeg)
 
 ## FAKEBASEL Auction in Basel, Switzerland
 
@@ -261,7 +261,7 @@ You can check out the auctioned goodies [here](https://scarce.city/collections/f
 FAKEBASEL
 {% endembed %}
 
-![](<../../.gitbook/assets/2022-06-13 12.40.49.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.45.jpg>) ![](<../../.gitbook/assets/2022-06-13 12.41.18.jpg>)
+![](<../.gitbook/assets/2022-06-13 12.40.49.jpg>) ![](<../.gitbook/assets/2022-06-13 12.41.45.jpg>) ![](<../.gitbook/assets/2022-06-13 12.41.18.jpg>)
 
 ## [Deca.art](https://deca.art/) now supports all assets on Pepe.wtf
 
@@ -279,7 +279,7 @@ May 26th, 2022 ; [source](https://fakeraredirectory.com/la-faka-has-been-defeate
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-![LAFAKADEMISE](../../.gitbook/assets/LAFAKADEMISE.jpeg)
+![LAFAKADEMISE](../.gitbook/assets/LAFAKADEMISE.jpeg)
 
 ### How it all Began
 
@@ -307,7 +307,7 @@ Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 [Espacio SOLO](https://coleccionsolo.com/), the famous Madrid museum approached [@raulmarcosi](https://twitter.com/raulmarcosl) after seeing his and his team's work on [https://pepe.wtf](https://pepe.wtf)
 
-![](../../.gitbook/assets/FPnIdfIXoAExMdd.jfif) ![](../../.gitbook/assets/FPnIhWMX0AAl51a.jfif) ![](../../.gitbook/assets/FPnIiXRX0AQgiNM.jfif)
+![](../.gitbook/assets/FPnIdfIXoAExMdd.jfif) ![](../.gitbook/assets/FPnIhWMX0AAl51a.jfif) ![](../.gitbook/assets/FPnIiXRX0AQgiNM.jfif)
 
 ## Frogs over Fiat
 
@@ -317,7 +317,7 @@ Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 During the [Bitcoin Miami Conference](https://b.tc/conference/), [The Chambers Project](https://thechambersproject.com/) along side [Scarce.city](https://scarce.city/) hosted the ["Frogs over Fiat" event](https://www.eventbrite.com/e/frogs-over-fiat-tickets-308377715047). The event lasted 6-9th of April.
 
-![Frog over Fiat event banner](<../../.gitbook/assets/frog over fiat.png>)
+![Frog over Fiat event banner](<../.gitbook/assets/frog over fiat.png>)
 
 While there, attendees were able to enjoy free beverage, the closing hours of Scarce.city's Fake Rare auction (more on that below) and a Rare & Fake Rare gallery.
 
@@ -325,7 +325,7 @@ Many iconic creations were featured, including the likes of [Pepenardo](https://
 
 As the Scarce.city Pepe tradition dictates, an auction was held on their native marketplace.
 
-![The entire collection which was up for grabs can still be found on Scarce.city here.](<../../.gitbook/assets/Screenshot 2022-04-14 121722.png>)
+![The entire collection which was up for grabs can still be found on Scarce.city here.](<../.gitbook/assets/Screenshot 2022-04-14 121722.png>)
 
 > _"We figured we might as well throw a party so we are doing just that on Thursday the 7th with DJ Qbert and The Gaslamp Killer in Wynwood._ J\_oin us for a killer time with the Scarce.city and Fake Rare’s crew for what is certain to be a fun and inspiring night in the sunny state of Florida!"\_
 

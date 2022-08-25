@@ -17,7 +17,7 @@ Examples of worthy writings:
 * Historical data relevant to [Pepe the Frog](chapter-1-historical-lore/the-creation-pepe-the-frog/) or the [Rare Pepe Movement](broken-reference/)
 * Rare Pepe [Card, Series](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/) and [Artist](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/most-famous-rare-pepe-artists.md) specific lore
 * Interesting events the original authors may have overlooked in their research
-* [Latest events](chapter-4-latest-developments/pepe-news-outlet/) regarding Pepe, Counterparty, Rare Pepes, Fakes and Danks
+* [Latest events](pepe-news-outlet/) regarding Pepe, Counterparty, Rare Pepes, Fakes and Danks
 
 When contributing to the BoK, please make sure:
 

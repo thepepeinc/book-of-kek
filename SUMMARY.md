@@ -3,6 +3,8 @@
 * [The Book of Kek](README.md)
 * [Resources & Links](resources.md)
 * [How to Contribute to the Book of Kek](how-to-contribute-to-the-book-of-kek.md)
+* [Pepe News Outlet 📰](pepe-news-outlet/README.md)
+  * [Pepe News Outlet Rules](pepe-news-outlet/pepe-news-outlet-rules.md)
 
 ## Chapter 1 - Historical Lore
 
@@ -92,5 +94,3 @@
 * [PepePawnShop](chapter-4-latest-developments/pepepawnshop/README.md)
   * [How It Works](chapter-4-latest-developments/pepepawnshop/how-it-works.md)
 * [Pepe Inc.](chapter-4-latest-developments/pepe-inc..md)
-* [PEPE NEWS OUTLET 📰](chapter-4-latest-developments/pepe-news-outlet/README.md)
-  * [Pepe News Outlet Rules](chapter-4-latest-developments/pepe-news-outlet/pepe-news-outlet-rules.md)
