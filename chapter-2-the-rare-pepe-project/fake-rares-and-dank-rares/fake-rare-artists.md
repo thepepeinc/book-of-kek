@@ -4,6 +4,8 @@ Everyone has an equal chance to stand out and prove themselves as great Pepe art
 
 Artists are becoming competitive in creating high quality fakes that pay tribute to the modern NFT culture and Rare Pepe culture with a dash of _fakeness_. The project has become community driven, both by original Rare Pepe artists and newcomers alike.
 
+<figure><img src="../../.gitbook/assets/FAKEMASTER.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FAKEMASTER">FAKEMASTER</a></p></figcaption></figure>
+
 The list of artists contributing to Fake Rares is extensive and growing, for a complete list of all Fake Rares artists visit [pepe.wtf/artists/Fake-Rares](https://pepe.wtf/new/artists/Fake-Rares).&#x20;
 
 Here are some of the most prolific _(in alphabetical order)_:
