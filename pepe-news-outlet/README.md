@@ -7,6 +7,18 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Pepe.wtf introduces new Pepe Exchange Market
+
+September 1st, 2022 ; [source](https://twitter.com/al\_fernandz/status/1564264655773728768)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+[Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature on his site: [pepe.wtf/market](https://pepe.wtf/market), a page to easily explore all different listings across each collection: [Rare Pepes](https://pepe.wtf/market) - [Fake Rares](https://pepe.wtf/market/fake-rares) - [Fake Commons](https://pepe.wtf/market/fake-commons) - [Dank Rares](https://pepe.wtf/market/dank-rares)
+
+The new Market page shows [OpenSea listings](../chapter-3-blockchain-counterparty-how-to/emblem-vault/), [Counterparty BTC dispensers](../chapter-3-blockchain-counterparty-how-to/dispensers-what-are-they-how-to-use-them.md), Counterparty trades and of course the latest [PepePawnShop ](../chapter-4-latest-developments/pepepawnshop/)drops!
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-01 at 4.05.32 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## New 'CryptoArt - Begins' book will feature Rare Pepe
 
 September 1st, 2022 ; [source](https://twitter.com/TheNFTMag/status/1564655938472030209)
@@ -15,7 +27,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 [The NFT Magazine](https://twitter.com/TheNFTMag) will release its first "phygital" book '[CryptoArt - Begins](https://www.thenftmag.io/cryptoartbegins/)', co-written by [Andrea Concas](https://twitter.com/acvault) _(aka @ACVAULT)_ and [Eleonora Brizi](https://twitter.com/eleonorabrizi) _(author of_ [_The Rarest Book_](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)_)_, on September 19th via the marketplace [Nifty Gateway](https://www.niftygateway.com/marketplace).  Featured on the digital cover of the book is the Rare Pepe card [MODERNPEPE](https://pepe.wtf/asset/MODERNPEPE) issued in March 2017 by artist [Meme Conscious](https://pepe.wtf/artists/Meme-Conscious).&#x20;
 
-<figure><img src="../.gitbook/assets/Cryptoart Begins (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cryptoart Begins.jpeg" alt=""><figcaption></figcaption></figure>
 
 Inside the book, Rare Pepes will be featured among some of the 50 best crypto artists of our time, including works and words by OG Pepe artists such as [@ScrillaVentura](https://twitter.com/ScrillaVentura), [@theog\_\_](https://twitter.com/theog\_\_), [@pepe\_designer](https://twitter.com/pepe\_designer), [@Rare\_Luca](https://twitter.com/Rare\_Luca), [@NFTcloud69](https://twitter.com/NFTcloud69), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL) & [@MemeConscious](https://twitter.com/MemeConscious).
 
