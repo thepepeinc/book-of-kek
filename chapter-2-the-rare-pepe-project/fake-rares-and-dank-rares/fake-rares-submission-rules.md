@@ -1,7 +1,13 @@
 # Fake Rares Submission Rules
 
-{% hint style="warning" %}
-_Please note: The submission to Fake Rares is currently paused. In the meantime, you can submit your art to the_ [_Fake Commons_](fake-commons/) _or_ [_Dank Rares_](broken-reference) _instead._
+The Fake Rare Directory has recently [re-opened its submissions](../../pepe-news-outlet/#fake-rares-submissions-are-open-again). While this is great news for creators, as lots of artists have been waiting to submit their latest creations for a while, please expect a rather long waitlist and backlog in the submission process.
+
+To submit your Fake Rares visit the [Fake Submission Portal](https://fakeraredirectory.com/fake-submissions/) and follow this guide below.
+
+**You can also find the official submission rules** [**here**](https://fakeraredirectory.com/fake-submission-rules/)**.**
+
+{% hint style="info" %}
+_The barrier of entry to Fake Rares can be higher and the waitlist longer. In the meantime you can submit your creations to the_ [_Fake Commons_](fake-commons/) _instead. More info_ [_here_](fake-commons/#fake-commons-submission-rules)_._
 {% endhint %}
 
 ![FAKECHATS](<../../.gitbook/assets/FAKECHATS small.png>)
@@ -13,8 +19,6 @@ To the non crypto-coin person this can be quite the learning task. To people alr
 The cost to create an asset is 0.5 XCP (and a little bitcoin for the miner fee).
 
 To submit to the Fake Rare Directory, you will need to DESTROY 1 [FAKEASF](https://pepe.wtf/asset/FAKEASF). You can destroy the token by using the [Freewallet.io](http://freewallet.io/) app. Once approved your card will appear on [fakeraredirectory.com](http://fakeraredirectory.com/).
-
-You can find the official submission rules [here](https://fakeraredirectory.com/fake-submission-rules/).
 
 ### Real Fakes Submission Rules:
 
@@ -34,3 +38,5 @@ You can find the official submission rules [here](https://fakeraredirectory.com/
 {% hint style="info" %}
 Reach out on the [Official Telegram Chat](https://t.me/OFFICIALFAKERARES) if you need help.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-01 at 4.35.00 PM.png" alt=""><figcaption><p><a href="https://fakeraredirectory.com/fake-submissions/">FAKE SUBMISSION PORTAL</a></p></figcaption></figure>
