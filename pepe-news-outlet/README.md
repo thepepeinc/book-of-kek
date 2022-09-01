@@ -125,8 +125,6 @@ Search for different cards and explore the cosmos!
 
 > _“I wanted to do something unique for artists and pepe.wtf users. So now every artist can navigate the universe of their cards, and every collector can navigate the planets they live on.”_ - Al
 
-{% embed url="https://twitter.com/al_fernandz/status/1549352175054327814?s=20&t=-NcXHkfQWe6d1sLdw1i08A" %}
-
 ## Rares, Fakes & the Pepe OGs on Rug Radio
 
 July 20th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1549879030790356992)
@@ -165,7 +163,7 @@ July 1st, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/154296463
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-[![s97ayq-image.jpg](https://i.postimg.cc/05zxP0jm/s97ayq-image.jpg)](https://postimg.cc/0r1hCmp2)
+<figure><img src="../.gitbook/assets/NOTKAMOTO.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/NOTKAMOTO">NOTKAMOTO</a></p></figcaption></figure>
 
 As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016.
 
