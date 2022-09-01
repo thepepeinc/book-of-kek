@@ -7,6 +7,20 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## New 'CryptoArt - Begins' book will feature Rare Pepe
+
+September 1st, 2022 ; [source](https://twitter.com/TheNFTMag/status/1564655938472030209)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+[The NFT Magazine](https://twitter.com/TheNFTMag) will release its first "phygital" book '[CryptoArt - Begins](https://www.thenftmag.io/cryptoartbegins/)', co-written by [Andrea Concas](https://twitter.com/acvault) _(aka @ACVAULT)_ and [Eleonora Brizi](https://twitter.com/eleonorabrizi) _(author of_ [_The Rarest Book_](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)_)_, on September 19th via the marketplace [Nifty Gateway](https://www.niftygateway.com/marketplace).  Featured on the digital cover of the book is the Rare Pepe card [MODERNPEPE](https://pepe.wtf/asset/MODERNPEPE) issued in March 2017 by artist [Meme Conscious](https://pepe.wtf/artists/Meme-Conscious).&#x20;
+
+<figure><img src="../.gitbook/assets/Cryptoart Begins (1).jpeg" alt=""><figcaption></figcaption></figure>
+
+Inside the book, Rare Pepes will be featured among some of the 50 best crypto artists of our time, including works and words by OG Pepe artists such as [@ScrillaVentura](https://twitter.com/ScrillaVentura), [@theog\_\_](https://twitter.com/theog\_\_), [@pepe\_designer](https://twitter.com/pepe\_designer), [@Rare\_Luca](https://twitter.com/Rare\_Luca), [@NFTcloud69](https://twitter.com/NFTcloud69), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL) & [@MemeConscious](https://twitter.com/MemeConscious).
+
+As the author Eleonora Brizi would put it: "[Crypto Art explained from its core](https://twitter.com/eleonorabrizi/status/1564660555369029633)."
+
 ## FAKEWAX drops retroactively including a vinyl compilation of all tracks on Fake Rares S4
 
 August 18th, 2022 ; [source](https://fakeraredirectory.com/fakewax/)
