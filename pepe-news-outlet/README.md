@@ -13,7 +13,7 @@ September 1st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1565353
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-Fake Rares announced that the process to [submit new Fakes](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-submission-rules.md) is officially open again as of September 1st! To submit your Fake Rare follow [our guide](../chapter-3-blockchain-counterparty-how-to/creator-onboarding-to-xcp/8.-submit-to-directories.md) or visit the [Fake Submission Portal](https://fakeraredirectory.com/fake-submissions/).
+Fake Rares announced that the process to [submit new Fakes](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-submission-rules.md) is officially open again as of September 1st! To submit your Fake Rare follow [our guide ](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-submission-rules.md)or visit the [Fake Submission Portal](https://fakeraredirectory.com/fake-submissions/).
 
 {% hint style="info" %}
 _While this is great news for creators, as lots of artists have been waiting to submit their latest creations for a while, please expect a rather long waitlist and backlog in the submission process._
