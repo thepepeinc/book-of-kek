@@ -21,7 +21,7 @@ description: >-
 * [Art On The Blockchain Podcast: AOTB Episode 4 featuring Joe Looney](https://itunes.apple.com/us/podcast/art-on-the-blockchain-podcast/id1294782966?)
 * [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)
 
-## Collector: TokenAngels
+## Collector Interview: TokenAngels
 
 July 14th, 2022
 
