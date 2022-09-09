@@ -134,3 +134,4 @@ description: >-
 * [Art On The Blockchain Podcast: AOTB Episode 4 featuring Joe Looney](https://itunes.apple.com/us/podcast/art-on-the-blockchain-podcast/id1294782966?)
 * [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)
 * [Discussing Rare Pepes with RareScrilla, creator of over 25 Pepes, such as DJPEPE](https://youtu.be/5tqjhmfLlow)
+* [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA)

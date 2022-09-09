@@ -9,17 +9,49 @@ description: >-
 
 ## Articles, Videos & Podcasts
 
-* [Discussing Rare Pepes with RareScrilla, creator of over 25 Pepes, such as DJPEPE](https://youtu.be/5tqjhmfLlow)
 * [From Memes to Memetic Money \[Interview with Eleonora Brizi + Louis Parker\]](https://steemit.com/art/@creativecrypto/frommemestomemeticmoneyinterviewwitheleonorabrizilouisparkeroftherarestbook-2wqhpf4a1t)
 * [RareAF Talks: Joe Looney, Rare Pepe Wallet | by RARE Art Labs | Medium](https://medium.com/@rareartlabs/rareaf-talks-joe-looney-rare-pepe-wallet-db309924c72b)
-* [History of RarePepes and the start of Crypto Art with RareScrilla](https://www.youtube.com/watch?v=4pRF6OpzQaU)
-* [Creator of the Rare Pepe Wallet & A Rare Pepe Scientist | Joe Looney & Shawn Leary](https://www.youtube.com/watch?v=A1y4CDOtvos\&t=1635s)
-* [Rare Pepe Pioneer Joe Looney on Paving the Way for NFTs](https://www.youtube.com/watch?v=mN9JbKj5rqs)
-* [Joe Looney - The Legend of Rare Pepe » Crypto Guerrillas](https://cryptoguerrillas.com/joe-looney-the-legend-of-rare-pepe/)
-* [HODLCast Ep. 121 with Rare Scrilla](https://www.youtube.com/watch?v=webCJ9XOPfI\&ab\_channel=SashaHodder) / [Podcast](https://open.spotify.com/episode/6tsIGOoAeIeGK4Q44DDkeL?si=5ca3f732906a4a8d)
-* [Deeze Spaces with Matt Furie and Joe Looney about FEELSGOODMAN](https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=7476abeb2cb94ba5)
-* [Art On The Blockchain Podcast: AOTB Episode 4 featuring Joe Looney](https://itunes.apple.com/us/podcast/art-on-the-blockchain-podcast/id1294782966?)
-* [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)
+* [Discussing Rare Pepes with RareScrilla, creator of over 25 Pepes, such as DJPEPE](https://youtu.be/5tqjhmfLlow):&#x20;
+
+{% embed url="https://youtu.be/5tqjhmfLlow" %}
+
+* [History of RarePepes and the start of Crypto Art with RareScrilla](https://www.youtube.com/watch?v=4pRF6OpzQaU):&#x20;
+
+{% embed url="https://youtu.be/4pRF6OpzQaU" %}
+
+* [Creator of the Rare Pepe Wallet & A Rare Pepe Scientist | Joe Looney & Shawn Leary](https://www.youtube.com/watch?v=A1y4CDOtvos\&t=1635s):&#x20;
+
+{% embed url="https://youtu.be/A1y4CDOtvos" %}
+
+* [Rare Pepe Pioneer Joe Looney on Paving the Way for NFTs](https://www.youtube.com/watch?v=mN9JbKj5rqs):&#x20;
+
+{% embed url="https://youtu.be/mN9JbKj5rqs" %}
+
+* [Joe Looney - The Legend of Rare Pepe » Crypto Guerrillas](https://cryptoguerrillas.com/joe-looney-the-legend-of-rare-pepe/):&#x20;
+
+{% embed url="https://anchor.fm/keywordcrypto/episodes/Joe-Looney---The-Legend-of-Rare-Pepe-efcrf8/a-a2f695i" %}
+
+* [HODLCast Ep. 121 with Rare Scrilla](https://www.youtube.com/watch?v=webCJ9XOPfI\&ab\_channel=SashaHodder) / [Podcast](https://open.spotify.com/episode/6tsIGOoAeIeGK4Q44DDkeL?si=5ca3f732906a4a8d):&#x20;
+
+{% embed url="https://youtu.be/webCJ9XOPfI" %}
+
+* [Deeze Spaces with Matt Furie and Joe Looney about FEELSGOODMAN](https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=7476abeb2cb94ba5):
+
+{% embed url="https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=6hDP_XEZTlGVLkFHikTAog" %}
+
+* [Art On The Blockchain Podcast: AOTB Episode 4 featuring Joe Looney](https://itunes.apple.com/us/podcast/art-on-the-blockchain-podcast/id1294782966?):
+
+{% embed url="https://podcasts.apple.com/us/podcast/aotb-episode-4-featuring-joe-looney/id1294782966?i=1000393308664" %}
+
+* [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893):
+
+{% embed url="https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=0809c9cbdb704b0e" %}
+
+* [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA):
+
+{% embed url="https://youtu.be/RXWS_mi2baA" %}
+[Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA)
+{% endembed %}
 
 ## Collector Interview: TokenAngels
 
