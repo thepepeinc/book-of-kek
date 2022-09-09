@@ -7,6 +7,41 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Pepe.wtf introduces new Basket feature for picking multiple cards
+
+September 9th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1567836588155060224)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+In a recent tweet, [Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature to better the Drops page UX:&#x20;
+
+"_In our mission of helping artist to distribute and collectors to collect, we have been working on something... We are trying to make the process of buying drops, specially_ [_Commons_](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-commons/) _and_ [_Danks_](../dank-rares/)_, more comfortable for those who want to pick multiple cards."_
+
+As part of the new feature, you can add them to the basket and then check out without having to fill the same form for each card. You can still change that information in case you want to specify a different delivery or payment address.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Bulk Basket Feature.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Bulk Basket Feature 2.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+You can add as many cards as you want and check out by clicking _Buy_ or on the floating basket icon in the down right corner. You can still enter a drop without passing through the basket by clicking the buy button directly.[\
+](https://twitter.com/al\_fernandz/status/1567836598888185859/photo/1)
+
+<div>
+
+<figure><img src="../.gitbook/assets/Bulk Basket Feature 3.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Bulk Bag Feature.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## Fake Rares Submissions are open again!
 
 September 1st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1565353860482285569)
@@ -29,7 +64,7 @@ September 1st, 2022 ; [source](https://twitter.com/al\_fernandz/status/156426465
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-[Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature on his site: [pepe.wtf/market](https://pepe.wtf/market), a page to easily explore all different listings across each collection: [Rare Pepes](https://pepe.wtf/market) - [Fake Rares](https://pepe.wtf/market/fake-rares) - [Fake Commons](https://pepe.wtf/market/fake-commons) - [Dank Rares](https://pepe.wtf/market/dank-rares)
+[Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature on the site: [pepe.wtf/market](https://pepe.wtf/market), a page to easily explore all different listings across each collection: [Rare Pepes](https://pepe.wtf/market) - [Fake Rares](https://pepe.wtf/market/fake-rares) - [Fake Commons](https://pepe.wtf/market/fake-commons) - [Dank Rares](https://pepe.wtf/market/dank-rares)
 
 The new Market page shows [OpenSea listings](../chapter-3-blockchain-counterparty-how-to/emblem-vault/), [Counterparty BTC dispensers](../chapter-3-blockchain-counterparty-how-to/dispensers-what-are-they-how-to-use-them.md), Counterparty trades and of course the latest [PepePawnShop ](../chapter-4-latest-developments/pepepawnshop/)drops!
 
