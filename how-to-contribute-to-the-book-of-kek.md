@@ -25,6 +25,14 @@ When contributing to the BoK, please make sure:
 * Gather as much information as you can on the event you are presenting
 * To add any relevant links and graphics relevant to the story, including but not limited to pictures, gifs, videos, external media such as YouTube videos, etc.
 
+As proof of contribution, all meaningful entries will be rewarded the [BOKCULTIST](https://pepe.wtf/asset/BOKCULTIST) - Fake Rare S9 C32 by [@PabloRicasso](https://twitter.com/PabloRicasso):&#x20;
+
+_This is the Official "Book of Kek Contributor" card, issued by_ [pepe-inc..md](chapter-4-latest-developments/pepe-inc..md "mention") _to all worshipers of Lord Kek who have made a valiant effort to contribute to the open repository at_ [_wiki.pepe.wtf_](https://wiki.pepe.wtf/)_, with the goal to tell the fascinating story of Pepe the Frog and compile a comprehensive encyclopedia of all things Pepe._
+
+If you too wish to prove your devotion, contribute historical lore to the Book of Kek!
+
+<figure><img src=".gitbook/assets/Gif 400x560.gif" alt=""><figcaption><p><a href="https://pepe.wtf/asset/BOKCULTIST">BOKCULTIST</a> by <a href="https://pepe.wtf/artists/PabloRicaSSo">PabloRicasso</a></p></figcaption></figure>
+
 ## Option 1: via Github Pull Request
 
 To submit an edit request via Github, please to do the following:
