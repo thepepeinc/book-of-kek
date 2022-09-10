@@ -14,7 +14,7 @@ He has exhibited extensively in the USA and Europe. His comic book series “Boy
 
 ![The Night Riders](<../.gitbook/assets/The Night Riders.jpg>)
 
-Matt is the creator of Pepe the Frog, which appeared in “Boy’s Club” for the first time.
+Matt is the creator of Pepe the Frog, who appeared in “Boy’s Club” for the first time on his Myspace in 2005. In 2006 "Boy's Club" was published by Teenage Dinosaur and subsequently picked up by Buenaventura Press (who also published "Boy's Club 2" and "Boy's Club 3") and later Fantagraphics. "Boys Club 4," the most recent entry in the series, was published by Pigeon Press in 2011.
 
 Matt also appears in "Feels Good Man" - a documentary about Pepe the Frog, the ups and downs of being Pepe’s creator and the socio-political battles he went through with and for Pepe.
 
