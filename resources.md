@@ -110,6 +110,7 @@ description: >-
 * [The True Story Behind the Origins of Pepe the Frog - Artnet NFT](https://news.artnet.com/buyers-guide/pepe-art-angle-transcript-2077584)
 * [Historic NFTs Inevitable Ascent: The Critical Factors Driving Historic NFT Valuations](https://www.startwithnfts.com/posts/historic-nfts-inevitable-ascent-the-critical-factors-driving-historic-nft)
 * [How Rare Pepe NFTs Reclaimed Pepe the Frog—And Why They Remain Relevant - Decrypt](https://decrypt.co/95528/how-rare-pepe-nfts-reclaimed-pepe-the-frog-and-why-they-remain-relevant)
+* [Rare Digital Art Festival #1 Anniversary: Joe Looney - Right Click Save](https://www.rightclicksave.com/article/rare-digital-art-festival-anniversary-joe-looney)
 * [RarePepes: The "Origin" Story - Redlion](https://www.redlion.news/article/rarepepes-the-origin-story)
 
 ## Videos / Podcasts

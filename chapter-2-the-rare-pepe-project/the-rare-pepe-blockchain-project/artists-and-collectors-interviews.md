@@ -19,6 +19,10 @@ description: >-
 
 {% embed url="https://youtu.be/4pRF6OpzQaU" %}
 
+[Rare Digital Art Festival #1 Anniversary: Joe Looney - Right Click Save](https://www.rightclicksave.com/article/rare-digital-art-festival-anniversary-joe-looney):
+
+{% embed url="https://youtu.be/mgFFUY4KsU8" %}
+
 * [Creator of the Rare Pepe Wallet & A Rare Pepe Scientist | Joe Looney & Shawn Leary](https://www.youtube.com/watch?v=A1y4CDOtvos\&t=1635s):&#x20;
 
 {% embed url="https://youtu.be/A1y4CDOtvos" %}
