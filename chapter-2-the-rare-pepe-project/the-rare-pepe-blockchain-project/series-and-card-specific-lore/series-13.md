@@ -8,7 +8,13 @@
 
 The card is a modified version of the [original color woodcut](https://chazen.wisc.edu/collection/6014/swallows-peach-blossoms-and-full-moon/) entitled _"Swallows, Peach Blossoms and Full Moon"_ by the Japanese [ukiyo-e](https://en.wikipedia.org/wiki/Ukiyo-e) artist [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) in 1935. The TEAPEPE artist removed the bottom two peach blossom branches and swallows, added a steaming cup of green pepe tea and added a kneeling woman with a pepe head holding a cup of tea.
 
-##
+## Series 13, Card 41 - PEPELEMMING
+
+<figure><img src="../../../.gitbook/assets/S13 C41 - PEPELEMMING card and sourcejpg.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 13, Card 41** - [PEPELEMMING](https://pepe.wtf/asset/PEPELEMMING) was created by the artist known as [Mrcoins](https://pepe.wtf/artists/Mrcoins). He created a total of three cards for the Rare Pepe series. The other two being [EXCLUPEPE](https://pepe.wtf/asset/EXCLUPEPE) and [MONOPEPEOLY](https://pepe.wtf/asset/MONOPEPEOLY). PEPELEMMING is based on the 1991 video game [Lemmings](https://en.wikipedia.org/wiki/Lemmings\_\(video\_game\)) which was developed for the [Amiga personal computer](https://en.wikipedia.org/wiki/Amiga). Within a year of release the game was ported to other computers including the [Atari ST](https://en.wikipedia.org/wiki/Atari\_ST), [Sinclair Spectrum](https://en.wikipedia.org/wiki/ZX\_Spectrum), the PC, and [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super\_Nintendo\_Entertainment\_System). It would ultimately be ported to over 20 different systems.
+
+<figure><img src="../../../.gitbook/assets/S13 C41 - PEPELEMMING source and card 2.jpg" alt=""><figcaption><p>The Lemmings font used on the card</p></figcaption></figure>
 
 ## Series 13, Card 42 - BEWPEPE
 
