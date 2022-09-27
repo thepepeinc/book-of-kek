@@ -4,9 +4,10 @@ At the same time all of the Pepe controversy was happening over the years, there
 
 ## The Bitcointalk Announcement
 
-It's the 14 septembre 2016, that "billybob2014" has announced, on the crypto forum [Bitcointalk](https://bitcointalk.org/index.php?topic=1617264.0) : **"The first truly rare Pepes on the Bitcoin Blockchain!"**. What have started as a it's "_own little personal project to release_ [it's] _own rare Pepe cards for fun on Counterparty_" will transform into a collective project as he "_quickly realized that_ [he] _wasn't going to be the only one that wanted to make Pepes. So instead _[he]_ created a pepe directory for people to submit their Pepe's to_"[^1] This announcement is made at least one month later the effective beginning of the submission process, as it's states that
-> "_In about a month of Submissions we have reached over 300 Pepe's from artists all over the world_."
+It's the 14 septembre 2016, that "billybob2014" has announced, on the crypto forum [Bitcointalk](https://bitcointalk.org/index.php?topic=1617264.0) : **"The first truly rare Pepes on the Bitcoin Blockchain!"**. What have started as a it's "_own little personal project to release_ [it's] _own rare Pepe cards for fun on Counterparty_" will transform into a collective project as he "_quickly realized that_ [he] _wasn't going to be the only one that wanted to make Pepes. So instead _[he]_ created a pepe directory for people to submit their Pepe's to_"[^1] 
 
+This announcement is made at least one month later the effective beginning of the submission process, as it's states that
+> "_In about a month of Submissions we have reached over 300 Pepe's from artists all over the world_."
 
 The post present the "the first Pepe"_  ever created for the directory : [RAREPEPE](http://rarepepedirectory.com/?p=10), issued at 300 units and another one [PEPECASH](http://rarepepedirectory.com/?p=65), issued in a much larger quantity (at the time, 701884009 units was left in circulation [^2]) because it's have to be the corner stone of the Rare Pepe economy : it's own currency, serving for submission fees and trading. 
 > PEPECASH is just like any other card except its alot more liquid. Its also what is used to pay the submission fee into the RarePepe directory", (billybob2014,[Bitcointalk](https://bitcointalk.org/index.php?topic=1617264.0))
@@ -30,9 +31,6 @@ For the submission, it's adviced to avoid offensive contents (Racism, NFSW, etc.
 > 7) No websites.. QR codes.
 > 8) Only 1 submission per day per artist.  Want to have variety.
 > 9) Please allow 24 to 48 hours before bothering our experts about your submission.[^3]
-
-
-
 
 
 Some Pepes were memes from 4chan, some were superhero knockoffs, some were even political Pepes."
