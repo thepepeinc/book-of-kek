@@ -21,15 +21,15 @@ People could started creating pictures of Pepe, similar to collectible cards and
 
 For the submission, it's adviced to avoid offensive contents (Racism, NFSW, etc.), a [template is offered to download](http://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg) and some more formal rules are set up
 > 1) Pepe’s must be 400 x 560.   They can look like trading cards but it is not required.
-2) Cards can be animated gif’s but keep them to 1. 5 mb or less in size.   Use Compression.
-2) Issuance must be LOCKED  so your Pepe cannot be inflated.
-3) Your Pepe must not be divisible. <— make sure!!
-4) Make sure your artwork at least has something to do with Pepe.
-5) No NSFW content please.  Trying to be keep it light for now. (Pepe has alot of bad press).  If in doubt message @nola1978 on telegram before creating your asset.
-6) When making your token it must have at least 100 Shares and max 100k Shares.
-7) No websites.. QR codes.
-8) Only 1 submission per day per artist.  Want to have variety.
-9) Please allow 24 to 48 hours before bothering our experts about your submission.[^3]
+> 2) Cards can be animated gif’s but keep them to 1. 5 mb or less in size.   Use Compression.
+> 2) Issuance must be LOCKED  so your Pepe cannot be inflated.
+> 3) Your Pepe must not be divisible. <— make sure!!
+>4) Make sure your artwork at least has something to do with Pepe.
+> 5) No NSFW content please.  Trying to be keep it light for now. (Pepe has alot of bad press).  If in doubt message @nola1978 on telegram before creating your asset.
+> 6) When making your token it must have at least 100 Shares and max 100k Shares.
+> 7) No websites.. QR codes.
+> 8) Only 1 submission per day per artist.  Want to have variety.
+> 9) Please allow 24 to 48 hours before bothering our experts about your submission.[^3]
 
 
 
