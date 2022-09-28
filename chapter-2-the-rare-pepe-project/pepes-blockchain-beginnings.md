@@ -65,7 +65,7 @@ Interview / podcast / media :
 * [Archive of the old website](https://web.archive.org/web/20170123101954/http://rarepepe.party/)
 * Quentin de Beauchesne on Rare Pepe Collection (In french) : https://ivy.fm/tag/counterparty
 
-
+==> all my Lets talks Bitcoin post (which have been mirrored on steem it) : https://web.archive.org/web/20170125061406/https://letstalkbitcoin.com/forum/post/rare-pepe-community-we-need-you?page=1
 
 
 
