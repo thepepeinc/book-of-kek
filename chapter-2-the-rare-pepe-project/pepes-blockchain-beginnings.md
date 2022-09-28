@@ -51,6 +51,21 @@ Soon, a platform for trading these collectibles, the “[RarePepeWallet](https:/
 One user even managed to make a profit to buy a yacht which he named “[The SS Rare Pepe](https://www.vice.com/en/article/yw5axg/pepecash-millionaire-yacht-cryptocurrency-rare-pepes)”.\
 The individual has lived on the yacht ever since.
 
+______________________________________________________________
+To add : 
+
+
+Interview / podcast : 
+
+*  Let' Talk Bitcoin episode with Joe Looney, the creator of Rare Pepe Wallet : https://podcastaddict.com/episode/https%3A%2F%2Ffeeds.soundcloud.com%2Fstream%2F500709315-mindtomatter-ltb-375-blockchains-are.mp3&podcastId=3079406
+*  On the Game rarepepeparty : 
+*  ** https://blog.firstblood.io/whos-ready-to-play-the-blockchain-game-803f52c578e1?gi=582467a50fce
+* Quentin de Beauchesne on Rare Pepe Collection (In french) : https://ivy.fm/tag/counterparty
+
+
+
+
+
 {% hint style="info" %}
 Fun fact: The yacht was bought with [PEPECASH](https://pepe.wtf/asset/PEPECASH), one of the tokenized Rare Pepe cards.
 
