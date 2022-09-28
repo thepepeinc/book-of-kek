@@ -12,9 +12,11 @@ This announcement is made at least one month later the effective beginning of th
 The post present the "the first Pepe"_  ever created for the directory : [RAREPEPE](http://rarepepedirectory.com/?p=10), issued at 300 units and another one [PEPECASH](http://rarepepedirectory.com/?p=65), issued in a much larger quantity (at the time, 701884009 units was left in circulation [^2]) because it's have to be the corner stone of the Rare Pepe economy : it's own currency, serving for submission fees and trading. 
 > PEPECASH is just like any other card except its alot more liquid. Its also what is used to pay the submission fee into the RarePepe directory", (billybob2014,[Bitcointalk](https://bitcointalk.org/index.php?topic=1617264.0))
 
-![RAREPEPE](../.gitbook/assets/RAREPEPE.png);   
 
-![PEPECASH](http://rarepepedirectory.com/wp-content/uploads/2016/09/pepecash3.jpg)
+| [RAREPEPE](http://rarepepedirectory.com/?p=10)  | [PEPECASH](http://rarepepedirectory.com/?p=65) |
+| :--------------- |-----:|
+| ![RAREPEPE](../.gitbook/assets/RAREPEPE.png)  | ![PEPECASH](http://rarepepedirectory.com/wp-content/uploads/2016/09/pepecash3.jpg)  |
+| ASSET NAME: RAREPEPE; AMOUNT ISSUED: 300; SERIES 1 ; September 13, 2016 ;   | ASSET NAME: PEPECASH; AMOUNT ISSUED: 1,000,000,000[^2]; SERIES 1 ; September 18, 2016 ; |
 
 ### The submission : it's process & rules 
 
