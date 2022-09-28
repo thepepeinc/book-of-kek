@@ -55,12 +55,17 @@ ______________________________________________________________
 To add : 
 
 
-Interview / podcast : 
+Interview / podcast / media : 
 
 *  Let' Talk Bitcoin episode with Joe Looney, the creator of Rare Pepe Wallet : https://podcastaddict.com/episode/https%3A%2F%2Ffeeds.soundcloud.com%2Fstream%2F500709315-mindtomatter-ltb-375-blockchains-are.mp3&podcastId=3079406
 *  On the Game rarepepeparty : 
-*  ** https://blog.firstblood.io/whos-ready-to-play-the-blockchain-game-803f52c578e1?gi=582467a50fce
+* https://blog.firstblood.io/whos-ready-to-play-the-blockchain-game-803f52c578e1?gi=582467a50fce
+* [The teaser of the game](https://www.youtube.com/watch?v=IfPkrAo25DM)
+* [RarePepeParty Business proposal](https://docs.google.com/document/d/1k8Dq6k4OHLD6NZ-qlwGjLYIq_ndVpopDolOXq7SjDuo/edit)
+* [Archive of the old website](https://web.archive.org/web/20170123101954/http://rarepepe.party/)
 * Quentin de Beauchesne on Rare Pepe Collection (In french) : https://ivy.fm/tag/counterparty
+
+
 
 
 
