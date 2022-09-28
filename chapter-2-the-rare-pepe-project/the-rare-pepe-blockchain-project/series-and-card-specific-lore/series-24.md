@@ -1,5 +1,13 @@
 # Series 24
 
+## Series 24, Card 41 - PEPEWYATT
+
+<figure><img src="../../../.gitbook/assets/S24 C41 - PEPEWYATT card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 24, Card 41** - [PEPEWYATT](https://pepe.wtf/asset/PEPEWYATT) was created by the artist known as [Easy B](https://pepe.wtf/artists/Easy-B). He has a whopping 39 cards in the Rare Pepe project covering a broad range of topics from wrestlers to movie stars to comic books.&#x20;
+
+The card is the artist's rendition of a [2020 Tee Shirt advertisement](https://twitter.com/WWEShop/status/1271102769756344322?s=20\&t=Xt6mmcf-CPH6gcBePYpFNQ) that appeared on Twitter. The man pictured is [Bray Wyatt](https://en.wikipedia.org/wiki/Bray\_Wyatt), an American pro wrestler that is better known as The Fiend. Wyatt's catchphrase was "Follow the Buzzards," which was changed to "Follow the Blockchain" by Easy B. for his card.&#x20;
+
 ## Series 24, Card 48 - PEPEPOLLOCK
 
 <figure><img src="../../../.gitbook/assets/S24 C48 - PEPEPOLLOCK source and card.jpg" alt=""><figcaption></figcaption></figure>

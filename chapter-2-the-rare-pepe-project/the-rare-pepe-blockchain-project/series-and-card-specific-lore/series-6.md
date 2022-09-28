@@ -15,3 +15,9 @@
 **Series 6, Card 16** - [DAPPERPEPE](https://pepe.wtf/asset/DAPPERPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1M4JpknVSo4RGghewZ9jgcvMYHRLVMGGCU). They created a total of 6 cards for the Rare Pepe series including [PEPETRADER](https://pepe.wtf/asset/PEPETRADER) and [PEPESSANGE](https://pepe.wtf/asset/PEPESSANGE).  &#x20;
 
 The man on the card is American film actor, [Clark Gable](https://en.wikipedia.org/wiki/Clark\_Gable) on the set of the 1936 film "[Wife vs. Secretary](https://en.wikipedia.org/wiki/Wife\_vs.\_Secretary)". It appears Mr. Gable is doing some leisure reading between takes, or reading his script while enjoying a cold beverage.&#x20;
+
+## Series 6, Card 24 - RPEPEGOJAIL
+
+<figure><img src="../../../.gitbook/assets/S06 C24 - RPEPEGOJAIL card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 6, Card 24** - [RPEPEGOJAIL](https://pepe.wtf/asset/RPEPEGOJAIL) was created by the artist [Yoni Terenzi](https://pepe.wtf/artists/Yoni-Terenzi). It is the companion card to his Series 4 card [RPJAILEXIT](https://pepe.wtf/asset/RPJAILEXIT). The card is a copy of the Chance card "[Go to Jail](https://monopoly.fandom.com/wiki/Go\_to\_Jail\_\(card\))" from the board game [Monopoly](https://en.wikipedia.org/wiki/Monopoly\_\(game\)).

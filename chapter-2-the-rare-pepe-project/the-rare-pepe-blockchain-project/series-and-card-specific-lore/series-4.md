@@ -14,6 +14,14 @@ description: >-
 \
 The background of the card is a section of the [color woodblock print](https://ukiyo-e.org/image/aic/99030\_512676) _"The Great Wave off Kanagawa (Kanagawa oki nami ura), from the series Thirty-six Views of Mount Fuji (Fugaku sanjurokkei)"_ by the Japanese artist [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) between 1830 and 1832.&#x20;
 
+## Series 4, Card 13 - RPJAILEXIT
+
+<figure><img src="../../../.gitbook/assets/S04 C13 - RPJAILEXIT card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 4, Card 13** - [RPJAILEXIT](https://pepe.wtf/asset/RPJAILEXIT) was created by the artist [Yoni Terenzi](https://pepe.wtf/artists/Yoni-Terenzi), an Italian living in London. Yoni told me he made this card "dreaming to use it IRL to get out of troubles." He also made two of the earliest sports NFT's - [RPEPEARMANDO](https://pepe.wtf/asset/RPEPEARMANDO) and [RAREPEPESS](https://pepe.wtf/asset/RAREPEPESS). In total Yoni made 9 cards for the Rare Pepe project.
+
+The card is a copy of one of the many "Chance" cards that are part of the board game [Monopoly](https://en.wikipedia.org/wiki/Monopoly\_\(game\)). The original [Get Out of Jail Free ](https://monopoly.fandom.com/wiki/Get\_out\_of\_Jail\_Free\_\(card\))image has been used on everything from clothes to fine art. So it being part of the Rare Pepe project is no surprise. &#x20;
+
 ## Series 4, Card 14 - LEANPEPE
 
 ![](<../../../.gitbook/assets/S04 C14 - LEANPEPE card and source.jpg>)

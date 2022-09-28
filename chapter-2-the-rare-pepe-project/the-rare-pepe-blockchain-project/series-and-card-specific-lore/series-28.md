@@ -6,6 +6,12 @@ description: >-
 
 # Series 28
 
+## Series 28, Card 12 - PEPEUNGYO
+
+<figure><img src="../../../.gitbook/assets/S28 C12 - PEPEUNGYO card and source.png" alt=""><figcaption></figcaption></figure>
+
+**Series 28, Card 12** - [PEPEUNGYO](https://pepe.wtf/asset/PEPEUNGYO) was created by an [unknown artist](https://pepe.wtf/artists/13Gq5fqZ1gXrD4gxNm1YfycBHCp1S4Nphu). They created a total of 4 cards for the Rare Pepe project (two pairs of Japanese warriors). PEPEUNGYO is a parodied drawing of the cypress wood statue Ungyō created in the year 1203 by the Japanese sculptor [Unkei](https://en.wikipedia.org/wiki/Unkei). Ungyō  is a fierce guardian figure that stands over 8 meters tall and is displayed at the Great South Gate at the temple known as [Tōdai-ji](https://smarthistory.org/todai-ji/). These [protective figures](https://www.japan-talk.com/jt/new/the-fearsome-protectors-of-japanese-temples) always come in pairs, and Ungyō's is named Agyō.
+
 ## Series 28, Card 16 - PEPEYAKUZA
 
 <figure><img src="../../../.gitbook/assets/S28 C16 - PEPEYAKUZA card and source.jpg" alt=""><figcaption></figcaption></figure>
@@ -15,6 +21,12 @@ description: >-
 The card image is a modified of a [1973 Japanese yakuza film](https://en.wikipedia.org/wiki/Battles\_Without\_Honor\_and\_Humanity\_\(film\)) titled _"Battles Without Honor and Humanity"_ staring [Bunta Sugawara](https://en.wikipedia.org/wiki/Bunta\_Sugawara). Sugawara acted in over 200 films, including the fittingly titled ["Frog Drifts Into a Sad Town"](https://www.imdb.com/title/tt0440020/).
 
 
+
+## Series 28, Card 32 - TALESPEPE
+
+<figure><img src="../../../.gitbook/assets/S28 C32 - TALESPEPE source and card.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 28, Card 32** - [TALESPEPE](https://pepe.wtf/asset/TALESPEPE) was created by the artist [Easy B](https://pepe.wtf/artists/Easy-B). He has a total of 39 cards in the Rare Pepe project. This one is a parody of a US Comic book called [Tales From the Crypt](https://en.wikipedia.org/wiki/Tales\_from\_the\_Crypt\_\(comics\)). Specifically book #24 which was published in June/July 1951. The cover art was done by [Al Feldstein](https://en.wikipedia.org/wiki/Al\_Feldstein).&#x20;
 
 
 
