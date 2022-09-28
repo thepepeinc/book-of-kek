@@ -21,7 +21,11 @@ The post present the "the first Pepe"_  ever created for the directory : [RAREPE
 
 People could started creating pictures of Pepe, similar to collectible cards and tokenizing them on the blockchain, but the must follow a process and rules to submit their creation to the directory. 
 
-For the submission : it's adviced to avoid offensive contents (Racism, NFSW, etc.), a [template is offered to download](http://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg) but it's not mandatory and the following formal rules are settled up :
+For the submission : 
+* it's adviced to avoid offensive contents (Racism, NFSW, etc.), 
+* a [template is offered to download](http://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg) but it's not mandatory  
+![RARE PEPE TEMPLATE](http://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg); and 
+* the following formal rules are settled up :
 > 1) Pepe’s must be 400 x 560.   They can look like trading cards but it is not required.
 > 2) Cards can be animated gif’s but keep them to 1. 5 mb or less in size.   Use Compression.
 > 2) Issuance must be LOCKED  so your Pepe cannot be inflated.
