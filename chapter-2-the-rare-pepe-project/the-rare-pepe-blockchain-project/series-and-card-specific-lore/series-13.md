@@ -8,6 +8,14 @@
 
 The card is a modified version of the [original color woodcut](https://chazen.wisc.edu/collection/6014/swallows-peach-blossoms-and-full-moon/) entitled _"Swallows, Peach Blossoms and Full Moon"_ by the Japanese [ukiyo-e](https://en.wikipedia.org/wiki/Ukiyo-e) artist [Utagawa Hiroshige](https://en.wikipedia.org/wiki/Hiroshige) in 1935. The TEAPEPE artist removed the bottom two peach blossom branches and swallows, added a steaming cup of green pepe tea and added a kneeling woman with a pepe head holding a cup of tea.
 
+## Series 13, Card 32 - PEPEKIM
+
+<figure><img src="../../../.gitbook/assets/S13 C32 - PEPEKIM card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 13, Card 32** - [PEPEKIM](https://pepe.wtf/asset/PEPEKIM) was created by the artist [Zed Erwan](https://pepe.wtf/artists/Zed-Erwan). He contributed a total of 12 cards to the Rare Pepe project. This card is one of the four cards Zed created digitally. The other eight cards were hand drawn or painted.
+
+The card is a parody of [an image](https://www.papermag.com/break-the-internet-kim-kardashian-cover-1427450475.html?rebelltitem=1#rebelltitem1) of [Kim Kardashian](https://en.wikipedia.org/wiki/Kim\_Kardashian) that appeared in the magazine _Paper_ in the winter of 2014. The accompanying article was entitled "Break the Internet" which Zed changed to "Break the Blockchain."
+
 ## Series 13, Card 41 - PEPELEMMING
 
 <figure><img src="../../../.gitbook/assets/S13 C41 - PEPELEMMING card and sourcejpg.jpg" alt=""><figcaption></figcaption></figure>

@@ -28,6 +28,12 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 **Series 1, Card 4** - [**PEPENATION**](https://pepe.wtf/asset/PEPENATION) was created by [Theo Goodman](https://pepe.wtf/artists/Theo-Goodman). You can read more about Theo in the GURUPEPE write-up below. Pictured in the card is [Susanne Tarkowski Tempelhof](https://www.crunchbase.com/person/susanne-tarkowski-tempelhof) of the project BitNation. The firm partnered with Spacechain in 2015 to create a peer-to-peer research service to study the cosmos. [Here](https://cointelegraph.com/news/bitnation-spacechain-the-mission-to-decentralize-space-exploration) is an interview with Susanne that discusses the project in detail.&#x20;
 
+## Series 1, Card 7 - PEPEPARTY
+
+![](<../../../.gitbook/assets/S01 C07 - PEPEPARTY card and source.jpg>)
+
+**Series 1, Card 7 -** [**PEPEPARTY**](https://pepe.wtf/asset/PEPEPARTY) **** was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers - [Evan Wagner](https://counterparty.io/team/evan-wagner/) (Top Left), [Robby Dermody](https://counterparty.io/team/robby-dermody/)[ ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
+
 ## Series 1, Card 10 - STILLPEPE
 
 ![Screen Capture from the "Still D.R.E." Music Video](<../../../.gitbook/assets/S01 C10 - STILLPEPE card and source.jpg>)
@@ -39,12 +45,6 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 
 {% embed url="https://youtu.be/_CL6n0FJZpk" %}
-
-## Series 1, Card 7 - PEPEPARTY
-
-![](<../../../.gitbook/assets/S01 C07 - PEPEPARTY card and source.jpg>)
-
-**Series 1, Card 7 -** [**PEPEPARTY**](https://pepe.wtf/asset/PEPEPARTY) **** was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers - [Evan Wagner](https://counterparty.io/team/evan-wagner/) (Top Left), [Robby Dermody](https://counterparty.io/team/robby-dermody/)[ ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
 
 ## Series 1, Card 14 - GURUPEPE
 

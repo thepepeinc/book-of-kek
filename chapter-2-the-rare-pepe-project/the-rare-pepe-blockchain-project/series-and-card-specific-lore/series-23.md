@@ -31,3 +31,11 @@ For the start of Series 23, [MrHansel](https://twitter.com/bettidlomas) created 
 **Series 23, Card 12** - [PEPEAMANDA](https://pepe.wtf/asset/PEPEAMANDA) was created by an [unknown artist](https://pepe.wtf/artists/1LHPw5hFTr8NYkE86b3F11y7vnBhmpJrts). They contributed a total of 14 cards to the Rare Pepe series including the 5-card ["Pepe the Forbidden One"](https://pepe.wtf/asset/FORBIDENPEPE) set and a series of portraits including [PEPEFRED](https://pepe.wtf/asset/PEPEFRED), [PEPEANDY](https://pepe.wtf/asset/PEPEANDY), [PEPEVINNY](https://pepe.wtf/asset/PEPEVINNY), [PEPEBOBBY](https://pepe.wtf/asset/PEPEBOBBY), and [PEPESAMSON](https://pepe.wtf/asset/PEPESAMSON).
 
 The woman pictured on the card is [DASH](https://www.dash.org/) report and presenter [Amanda B. Johnson](https://www.instagram.com/amandab\_johnson/?hl=en).  The photograph was taken from the [Bitcoinist article](https://bitcoinist.com/dash-bitcoin-interview-amanda-b-johnson/) _"How Dash Stole Bitcoin’s Mojo – Interview with Amanda B. Johnson"._
+
+## Series 23, Card 22 - PHNTOMOFPEPE
+
+<figure><img src="../../../.gitbook/assets/S23 C22 - PHNTOMOFPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+Series 23, Card 22 - [PHNTOMOFPEPE](https://pepe.wtf/asset/PHNTOMOFPEPE) was created by an [unknown artist](https://pepe.wtf/artists/Deleted-account). They also created the Melancholia Triptych ([MELANCHOLIA](https://pepe.wtf/asset/MELANCHOLIA), [MELANCOLIE](https://pepe.wtf/asset/MELANCOLIE), [PEPEINTRO](https://pepe.wtf/asset/PEPEINTRO)), the philosophers set ([SOCRATESPEPE](https://pepe.wtf/asset/SOCRATESPEPE), [PEPEKARLMARX](https://pepe.wtf/asset/PEPEKARLMARX), [PEPENIETZSCH](https://pepe.wtf/asset/PEPENIETZSCH)) as well as 5 other cards, for a total of 12 Rare Pepe cards.&#x20;
+
+This card is the artist's interpretation of [one](https://www.penguinrandomhouse.com/books/100150/the-phantom-of-the-opera-by-gaston-leroux/9780553213768?ref=PRHB7BD76FBDB\&aid=14813\&linkid=PRHB7BD76FBDB) of the many cover illustrations for the 1910 Novel [_The Phantom of the Opera_](https://en.wikipedia.org/wiki/The\_Phantom\_of\_the\_Opera) which was written by the French author [Gaston Leroux](https://en.wikipedia.org/wiki/Gaston\_Leroux). &#x20;

@@ -1,5 +1,15 @@
 # Series 22
 
+## Series 22, Card 4 - SCHROEPEPE
+
+<figure><img src="../../../.gitbook/assets/S22 C04 - SCHROEPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 22, Card 4** - [SCHROEPEPE](https://pepe.wtf/asset/SCHROEPEPE) was created by the artist [netidx](https://pepe.wtf/artists/netidx). It is one of only two cards created by netidx. The other being [RUBIXPEPE](https://pepe.wtf/asset/RUBIXPEPE). SCHROEPEPE is a one-of-a-kind card. The artist, whose real name is Gilles used a PNG rendering exploit that varies the card's appearance (dead pepe, or alive pepe) depending on the software or device used to display it. You can read an interview with the artist about the process he used to create the image [here](https://www.redlion.news/article/rarepepes-the-origin-story).&#x20;
+
+The card's images reference the thought experiment [_Schrödinger's cat_](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's\_cat)_._
+
+<figure><img src="../../../.gitbook/assets/SCHROEPEPE.png" alt=""><figcaption><p>One of the two possible images that gets displayed based on the software or device. The other image is above.</p></figcaption></figure>
+
 ## Series 22, Card 7 - CREWLOVEPEPE
 
 <figure><img src="../../../.gitbook/assets/S22 C07 - CREWLOVEPEPE copy.jpg" alt=""><figcaption></figcaption></figure>

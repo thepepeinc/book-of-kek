@@ -1,5 +1,13 @@
 # Series 24
 
+## Series 24, Card 22 - KEKOFWAR
+
+<figure><img src="../../../.gitbook/assets/S24 C22 - KEKOFWAR card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 24, Card 22** - [KEKOFWAR](https://pepe.wtf/asset/KEKOFWAR) was created by the artist [RareDesigner](https://pepe.wtf/artists/RareDesigner). He created a total of 34 cards for the Rare Pepe project including the "self portrait" [PEPEDESIGN](https://pepe.wtf/asset/PEPEDESIGN).
+
+This card is the artists interpretation of the box cover for the 2006 third-person shooter video game [_Gears of War_](https://en.wikipedia.org/wiki/Gears\_of\_War\_\(video\_game\)). The game was first released on the [Xbox 360](https://en.wikipedia.org/wiki/Xbox\_360) game console and then for Microsoft Windows in 2007. The game sold over three million copies within ten weeks of launch and became the fastest selling video game of 2006.&#x20;
+
 ## Series 24, Card 41 - PEPEWYATT
 
 <figure><img src="../../../.gitbook/assets/S24 C41 - PEPEWYATT card and source.jpg" alt=""><figcaption></figcaption></figure>
