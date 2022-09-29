@@ -24,4 +24,4 @@ Rare Pepes became a collectible phenomenon in 2016, when Joe Looney established 
 
 These cards aren’t alt-right memes, and they have nothing to do with the original creator of Pepe the frog, Matt Furie. Rather, they were designed by a number of people, and they represent all kinds of different pop culture and artistic symbols.
 
-There’s a card featuring a Julian Assange Pepe, called [PEPEASSANGE](https://pepe.wtf/asset/PEPEASSANGE) (100 of them exist), a Salvador Dali Pepe - [DALIPEPE](https://pepe.wtf/asset/DALIPEPE) , and even a card for the Winklevoss twins - [WINKELPEPE](https://pepe.wtf/asset/PEPEASSANGE) (their green heads sit atop the bodies of the twins from “The Shining” — only two of those cards exist).
+There’s a card featuring a Julian Assange Pepe, called [PEPEASSANGE](https://pepe.wtf/asset/PEPEASSANGE) (100 of them exist), a Salvador Dali Pepe - [DALIPEPE](https://pepe.wtf/asset/DALIPEPE) , and even a card for the Winklevoss twins - [WINKELPEPE](series-and-card-specific-lore/series-2.md#series-2-card-34-winkelpepe) (their green heads sit atop the bodies of the twins from “The Shining” — only one of this card exists).
