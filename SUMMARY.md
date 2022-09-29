@@ -30,6 +30,7 @@
   * [Most Famous Rare Pepe Artists](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/most-famous-rare-pepe-artists.md)
   * [Series & Card Specific Lore](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/README.md)
     * [Series 1](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-1.md)
+    * [Series 2](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-2.md)
     * [Series 3](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-3.md)
     * [Series 4](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-4.md)
     * [Series 5](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-5.md)
