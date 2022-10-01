@@ -8,6 +8,14 @@
 
 The Andy pictured here is [Andy Weissman](https://www.usv.com/people/andy-weissman/) a Managing Partner at [Union Square Ventures](https://www.usv.com/). USV [invests heavily in the crypto industry](https://www.theblock.co/linked/92652/union-square-ventures-crypto-2021-fund).
 
+## Series 21, Card 26 - DUMMIES
+
+<figure><img src="../../../.gitbook/assets/S21 C26 - DUMMIES card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 21, Card 26** - [DUMMIES](https://pepe.wtf/asset/DUMMIES) was created by the artist known as [Finest Rares](https://pepe.wtf/artists/Finest-Rares). He created a total of 18 cards for the Rare Pepe series including the two card "Baby Series" ([TUBBIES](https://pepe.wtf/asset/TUBBIES) and [PEPEPAMPERS](https://pepe.wtf/asset/PEPEPAMPERS)).&#x20;
+
+This card is a parody of the [For Dummies series of books](https://en.wikipedia.org/wiki/For\_Dummies). The first book in the series was DOS For Dummies which was published in late 1991.&#x20;
+
 ## Series 21, Card 41 - MUNETOPEPE
 
 ![](<../../../.gitbook/assets/S21 C41 - MUNETOPEPE source and card.jpg>)

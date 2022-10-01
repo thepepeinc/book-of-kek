@@ -57,6 +57,7 @@
     * [Series 30](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-30.md)
     * [Series 31](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-31.md)
     * [Series 33](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-33.md)
+    * [Series 32](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-32.md)
     * [Series 35](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-35.md)
     * [Series 36](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-36.md)
   * [Famous Rare Pepe auctions](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-auctions.md)
