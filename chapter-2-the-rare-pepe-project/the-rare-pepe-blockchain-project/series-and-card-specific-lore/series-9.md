@@ -6,9 +6,17 @@ description: >-
 
 # Series 9
 
+## Series 9, Card 1 - SNOWDENPEPE
+
+Series 9, Card 1 - [SNOWDENPEPE](https://pepe.wtf/asset/SNOWDENPEPE) was created by RarePepeTrader, who is an OG in the Rare Pepe Telegram group and runs the WTH Auction House.
+
+<figure><img src="../../../.gitbook/assets/S09 C01 - SNOWDENPEPE.gif" alt=""><figcaption></figcaption></figure>
+
+The person pictured on the card is [Edward Snowden](https://en.wikipedia.org/wiki/Edward\_Snowden), the computer intelligence consultant who leaked highly classified information from the [National Security Agency](https://en.wikipedia.org/wiki/National\_Security\_Agency) (NSA)  in 2013. Also pictured is a [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik's\_Cube). One interesting fact about this card is it's supply number - 40,320. RPT recently wrote in the official Telegram chat room that he chose that number because the total number of ways the positions of the 8 corner pieces of a Rubik's Cube can be arranged is 40,320.
+
 ## Series 9, Card 4 - THEPEPE
 
-<figure><img src="../../../.gitbook/assets/S09 C04 - THEPEPE source and card (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/S09 C04 - THEPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 9, Card 4** - [THEPEPE](https://pepe.wtf/asset/THEPEPE) was created by the prolific artist [Davinci9](https://pepe.wtf/artists/Davinci9) who has 21 cards in the Rare Pepe series along with several commissioned pieces. The bulk of Davinci9's Rare Pepe cards were consigned to RarePepeTrader in 2021 for ongoing sales, mainly through his WTH Auction House Telegram room.&#x20;
 

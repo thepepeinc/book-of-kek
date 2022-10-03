@@ -1,5 +1,13 @@
 # Series 31
 
+## Series 31, Card 5 - SPACEMOUTH
+
+<figure><img src="../../../.gitbook/assets/S31 C05 - SPACEMOUTH.jpeg" alt=""><figcaption></figcaption></figure>
+
+**Series 31, Card 5** - [SPACEMOUTH](https://pepe.wtf/asset/SPACEMOUTH) was created by the artist known as [Cam](https://pepe.wtf/artists/Cam).&#x20;
+
+On August 25, 2022 the artist informed me via Telegram that the dog pictured on the card is a female [lab](https://en.wikipedia.org/wiki/Labrador\_Retriever) named Rusty. In her mouth is a dry fish carcass that she found at the Southern California fish farm where she lived.&#x20;
+
 ## Series 31, Card 39 - PEPESTRY
 
 <figure><img src="../../../.gitbook/assets/S31 C39 - PEPESTRY card and source.jpg" alt=""><figcaption></figcaption></figure>

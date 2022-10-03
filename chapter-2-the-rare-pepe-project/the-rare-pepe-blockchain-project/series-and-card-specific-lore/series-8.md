@@ -20,6 +20,18 @@ The [original woodblock print](https://ukiyo-e.org/image/mfa/sc168576) entitled 
 
 **Series 8, Card 32** - [PEPERUS](https://pepe.wtf/asset/PEPERUS) was created by an [unknown artist](https://pepe.wtf/artists/15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht). They crated a total of 8 cards for the Rare Pepe project. The card depicts a shirtless Pepe with a gold "P" pendant dangling from a gold chain around his neck riding a bear through a river or stream. The source photo (shown above) is of Russian President [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir\_Putin) riding a horse. The text on the card is Bulgarian and roughly translates to "pepper".&#x20;
 
+## Series 8, Card 45 - BERNIEPEPE
+
+<figure><img src="../../../.gitbook/assets/S08 C45 - BERNIEPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 8, Card 45** - [BERNIEPEPE](https://pepe.wtf/asset/BERNIEPEPE) was created by RarePepeTrader, who is an OG in the Rare Pepe Telegram group and runs the WTH Auction House.
+
+The man pictured on the card is the American politician and activist [Bernie Sanders](https://en.wikipedia.org/wiki/Bernie\_Sanders). The text on the card is a parody of a talking point that Sanders used several times while campaigning to become the President of the United States including on [July 1, 2015 in Madison Wisconsin](https://www.politifact.com/factchecks/2015/jul/29/bernie-s/bernie-sanders-madison-claims-top-01-americans-hav/).&#x20;
+
+RarePepeTrader stated recently in the official Telegram chat room that he issued 1,889 BERNIEPEPE cards becasue that was the number of delegates he won at the 2016 Democratic Party presidential primaries, however according to [this article](https://en.wikipedia.org/wiki/2016\_Democratic\_Party\_presidential\_primaries), the actual number was 1,865. [This article](https://www.theguardian.com/us-news/ng-interactive/2016/mar/25/us-election-2016-delegate-tracker-trump-cruz-kasich-sanders-clinton) puts the number at 1,893 so ¯\\\_(ツ)\_/¯.
+
+<figure><img src="../../../.gitbook/assets/4iUudOxg_400x400.jpg" alt=""><figcaption><p>The Bernie Sanders campaign button used on the card</p></figcaption></figure>
+
 ## Series 8, Card 48 - KUNISADAPEPE
 
 <figure><img src="../../../.gitbook/assets/S08 C48 - KUNISADAPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
