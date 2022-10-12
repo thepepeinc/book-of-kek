@@ -24,6 +24,14 @@ The images were taken from the Japanese animated made-for-TV film [Lupin III (Pa
 \
 PEPEBEARD is a parody of the purported [flag of Blackbeard](https://en.wikipedia.org/wiki/Flag\_of\_Blackbeard) which was attributed to Edward Teach (or Thatch), who was better known as [Blackbeard](https://en.wikipedia.org/wiki/Blackbeard) the Pirate. As you can see from the image above, the original flag did not contain the severed head of [Wojak](https://en.wikipedia.org/wiki/Wojak) (or anyone else for that matter).&#x20;
 
+## Series 18, Card 19 - KEKTOPUS
+
+<figure><img src="../../../.gitbook/assets/S18 C19 - KEKTOPUS card and source copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 18, Card 19** - [KEKTOPUS](https://pepe.wtf/asset/KEKTOPUS) was created by the artist known as [Meme Conscious](https://pepe.wtf/artists/Meme-Conscious). He created at total of 13 cards for the Rare Pepe project.
+
+This card appears to be a parody of an [Anne Tavoletti](https://www.instagram.com/anne\_tavoletti/) painting called [Deep Sea II](https://www.allposters.com/-sp/Deep-Sea-II-Posters\_i16246478\_.htm). As you can see from the image above if you flip it and rotate it a bit it's nearly identical. Perhaps Mr. Conscious used Deep Sea II reference material and painted his own version.
+
 ## Series 18, Card 25 - BTFDPEPE
 
 <figure><img src="../../../.gitbook/assets/S18 C25 - BTFDPEPE card and source.png" alt=""><figcaption></figcaption></figure>

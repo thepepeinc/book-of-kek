@@ -136,3 +136,5 @@ description: >-
 * [GM NFTs on Rug Radio: Rare Pepes, Fake Rares & the OGs](https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=e3a99dc8a0a94893)
 * [Discussing Rare Pepes with RareScrilla, creator of over 25 Pepes, such as DJPEPE](https://youtu.be/5tqjhmfLlow)
 * [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA)
+* [Discussing Rare Pepes with OG Rare Pepe scientist, developer, and artist Joe Looney](https://www.youtube.com/watch?v=fh54uwX8sKc)
+* &#x20;

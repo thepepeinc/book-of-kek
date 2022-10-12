@@ -58,6 +58,18 @@ The man pictured on the card is Vinay Gupta, Co-Founder of Ethereum. As Theo put
 
 ![](<../../../.gitbook/assets/GURUPEPE edit.png>)
 
+## Series 1, Card 20 - CHERPEPEFOIL
+
+
+
+<figure><img src="../../../.gitbook/assets/S01 C20 - CHERPEPEFOIL card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 20** - [CHERPEPEFOIL](https://pepe.wtf/asset/CHERPEPEFOIL) was created by the late great [John Villar](https://pepe.wtf/artists/John-Villar). He may hold the record for most Rare Pepe cards in the project at 80. John created 50 cards specifically for the game [Rare Pepe Party](https://www.youtube.com/watch?v=IfPkrAo25DM\&ab\_channel=JohnVillar) which he was working on at the time of his passing and another 40 cards beyond that including what is probably the first interactive digital art token - [PEPEBALT](https://pepe.wtf/asset/PEPEBALT).
+
+This card is a pepefied image of the American singer, actress and television personality [Cher](https://en.wikipedia.org/wiki/Cher). The card quotes a lyric from her song [Believe](https://en.wikipedia.org/wiki/Believe\_\(Cher\_song\))
+
+{% embed url="https://youtu.be/nZXRV4MezEw" %}
+
 ## Series 1, Card 22 - DAOPEPEHACK
 
 ![](<../../../.gitbook/assets/S01 C22 - DAOPEPEHACK card and source.jpg>)
@@ -84,8 +96,24 @@ The person depicted in the card is [Ruji Ignatova](https://en.wikipedia.org/wiki
 
 **Series1, Card 26 -** [**PEPEGUN**](https://pepe.wtf/asset/PEPEGUN) is another [DanDarkPil](https://pepe.wtf/artists/DanDarkPill)l creation. The card is a depiction of the then [Cornell University](https://www.cornell.edu/) Associate Professor [Emin Gün Sirer](https://www.cs.cornell.edu/people/egs/). He is a former [IC3](https://www.ic3.gov/) Co-Director, and the founder of [Ava Labs](https://www.avalabs.org/).
 
+## Series 1, Card 21 - PEPEBROS
+
+<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source (1).jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 21** - [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) was created by an [unknown artist](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL). They only created two cards for the Rare Pepe project. The other one being [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE).&#x20;
+
+This card pays homage to the 1985 platform game developed by [Nintendo](https://en.wikipedia.org/wiki/Nintendo) for the [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo\_Entertainment\_System) (NES) called [Super Mario Bros.](https://en.wikipedia.org/wiki/Super\_Mario\_Bros.) It appears that the artist created his own scene from the game, or perhaps took a scene, increased the size until it was at a 1:1 pixel ratio and then added the sun with the face of a [Wojak](https://knowyourmeme.com/memes/wojak). &#x20;
+
 ## Series 1, Card 28 - DASHPEPE
 
 ![Original Image Source: cointelegraph](<../../../.gitbook/assets/S01 C28 - DASHPEPE card and source.jpg>)
 
 **Series 1, Card 28** - [**DASHPEPE**](https://pepe.wtf/asset/DASHPEPE) **** was created by the artist [ICQPEPE](https://pepe.wtf/artists/ICQPEPE). ICQ created a total of 24 cards for the Rare Pepe series including the extremely rare 1 of 3 card [JONGPEPE](https://pepe.wtf/asset/JONGPEPE), the classic [NOFAPPEPE](https://pepe.wtf/asset/NOFAPPEPE), and what is probably the only artist "self portrait" in the series [ICQPEPE](https://pepe.wtf/asset/ICQPEPE). The card depicts the creator of the crypto currency Dash - [Evan Duffield](https://www.worldcryptoindex.com/creators/evan-duffield/) and the image was taken from a [cointelegraph article](https://cointelegraph.com/news/dashs-2nd-birthday-we-are-complementary-to-bitcoin-not-a-competitor) discussing the second birthday of Dash.&#x20;
+
+## Series 1, Card 39 - PEPEBEEFTAXI
+
+<figure><img src="../../../.gitbook/assets/S01 C39 - PEPEBEEFTAXI card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 39** - [PEPEBEEFTAXI](https://pepe.wtf/asset/PEPEBEEFTAXI) was created by the artist known as [Robness](https://pepe.wtf/artists/Robness). He is credited with five cards in the Rare Pepe project, but Rob may be most known for a card that he collaborated on known as [LORDKEK](https://pepe.wtf/asset/LORDKEK).&#x20;
+
+For this card, Rob used an image from the international public art exhibit known as the [CowParade](https://en.wikipedia.org/wiki/CowParade). This exhibit has been featured in major world cities and allows local artists to decorate fiberglass sculptures of cows which are then placed in public places in the city. The original cow sculpture was created by the Swiss-born sculptor [Pascal Knapp](https://www.pascalknapp.com/). The cow pictured is known as Taxi Cow and was displayed in New York City. It was later offered for sale as a [figurine](https://www.ebay.com/itm/203051343052). You can find the image in [this article](https://99percentinvisible.org/episode/cow-tunnels/) which looks at the history of cow tunnels in New York during the late 19th and early 20th centuries.&#x20;
