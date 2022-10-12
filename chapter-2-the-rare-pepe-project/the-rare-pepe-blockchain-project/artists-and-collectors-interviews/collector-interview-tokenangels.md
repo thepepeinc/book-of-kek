@@ -1,5 +1,5 @@
 ---
-description: July 14th, 2022 Submitted by @masonmarcobello
+description: July 14th, 2022 | Submitted by @masonmarcobello
 ---
 
 # Collector Interview: TokenAngels
