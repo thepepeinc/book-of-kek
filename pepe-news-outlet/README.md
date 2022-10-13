@@ -9,7 +9,7 @@ description: >-
 
 ## Fake Rares exhibited at DYOR in Switzerland
 
-October 8th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)
+October 12th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -37,7 +37,7 @@ The CryptoArt exhibition DYOR will take place at Kunsthalle Zürich from October
 
 ## Fake Rares in Tokyo
 
-October 6th, 2022 ; [source](https://twitter.com/jakejfried/status/1577984447709937664)
+October 12th, 2022 ; [source](https://twitter.com/jakejfried/status/1577984447709937664)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -48,6 +48,20 @@ The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakej
 <figure><img src="../.gitbook/assets/Fakes in Tokyo.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://twitter.com/SuperchiefNFT/status/1580280521497579520" %}
+
+## FROGTOBER launches with Fake Rares S10
+
+October 3rd, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1576983855738736640?s=20\&t=stLG41Lsjc9EQgcrn3ejlw)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the announcement video for more details:
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1576983855738736640?s=20&t=stLG41Lsjc9EQgcrn3ejlw" %}
+
+The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card created by 72 fake artists, and an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void) for being on top of things, as well as [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1574836566559789098/" %}
 
 ## Fake Anniversary - 1 Year of Fake Rares!
 
@@ -67,9 +81,9 @@ Fake Rares also held a [celebratory Twitter Space](https://twitter.com/i/spaces/
 
 You can listen to the recording of the space here: [https://twitter.com/i/spaces/1lDGLnZdgZYxm](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)
 
-H A P P Y  B I R T H D A Y  F A K E  R A R E S !  🎉
+**H A P P Y  B I R T H D A Y  F A K E  R A R E S !  🎉**
 
-A R E  Y O U  N O T  E N T E R T A I N E D ? &#x20;
+**A R E  Y O U  N O T  E N T E R T A I N E D ?** &#x20;
 
 ## Pepe.wtf introduces new Basket feature for picking multiple cards
 
