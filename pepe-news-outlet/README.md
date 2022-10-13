@@ -33,7 +33,7 @@ The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take p
 
 </div>
 
-{% embed url="https://twitter.com/FAKERARES_XCP/status/1573801701106221056" %}
+<figure><img src="../.gitbook/assets/DYOR lineup.jpeg" alt=""><figcaption><p><a href="https://twitter.com/FAKERARES_XCP/status/1573801701106221056">DYOR Lineup</a></p></figcaption></figure>
 
 ## Fake Rares in Tokyo
 
@@ -55,11 +55,9 @@ October 3rd, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/157698385
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the announcement video for more details:
+Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the [official announcement video](https://twitter.com/FAKERARES\_XCP/status/1576983855738736640) for more details!
 
-{% embed url="https://twitter.com/FAKERARES_XCP/status/1576983855738736640?s=20&t=stLG41Lsjc9EQgcrn3ejlw" %}
-
-The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card created by 72 fake artists, and an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void) for being on top of things, as well as [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
+The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card created by 72 fake artists, and an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@official\_coder](https://twitter.com/official\_coder), [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void), as well as [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1574836566559789098/" %}
 
