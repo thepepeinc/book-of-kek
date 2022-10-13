@@ -141,3 +141,4 @@ description: >-
 * [Fun and wide ranging discussion with Easy-B, prolific Rare Pepe artist of over 40 cards](https://youtu.be/SEL23QKS\_SQ)
 * [Fascinating interview with Rare Pepe Scientist, OG artist Theo Goodman](https://www.youtube.com/watch?v=jip8MfUCJt8)
 * [Discussing Rare Pepes with OG artist, Scientist Shawn Leary](https://www.youtube.com/watch?v=TumwlkPPV4s)
+* [Fake Rares One Year Anniversary Chat & New Drops](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)

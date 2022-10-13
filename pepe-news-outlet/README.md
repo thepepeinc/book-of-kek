@@ -57,9 +57,9 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the [official announcement video](https://twitter.com/FAKERARES\_XCP/status/1576983855738736640) for more details!
 
-The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card created by 72 fake artists, and an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@official\_coder](https://twitter.com/official\_coder), [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void), as well as [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
+The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card [created by 72 fake artists](https://twitter.com/FAKERARES\_XCP/status/1574836566559789098), as an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@official\_coder](https://twitter.com/official\_coder) for organizing, to [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void) for being on top of things, as well as to [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
 
-{% embed url="https://twitter.com/FAKERARES_XCP/status/1574836566559789098/" %}
+<figure><img src="../.gitbook/assets/QUEENASF.gif" alt=""><figcaption><p><a href="https://pepe.wtf/asset/QUEENASF">QUEENASF</a></p></figcaption></figure>
 
 ## Fake Anniversary - 1 Year of Fake Rares!
 
@@ -73,11 +73,11 @@ Fake Rares are celebrating their first anniversary, one year after [@ScrillaVent
 
 For this special occasion the team behind Fake Rares, [@ScrillaVentura](https://twitter.com/ScrillaVentura) & [@FakeFakeAnnie](https://twitter.com/fakefakeannie), dropped their cards 49 & 50, [ENTERTAINED](https://pepe.wtf/asset/ENTERTAINED) and [FAKEFAKEBAN](https://pepe.wtf/asset/FAKEFAKEBAN), via the [pepepawnshop](../chapter-4-latest-developments/pepepawnshop/ "mention") as the first ever card bundle on [pepe.wtf.md](../chapter-4-latest-developments/pepe.wtf.md "mention"), also marking the end of an epic [Series 9](https://pepe.wtf/collection/fake-rares#series=9) of Fake Rares.
 
-{% embed url="https://twitter.com/PepePawnShop/status/1572661910033801218" %}
+<figure><img src="../.gitbook/assets/Bundle drop.jpeg" alt=""><figcaption><p><a href="https://twitter.com/PepePawnShop/status/1572661910033801218">FAKEFAKEBAN &#x26; ENTERTAINED</a></p></figcaption></figure>
 
 Fake Rares also held a [celebratory Twitter Space](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20) to present the last cards released in Series 9, including giveaways and nostalgic throwbacks.&#x20;
 
-You can listen to the recording of the space here: [https://twitter.com/i/spaces/1lDGLnZdgZYxm](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)
+Listen to the recording of the space here: [Fake Rares One Year Anniversary Chat & New Drops](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)
 
 **H A P P Y  B I R T H D A Y  F A K E  R A R E S !  🎉**
 
