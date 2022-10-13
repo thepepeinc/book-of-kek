@@ -7,7 +7,35 @@ description: >-
 
 # Pepe News Outlet 📰
 
-## Fake Anniversary - Celebrating 1 Year of Fake Rares!
+## Fake Rares exhibited at DYOR in Switzerland
+
+October 6th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+The CryptoArt exhibition DYOR will take place at Kunsthalle Zürich from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
+
+<div>
+
+<figure><img src="../.gitbook/assets/DYOR Exhibit 2.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/DYOR Exhibit 3.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/DYOR Exhibit 4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502?s=20&#x26;t=P_WH8jFsvnF4k5ShbQ6Izw">@faboowy</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578716474931568642?s=20&#x26;t=P_WH8jFsvnF4k5ShbQ6Izw">@faboowy</a></p></figcaption></figure>
+
+</div>
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1573801701106221056" %}
+
+## Fake Anniversary - 1 Year of Fake Rares!
 
 September 21st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1572582812087365634)
 
