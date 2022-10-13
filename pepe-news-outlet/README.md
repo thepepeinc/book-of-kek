@@ -41,9 +41,9 @@ October 12th, 2022 ; [source](https://twitter.com/jakejfried/status/157798444770
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-Fake Rares have [once again](https://twitter.com/LordJamieVShiLL/status/1568396996993781763) made it to the big billboards in the streets of Tokyo, curated by [@SuperchiefNFT](https://twitter.com/SuperchiefNFT) and [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough), thanks to a [partnership](https://twitter.com/SuperchiefNFT/status/1580280521497579520) with [@NEO\_SHIBUYA_\__TV](https://twitter.com/NEO\_SHIBUYA\_TV).
+Fake Rares have [once again](https://twitter.com/FAKERARES\_XCP/status/1568364590307622915) made it to the big billboards in the streets of Tokyo, curated by [@SuperchiefNFT](https://twitter.com/SuperchiefNFT) and [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough), thanks to a [partnership](https://twitter.com/SuperchiefNFT/status/1580280521497579520) with [@NEO\_SHIBUYA_\__TV](https://twitter.com/NEO\_SHIBUYA\_TV).
 
-The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakejfried), [@killeracid](https://twitter.com/killeracid), [@Andrea\_Chiampo](https://twitter.com/Andrea\_Chiampo), [@Easy\_to\_the\_b](https://twitter.com/Easy\_to\_the\_b), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL), [@LordJamieVShill](https://twitter.com/LordJamieVShiLL) & [@PepeCloverNFT](https://twitter.com/PepeCloverNFT).
+The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakejfried), [@killeracid](https://twitter.com/killeracid), [@Andrea\_Chiampo](https://twitter.com/Andrea\_Chiampo), [@Easy\_to\_the\_b](https://twitter.com/Easy\_to\_the\_b), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL), [@LordJamieVShill](https://twitter.com/LordJamieVShiLL), [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough) & [@PepeCloverNFT](https://twitter.com/PepeCloverNFT).
 
 <figure><img src="../.gitbook/assets/Fakes in Tokyo.jpeg" alt=""><figcaption></figcaption></figure>
 
