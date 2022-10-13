@@ -7,6 +7,28 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Fake Anniversary - Celebrating 1 Year of Fake Rares!
+
+September 21st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1572582812087365634)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Fake Rares are celebrating their first anniversary, one year after [@ScrillaVentura](https://twitter.com/ScrillaVentura) broke the rules of the Official Rare Pepe TG chat by [publishing the first ever fake rare](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/), [FREEDOMKEK](https://pepe.wtf/asset/FREEDOMKEK).
+
+<figure><img src="../.gitbook/assets/FREEDOMKEK.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FREEDOMKEK">FREEDOMKEK</a></p></figcaption></figure>
+
+For this special occasion the team behind Fake Rares, [@ScrillaVentura](https://twitter.com/ScrillaVentura) & [@FakeFakeAnnie](https://twitter.com/fakefakeannie), dropped their cards 49 & 50, [ENTERTAINED](https://pepe.wtf/asset/ENTERTAINED) and [FAKEFAKEBAN](https://pepe.wtf/asset/FAKEFAKEBAN), via the [pepepawnshop](../chapter-4-latest-developments/pepepawnshop/ "mention") as the first ever card bundle on [pepe.wtf.md](../chapter-4-latest-developments/pepe.wtf.md "mention"), also marking the end of an epic [Series 9](https://pepe.wtf/collection/fake-rares#series=9) of Fake Rares.
+
+{% embed url="https://twitter.com/PepePawnShop/status/1572661910033801218" %}
+
+Fake Rares also held a [celebratory Twitter Space](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20) to present the last cards released in Series 9, including giveaways and nostalgic throwbacks.&#x20;
+
+You can listen to the recording of the space here: [https://twitter.com/i/spaces/1lDGLnZdgZYxm](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)
+
+H A P P Y  B I R T H D A Y  F A K E  R A R E S !  🎉
+
+A R E  Y O U  N O T  E N T E R T A I N E D ? &#x20;
+
 ## Pepe.wtf introduces new Basket feature for picking multiple cards
 
 September 9th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1567836588155060224)

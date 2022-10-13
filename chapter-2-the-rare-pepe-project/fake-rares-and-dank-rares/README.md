@@ -4,13 +4,13 @@ description: >-
   the insane and wonderful world of Fake Rares."
 ---
 
-# Fake Rares, Commons & Danks
+# Fake Rares & Commons
 
 In April of 2018 the [Rare Pepe Scientists](../the-rare-pepe-blockchain-project/rare-pepe-scientists.md) retired and left us with years of pondering what the next step in evolution would be, for frogs and dankness in general. After all, many Pepes were left on the sidelines because they couldn’t get submitted in time or were rejected by the Scientists, or were just created pre- or post-Rare Pepe, but still had some memetic appeal to them.
 
 Which is why the [Fake Rare Directory](https://fakeraredirectory.wordpress.com/) and the [Dank Directory ](https://www.dankdirectory.io/)were created.
 
-The [Fake Rare Pepe movement](https://fakeraredirectory.com/about/) started in September of 2021, when an original Rare Pepe artist broke the rules of the Official Rare Pepe Telegram by sharing an asset that was not an official Rare Pepe (the community called these assets “Fake Rares” which, until recently, was perhaps a tastefully derogatory term). Rightfully so, this troll was temporarily banned from the Telegram group, prompting him to start his own... [BEWARE OF FAKE RARES](https://t.me/OFFICIALFAKERARES). The Fake Rare that started it all, fondly referred to as the “Proof of Ban” card, later became the first official Fake Rare, S0 C0, the [FREEDOMKEK](https://pepe.wtf/asset/FREEDOMKEK).&#x20;
+The [Fake Rare Pepe movement](https://fakeraredirectory.com/about/) started in September of 2021 when [@ScrillaVentura](https://twitter.com/ScrillaVentura), an OG Rare Pepe artist, broke the rules of the Official Rare Pepe Telegram by sharing an asset that was not an official Rare Pepe (the community called these assets “Fake Rares” which, until recently, was perhaps a tastefully derogatory term). Rightfully so, this troll was temporarily banned from the Telegram group, prompting him to start his own... [BEWARE OF FAKE RARES](https://t.me/OFFICIALFAKERARES). The Fake Rare that started it all, fondly referred to as the “Proof of Ban” card, later became the first official Fake Rare, S0 C0, the [FREEDOMKEK](https://pepe.wtf/asset/FREEDOMKEK).&#x20;
 
 ![FREEDOMKEK](../../.gitbook/assets/FREEDOMKEK.jpeg)
 
