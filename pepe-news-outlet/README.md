@@ -13,7 +13,7 @@ October 12th, 2022 ; [source](https://twitter.com/fabooowy/status/15780712969063
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-The CryptoArt exhibition DYOR will take place at Kunsthalle Zürich from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
+The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take place at [Kunsthalle Zürich](https://twitter.com/KunsthalleZH) from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
 
 <div>
 
