@@ -61,3 +61,18 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=fh54uwX8sKc" %}
 
+* [Interview with OG Rare Pepe artist and NFT collector CryptoChainer](https://www.youtube.com/watch?v=8YnheVjc6xQ):&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=8YnheVjc6xQ" %}
+
+* [Fun and wide ranging discussion with Easy-B, prolific Rare Pepe artist of over 40 cards](https://youtu.be/SEL23QKS\_SQ):&#x20;
+
+{% embed url="https://youtu.be/SEL23QKS_SQ" %}
+
+* [Fascinating interview with Rare Pepe Scientist, OG artist Theo Goodman](https://www.youtube.com/watch?v=jip8MfUCJt8):&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=jip8MfUCJt8" %}
+
+* [Discussing Rare Pepes with OG artist, Scientist Shawn Leary](https://www.youtube.com/watch?v=TumwlkPPV4s):&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=TumwlkPPV4s" %}
