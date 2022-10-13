@@ -54,8 +54,6 @@ description: >-
 * [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA):
 
 {% embed url="https://youtu.be/RXWS_mi2baA" %}
-[Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA)
-{% endembed %}
 
 * [Discussing Rare Pepes with OG Rare Pepe scientist, developer, and artist Joe Looney](https://www.youtube.com/watch?v=fh54uwX8sKc):
 

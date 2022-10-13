@@ -137,4 +137,7 @@ description: >-
 * [Discussing Rare Pepes with RareScrilla, creator of over 25 Pepes, such as DJPEPE](https://youtu.be/5tqjhmfLlow)
 * [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA)
 * [Discussing Rare Pepes with OG Rare Pepe scientist, developer, and artist Joe Looney](https://www.youtube.com/watch?v=fh54uwX8sKc)
-* &#x20;
+* &#x20;[Interview with OG Rare Pepe artist and NFT collector CryptoChainer](https://www.youtube.com/watch?v=8YnheVjc6xQ)
+* [Fun and wide ranging discussion with Easy-B, prolific Rare Pepe artist of over 40 cards](https://youtu.be/SEL23QKS\_SQ)
+* [Fascinating interview with Rare Pepe Scientist, OG artist Theo Goodman](https://www.youtube.com/watch?v=jip8MfUCJt8)
+* [Discussing Rare Pepes with OG artist, Scientist Shawn Leary](https://www.youtube.com/watch?v=TumwlkPPV4s)

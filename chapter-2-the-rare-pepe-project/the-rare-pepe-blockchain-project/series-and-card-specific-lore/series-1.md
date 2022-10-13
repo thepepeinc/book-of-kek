@@ -98,7 +98,7 @@ The person depicted in the card is [Ruji Ignatova](https://en.wikipedia.org/wiki
 
 ## Series 1, Card 21 - PEPEBROS
 
-<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 21** - [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) was created by an [unknown artist](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL). They only created two cards for the Rare Pepe project. The other one being [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE).&#x20;
 
