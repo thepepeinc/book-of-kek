@@ -9,7 +9,7 @@ description: >-
 
 ## Fake Rares exhibited at DYOR in Switzerland
 
-October 6th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)
+October 8th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -34,6 +34,20 @@ The CryptoArt exhibition DYOR will take place at Kunsthalle Zürich from October
 </div>
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1573801701106221056" %}
+
+## Fake Rares in Tokyo
+
+October 6th, 2022 ; [source](https://twitter.com/jakejfried/status/1577984447709937664)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Fake Rares have [once again](https://twitter.com/LordJamieVShiLL/status/1568396996993781763) made it to the big billboards in the streets of Tokyo, curated by [@SuperchiefNFT](https://twitter.com/SuperchiefNFT) and [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough), thanks to a [partnership](https://twitter.com/SuperchiefNFT/status/1580280521497579520) with [@NEO\_SHIBUYA_\__TV](https://twitter.com/NEO\_SHIBUYA\_TV).
+
+The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakejfried), [@killeracid](https://twitter.com/killeracid), [@Andrea\_Chiampo](https://twitter.com/Andrea\_Chiampo), [@Easy\_to\_the\_b](https://twitter.com/Easy\_to\_the\_b), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL), [@LordJamieVShill](https://twitter.com/LordJamieVShiLL) & [@PepeCloverNFT](https://twitter.com/PepeCloverNFT).
+
+<figure><img src="../.gitbook/assets/Fakes in Tokyo.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://twitter.com/SuperchiefNFT/status/1580280521497579520" %}
 
 ## Fake Anniversary - 1 Year of Fake Rares!
 
