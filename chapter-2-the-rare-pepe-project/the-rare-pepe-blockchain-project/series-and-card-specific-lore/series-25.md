@@ -34,3 +34,11 @@ The card was modeled after a still image from the English crime drama television
 
 RPT stated recently in the official Rare Pepe Telegram chat room that he made the issuance of the card 1,921 because that was the year portrayed in the first season of the show. However [this article](https://www.netflix.com/tudum/articles/when-is-peaky-blinders-set) states that Series 1 took place in 1919 and Series 2 took place in 1921 so ¯\\\_(ツ)\_/¯.
 
+## Series 25, Card 22 - XCHAINPEPE
+
+<figure><img src="../../../.gitbook/assets/S25 C22 - XCHAINPEPE.jpeg" alt=""><figcaption></figcaption></figure>
+
+**Series 25, Card 22** - [XCHAINPEPE](https://pepe.wtf/asset/XCHAINPEPE) was created by the artist known as [Rare Scrilla](https://pepe.wtf/artists/Rare-Scrilla). This was one of the many hand drawn an colored Rare Pepe cards created by Scrilla. Some others are [PWAPWAPWAPWA](https://pepe.wtf/asset/PWAPWAPWAPWA), [RUNDMP](https://pepe.wtf/asset/RUNDMP), and [DDDPEPE](https://pepe.wtf/asset/DDDPEPE). You can see the original drawing below. The difference being that the card had actual Xchain screens and a chart superimposed over the hand drawn ones. The original was recently sent from Scrilla to [Counterparty ](https://counterparty.io/)developer and [Freewallet](https://freewallet.io/) creator [J-Dog](https://twitter.com/jdogresorg).
+
+<figure><img src="../../../.gitbook/assets/S25 C22 - Source.png" alt=""><figcaption></figcaption></figure>
+
