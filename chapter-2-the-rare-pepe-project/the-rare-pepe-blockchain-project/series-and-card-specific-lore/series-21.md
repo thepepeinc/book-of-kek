@@ -20,13 +20,11 @@ This card is a parody of the [For Dummies series of books](https://en.wikipedia.
 
 <figure><img src="../../../.gitbook/assets/S21 C30 - TADPOLEPEPE.png" alt=""><figcaption></figcaption></figure>
 
-**Series 21, Card 30** - [TADPOLEPEPE](https://pepe.wtf/asset/TADPOLEPEPE) was created by a Japanese artist known as [Mekabu](https://pepe.wtf/artists/Mekabu). This card was inspired by a clay tadpole that was sculpted by the artist. As he said, "TADPOLEPEPE does not grow into a frog. It grows from a flat surface into a sculpture." Below is a photo of the clay tadpole given to me by Mekabu.
+**Series 21, Card 30** - [TADPOLEPEPE](https://pepe.wtf/asset/TADPOLEPEPE) was created by a Japanese artist known as [Mekabu](https://pepe.wtf/artists/Mekabu). He envisioned pepe as a tadpole because he felt it was a good analogy for the growing popularity of the Rare Pepe project. You'll notice at the bottom right of the card the word "memeclip" which is the name of the art group Mekabu and his wife attended. It means "to clip out the creativity of us (me and me) and keep it in the piece."
 
-You'll notice at the bottom right of the card the word "memeclip" which is the name of the art group Mekabu and his wife attended. It means "to clip out the creativity of us (me and me) and keep it in the piece."
+Below is an early sketch of TADPOLEPEPE given to me by Mekabu.
 
-
-
-<figure><img src="../../../.gitbook/assets/S21 C30 - Source 1 copy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tadpolepepe.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Series 21, Card 41 - MUNETOPEPE
 
