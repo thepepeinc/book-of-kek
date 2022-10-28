@@ -110,6 +110,12 @@ This card pays homage to the 1985 platform game developed by [Nintendo](https://
 
 **Series 1, Card 28** - [**DASHPEPE**](https://pepe.wtf/asset/DASHPEPE) **** was created by the artist [ICQPEPE](https://pepe.wtf/artists/ICQPEPE). ICQ created a total of 24 cards for the Rare Pepe series including the extremely rare 1 of 3 card [JONGPEPE](https://pepe.wtf/asset/JONGPEPE), the classic [NOFAPPEPE](https://pepe.wtf/asset/NOFAPPEPE), and what is probably the only artist "self portrait" in the series [ICQPEPE](https://pepe.wtf/asset/ICQPEPE). The card depicts the creator of the crypto currency Dash - [Evan Duffield](https://www.worldcryptoindex.com/creators/evan-duffield/) and the image was taken from a [cointelegraph article](https://cointelegraph.com/news/dashs-2nd-birthday-we-are-complementary-to-bitcoin-not-a-competitor) discussing the second birthday of Dash.&#x20;
 
+## Series 1, Card 29 - TLCPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C29 - TLCPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 29** - [TLCPEPE](https://pepe.wtf/asset/TLCPEPE) was created by Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). This is one of 15 cards Shawn created for the Rare Pepe project. The woman portrayed on the card is [Toni Lane Casserly](https://everipedia.org/wiki/lang\_en/toni-lane) who was known as the "Joan of Arc of Cryptocurrency." She was a cryptocurrency entrepreneur and co-founder of [CoinTelegraph](https://cointelegraph.com/) and CULTU.RE. Sadly, Toni [passed away](https://nypost.com/2020/04/20/co-founder-of-cointelegraph-toni-lane-casserly-dead-at-29/) in 2020 at the age of 29.&#x20;
+
 ## Series 1, Card 39 - PEPEBEEFTAXI
 
 <figure><img src="../../../.gitbook/assets/S01 C39 - PEPEBEEFTAXI card and source.jpg" alt=""><figcaption></figcaption></figure>
@@ -117,3 +123,9 @@ This card pays homage to the 1985 platform game developed by [Nintendo](https://
 **Series 1, Card 39** - [PEPEBEEFTAXI](https://pepe.wtf/asset/PEPEBEEFTAXI) was created by the artist known as [Robness](https://pepe.wtf/artists/Robness). He is credited with five cards in the Rare Pepe project, but Rob may be most known for a card that he collaborated on known as [LORDKEK](https://pepe.wtf/asset/LORDKEK).&#x20;
 
 For this card, Rob used an image from the international public art exhibit known as the [CowParade](https://en.wikipedia.org/wiki/CowParade). This exhibit has been featured in major world cities and allows local artists to decorate fiberglass sculptures of cows which are then placed in public places in the city. The original cow sculpture was created by the Swiss-born sculptor [Pascal Knapp](https://www.pascalknapp.com/). The cow pictured is known as Taxi Cow and was displayed in New York City. It was later offered for sale as a [figurine](https://www.ebay.com/itm/203051343052). You can find the image in [this article](https://99percentinvisible.org/episode/cow-tunnels/) which looks at the history of cow tunnels in New York during the late 19th and early 20th centuries.&#x20;
+
+## Series 1, Card 42 - IMWITHPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C42 - IMWITHPEPE card and source copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 42** - [IMWITHPEPE](https://pepe.wtf/asset/IMWITHPEPE) was created by Rare Pepe Scientist, [Rare Pepe Wallet](https://rarepepewallet.com/) creator, and all around good guy [Joe Looney](https://pepe.wtf/artists/Looney). This is one of 13 cards created by Joe for the Rare Pepe project. The card portrays a pepefied version of [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary\_Clinton) and a modified version of her unofficial 2016 presidential campaign slogan "I'm With Her." ("Stronger Together" was the official slogan).
