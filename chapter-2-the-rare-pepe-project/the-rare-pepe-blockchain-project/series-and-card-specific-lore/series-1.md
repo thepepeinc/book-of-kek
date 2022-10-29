@@ -58,6 +58,14 @@ The man pictured on the card is Vinay Gupta, Co-Founder of Ethereum. As Theo put
 
 ![](<../../../.gitbook/assets/GURUPEPE edit.png>)
 
+## Series 1, Card 19 - LUCKYPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C19 - LUCKYPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 19** - [LUCKYPEPE](https://pepe.wtf/asset/LUCKYPEPE) was created by the mysterious figure [DanDarkPill](https://pepe.wtf/artists/DanDarkPill). He created a total of 26 cards for the Rare Pepe project.&#x20;
+
+The subject of this card is the [maneki-neko](https://en.wikipedia.org/wiki/Maneki-neko) or "beckoning cat," a common Japanese figurine which is believed to bring good luck to shop owners. The earliest records of _maneki-neko_ appear in the Bukō nenpyō's (a chronology of [Edo](https://en.wikipedia.org/wiki/Edo)) entry dated 1852. Because of its popularity in Chinese and Vietnamese communities (including [Chinatowns](https://en.wikipedia.org/wiki/Chinatown) in the United States), the _maneki-neko_ is frequently mistaken for being Chinese in origin rather than Japanese, and is therefore sometimes referred to as a "Chinese lucky cat."
+
 ## Series 1, Card 20 - CHERPEPEFOIL
 
 
@@ -69,6 +77,14 @@ The man pictured on the card is Vinay Gupta, Co-Founder of Ethereum. As Theo put
 This card is a pepefied image of the American singer, actress and television personality [Cher](https://en.wikipedia.org/wiki/Cher). The card quotes a lyric from her song [Believe](https://en.wikipedia.org/wiki/Believe\_\(Cher\_song\))
 
 {% embed url="https://youtu.be/nZXRV4MezEw" %}
+
+## Series 1, Card 21 - PEPEBROS
+
+<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source (1).jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 21** - [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) was created by an [unknown artist](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL). They only created two cards for the Rare Pepe project. The other one being [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE).&#x20;
+
+This card pays homage to the 1985 platform game developed by [Nintendo](https://en.wikipedia.org/wiki/Nintendo) for the [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo\_Entertainment\_System) (NES) called [Super Mario Bros.](https://en.wikipedia.org/wiki/Super\_Mario\_Bros.) It appears that the artist created his own scene from the game, or perhaps took a scene, increased the size until it was at a 1:1 pixel ratio and then added the sun with the face of a [Wojak](https://knowyourmeme.com/memes/wojak). &#x20;
 
 ## Series 1, Card 22 - DAOPEPEHACK
 
@@ -96,13 +112,13 @@ The person depicted in the card is [Ruji Ignatova](https://en.wikipedia.org/wiki
 
 **Series1, Card 26 -** [**PEPEGUN**](https://pepe.wtf/asset/PEPEGUN) is another [DanDarkPil](https://pepe.wtf/artists/DanDarkPill)l creation. The card is a depiction of the then [Cornell University](https://www.cornell.edu/) Associate Professor [Emin Gün Sirer](https://www.cs.cornell.edu/people/egs/). He is a former [IC3](https://www.ic3.gov/) Co-Director, and the founder of [Ava Labs](https://www.avalabs.org/).
 
-## Series 1, Card 21 - PEPEBROS
+## Series 1, Card 27 - PEPEBOY
 
-<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/S01 C27 - PEPEBOY card and source.png" alt=""><figcaption></figcaption></figure>
 
-**Series 1, Card 21** - [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) was created by an [unknown artist](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL). They only created two cards for the Rare Pepe project. The other one being [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE).&#x20;
+**Series 1, Card 27** - [PEPEBOY](https://pepe.wtf/asset/PEPEBOY) was created by an [unknown artist](https://pepe.wtf/artists/139PxvJ5Lgtxa8MfWJtAd1NTc6y5hGuwKA). They created a total of three cards for the Rare Pepe project. The other two being [PEPELLUM](https://pepe.wtf/asset/PEPELLUM) and GRIMPEPE. &#x20;
 
-This card pays homage to the 1985 platform game developed by [Nintendo](https://en.wikipedia.org/wiki/Nintendo) for the [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo\_Entertainment\_System) (NES) called [Super Mario Bros.](https://en.wikipedia.org/wiki/Super\_Mario\_Bros.) It appears that the artist created his own scene from the game, or perhaps took a scene, increased the size until it was at a 1:1 pixel ratio and then added the sun with the face of a [Wojak](https://knowyourmeme.com/memes/wojak). &#x20;
+The image on the card is a green version of the  [mascot](https://en.wikipedia.org/wiki/Mascot) of the [_Fallout_](https://en.wikipedia.org/wiki/Fallout\_\(series\)) media franchise known as [Vault Boy](https://en.wikipedia.org/wiki/Vault\_Boy). He debuted in the 1997 PC and Mac video game [_Fallout_](https://en.wikipedia.org/wiki/Fallout\_\(video\_game\)). Vault Boy has since achieved a level of cultural impact and viral recognition outside the game.
 
 ## Series 1, Card 28 - DASHPEPE
 
@@ -129,3 +145,9 @@ For this card, Rob used an image from the international public art exhibit known
 <figure><img src="../../../.gitbook/assets/S01 C42 - IMWITHPEPE card and source copy.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 42** - [IMWITHPEPE](https://pepe.wtf/asset/IMWITHPEPE) was created by Rare Pepe Scientist, [Rare Pepe Wallet](https://rarepepewallet.com/) creator, and all around good guy [Joe Looney](https://pepe.wtf/artists/Looney). This is one of 13 cards created by Joe for the Rare Pepe project. The card portrays a pepefied version of [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary\_Clinton) and a modified version of her unofficial 2016 presidential campaign slogan "I'm With Her." ("Stronger Together" was the official slogan).
+
+## Series 1, Card 44 - TROUTPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C44 - TROUTPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 44** - [TROUTPEPE](https://pepe.wtf/asset/TROUTPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1JQjWjPAfhp7XxQpTTiAgEKQSkgTM81D5u) and it is the only card they created for the Rare Pepe Project. According to the user Trout on Telegram, the card was named after him and was created because he was a well known altcoin trader on Twitter back in the day. The symbols under the trout's fin represent some of the altcoin bags Trout was holding at the time. The term [shitcoin](https://www.investopedia.com/terms/s/shitcoin.asp) refers to any altcoin created after Bitcoin that has little to no value or discernible purpose.

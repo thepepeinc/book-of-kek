@@ -15,3 +15,9 @@
 **Series 26, Card 29** - [CREMAPEPE](https://pepe.wtf/asset/CREMAPEPE) was created by an unknown artist. This was their sole contribution to the Rare Pepe series. The GIF was taken from from the 1973 Mexican surreal-fantasy film entitled [_"The Holy Mountain"_](https://en.wikipedia.org/wiki/The\_Holy\_Mountain\_\(1973\_film\)). The section of the trailer is queued up below.&#x20;
 
 {% embed url="https://youtu.be/qmR0vi0ifzE?t=120" %}
+
+## Series 26, Card 45 - HAPPYRAINY
+
+<figure><img src="../../../.gitbook/assets/S26 C45 - HAPPYRAINY.png" alt=""><figcaption></figcaption></figure>
+
+Series 26, Card 45 - [HAPPYRAINY](https://pepe.wtf/asset/HAPPYRAINY) is an original drawing by the Japanese artist known as [Mekabu](https://pepe.wtf/artists/Mekabu). I asked him about it recently and this was his response, "In Japan, the rainy season is called "TSUYU", which is between spring and summer, from the end of May to mid-July. Frogs, hydrangeas, and snails are the standard illustrations for "TSUYU". HAPPYRAINY is just like that. The main subject of this illustration is rain, so I have added a blank space at the top to show the presence of clouds and rain. Please also pay attention to his gaze."

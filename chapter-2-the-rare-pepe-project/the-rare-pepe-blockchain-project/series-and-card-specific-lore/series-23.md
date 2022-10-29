@@ -18,6 +18,16 @@ For the start of Series 23, [MrHansel](https://twitter.com/bettidlomas) created 
 
 ![I could not find our hero striking this pose in the walkthrough, but it is online as a standalone image](../../../.gitbook/assets/fa7f316900ecf0d96ba6567decbbce8d.jpg)
 
+## Series 23, Card 2 - RICKYPEPE
+
+<figure><img src="../../../.gitbook/assets/S23 C02 - RICKYPEPE card and source.gif" alt=""><figcaption></figcaption></figure>
+
+**Series 23, Card 3** - [RICKYPEPE](https://pepe.wtf/asset/RICKYPEPE) was created by the artist known as [OE](https://pepe.wtf/artists/OE) although he goes by Everyday Earth on Twitter and Telegram. He created a total of 18 cards for the Rare Pepe project.
+
+This card is a parody of the movie poster for 2006 American sports comedy film "[Talladega Nights: The Ballad of Ricky Bobby](https://en.wikipedia.org/wiki/Talladega\_Nights:\_The\_Ballad\_of\_Ricky\_Bobby)" who was played by [Will Ferrell](https://en.wikipedia.org/wiki/Will\_Ferrell). &#x20;
+
+{% embed url="https://youtu.be/YfGRg0FLxtE" %}
+
 ## Series 23, Card 4 - BAYLOP
 
 ![](<../../../.gitbook/assets/S23 C04 - BAYLOP card and source.jpg>)
