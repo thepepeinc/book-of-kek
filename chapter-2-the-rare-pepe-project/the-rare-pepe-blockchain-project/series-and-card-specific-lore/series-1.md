@@ -34,6 +34,12 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 **Series 1, Card 7 -** [**PEPEPARTY**](https://pepe.wtf/asset/PEPEPARTY) **** was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers - [Evan Wagner](https://counterparty.io/team/evan-wagner/) (Top Left), [Robby Dermody](https://counterparty.io/team/robby-dermody/)[ ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
 
+## Series 1, Card 9 - BUPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C09 - BUPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 9** - [BUPEPE](https://pepe.wtf/asset/BUPEPE) was created by Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). The original image is of [Bitcoin Uncensored podcast](https://www.coindesk.com/people/bitcoin-uncensored/) host [Chris DeRose](https://twitter.com/chrisderose\_?lang=en) kissing Junseth's back side which was used for their July 18, 2016 podcast clip entitled "One Coin (aka One Life) Ponzi Meeting Bombed! Undercover Audio Footage."
+
 ## Series 1, Card 10 - STILLPEPE
 
 ![Screen Capture from the "Still D.R.E." Music Video](<../../../.gitbook/assets/S01 C10 - STILLPEPE card and source.jpg>)
