@@ -42,6 +42,12 @@ This card is a parody of the movie poster for 2006 American sports comedy film "
 
 The woman pictured on the card is [DASH](https://www.dash.org/) report and presenter [Amanda B. Johnson](https://www.instagram.com/amandab\_johnson/?hl=en).  The photograph was taken from the [Bitcoinist article](https://bitcoinist.com/dash-bitcoin-interview-amanda-b-johnson/) _"How Dash Stole Bitcoin’s Mojo – Interview with Amanda B. Johnson"._
 
+## Series 23, Card 16 - PEROCHI
+
+<figure><img src="../../../.gitbook/assets/S23 C16 - PEROCHI.png" alt=""><figcaption></figcaption></figure>
+
+**Series 23, Card 16** - [PEROCHI](https://pepe.wtf/asset/PEROCHI) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project; 8 of which are original artworks! The pepe on the card is modeled after the character [Doppo Orochi](https://baki.fandom.com/wiki/Doppo\_Orochi) from the Japanese manga series [Grappler Baki](https://en.wikipedia.org/wiki/Baki\_the\_Grappler). He has a brave "no step down" characteristic about him when it comes to fighting going as far as to fight a Siberian tiger in his younger days and even admits that was a bit foolish of him, but earning him one of his many nicknames the "Tiger Killer". In regard to that Oni said, "It was fun to change the tiger to a stuffed animal."
+
 ## Series 23, Card 22 - PHNTOMOFPEPE
 
 <figure><img src="../../../.gitbook/assets/S23 C22 - PHNTOMOFPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
@@ -49,3 +55,9 @@ The woman pictured on the card is [DASH](https://www.dash.org/) report and prese
 Series 23, Card 22 - [PHNTOMOFPEPE](https://pepe.wtf/asset/PHNTOMOFPEPE) was created by an [unknown artist](https://pepe.wtf/artists/Deleted-account). They also created the Melancholia Triptych ([MELANCHOLIA](https://pepe.wtf/asset/MELANCHOLIA), [MELANCOLIE](https://pepe.wtf/asset/MELANCOLIE), [PEPEINTRO](https://pepe.wtf/asset/PEPEINTRO)), the philosophers set ([SOCRATESPEPE](https://pepe.wtf/asset/SOCRATESPEPE), [PEPEKARLMARX](https://pepe.wtf/asset/PEPEKARLMARX), [PEPENIETZSCH](https://pepe.wtf/asset/PEPENIETZSCH)) as well as 5 other cards, for a total of 12 Rare Pepe cards.&#x20;
 
 This card is the artist's interpretation of [one](https://www.penguinrandomhouse.com/books/100150/the-phantom-of-the-opera-by-gaston-leroux/9780553213768?ref=PRHB7BD76FBDB\&aid=14813\&linkid=PRHB7BD76FBDB) of the many cover illustrations for the 1910 Novel [_The Phantom of the Opera_](https://en.wikipedia.org/wiki/The\_Phantom\_of\_the\_Opera) which was written by the French author [Gaston Leroux](https://en.wikipedia.org/wiki/Gaston\_Leroux). &#x20;
+
+## Series 23, Card 48 - PEPEEVO
+
+<figure><img src="../../../.gitbook/assets/S23 C48 - PEPEEVO.png" alt=""><figcaption></figcaption></figure>
+
+**Series 23, Card 48** - [PEPEEVO](https://pepe.wtf/asset/PEPEEVO) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project and all 9 are original artworks! Oni said of PEPEEVO, "I drew PEPE changing his appearance. His appearance changes depending on the environment around him. His appearance may also change depending on the owner of this card. I wonder how he will evolve?"

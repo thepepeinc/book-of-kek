@@ -1,5 +1,11 @@
 # Series 21
 
+## Series 21, Card 18 - PEPEBALL
+
+<figure><img src="../../../.gitbook/assets/S21 C18 - PEPEBALL.png" alt=""><figcaption></figcaption></figure>
+
+**Series 21, Card 18** - [PEPEBALL](https://pepe.wtf/asset/PEPEBALL) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project; 8 of which are original artworks! Oni said of PEPEBALL, "I made this one because I love [Dragon Ball](https://en.wikipedia.org/wiki/Dragon\_Ball\_Z) so much." The pepe in the [gi](https://en.wikipedia.org/wiki/Karate\_gi) was modeled after the main protagonist of the series - [Goku](https://dragonball.fandom.com/wiki/Goku).&#x20;
+
 ## Series 21, Card 25 - PEPEANDY
 
 <figure><img src="../../../.gitbook/assets/S21 C25 - PEPEANDY card and source.png" alt=""><figcaption></figcaption></figure>
@@ -31,6 +37,12 @@ Below is an early sketch of TADPOLEPEPE given to me by Mekabu.
 ![](<../../../.gitbook/assets/S21 C41 - MUNETOPEPE source and card.jpg>)
 
 **Series 21, Card 41** - [MUNETOPEPE](https://pepe.wtf/asset/MUNETOPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1HxpuXAdaWbGr81bRXE5GKKw3aPZxoxzBg). MUNETOPEPE is their only contribution to the Rare Pepe series. The card references [Tonomi Palisade](https://en.wikipedia.org/wiki/Tonomi\_Palisade) which is a Japanese castle located in the town of Kanegasaki. The illustration depicts [The Anecdote of the Brothers Sadato and Muneto](https://www.fukushima-museum.jp/abe-no-sadato-muneto/) which was painted by Konobu Kano in the early 1700's.  [ABE no Muneto](https://www.japanese-wiki-corpus.org/person/ABE%20no%20Muneto.html) was a Japanese military commander in the mid Heian period. I am unclear how the sour plum blossom relates to either the town or the person on the card.&#x20;
+
+## Series 21, Card 42 - PEPEJIRO
+
+<figure><img src="../../../.gitbook/assets/S21 C42 - PEPEJIRO.png" alt=""><figcaption></figcaption></figure>
+
+**Series 21, Card 42** - [PEPEJIRO](https://pepe.wtf/asset/PEPEJIRO) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project; 8 of which are original artworks! The pepe on the card is modeled after the character [Yuujirou Hanma](https://baki.fandom.com/wiki/Yuujirou\_Hanma) from the Japanese manga series [Grappler Baki](https://en.wikipedia.org/wiki/Baki\_the\_Grappler). Oni said of PEPEJIRO, "I don't think Yuujiro is that popular, but I have the impression that people who like him like this card." When Yuujirou flexes his latissimus dorsi muscles, his back takes the shape of a demon's face, thus increasing his strength and combat abilities. In regard to that Oni said "It was fun to change the face of the original demon." On the card it reads "It looks like a frog's face!"
 
 ## Series 21, Card 47 - PBOCPEPE
 

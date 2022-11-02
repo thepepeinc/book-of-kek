@@ -42,3 +42,10 @@ RPT stated recently in the official Rare Pepe Telegram chat room that he made th
 
 <figure><img src="../../../.gitbook/assets/S25 C22 - Source.png" alt=""><figcaption></figcaption></figure>
 
+
+
+## Series 25, Card 27 - PEPEHAND
+
+<figure><img src="../../../.gitbook/assets/S25 C27 - PEPEHAND.png" alt=""><figcaption></figcaption></figure>
+
+**Series 25, Card 27** - [PEPEHAND](https://pepe.wtf/asset/PEPEHAND) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project; 8 of which are original artworks! Oni said of PEPEHAND, "Something is about to be born beyond the sadness. I also feel anger and resentment. What do you think is born from destroying something? What you see beyond that may change depending on the owner of the card."

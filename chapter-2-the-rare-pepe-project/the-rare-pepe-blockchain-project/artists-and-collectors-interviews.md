@@ -74,3 +74,7 @@ description: >-
 * [Discussing Rare Pepes with OG artist, Scientist Shawn Leary](https://www.youtube.com/watch?v=TumwlkPPV4s):&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=TumwlkPPV4s" %}
+
+* [Great interview with Rare Pepe OG artist and Scientist Benchbtc](https://youtu.be/HR0f9ePZjM8):&#x20;
+
+{% embed url="https://youtu.be/HR0f9ePZjM8" %}

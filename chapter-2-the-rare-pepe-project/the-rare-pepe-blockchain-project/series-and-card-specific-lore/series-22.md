@@ -16,6 +16,12 @@ The card's images reference the thought experiment [_Schrödinger's cat_](https:
 
 **Series 22, Card 7** - [CREWLOVEPEPE](https://pepe.wtf/asset/CREWLOVEPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1Lmy7WxetaSMrCodyczDgjb6ELeJu78KiC).  The card is an edited version of the 2011 mixtape by [Young Love](https://en.wikipedia.org/wiki/Young\_Money\_Entertainment) titled ["Crew Love Vol 1 Mixtape"](https://mixtapewire.com/2011/08/young-money-crew-love-vol-1-mixtape/). The face used for the man on the far left was also used for the Rare Pepe card [BADASSPEPE](https://pepe.wtf/asset/BADASSPEPE) by the same artist.&#x20;
 
+## Series 22, Card 23 - PEPENAL
+
+<figure><img src="../../../.gitbook/assets/S22 C23 - PEPENAL card and source.png" alt=""><figcaption></figcaption></figure>
+
+**Series 22, Card 23** - [PEPENAL](https://pepe.wtf/asset/PEPENAL) was created by the Japanese artist known as [Oni Giri](https://pepe.wtf/artists/Oni-Giri). She created a total of 9 cards for the Rare Pepe project; 8 of which are original artworks! Oni had this to say about this card, "it is based on my love of [Final Fantasy](https://en.wikipedia.org/wiki/Final\_Fantasy\_\(video\_game\)), this is the four [Warriors of Dawn ](https://finalfantasy.fandom.com/wiki/Warriors\_of\_Dawn)from [FF5](https://finalfantasy.fandom.com/wiki/Final\_Fantasy\_V). I tried to express [Yoshitaka Amano](https://www.yoshitakaamano.com/about)'s touch. I personally like this card very much. I think it was more popular back in 2017 than it is now."
+
 ## Series 22, Card 34 - PEPEHARING
 
 <figure><img src="../../../.gitbook/assets/S22 C34 - PEPEHARING source and card.jpg" alt=""><figcaption></figcaption></figure>
