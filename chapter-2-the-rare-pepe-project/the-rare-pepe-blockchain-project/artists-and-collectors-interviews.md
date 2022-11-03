@@ -78,3 +78,7 @@ description: >-
 * [Great interview with Rare Pepe OG artist and Scientist Benchbtc](https://youtu.be/HR0f9ePZjM8):&#x20;
 
 {% embed url="https://youtu.be/HR0f9ePZjM8" %}
+
+* [Embracing the Remix with Rare Scrilla | FutureFi](https://open.spotify.com/episode/5p9l9Sog5IQlmiMBSZ3lu1?si=CaH4J3e-TPaz0rD2UGT3zg):&#x20;
+
+{% embed url="https://open.spotify.com/episode/5p9l9Sog5IQlmiMBSZ3lu1?si=CaH4J3e-TPaz0rD2UGT3zg" %}
