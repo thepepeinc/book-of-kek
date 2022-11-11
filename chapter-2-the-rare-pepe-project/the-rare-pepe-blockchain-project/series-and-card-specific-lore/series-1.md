@@ -38,7 +38,7 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 <figure><img src="../../../.gitbook/assets/S01 C09 - BUPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
 
-**Series 1, Card 9** - [BUPEPE](https://pepe.wtf/asset/BUPEPE) was created by Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). The original image is of [Bitcoin Uncensored podcast](https://www.coindesk.com/people/bitcoin-uncensored/) host [Chris DeRose](https://twitter.com/chrisderose\_?lang=en) kissing Junseth's back side which was used for their July 18, 2016 podcast clip entitled "One Coin (aka One Life) Ponzi Meeting Bombed! Undercover Audio Footage."
+**Series 1, Card 9** - [BUPEPE](https://pepe.wtf/asset/BUPEPE) was created by Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). The original image is was from the duo's July 18, 2016 podcast clip entitled "One Coin (aka One Life) Ponzi Meeting Bombed! Undercover Audio Footage." It shows [Bitcoin Uncensored podcast](https://www.coindesk.com/people/bitcoin-uncensored/) host Junseth kissing [Chris DeRose's ](https://twitter.com/chrisderose\_?lang=en)back side.&#x20;
 
 ## Series 1, Card 10 - STILLPEPE
 

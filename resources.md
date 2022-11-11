@@ -144,3 +144,4 @@ description: >-
 * [Great interview with Rare Pepe OG artist and Scientist Benchbtc](https://youtu.be/HR0f9ePZjM8)
 * [Fake Rares One Year Anniversary Chat & New Drops](https://twitter.com/i/spaces/1lDGLnZdgZYxm?s=20)
 * [Embracing the Remix with Rare Scrilla | FutureFi](https://open.spotify.com/episode/5p9l9Sog5IQlmiMBSZ3lu1?si=CaH4J3e-TPaz0rD2UGT3zg)
+* [Great discussion with OG Rare Pepe artist Finest Rares](https://youtu.be/2tm51w40BJM)
