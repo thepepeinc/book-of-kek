@@ -28,11 +28,25 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 **Series 1, Card 4** - [**PEPENATION**](https://pepe.wtf/asset/PEPENATION) was created by [Theo Goodman](https://pepe.wtf/artists/Theo-Goodman). You can read more about Theo in the GURUPEPE write-up below. Pictured in the card is [Susanne Tarkowski Tempelhof](https://www.crunchbase.com/person/susanne-tarkowski-tempelhof) of the project BitNation. The firm partnered with Spacechain in 2015 to create a peer-to-peer research service to study the cosmos. [Here](https://cointelegraph.com/news/bitnation-spacechain-the-mission-to-decentralize-space-exploration) is an interview with Susanne that discusses the project in detail.&#x20;
 
+## Series 1, Card 6 - TRUMPRARE
+
+<figure><img src="../../../.gitbook/assets/S01 C06 - TRUMPRARE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 6** - [TRUMPRARE](https://pepe.wtf/asset/TRUMPRARE) was created by a man known only as [Mike](https://pepe.wtf/artists/Mike). Not only did Mike create this card, but he started the whole Rare Pepe project when he released the iconic [RAREPEPE](https://pepe.wtf/asset/RAREPEPE) card and became the first Rare Pepe Scientist. The card is a parody of the 45th [President of the United States of America](https://en.wikipedia.org/wiki/President\_of\_the\_United\_States) - [Donald J. Trump](https://en.wikipedia.org/wiki/Donald\_Trump). The text on the card make reference to Mr. Trumps campaign promise to [build a wall](https://en.wikipedia.org/wiki/Trump\_wall) at the United States and Mexico border, his love of winning, making business deals, and his daughter [Ivanka](https://en.wikipedia.org/wiki/Ivanka\_Trump).&#x20;
+
 ## Series 1, Card 7 - PEPEPARTY
 
 ![](<../../../.gitbook/assets/S01 C07 - PEPEPARTY card and source.jpg>)
 
 **Series 1, Card 7 -** [**PEPEPARTY**](https://pepe.wtf/asset/PEPEPARTY) **** was another masterpiece created by Joe Looney (see [STILLPEPE](series-1.md#series-1-card-10-stillpepe) for further information about Joe). The card depicts three Counterparty developers - [Evan Wagner](https://counterparty.io/team/evan-wagner/) (Top Left), [Robby Dermody](https://counterparty.io/team/robby-dermody/)[ ](https://counterparty.io/team/matt-young/)(Top Right), and [Adam Krellenstein](https://counterparty.io/team/adam-krellenstein/) (Bottom). Bitcoin maximalists get angry at Counterparty users for trading Rare Pepes and other assets on "their" blockchain. Thus Joe's tongue-in-cheek "Spamming the block chain since January 2014" comment. In reality, they should be thanking Counterparty users. They gave Bitcoin an actual use case back in 2014-2016 and still do to this day.&#x20;
+
+## Series 1, Card 8 - KEISERPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C08 - KEISERPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+Series 1, Card 8 - [KEISERPEPE](https://pepe.wtf/asset/KEISERPEPE) was created by Rare Pepe Scientist [Theo Goodman](https://pepe.wtf/artists/Theo-Goodman). He created a total of 12 cards for the Rare Pepe project. Theo used a screen capture of American broadcaster and film maker [Max Keiser](https://en.wikipedia.org/wiki/Max\_Keiser) when he lost it live on air during his January 23, 2014 [Keiser Report](https://en.wikipedia.org/wiki/Keiser\_Report) show which was broadcast on the [RT television network](https://en.wikipedia.org/wiki/RT\_\(TV\_network\)) from 2009 until 2022.&#x20;
+
+{% embed url="https://youtu.be/aURuh8399pI?t=480" %}
 
 ## Series 1, Card 9 - BUPEPE
 
@@ -51,6 +65,12 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 
 {% embed url="https://youtu.be/_CL6n0FJZpk" %}
+
+## Series 1, Card 12 - LOVEPEPETATO
+
+<figure><img src="../../../.gitbook/assets/S01 C12 - LOVEPEPETATO card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 12** - [LOVEPEPETATO](https://pepe.wtf/asset/LOVEPEPETATO) was created by the late, great [John Villar](https://pepe.wtf/artists/John-Villar). He was a Counterparty developer, artist, and Rare Pepe Scientist among other things. John created 82 cards for the Rare Pepe project. The subject of this card is the President of Venezuela [Nicolás Maduro Moros](https://en.wikipedia.org/wiki/Nicol%C3%A1s\_Maduro) in front of some of the [many slums](https://migrazioniontheroad.largemovements.it/petare-venezuela-slum/) in the country. Maduro has been described as a dictator by various world leaders, and his presidency has been [under dispute](https://en.wikipedia.org/wiki/Venezuelan\_presidential\_crisis) since 2019.
 
 ## Series 1, Card 14 - GURUPEPE
 
@@ -138,6 +158,18 @@ The image on the card is a green version of the  [mascot](https://en.wikipedia.o
 
 **Series 1, Card 29** - [TLCPEPE](https://pepe.wtf/asset/TLCPEPE) was created by Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). This is one of 15 cards Shawn created for the Rare Pepe project. The woman portrayed on the card is [Toni Lane Casserly](https://everipedia.org/wiki/lang\_en/toni-lane) who was known as the "Joan of Arc of Cryptocurrency." She was a cryptocurrency entrepreneur and co-founder of [CoinTelegraph](https://cointelegraph.com/) and CULTU.RE. Sadly, Toni [passed away](https://nypost.com/2020/04/20/co-founder-of-cointelegraph-toni-lane-casserly-dead-at-29/) in 2020 at the age of 29.&#x20;
 
+## Series 1, Card 38 - PEPELLUM
+
+<figure><img src="../../../.gitbook/assets/S01 C38 - PEPELLUM card and source.png" alt=""><figcaption></figcaption></figure>
+
+Series 1, Card 38 - [PEPELLUM](https://pepe.wtf/asset/PEPELLUM) was created by an [unknown artist](https://pepe.wtf/artists/139PxvJ5Lgtxa8MfWJtAd1NTc6y5hGuwKA). They created a total of three cards for the Rare Pepe project.  The image used for the card is a still of the character [Gollum](https://en.wikipedia.org/wiki/Gollum), from the American fantasy adventure film, [The Lord of the Rings](https://en.wikipedia.org/wiki/The\_Lord\_of\_the\_Rings\_\(film\_series\)). Gollum was voiced in the film by actor [Andy Serkis](https://en.wikipedia.org/wiki/Andy\_Serkis).  &#x20;
+
+## Series 1, Card 36 - MAGICPEPEYE
+
+<figure><img src="../../../.gitbook/assets/S01 C36 - MAGICPEPEYE card and source.png" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 36** - [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE) was created by the same [unknown artis](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL)t that created [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) which are the only two cards they contributed to the project. The card pays homage to the [early 1990's fad](https://www.buzzfeed.com/agh/tk-hidden-illusions-thatll-make-your-brain-hurt?utm\_term=.wuAZ3M27yp\&epik=dj0yJnU9cy15RmVDS3J3YjN3UXNwS1dIWEhuVE90VEctODMzSkUmcD0wJm49cHRCZVJEc1RmZGhZZjRjc3FnMEJwQSZ0PUFBQUFBR055MDFn#.kbYrD4j9zM) called [Magic Eye](https://en.wikipedia.org/wiki/Magic\_Eye) which began as a series of books but quickly expanded to posters, wall calendars, greating cards, and more. The term for this type of image is "autostereogram" which is a two-dimensional image that can create the optical illusion of a three-dimensional scene.&#x20;
+
 ## Series 1, Card 39 - PEPEBEEFTAXI
 
 <figure><img src="../../../.gitbook/assets/S01 C39 - PEPEBEEFTAXI card and source.jpg" alt=""><figcaption></figcaption></figure>
@@ -157,3 +189,23 @@ For this card, Rob used an image from the international public art exhibit known
 <figure><img src="../../../.gitbook/assets/S01 C44 - TROUTPEPE.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 44** - [TROUTPEPE](https://pepe.wtf/asset/TROUTPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1JQjWjPAfhp7XxQpTTiAgEKQSkgTM81D5u) and it is the only card they created for the Rare Pepe Project. According to the user Trout on Telegram, the card was named after him and was created because he was a well known altcoin trader on Twitter back in the day. The symbols under the trout's fin represent some of the altcoin bags Trout was holding at the time. The term [shitcoin](https://www.investopedia.com/terms/s/shitcoin.asp) refers to any altcoin created after Bitcoin that has little to no value or discernible purpose.
+
+## Series 1, Card 45 - HERNIAPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C45 - HERNIAPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+Series 1, Card 45 - [HERNIAPEPE](https://pepe.wtf/asset/HERNIAPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1DDsNLqFAPUaDthkzWumMreLsyGkKBpJ8R). This was their only contribution to the Rare Pepe project. The subject of the card is former Bitcoin Core developer Mike Hern who [famously rage quit](https://cointelegraph.com/news/how-mike-hearn-sold-all-his-bitcoins-in-2016-and-market-proved-him-wrong) the project and declaired that he sold all his coins. The black and white sketch used for the card came from a [2014 Cointelegraph article](https://cointelegraph.com/news/bitcoin-core-dev-mike-hearn-openness-is-bitcoins-biggest-strength) about Mr. Hern.&#x20;
+
+## Series 1, Card 47 - TOPCUCK
+
+<figure><img src="../../../.gitbook/assets/S01 C47 - TOPCUCK card and copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 47** - [TOPCUCK](https://pepe.wtf/asset/TOPCUCK) was created by an [unknown artist](https://pepe.wtf/artists/192KCgfwneaXQZPhV61TiSKy3Z9Tvgg9TA). This and [BANEPEPE](https://pepe.wtf/asset/BANEPEPE) were the only two cards contributed to the project by the artist. The card is an odd pairing of a character from the American animated sitcom [South Park ](https://en.wikipedia.org/wiki/South\_Park)a random person from a 2016 Donald Trump rally in St. Louis, Missouri. The South Park image is of the character [PC Principal](https://en.wikipedia.org/wiki/List\_of\_South\_Park\_Elementary\_staff#PC\_Principal\_\(Peter\_Charles\)) taken from Season 19 Episode 1 of the show entitled "[Stunning and Brave](https://en.wikipedia.org/wiki/Stunning\_and\_Brave)." The YouTube clip was first aired on the Alex Jones program but has since been taken down. Another version has been found and it is available below. The text on the card "Are You Kidding Me" is a quote from the guy the internet has dubbed "[Carl the Cuck](https://knowyourmeme.com/memes/carl-the-cuck-and-aids-skrillex)."
+
+{% embed url="https://www.youtube.com/watch?t=550s&v=ms31w4DVLvs" %}
+
+## Series 1, Card 48 - PEPEPOPE
+
+<figure><img src="../../../.gitbook/assets/S01 C48 - PEPEPOPE card and source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 48** - [PEPEPOPE](https://pepe.wtf/asset/PEPEPOPE) was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). He created a total of 25 cards for the Rare Pepe project and is the creator of the Rare Pepe offshoot project - [Dank Rare Agency](https://dankdirectory.wordpress.com/). PEPEPOPE is a parody of the December 11, 2013 [Time Magazine](https://en.wikipedia.org/wiki/Time\_\(magazine\)) cover which named Roman Catholic Pope[ Francis](https://en.wikipedia.org/wiki/Pope\_Francis) the [Person of the Year](https://en.wikipedia.org/wiki/Time\_Person\_of\_the\_Year).&#x20;
