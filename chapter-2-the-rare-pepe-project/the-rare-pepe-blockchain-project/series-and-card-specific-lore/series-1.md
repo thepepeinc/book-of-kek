@@ -14,7 +14,7 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 <figure><img src="../../../.gitbook/assets/S01 C01 - RAREPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
 
-**Series 1, Card 1 -** [**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) is the card that started it all. The anonymous artist that goes only by "Mike" posted a link to this asset on the Counterparty platform on September 9, 2016 with little explanation. He was also the first and only "Rare Pepe Scientist" for cards 1 - 1,000. The image is a parody of Dorian Nakamoto who was falsely identified as the real Satoshi Nakamoto in a [high-profile article](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto) in the US magazine "Newsweek" on March 6, 2014.
+**Series 1, Card 1 -** [**RAREPEPE**](https://pepe.wtf/asset/RAREPEPE) is the card that started it all. The anonymous artist that goes only by "[Mike](https://pepe.wtf/artists/Mike)" posted a link to this asset on the Counterparty platform on September 9, 2016 with little explanation. He was also the first and only "Rare Pepe Scientist" for cards 1 - 1,000. The image is a parody of Dorian Nakamoto who was falsely identified as the real Satoshi Nakamoto in a [high-profile article](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto) in the US magazine "Newsweek" on March 6, 2014.
 
 ## Series 1, Card 2 - GOXPEPE
 
@@ -22,11 +22,27 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 **Series 1, Card 2 -** [**GOXPEPE**](https://pepe.wtf/asset/GOXPEPE) was created by "Mike" the same person who started the whole Rare Pepe project when he released the above RAREPEPE card. He also created [SHITCOINCARD](https://pepe.wtf/asset/SHITCOINCARD), [TRUMPRARE](https://pepe.wtf/asset/TRUMPRARE), [PEPECASH](https://pepe.wtf/asset/PEPECASH), and [UFOPEPE](https://pepe.wtf/asset/UFOPEPE). Mike was also the first Rare Pepe Scientist. He took on the responsibility of examining each card submission and approving the very best for inclusion in the Rare Pepe Directory. The person pictured on the card is [Mark Karpelès](https://en.wikipedia.org/wiki/Mark\_Karpel%C3%A8s) who was the former CEO of the Bitcoin exchange Mt. GOX. Karpelès was [arrested](https://www.ndtv.com/business/former-ceo-of-collapsed-mt-gox-bitcoin-exchange-arrested-in-japan-report-1202733) in Japan in 2015 for allegations of fraud that led to the collapes of Mt. Gox.
 
+## Series 1, Card 3 - SHITCOINCARD
+
+<figure><img src="../../../.gitbook/assets/S01 C03 - SHITCOINCARD.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 3** - [SHITCOINCARD](https://pepe.wtf/asset/SHITCOINCARD) was created by the man that started the Rare Pepe project - [Mike](https://pepe.wtf/artists/Mike). Not much is known about Mike except that he created a total of 6 cards for the Rare Pepe project and was the first Rare Pepe Scientist. To Bitcoin maximalists, every other project is considered a "shitcoin." In this card, Mike takes a jab at people who bought or traded them and called out [Litecoin](https://litecoin.com/en/), [Maza](https://www.mazacoin.org/), and [NuBits](https://nubits.com/) specifically.&#x20;
+
 ## Series 1, Card 4 - PEPENATION
 
 ![](<../../../.gitbook/assets/S01 C04 - PEPENATION card and source.jpg>)
 
 **Series 1, Card 4** - [**PEPENATION**](https://pepe.wtf/asset/PEPENATION) was created by [Theo Goodman](https://pepe.wtf/artists/Theo-Goodman). You can read more about Theo in the GURUPEPE write-up below. Pictured in the card is [Susanne Tarkowski Tempelhof](https://www.crunchbase.com/person/susanne-tarkowski-tempelhof) of the project BitNation. The firm partnered with Spacechain in 2015 to create a peer-to-peer research service to study the cosmos. [Here](https://cointelegraph.com/news/bitnation-spacechain-the-mission-to-decentralize-space-exploration) is an interview with Susanne that discusses the project in detail.&#x20;
+
+## Series 1, Card 5 - DANKPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C05 - DANKPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 5** - [DANKPEPE](https://pepe.wtf/asset/DANKPEPE) was created by Rare Pepe OG and Retired Rare Pepe Scientist [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary). He created/commissioned a total of 15 cards for the Rare Pepe project. DANKPEPE is in all likelihood the first weed related tokenized digital art piece.&#x20;
+
+You can listen to Shawn discuss DANKPEPE and all his other cards in the interview below.
+
+{% embed url="https://youtu.be/TumwlkPPV4s" %}
 
 ## Series 1, Card 6 - TRUMPRARE
 
@@ -66,11 +82,23 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 {% embed url="https://youtu.be/_CL6n0FJZpk" %}
 
+## Series 1, Card 11 - PEPECASH
+
+<figure><img src="../../../.gitbook/assets/S01 C11 - PEPECASH.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 11** - [PEPECASH](https://pepe.wtf/asset/PEPECASH) was created by [Mike. ](https://pepe.wtf/artists/Mike)Not only was PEPECASH a Series 1 card, it quickly became the de facto currency of Rare Pepe card buyers and sellers. In late 2017 Pepecash received the same categorization as Bitcoin as a “first class” cryptocurrency in Japan, and [one of only 17 digital tokens](https://www.techinasia.com/japan-approved-crypto-exchanges) that could be legally be traded at the time.&#x20;
+
 ## Series 1, Card 12 - LOVEPEPETATO
 
 <figure><img src="../../../.gitbook/assets/S01 C12 - LOVEPEPETATO card and source.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 12** - [LOVEPEPETATO](https://pepe.wtf/asset/LOVEPEPETATO) was created by the late, great [John Villar](https://pepe.wtf/artists/John-Villar). He was a Counterparty developer, artist, and Rare Pepe Scientist among other things. John created 82 cards for the Rare Pepe project. The subject of this card is the President of Venezuela [Nicolás Maduro Moros](https://en.wikipedia.org/wiki/Nicol%C3%A1s\_Maduro) in front of some of the [many slums](https://migrazioniontheroad.largemovements.it/petare-venezuela-slum/) in the country. Maduro has been described as a dictator by various world leaders, and his presidency has been [under dispute](https://en.wikipedia.org/wiki/Venezuelan\_presidential\_crisis) since 2019.
+
+## Series 1, Card 13 - PEPEJOINTSPH
+
+<figure><img src="../../../.gitbook/assets/S01 C13 - PEPEJOINTSPH.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 13** - [PEPEJOINTSPH](https://pepe.wtf/asset/PEPEJOINTSPH) was created by the late, great [John Villar](https://pepe.wtf/artists/John-Villar). John created a whopping 82 cards for the Rare Pepe Project including 50 for the game he had been developing at the time of his passing Rare Pepe Party.
 
 ## Series 1, Card 14 - GURUPEPE
 
@@ -83,6 +111,24 @@ The man pictured on the card is Vinay Gupta, Co-Founder of Ethereum. As Theo put
 [Here](https://www.forbes.com/sites/rahulsingireddy/2017/10/18/vinay-gupta-on-why-ethereum-is-the-future/?sh=3e809c6856f2) is a lengthy article about him from Forbes. While researching the card, I asked the question "who is displayed in GURUPEPE?" to Theo, when Rare Pepe OG [Shawn Leary](https://pepe.wtf/artists/Shawn-Leary) jumped in with the answer. When I agreed with him, he followed up with one of the greatest one liners in Rare Pepe History: "I know I'm right. I'm a retired Rare Pepe Scientist." I should have known better than to question [Shawn](https://twitter.com/shawnleary)!&#x20;
 
 ![](<../../../.gitbook/assets/GURUPEPE edit.png>)
+
+## Series 1, Card 15 - HYIPPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C15 - HYIPPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 15** - [HYIPPEPE](https://pepe.wtf/asset/HYIPPEPE) was created by [Theo Goodman](https://pepe.wtf/artists/Theo-Goodman). Theo is a retired Rare Pepe scientist, artist, and auctioneer. He had this to say about HYIPPEPE and PONZIPEPE (animated version), "On HYIPPEPE and [PONZIPEPE](https://pepe.wtf/asset/PONZIPEPE) are the top ponzis of the time, including [ONECOIN](https://en.wikipedia.org/wiki/OneCoin), [MMM](https://en.wikipedia.org/wiki/MMM\_\(Ponzi\_scheme\_company\)), [SWISSCOIN](https://news.bitcoin.com/dissecting-swisscoin-cryptocurrency-ponzi-horizon/) and the first telegram bot ponzi (I forgot the name, maybe just telegram robot) at the time all of these were making the rounds and had a major impact on the crypto landscape. MMM is older than bitcoin and had a crypto version that went wild in 2016."&#x20;
+
+## Series 1, Card 16 - PEPETRATION
+
+<figure><img src="../../../.gitbook/assets/S01 C16 - PEPETRATION.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 16** - [PEPETRATION](https://pepe.wtf/asset/PEPETRATION) was created by an [unknown artist](https://pepe.wtf/artists/1Nh6neRNUzHapiCthccuUVNoJHPSR3fCJD). This was their only submission to the Rare Pepe project. The artist drew a [wojak](https://en.wikipedia.org/wiki/Wojak) family celebrating the US holiday of [Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving), replacing the traditional [turkey](https://en.wikipedia.org/wiki/Turkey\_\(bird\)) with a Pepe and a the [turkey baster](https://en.wikipedia.org/wiki/Basting\_\(cooking\)) with a [green candle](https://en.wikipedia.org/wiki/Candlestick\_chart). &#x20;
+
+## Series 1, Card 17 - DARKPILLPEPE
+
+<figure><img src="../../../.gitbook/assets/S01 C17 - DARKPILLPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 1, Card 17** -[DARKPILLPEPE](https://pepe.wtf/asset/DARKPILLPEPE) was created by [DanDarkPill](https://pepe.wtf/artists/DanDarkPill). He created a total of 26 cards for the Rare Pepe project.&#x20;
 
 ## Series 1, Card 19 - LUCKYPEPE
 
