@@ -4,9 +4,9 @@ description: July 14th, 2022 | Submitted by @masonmarcobello
 
 # Collector Interview: TokenAngels
 
-Although there's no shortage of notable collectors in the Rare Pepe community, few have the memetic foresight or conviction to hodl what have since become infallible grails and culturally definitive moments in the CryptoArt movement. However, as a believer in tokenizing assets, the new virtual economy, and the "internet of NFTs" - a pseudo-anonymous collector that goes by the alias [TokenAngels](https://twitter.com/TokenAngels?s=20\&t=4N9smEkfQ\_4boVY59aeMpA) is one such example.
+Although there's no shortage of notable collectors in the Rare Pepe community, few have the foresight or conviction to hodl what have since become infallible grails in the CryptoArt movement. However, as a believer in tokenized assets, the new virtual economy, and the "internet of NFTs" - a pseudo-anonymous collector that goes by the alias [TokenAngels](https://twitter.com/TokenAngels?s=20\&t=4N9smEkfQ\_4boVY59aeMpA) is one shining example.
 
-As the current owner of the beloved [1/1 HOMERPEPE ](https://pepe.wtf/asset/HOMERPEPE)(otherwise known as "The Mona Lisa of Pepes"), TokenAngels also amplified the prophetic prowess of dank memes upon selling [PEPENOPOULOS](https://pepe.wtf/asset/PEPENOPOULOS) at the [2021 Sothebys Natively Digital](https://metaverse.sothebys.com/natively-digital/lots/pepenopoulos) amidst a flurry of hype and attention surrounding Bored Ape Yacht Club. Given his long-standing involvement and awareness of Rare Pepes, it seemed only fitting to gain TA's perspective on the collection in the following interview.
+As the current owner of the [1/1 HOMERPEPE ](https://pepe.wtf/asset/HOMERPEPE)(otherwise known as "The Mona Lisa of Pepes"), TokenAngels also amplified the power of dank memes with the sale of [PEPENOPOULOS](https://pepe.wtf/asset/PEPENOPOULOS) at the [2021 Sothebys Natively Digital](https://metaverse.sothebys.com/natively-digital/lots/pepenopoulos) despite the hype surrounding BAYC at the time. Given his long-standing involvement and love of Rare Pepes, it seemed only fitting to gain TA's perspective on the collection in the following interview.
 
 ![HOMERPEPE](https://xchain.io/img/cards/HOMERPEPE.jpg)
 
