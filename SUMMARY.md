@@ -105,8 +105,9 @@
 
 ## Chapter 4 - latest developments
 
-* [PegzDAO, Chain/Saw & RarePepe.fun](chapter-4-latest-developments/pegzdao-chain-saw-and-rarepepe.fun.md)
 * [Pepe.wtf](chapter-4-latest-developments/pepe.wtf.md)
 * [PepePawnShop](chapter-4-latest-developments/pepepawnshop/README.md)
   * [How It Works](chapter-4-latest-developments/pepepawnshop/how-it-works.md)
 * [Pepe Inc.](chapter-4-latest-developments/pepe-inc..md)
+* [PegzDAO, Chain/Saw & RarePepe.fun](chapter-4-latest-developments/pegzdao-chain-saw-and-rarepepe.fun.md)
+* [Rare Apepes](chapter-4-latest-developments/rare-apepes.md)

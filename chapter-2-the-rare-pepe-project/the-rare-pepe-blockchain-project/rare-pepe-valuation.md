@@ -24,7 +24,7 @@ The last art piece to be auctioned was a Rare Pepe card called “Homer Pepe”.
 
 The card was sold for 350,000 PEPECASH ($39,000) to Peter Kell.
 
-![Peter Kell with his prize possession - HOMERPEPE](<../../.gitbook/assets/Screenshot 2022-03-27 202651 (1).png>)
+![Peter Kell with his prize possession - HOMERPEPE](<../../.gitbook/assets/Screenshot 2022-03-27 202651.png>)
 
 > _“What makes this Pepe worth so much? It’s the only one with a misprint. That’s value.”_ - Peter
 

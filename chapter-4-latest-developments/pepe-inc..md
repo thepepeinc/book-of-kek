@@ -4,7 +4,7 @@ description: 'The Merge: PepePawnShop + Pepe.wtf = Pepe Inc.'
 
 # Pepe Inc.
 
-![Pepe.wtf and PepePawnShop Back Alley Merger](../.gitbook/assets/FM9VTbeUcBAd2FS.jpg)
+![Pepe.wtf and PepePawnShop Back Alley Merger](<../.gitbook/assets/PEPEINC (1).jpeg>)
 
 As of March 2022, [Pepe Inc.](https://twitter.com/PepeInc\_) has been birthed. [PepePawnShop](https://t.me/PepePawnShop) and [Pepe.wtf](https://pepe.wtf) have combined operations and merged teams with the aim of streamlining the discovery and buying experience across the entire Pepe ecosystem.
 

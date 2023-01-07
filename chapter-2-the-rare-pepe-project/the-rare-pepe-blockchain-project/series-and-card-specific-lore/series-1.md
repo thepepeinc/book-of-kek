@@ -24,7 +24,7 @@ _**Work in progress**_ - if you would like to contribute your card-specific stor
 
 ## Series 1, Card 3 - SHITCOINCARD
 
-<figure><img src="../../../.gitbook/assets/S01 C03 - SHITCOINCARD.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SHITCOINCARD.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 3** - [SHITCOINCARD](https://pepe.wtf/asset/SHITCOINCARD) was created by the man that started the Rare Pepe project - [Mike](https://pepe.wtf/artists/Mike). Not much is known about Mike except that he created a total of 6 cards for the Rare Pepe project and was the first Rare Pepe Scientist. To Bitcoin maximalists, every other project is considered a "shitcoin." In this card, Mike takes a jab at people who bought or traded them and called out [Litecoin](https://litecoin.com/en/), [Maza](https://www.mazacoin.org/), and [NuBits](https://nubits.com/) specifically.&#x20;
 
@@ -84,7 +84,7 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 ## Series 1, Card 11 - PEPECASH
 
-<figure><img src="../../../.gitbook/assets/S01 C11 - PEPECASH.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PEPECASH.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 11** - [PEPECASH](https://pepe.wtf/asset/PEPECASH) was created by [Mike. ](https://pepe.wtf/artists/Mike)Not only was PEPECASH a Series 1 card, it quickly became the de facto currency of Rare Pepe card buyers and sellers. In late 2017 Pepecash received the same categorization as Bitcoin as a “first class” cryptocurrency in Japan, and [one of only 17 digital tokens](https://www.techinasia.com/japan-approved-crypto-exchanges) that could be legally be traded at the time.&#x20;
 
@@ -102,7 +102,7 @@ The STILLPEPE card displays "Pepefied" versions of American Rappers [Snoop Dogg]
 
 ## Series 1, Card 14 - GURUPEPE
 
-![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source.jpg>)
+![](<../../../.gitbook/assets/S01 C14 - GURUPEPE card and source (1).jpg>)
 
 **Series 1, Card 14 -** [**GURUPEPE**](https://pepe.wtf/asset/GURUPEPE) was created by artist, auctioneer extraordinaire, and all around good guy [Theo Goodman](https://twitter.com/theog\_\_). He also created the Series 1 cards [PEPENATION](https://pepe.wtf/asset/PEPENATION), [KEISERPEPE](https://pepe.wtf/asset/KEISERPEPE), [HYIPPEPE](https://pepe.wtf/asset/HYIPPEPE), and [PONZIPEPE](https://pepe.wtf/asset/PONZIPEPE) along with several other great cards such as [EGGPLANTPEPE](https://pepe.wtf/asset/EGGPLANTPEPE) and [GROYPERMONKY](https://pepe.wtf/asset/GROYPERMONKY).
 
@@ -152,7 +152,7 @@ This card is a pepefied image of the American singer, actress and television per
 
 ## Series 1, Card 21 - PEPEBROS
 
-<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/S01 C21 - PEPEBROS card and source.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 1, Card 21** - [PEPEBROS](https://pepe.wtf/asset/PEPEBROS) was created by an [unknown artist](https://pepe.wtf/artists/1698Gs1WEs8pyvLoyYZWVqhbBGE5uYCmSL). They only created two cards for the Rare Pepe project. The other one being [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE).&#x20;
 

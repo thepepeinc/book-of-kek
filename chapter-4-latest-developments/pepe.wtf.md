@@ -40,7 +40,7 @@ Drops are a newly added feature that automated the purchasing of new released an
 
 To kick things off, the first card on Drops was [DAWNOFHOPE](https://pepe.wtf/asset/DAWNOFHOPEPE) by [FourLeafClover](https://pepe.wtf/artists/FourLeafClover).
 
-![DAWNOFHOPE ](<../.gitbook/assets/DAWNOFHOPEPE (1).gif>)
+![DAWNOFHOPE ](../.gitbook/assets/DAWNOFHOPEPE.gif)
 
 ## Pepe.wtf team
 
