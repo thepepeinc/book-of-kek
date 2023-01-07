@@ -4,7 +4,7 @@ description: By Pepe Designer (AKA Rare Designer)
 
 # Rare Apepes
 
-### The Origin
+### The Genesis
 
 As mentioned in [Chapter 1](broken-reference), Pepe the Frog originated in a comic by Matt Furie, before growing in popularity as an apolitical open source meme for the Internet.
 
