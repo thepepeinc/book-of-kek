@@ -32,25 +32,29 @@ Roman philosopher Seneca once said, “Luck is what happens when preparation mee
 
 [Rare Designer](https://twitter.com/pepe\_designer) as he was now know, along with his co-creator [kntrvlr](https://twitter.com/kntrvlr) (kountervailor), encouraged by the success of this commission proceeded to design, build and launch the [Rare Apepe Yacht Club](https://www.rareapepeyachtclub.com/) (RAYC), a collection of 10,000 one-of-one [Rare Apepes](https://opensea.io/collection/rareapepeyachtclub), which in part is an extension of the memetic culture and as a homage to the BAYC collection.&#x20;
 
-#### **The Arrival**
+#### **1. The Arrival**
 
 March 5th, 2022, marked the beginning of the RAYC lore. 'The Arrival' was the launch of the first 1,997 Rare Apepes by [Rare Labs](https://twitter.com/rare\_labs), a paid mint priced at 0.05 ETH with no whitelist or bonding curve.&#x20;
 
-#### The Rebellion
+#### 2. The Rebellion
 
 After a pause of the initial mint, and while the crypto and NFT spaces were in turmoil, 'The Rebellion' ensued. From July 31st, 2022, token ID 1,998 resumed and the Rare Apepes broke free from the paid mint, turning into a free mint. The rebellion also saw the Rare Apepes break free from the 1:1 ID match with their BAYC counterparts.
 
-#### The Explosion
+#### 3. The Explosion
 
 In August 2022, 'the Explosion' occurred. No one knew what was about to happen, not even Rare Designer or the Team. The NFT space began to see the project's potential, the passionate and loyal community began to grow organically and these ‘Fros’ as they were affectionately named began producing Rare Apepes memes and derivatives, keeping to the roots of Pepe the Frog, while embracing the Ape like sensibilities. This continued to spark organic growth that enabled the project to navigate towards a direction that was beyond Rare Designers wildest dreams, as the brand aimed to establish itself as one of the leading 'meme' brands in the NFT web3 space.
 
-#### Zombie Apocalypse
+#### 4. Zombie Apocalypse
 
 In October 2022, the Rare Apepe community experienced a Zombie apocalypse as the [Zombie Apepe Yacht Club](https://opensea.io/collection/zombie-apepes) (ZAYC) was launched, providing Rare Apepe holders, who claimed their serum, the ability to Spawn a Zombie Apepe based on the Traits of their Rare Apepe. \
+
+
 
 
 This is only the beginning of the lore, as Rare Designer and the Rare Labs team have officially announced MAPYC collection in 2023, the details of which are unknown, except those holding 1 x RAYC + 1 x ZAYC (matching pairs & minted their zombie spawn) will receive 1 x MAPYC to complete a set of the collections from the same traits. Dubious speculation is rife, but we know Mutants are coming. However, what that may look like is left to our imagination for now as Rare Designer and the team keep their future plans close to their chest.&#x20;
 
 Watch this pond closely for more to follow…
+
+
 
 <figure><img src="../.gitbook/assets/Rare_Apepe_Genesis_Final.jpg" alt=""><figcaption><p>Rare Apepe Genesis</p></figcaption></figure>
