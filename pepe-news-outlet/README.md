@@ -33,7 +33,11 @@ On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitte
 
 _"You think memes are your ally?_
 
-_You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness..."_
+_You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness..._
+
+_After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
+
+_A contingent of Rare Pepe artists & scientists, Fake Rare creators, and representatives of the frogs have been assembled to give rise to a new movement, spreading dank Pepes far and wide."_
 
 **Read the full story** [**here**](../chapter-4-latest-developments/notable-pepes.md)**.**
 
