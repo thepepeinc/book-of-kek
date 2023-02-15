@@ -51,6 +51,10 @@ description: >-
 
 {% embed url="https://open.spotify.com/episode/75bw25EAHXmdotc78fVTos?si=0809c9cbdb704b0e" %}
 
+* [Rug Radio Live at Fake Basel ft. Scrilla & Pablo Rica\$$o](https://twitter.com/farokh/status/1598765019465908227):&#x20;
+
+{% embed url="https://twitter.com/farokh/status/1598765019465908227" %}
+
 * [Great Discussion with Aya, creator of HAIRPEPE & BREATHEDPEPE](https://youtu.be/RXWS\_mi2baA):
 
 {% embed url="https://youtu.be/RXWS_mi2baA" %}

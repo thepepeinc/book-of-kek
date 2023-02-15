@@ -7,6 +7,26 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Pepe.wtf presents the 3rd Community Rewards card: GREENMEDAL
+
+December 10th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1601669696184459265)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Pepe.wtf announces the 3rd [Community Rewards](https://pepe.wtf/collection/community-rewards) card, [GREENMEDAL](https://pepe.wtf/asset/GREENMEDAL) by [@financenewsguy](https://twitter.com/financenewsguy)... This time we knocked the door of one of the earliest supporters to the [pepe.wtf](https://t.co/nSeobdK7Qy) family, thanks for making history with us!
+
+Card is available to those who have purchased cards in the [@PepePawnShop](https://twitter.com/PepePawnShop). Available for the first 250 to claim it!
+
+<div>
+
+<figure><img src="../.gitbook/assets/GREENMEDAL.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/GREENMEDAL">GREENMEDAL</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-15 at 11.51.45 AM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## Joe Looney announces rpw.wtf & hardware wallet support for RPW
 
 November 29th, 2022 ; [source](https://twitter.com/wasthatawolf/status/1597625358970343424)
