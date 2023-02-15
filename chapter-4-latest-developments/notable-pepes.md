@@ -14,7 +14,15 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 The edition was minted 237869 times, making it one of the most minted editions of its time.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.37.52 PM.png" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">https://twitter.com/Vince_Van_Dough/status/1621982296973758466</a></p></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">https://twitter.com/Vince_Van_Dough/status/1621982296973758466</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The artwork immediately inspired a large amount of derivatives, flooding Twitter and setting the perfect playground for speculation as to its future "utility"...
 
