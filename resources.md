@@ -42,8 +42,8 @@ description: >-
 
 ## Tutorials
 
-* [Rare Pepes Explained](https://www.youtube.com/watch?v=YkqZhhGPkIo\&list=PL\_XhCPNEKfhrSe0b7MRCGOTHwmfKpPOn7) - by "RARE PEPES DOT COM"
-* [Rare Pepe tutorials](https://www.youtube.com/watch?v=A3y2MiAf4\_Q\&list=PL\_XhCPNEKfhowYq0qpbo3\_nKb54K3EnPc) - by "RARE PEPES DOT COM"
+* [Rare Pepes Explained](https://www.youtube.com/watch?v=YkqZhhGPkIo\&list=PL\_XhCPNEKfhrSe0b7MRCGOTHwmfKpPOn7) - by RARE PEPES DOT COM
+* [Rare Pepe tutorials](https://www.youtube.com/watch?v=A3y2MiAf4\_Q\&list=PL\_XhCPNEKfhowYq0qpbo3\_nKb54K3EnPc) - by RARE PEPES DOT COM
 * [How to Get Started with Rare Pepes](http://rarepepenews.com/how-to-get-rare-pepes/) - by Django Bates
 * [How to Buy Rare Pepes](https://twitter.com/MattGarciaEth/status/1432725838085165072?s=20) - by MattGarciaEth on Twitter
 * [Robotlovecoffee.io ](https://robotlovecoffee.io/)- Counterparty tutorials by RobotLoveCoffee
@@ -53,6 +53,7 @@ description: >-
 * [How to Crack an Emblem Vault](https://www.youtube.com/watch?v=y-VEZR8e2Ro\&ab\_channel=MELLOWMINING) - by Mellow Mining
 * [How to buy Rarepepe NFTs on OpenSea (2022 Full Buyer's Guide)](https://www.youtube.com/watch?v=in8dHrKRrlo\&ab\_channel=DANIELGOTHITS) - by DANIEL GOT HITS
 * [How to create a Counterparty asset dispenser on xchain.io using FreeWallet](https://subterranean.medium.com/how-to-create-a-counterparty-asset-dispenser-on-xchain-io-using-freewallet-70ebe5b3e62f) - by Subterranea
+* [How to Purchase Fake Rares using Drops](https://youtu.be/pjPzmjCc480) - by Pepe.wtf
 
 ## Telegram Communities
 

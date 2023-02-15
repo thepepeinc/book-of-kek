@@ -7,6 +7,174 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Joe Looney announces rpw.wtf & hardware wallet support for Rare Pepe Wallet
+
+November 29th, 2022 ; [source](https://twitter.com/wasthatawolf/status/1597625358970343424)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+RPW creator Joe Looney announced the next step in the evolution of RarePepeWallet: [rpw.wtf](https://rpw.wtf)
+
+...now with **hardware wallet support**! (Ledger Nano S / S Plus / X).
+
+While [rarepepewallet.com](https://t.co/tVuoQN0wm5) will remain mostly unchanged as an homage to the early days of crypto art, [rpw.wtf](https://t.co/tbPCY7pZLu) is a new platform for collectors to manage their collections of Rare Pepes, Fake Rares, Fake Commons and Dank Rares.
+
+<div>
+
+<figure><img src="../.gitbook/assets/RPW Hardware Support.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/RPW WTF.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+[Rpw.wtf](https://t.co/uT5yNdQKZG) is built on a modern framework and optimized for use on both desktop and mobile. You can even use it on Android with a hardware wallet!
+
+Over the next weeks and months, Joe Looney will be working with [@al\_fernandz](https://twitter.com/al\_fernandz) to build a synergy between rpw.wtf and pepe.wtf, to create a one stop shop for creating and collecting in the Pepe ecosystem. Currently, you can sign into your pepe.wtf profile directly from rpw (more to come...)
+
+<div>
+
+<figure><img src="../.gitbook/assets/RPW  Pepe.wtf.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/RPW Hardware Support (2).jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+As with development on the original RarePepeWallet, Joe remains open to any and all feedback from users!
+
+_"What a crazy 6 years it's been, looking forward to continuing to build out tools that make it easier for everyone to participate in this special corner of the internet."  - Joe Looney_
+
+## Fake Rares, the Pepe Inc. and Scarce.City return to Miami for Fake Basel
+
+November 29th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1597665541015371776)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+FAKE RARES INVADE MIAMI, AGAIN! We are coming to dominate the art world Dec 2-4... Since the beginning of [@FAKERARES\_XCP](https://twitter.com/FAKERARES\_XCP) a lil over a year ago, we have had galleries and showings in Zurich, Swiss Basel, Miami, NYC, Milan, Barcelona, London and more in that short time... selling hundreds of physical Pepes!
+
+This year we have some very fake events lined up at 3400 NW 7th Ave. We are open to the public from 11AM - 9PM, Dec 2-4... No RSVPs are required. Come as you are!
+
+<div>
+
+<figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22 Schedule.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+The biggest event - the [auction](https://twitter.com/scarcedotcity/status/1594024335274131461) with [@scarcedotcity](https://twitter.com/scarcedotcity) is happening all weekend!
+
+{% embed url="https://twitter.com/scarcedotcity/status/1597700593359163392" %}
+
+## Pepe.wtf turns 1 Year Old! 🎉
+
+November 19th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1594004170981482496)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Happy Birthday Pepe.wtf! One year ago [pepe.wtf](https://t.co/nSeobe1Jf8) launched full of memes, and now we celebrate this event with all the frens we've made along the way. Thank you all!
+
+<figure><img src="../.gitbook/assets/Pepe.wtf 1Year.jpeg" alt=""><figcaption></figcaption></figure>
+
+We wanted to thank all those who have contributed to this space bringing art, fun and knowledge, so we have asked a good friend of ours for a commemorative card to celebrate this event...&#x20;
+
+We are very happy and honored to present the second [Community Rewards](https://pepe.wtf/collection/community-rewards) card made by one of the most loved members of this space: [@robotlovecoffee](https://twitter.com/robotlovecoffee)! Give a warm welcome to [LAYERSOFLIFE](https://pepe.wtf/asset/LAYERSOFLIFE)
+
+<div>
+
+<figure><img src="../.gitbook/assets/LAYERSOFLIFE.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/LAYERSOFLIFE">LAYERSOFLIFE</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Community Rewards.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## Pepe.wtf introduces new improved UI for collectors & artists
+
+November 6th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1589438437848862726)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+[Pepe.wtf](https://pepe.wtf) announced [new on-site features](https://twitter.com/pepe\_\_wtf/status/1589438437848862726) to improve the platform as a tool for collecting rare, fake and dank cards, gathering everything that can be useful for collectors and artists. Introducing new collector profiles and web3 connectivity:&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/Connect Wallet.jpeg" alt=""><figcaption><p>Connect your wallet</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Profile Page.jpeg" alt=""><figcaption><p>Collector Profile</p></figcaption></figure>
+
+</div>
+
+Users are now able to:
+
+1\. Add cards to their wishlists (★) to track them later and view a summary of their wallet activity
+
+2\. Add multiple addresses to view as a unique collection to find missing cards
+
+<div>
+
+<figure><img src="../.gitbook/assets/Wishlist.jpeg" alt=""><figcaption><p>Wishlist &#x26; Activity</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Multiple addresses.jpeg" alt=""><figcaption><p>Multiple Addresses</p></figcaption></figure>
+
+</div>
+
+3\. Find collectors, artists, and cards easily
+
+4\. Artist pages now have a summary of an artist's card activity
+
+<div>
+
+<figure><img src="../.gitbook/assets/Search Option.png" alt=""><figcaption><p>New Search Function</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Artist Page Activity.jpeg" alt=""><figcaption><p>Artist Cards Activity</p></figcaption></figure>
+
+</div>
+
+5\. Now it is possible to find missing cards in a fren's collection, or to know which ones your fren is missing from yours
+
+6\. Find trades from other collectors more easily via the [the-counterparty-dex.md](../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/the-counterparty-dex.md "mention").
+
+<div>
+
+<figure><img src="../.gitbook/assets/Missing cards.png" alt=""><figcaption><p>Show Missing Cards</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Trades.jpeg" alt=""><figcaption><p>DEX Trades</p></figcaption></figure>
+
+</div>
+
+7\. The Drops page UX has also been improved, including new features to save your Payment & Delivery addresses for faster checkout, view your Purchase History, and a brand new "[How To Purchase](https://youtu.be/pjPzmjCc480)" video tutorial for newcomers:
+
+<div>
+
+<figure><img src="../.gitbook/assets/Drops Improvements.jpeg" alt=""><figcaption><p>Save Payment &#x26; Delivery Addresses</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Drops Improvements 2.jpeg" alt=""><figcaption><p>Purchase History</p></figcaption></figure>
+
+</div>
+
+{% embed url="https://youtu.be/pjPzmjCc480" %}
+
+To celebrate the latests updates and to thank the loyal community, the top 5k collectors in [pepe.wtf](https://pepe.wtf) received the first [Community Rewards](https://pepe.wtf/collection/community-rewards) card by Fake Rare artist [Jamex](https://pepe.wtf/artists/JAMEX): [WELCOMEPEPE](https://pepe.wtf/asset/WELCOMEPEPE).
+
+<figure><img src="../.gitbook/assets/WELCOMEPEPE.gif" alt=""><figcaption><p><a href="https://pepe.wtf/asset/WELCOMEPEPE">WELCOMEPEPE</a></p></figcaption></figure>
+
 ## Fake Rares exhibited at DYOR in Switzerland
 
 October 12th, 2022 ; [source](https://twitter.com/fabooowy/status/1578071296906346502)

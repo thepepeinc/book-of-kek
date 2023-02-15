@@ -28,19 +28,29 @@ Users can have a view of all the necessary data about Rares, Fakes or Danks from
 
 **Activity tabs** on [pepe.wtf](https://pepe.wtf) allow users to have a broader market overview. They show monthly total sales, volume and asset count, as well as a chronological list of sales that are happening on the market starting from the latest. Activity tabs are supported for [Rares](https://pepe.wtf/activity), [Fakes](https://pepe.wtf/new/activity/Fake-Rares) and [Danks](https://pepe.wtf/new/activity/Dank-Rares).
 
-{% hint style="warning" %}
-As of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
+{% hint style="info" %}
+
+
+&#x20;of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
 {% endhint %}
 
 ### Introducing: [**Drops**](https://pepe.wtf/drops)****
 
-Drops are a newly added feature that automated the purchasing of new released and by doing so, massively enriches the user experience on the platform. Now, Pepe gatherers can buy a newly released drops straight from the Pepe.wtf website. You can stay tuned for future drop announcements via the [PepePawnShop Telegram Chat](https://t.me/PepePawnShop).
+Drops is a newly added feature that automated the purchasing of new released and by doing so, massively enriches the user experience on the platform. Now, Pepe gatherers can buy a newly released drops straight from the Pepe.wtf website. You can stay tuned for future drop announcements via the [PepePawnShop Telegram Chat](https://t.me/PepePawnShop).
 
 ![Drops on Pepe.wtf](<../.gitbook/assets/Screen Shot 2022-06-14 at 9.10.51 PM.png>)
 
 To kick things off, the first card on Drops was [DAWNOFHOPE](https://pepe.wtf/asset/DAWNOFHOPEPE) by [FourLeafClover](https://pepe.wtf/artists/FourLeafClover).
 
 ![DAWNOFHOPE ](../.gitbook/assets/DAWNOFHOPEPE.gif)
+
+New to purchasing on pepe.wtf? Watch this "[How To Purchase](https://youtu.be/pjPzmjCc480)" tutorial to get you started:
+
+{% embed url="https://youtu.be/pjPzmjCc480" %}
+
+{% hint style="info" %}
+[#pepe.wtf-introduces-new-improved-ui-for-collectors-and-artists](../pepe-news-outlet/#pepe.wtf-introduces-new-improved-ui-for-collectors-and-artists "mention")
+{% endhint %}
 
 ## Pepe.wtf team
 
