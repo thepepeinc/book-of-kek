@@ -58,6 +58,7 @@ description: >-
 
 * [PepePawnShop](https://t.me/PepePawnShop)
 * [Fake Rare Directory](https://t.me/OFFICIALFAKERARES)
+* [Notable Pepes](https://t.me/notablepepes)
 * [Counterparty Official Group](http://www.t.me/counterparty\_XCP)
 * [Counterparty XCP Bot](https://t.me/xcpchan)
 * [Scarce.city Banter](https://t.me/scarce\_city)
