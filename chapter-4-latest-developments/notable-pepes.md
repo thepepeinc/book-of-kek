@@ -5,9 +5,7 @@ description: These Pepes may or may not be notable.
 # Notable Pepes
 
 {% hint style="success" %}
-__
-
-__[_https://twitter.com/tommy\_wilson\_/status/1622048466674548737?s=20\&t=XuFeTMsFdvgkczPuArDw9Q_](https://twitter.com/tommy\_wilson\_/status/1622048466674548737?s=20\&t=XuFeTMsFdvgkczPuArDw9Q)_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
+_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
