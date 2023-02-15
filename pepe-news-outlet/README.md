@@ -17,11 +17,11 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 <div>
 
-<figure><img src="../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption><p>Pepe Checks Open Edition</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption><p>Pepe Checks Manifold</p></figcaption></figure>
 
  
 
@@ -29,7 +29,7 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 </div>
 
-On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes):
+On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes), a new collection of Pepe cards coming to **Ethereum**:
 
 _"You think memes are your ally?_
 
