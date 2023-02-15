@@ -50,7 +50,7 @@ _You merely adopted the memes. We were born in them, molded by them. We didn’t
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.53.26 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.57.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
