@@ -80,4 +80,4 @@ _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will b
 
 _Prepare yourselves."_
 
-Notable Pepes to be continued...
+**To be continued...**
