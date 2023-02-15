@@ -5,7 +5,9 @@ description: These Pepes may or may not be notable.
 # Notable Pepes
 
 {% hint style="success" %}
-_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
+__
+
+__[_https://twitter.com/tommy\_wilson\_/status/1622048466674548737?s=20\&t=XuFeTMsFdvgkczPuArDw9Q_](https://twitter.com/tommy\_wilson\_/status/1622048466674548737?s=20\&t=XuFeTMsFdvgkczPuArDw9Q)_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
@@ -20,13 +22,21 @@ The edition was minted 237869 times, making it one of the most minted editions o
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.03 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 The artwork immediately inspired a large amount of derivatives, flooding Twitter and setting the perfect playground for speculation as to its future "utility"...
 
+<div>
+
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">https://twitter.com/beeple/status/1622459994376388610</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM.png" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
+
+</div>
 
 ### On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes):
 
@@ -34,7 +44,15 @@ _"You think memes are your ally?_
 
 _You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness._
 
+<div>
+
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.42 PM.png" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1624889005593485312">https://twitter.com/Vince_Van_Dough/status/1624889005593485312</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.53.26 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
 
@@ -54,7 +72,15 @@ _The long standing rules of Rare Pepes will be in place. Submissions will be che
 
 _Pepe Cheques, card 2, will be made available next Sunday via a claim for any artist who has ever minted a Rare Pepe or Fake Rare, or by way of burning a FAKEASF. A Pepe Cheque will be required to be burnt to have your art entered into the Notable Pepe directory._
 
+<div>
+
 <figure><img src="../.gitbook/assets/Pepe Cheques.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a> </p></figcaption></figure>
+
+</div>
 
 _Pepe Cheques which go unclaimed by artists will be made available to Pepe Checks holders, with allowlist spots being raffled to Pepe Checks holders. No need to split wallets, the same wallet can win multiple allowlist spots. This will remain true for future drops as well._
 
