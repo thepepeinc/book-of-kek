@@ -80,4 +80,6 @@ _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will b
 
 _Prepare yourselves."_
 
+<figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption></figcaption></figure>
+
 **To be continued...**
