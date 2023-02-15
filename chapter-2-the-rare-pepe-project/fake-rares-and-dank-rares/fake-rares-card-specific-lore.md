@@ -89,3 +89,40 @@ SuperTrip64 develops pure 64 Bit Visuals™ games, playable via his website [Sup
 
 {% embed url="https://twitter.com/SuperTrip64/status/1552720983961862145" %}
 
+## [BOOTLEGGED](https://pepe.wtf/asset/BOOTLEGGED) - Series 8, Card 17, 1/100
+
+[BOOTLEGGED](https://pepe.wtf/asset/BOOTLEGGED) is [Seerlight](https://pepe.wtf/artists/SeerLight)'s first Fake Rare. Seerlight is an illustrator and animator based in LA, best known for his style involving intricate line art and flat colors with striking color palettes. His subjects are primarily architecture, sceneries and landscapes. Seerlight is inspired by anime, vaporwave aesthetics, cyberpunk themes and escapism.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.44.02 PM (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.44.11 PM.png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/BOOTLEGGED">BOOTLEGGED</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.43.53 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+There are a few frames in this animated card that show a timestamp in the bottom left corner, which based on blockchain data, coincides with the moment he had finalized the artwork and locked the token issuance. Dank Art Historians believe this to be the “finishing touch” on this work, the last stroke of Seerlight’s brush.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.46.50 PM.png" alt=""><figcaption><p>PM 6:44 JUL 6</p></figcaption></figure>
+
+## [PEPEMAGPIE](https://pepe.wtf/asset/PEPEMAGPIE) - Series 4, Card 25, 1/100
+
+"[PEPEMAGPIE](https://pepe.wtf/asset/PEPEMAGPIE) depicts a young peper living as a hermit in the wilderness. His welcoming gaze, elegant posture, and the surrounding symbols refer to his role as a keeper of peace and a connoisseur of remarkable treasures. Set against a lush landscape composed of oak trees, one may take notice of the inscription carved within the tree’s trunk, “TEST”. He holds a blush frosted cupcake topped with a tart cherry in his left hand while his right arm is folded across his body, the fingers gracefully supporting a bright orange umbrella. Dank Art Historians have identified these symbols as references to origin assets on Counterparty. The presence of the sheep further upholds the notion of benevolence and peace which is a reference to the essence of the pepe community. And finally, the unassuming magpie bird is depicted as a gesture of wit. It is said that this type of bird is notorious for collecting shiny objects.” - [Pepenardo](https://pepe.wtf/artists/Pepenardo).
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.57.18 PM.png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/PEPEMAGPIE">PEPEMAGPIE</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/FAKEFAKEWAX.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FAKEFAKEWAX">FAKEFAKEWAX</a></p></figcaption></figure>
+
+</div>
+
+PEPEMAGPIE was also featured on the cover of [FAKEFAKEWAX](https://pepe.wtf/asset/FAKEFAKEWAX). As a tribute to FAKEWAX, Fake master [Pepenardo](https://twitter.com/PepenardoStudio) released FAKEFAKEWAX, a 35 numbered limited edition vinyl available only via 48h silent auction at the [pepepawnshop](../../chapter-4-latest-developments/pepepawnshop/ "mention").
