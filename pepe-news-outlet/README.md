@@ -7,6 +7,42 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes.md)
+
+February 12th, 2023 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1624889005593485312)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks). The edition was minted 237869 times, making it one of the most minted editions of its time. The artwork immediately inspired a large amount of derivatives, flooding Twitter and setting the perfect playground for speculation as to its future "utility"...
+
+<div>
+
+<figure><img src="../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption><p>Pepe Checks Open Edition</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p>Beeple Derivative</p></figcaption></figure>
+
+</div>
+
+On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes):
+
+_"You think memes are your ally?_
+
+_You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness..."_
+
+**Read the full story** [**here**](../chapter-4-latest-developments/notable-pepes.md)**.**
+
+<figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)
+{% endhint %}
+
 ## Pepe.wtf presents the 3rd Community Rewards card: GREENMEDAL
 
 December 10th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1601669696184459265)
