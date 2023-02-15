@@ -7,7 +7,7 @@ description: >-
 
 # Pepe News Outlet 📰
 
-## Joe Looney announces rpw.wtf & hardware wallet support for RarePepeWallet
+## Joe Looney announces rpw.wtf & hardware wallet support for RPW
 
 November 29th, 2022 ; [source](https://twitter.com/wasthatawolf/status/1597625358970343424)
 
