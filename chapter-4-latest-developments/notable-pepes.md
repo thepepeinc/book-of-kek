@@ -68,7 +68,7 @@ _Pepe Cheques, card 2, will be made available next Sunday via a claim for any ar
 
  
 
-<figure><img src="../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
 
 </div>
 
@@ -80,6 +80,6 @@ _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will b
 
 _Prepare yourselves."_
 
-<figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
 
 **To be continued...**
