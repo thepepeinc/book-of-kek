@@ -97,7 +97,7 @@
   * [7. Lock Supply](chapter-3-blockchain-counterparty-how-to/creator-onboarding-to-xcp/7.-lock-supply.md)
   * [8. Submit To Directories](chapter-3-blockchain-counterparty-how-to/creator-onboarding-to-xcp/8.-submit-to-directories.md)
 * [How to Buy Rares, Fakes & Danks](chapter-3-blockchain-counterparty-how-to/how-to-buy-rares-fakes-and-danks/README.md)
-  * [How to buy Rare Pepes](chapter-3-blockchain-counterparty-how-to/how-to-buy-rares-fakes-and-danks/how-to-buy-rare-pepes.md)
+  * [How to Buy Rare Pepes](chapter-3-blockchain-counterparty-how-to/how-to-buy-rares-fakes-and-danks/how-to-buy-rare-pepes.md)
 * [Dispensers: What are they? How to use them?](chapter-3-blockchain-counterparty-how-to/dispensers-what-are-they-how-to-use-them.md)
 * [Scarce.city](chapter-3-blockchain-counterparty-how-to/scarce.city.md)
 * [Emblem Vault](chapter-3-blockchain-counterparty-how-to/emblem-vault/README.md)
