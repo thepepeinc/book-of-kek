@@ -40,7 +40,7 @@ To find a card you wish to purchase, a great resource is [Pepe.wtf](https://pepe
 
 Once you have located a card you wish to purchase, you will be linked to the asset page on Xchain. Below is an example of an asset page:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.19.40 PM (2).png" alt=""><figcaption><p><a href="https://xchain.io/asset/FAKEINC">FAKEINC</a> asset page on xchain.io</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.19.40 PM (1).png" alt=""><figcaption><p><a href="https://xchain.io/asset/FAKEINC">FAKEINC</a> asset page on xchain.io</p></figcaption></figure>
 
 When you open an asset page, the default tab is ‘Information’. To see available dispensers, click on the ‘Dispensers’ tab. Below is an example of a Dispensers tab:
 
@@ -68,7 +68,7 @@ To do this through Rare Pepe Wallet select the currency icon in the top right co
 
 Click on the Bitcoin Icon and you will be presented with the Send BTC screen:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.45.47 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.34.54 PM.png" alt=""><figcaption></figcaption></figure>
 
 Fill in the Dispensers BTC Address and corresponding Satoshi Rate and voila, after 1 block confirmation (<10 min) you will be the proud new owner of a Rare Pepe Card.
 

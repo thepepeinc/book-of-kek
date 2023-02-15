@@ -8,14 +8,14 @@ description: 'The Merge: PepePawnShop + Pepe.wtf = Pepe Inc.'
 
 As of March 2022, [Pepe Inc.](https://twitter.com/PepeInc\_) has been birthed. [PepePawnShop](https://t.me/PepePawnShop) and [Pepe.wtf](https://pepe.wtf) have combined operations and merged teams with the aim of streamlining the discovery and buying experience across the entire Pepe ecosystem.
 
-In the past months, the team has implementing a large amount of new features, such as:
+In the upcoming months, the team plans on implementing new features, such as:
 
 * adding support for Fake Rares and Dank Rares :white\_check\_mark:
 * adding automated [drops](https://pepe.wtf/drops) via pepe.wtf :white\_check\_mark:
 * conducting [artists & collectors interviews](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md) :white\_check\_mark:
 * documenting [background information ](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/)on cards :white\_check\_mark:
-* integrating OTC trades and secondary markets, directly on-site :white\_check\_mark:
-* user profile and multiple wallet linking :white\_check\_mark:
+* integrating OTC trades and secondary markets, directly on-site
+* user profile and multiple wallet linking
 
 ...and much more.
 
@@ -28,7 +28,7 @@ In the past months, the team has implementing a large amount of new features, su
 * [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough)&#x20;
 * [@Giga\_Chad\_Pepe](https://twitter.com/Giga\_Chad\_Pepe)&#x20;
 * [@LordJamieVShill](https://twitter.com/LordJamieVShiLL)
-* [@Pepitovankekito](https://twitter.com/pepitovankekito)
+* [@toomucheth](https://twitter.com/toomucheth)&#x20;
 * [@PabloRicasso](https://twitter.com/PabloRicasso)&#x20;
 * [@Pepeguykek](https://twitter.com/pepeguykek)
 * [@Jujimufu69](https://twitter.com/jujimufu69)

@@ -26,7 +26,7 @@ The team will assist everyone settle their trades by offering a catered experien
 
 **PepePawnShop core team members:**
 
-* @LordJamieVShill
+* @ApemanGo
 * @pepeguykek
 * @jujimufu
 * @GigaChadPepe
