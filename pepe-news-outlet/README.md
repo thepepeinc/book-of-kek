@@ -15,6 +15,8 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take place at [Kunsthalle Zürich](https://twitter.com/KunsthalleZH) from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
 
+<figure><img src="../.gitbook/assets/DYOR lineup.jpeg" alt=""><figcaption><p><a href="https://twitter.com/FAKERARES_XCP/status/1573801701106221056">DYOR Lineup</a></p></figcaption></figure>
+
 <div>
 
 <figure><img src="../.gitbook/assets/DYOR Exhibit 2.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
@@ -32,8 +34,6 @@ The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take p
 <figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578716474931568642?s=20&#x26;t=P_WH8jFsvnF4k5ShbQ6Izw">@faboowy</a></p></figcaption></figure>
 
 </div>
-
-<figure><img src="../.gitbook/assets/DYOR lineup.jpeg" alt=""><figcaption><p><a href="https://twitter.com/FAKERARES_XCP/status/1573801701106221056">DYOR Lineup</a></p></figcaption></figure>
 
 ## Fake Rares in Tokyo
 
