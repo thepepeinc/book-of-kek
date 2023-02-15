@@ -32,7 +32,7 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM.png" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
 
 </div>
 
