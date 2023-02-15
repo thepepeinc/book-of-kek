@@ -17,7 +17,7 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 <div>
 
-<figure><img src="../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VVD Open Edition.png" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
 
  
 
