@@ -42,7 +42,7 @@ _"You think memes are your ally?_
 
 _You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness._
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.42 PM.png" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1624889005593485312">https://twitter.com/Vince_Van_Dough/status/1624889005593485312</a></p></figcaption></figure>
+{% embed url="https://twitter.com/Vince_Van_Dough/status/1624889005593485312" %}
 
 _After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
 
