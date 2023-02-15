@@ -64,7 +64,7 @@ _Pepe Cheques, card 2, will be made available next Sunday via a claim for any ar
 
 <div>
 
-<figure><img src="../.gitbook/assets/Pepe Cheques-2.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
 
  
 
