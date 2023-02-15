@@ -22,7 +22,7 @@ PepePawnShop client info form
 
 Once the form is filled, one of the following members of the PPS team will reach out to you via Telegram:
 
-* @ApemanGo
+* @LordJamieVShill
 * @pepeguykek
 * @jujimufu
 * @GigaChadPepe
