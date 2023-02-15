@@ -25,13 +25,15 @@ The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take p
 
 <figure><img src="../.gitbook/assets/DYOR Exhibit 3.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
 
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/DYOR Exhibit 4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure>
+
  
 
-<figure><img src="../.gitbook/assets/DYOR Exhibit 4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502?s=20&#x26;t=P_WH8jFsvnF4k5ShbQ6Izw">@faboowy</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578716474931568642?s=20&#x26;t=P_WH8jFsvnF4k5ShbQ6Izw">@faboowy</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure>
 
 </div>
 
