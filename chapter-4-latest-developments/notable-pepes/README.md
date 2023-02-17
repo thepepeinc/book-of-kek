@@ -5,7 +5,7 @@ description: These Pepes may or may not be notable.
 # Notable Pepes
 
 {% hint style="success" %}
-_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
+_To learn more about Notable Pepes, join our_ [_Telegram_](https://t.me/notablepepes) _and follow our_ [_Twitter_](https://twitter.com/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
@@ -36,7 +36,7 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
 </div>
 
-### On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes):
+### On February 12th, 2023, [#vincentvandough-announces-notable-pepes](../../pepe-news-outlet/#vincentvandough-announces-notable-pepes "mention"): &#x20;
 
 _"You think memes are your ally?_
 
