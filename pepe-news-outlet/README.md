@@ -7,7 +7,7 @@ description: >-
 
 # Pepe News Outlet 📰
 
-## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes.md)
+## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes/)
 
 February 12th, 2023 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1624889005593485312)
 
@@ -39,7 +39,7 @@ _After 6 years of being molded in the depths of Counterparty, Pepes are coming t
 
 _A contingent of Rare Pepe artists & scientists, Fake Rare creators, and representatives of the frogs have been assembled to give rise to a new movement, spreading dank Pepes far and wide."_
 
-**Read the full story** [**here**](../chapter-4-latest-developments/notable-pepes.md)**.**
+**Read the full story** [**here**](../chapter-4-latest-developments/notable-pepes/)**.**
 
 <figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption></figcaption></figure>
 

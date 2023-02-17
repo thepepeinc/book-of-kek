@@ -8,7 +8,7 @@ description: These Pepes may or may not be notable.
 _To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
 
 On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks).
 
@@ -16,11 +16,11 @@ The edition was minted 237869 times, making it one of the most minted editions o
 
 <div>
 
-<figure><img src="../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">https://twitter.com/Vince_Van_Dough/status/1621982296973758466</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">https://twitter.com/Vince_Van_Dough/status/1621982296973758466</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,11 +28,11 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">https://twitter.com/beeple/status/1622459994376388610</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">https://twitter.com/beeple/status/1622459994376388610</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
 
 </div>
 
@@ -64,11 +64,11 @@ _Pepe Cheques, card 2, will be made available next Sunday via a claim for any ar
 
 <div>
 
-<figure><img src="../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
 
 </div>
 
@@ -80,6 +80,6 @@ _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will b
 
 _Prepare yourselves."_
 
-<figure><img src="../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
 
 **To be continued...**
