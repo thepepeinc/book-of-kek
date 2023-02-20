@@ -111,5 +111,6 @@
 * [Pepe Inc.](chapter-4-latest-developments/pepe-inc..md)
 * [Notable Pepes](chapter-4-latest-developments/notable-pepes/README.md)
   * [How It Works](chapter-4-latest-developments/notable-pepes/how-it-works.md)
+  * [FAQ](chapter-4-latest-developments/notable-pepes/faq.md)
 * [PegzDAO, Chain/Saw & RarePepe.fun](chapter-4-latest-developments/pegzdao-chain-saw-and-rarepepe.fun.md)
 * [Rare Apepes](chapter-4-latest-developments/rare-apepes.md)
