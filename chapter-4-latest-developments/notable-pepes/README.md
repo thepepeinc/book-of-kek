@@ -16,7 +16,7 @@ The edition was minted 237869 times, making it one of the most minted editions o
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">https://twitter.com/Vince_Van_Dough/status/1621982296973758466</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
 
  
 
@@ -28,11 +28,11 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">https://twitter.com/beeple/status/1622459994376388610</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">Beeple's DAWN OF CHECKS</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737?s=20&#x26;t=XuFeTMsFdvgkczPuArDw9Q">https://twitter.com/tommy_wilson_/status/1622048466674548737</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737">Tommy Wilson's NOTABLE PEPE</a></p></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@ _Pepe Cheques, card 2, will be made available next Sunday via a claim for any ar
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p>Pepe Cheques - Card 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/Pepe-Cheques">Pepe Cheques</a></p></figcaption></figure>
 
  
 
