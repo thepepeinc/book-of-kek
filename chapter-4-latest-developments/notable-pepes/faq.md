@@ -4,10 +4,6 @@ description: Notable Pepes - Frequently Asked Questions
 
 # FAQ
 
-{% hint style="success" %}
-_Can't find the answers you're looking for? Join our_ [_Telegram_](https://t.me/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
-{% endhint %}
-
 ### 1. How do I participate in a Notable Pepes Drop?
 
 You must hold at least 1 [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) for a chance to win an allowlist spot.
@@ -86,3 +82,7 @@ Artists are only required to burn a Pepe Cheque after their artwork has been sel
 
 [https://t.me/notablepepes\
 https://t.me/notablepepenews](https://t.me/notablepepeshttps://t.me/notablepepenews)
+
+{% hint style="success" %}
+_Can't find the answers you're looking for? Join our_ [_Telegram_](https://t.me/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
+{% endhint %}
