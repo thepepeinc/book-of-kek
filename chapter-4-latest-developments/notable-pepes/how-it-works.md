@@ -12,9 +12,20 @@ Some of the parameters in this document are hardcoded into the collection, but o
 
 [Rare Pepe](../../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), [Fake Rare](../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rare-artists.md) and Ethereum artists will be the first to produce Pepe cards to be distributed under the Notables collection, before submissions are open to all artists in traditional Pepe fashion (with submission rules and scientists overseeing dankness).&#x20;
 
-Each **Sunday at 4:20 PM EST**, 5 new cards will be released, with supplies between 100 and 1,000 units. All cards will sell for the same price of 0.069ETH.&#x20;
+Each **Sunday at 4:20 PM EST**, 5 new cards will be released, with supplies between 100 and 1,000 units. All cards will sell for the same price of 0.069 ETH.&#x20;
 
 There are allowlists for both creators and collectors to give them access to submitting or acquiring art. Whitelisting will be managed through two NFTs that act as keys to each process: Pepe Checks for collectors and Pepe Cheques for artists.
+
+{% hint style="info" %}
+**TL;DR:**
+
+* [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) will act as an access pass for [Notable Pepes](https://twitter.com/notablepepes). Each access pass represents a raffle ticket for each mint's allowlist.
+* 50 cards per Notable Pepes series
+* Pepe Checks serves as Card 1 of Series 1.
+* Series 1 cards price = 0.069 ETH
+* Supply = 100 to 1000 per card
+* One wallet can win multiple AL spots for each mint
+{% endhint %}
 
 ## THE COLLECTOR’S JOURNEY
 
@@ -64,9 +75,6 @@ There will be an initial supply of 2,000 Pepe Cheques that will be distributed a
 3. The final way to acquire a Pepe Cheque is to wait for secondary market on Ethereum.
 
 {% hint style="success" %}
-_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)__
-{% endhint %}
+_To learn more about Notable Pepes, join our Telegram and follow our Twitter. A dedicated group of Pepe experts are standing by to answer any questions you may have._ [_https://t.me/notablepepes_](https://t.co/MhbKwi7ZDH) _//_ [_https://twitter.com/notablepepes_](https://twitter.com/notablepepes)\
 
-\
-\
-\
+{% endhint %}
