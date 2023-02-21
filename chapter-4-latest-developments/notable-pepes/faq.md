@@ -72,7 +72,7 @@ The only current burn mechanism is 100,000 Pepe Checks for 1 Tungsten Cube.
 
 ### 17. What are Pepe Cheques?
 
-Pepe Cheques is the card required for an artist to burn once their card has been accepted into the registry.
+[Pepe Cheques](https://pepe.wtf/asset/Pepe-Cheques) is the card required for an artist to burn once their card has been accepted into the registry.
 
 ### 18. As an artist, when do I burn my Pepe Cheques?
 
@@ -80,8 +80,8 @@ Artists are only required to burn a Pepe Cheque after their artwork has been sel
 
 ### 19. Where can I hear more about Notable Pepes?
 
-[https://t.me/notablepepes\
-https://t.me/notablepepenews](https://t.me/notablepepeshttps://t.me/notablepepenews)
+[https://t.me/notablepepes](https://t.me/notablepepes)\
+[https://t.me/notablepepenews](https://t.me/notablepepenews)
 
 {% hint style="success" %}
 _Can't find the answers you're looking for? Join our_ [_Telegram_](https://t.me/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
