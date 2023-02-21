@@ -68,7 +68,7 @@ Yes, there will be rewards given to complete set holders. And there will most li
 
 ### 16. Will Pepe Checks be burned?
 
-The only current burn mechanism is 100,000 checks for 1 Tungsten Cube.
+The only current burn mechanism is 100,000 Pepe Checks for 1 Tungsten Cube.
 
 ### 17. What are Pepe Cheques?
 
