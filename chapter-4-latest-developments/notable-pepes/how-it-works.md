@@ -29,7 +29,7 @@ There are allowlists for both creators and collectors to give them access to sub
 
 ## THE COLLECTOR’S JOURNEY
 
-The Notables collection will drop 5 cards every week in a two-phased process where only whitelisted addresses will be able to collect cards. The [Pepe Inc.](../pepe-inc..md) will conduct a lottery to assign allowlist spots for each of the 5 cards, based on the ownership of Pepe Checks (which is also considered Card 1 of the Series 1 of the [Notables](https://pepe.wtf/collection/Notable-Pepes) collection).
+The Notables collection will drop 5 cards every week in a two-phased process where only whitelisted addresses will be able to collect cards. The [Pepe Inc.](../pepe-inc..md) will conduct a lottery to assign allowlist spots for each of the 5 cards, based on the ownership of the Pepe Checks NFT (which is also considered Card 1 of the Series 1 of the [Notables](https://pepe.wtf/collection/Notable-Pepes) collection).
 
 <figure><img src="../../.gitbook/assets/CHECKS.png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/CHECKS">CHECKS</a></p></figcaption></figure>
 
@@ -37,12 +37,11 @@ The Notables collection will drop 5 cards every week in a two-phased process whe
 
 * 100% of the card supply will be open for sale in this phase
 * There will be an allowlist consisting of a number of spots equal to 1.5 times the card units for sale.
-* The spots will be assigned through a lottery between the 237,869 Pepe Checks (snapshot is taken every Saturday).
+* The spots will be assigned through a lottery between the 237,869 Pepe Checks token IDs (snapshot is taken every Saturday).
 * One single address / owner can win more than one spot in the allowlist, depending on how many winning Pepe Checks they own.&#x20;
 
 ### PHASE 2 - TIER 2 ACCESS
 
-* If there is no sellout in Phase1, then Phase2 will become available
 * There will be an allowlist consisting of a number of spots equal to 5 times the card units for sale.
 * The spots will be assigned through a lottery between the 237,869 Pepe Checks (snapshot is taken every Saturday). Phase 1 winners are excluded from this lottery.
 * Each winning Pepe Checks gives its owner the right to purchase one unit of a card.

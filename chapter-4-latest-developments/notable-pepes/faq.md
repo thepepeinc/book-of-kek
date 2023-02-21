@@ -6,7 +6,7 @@ description: Notable Pepes - Frequently Asked Questions
 
 ### 1. How do I participate in a Notable Pepes Drops?
 
-You must hold at least 1 [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) for a chance to win an allowlist spot.
+You must currently hold at least 1 [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) for a chance to win an allowlist spot.
 
 ### 2. Where can I purchase Pepe Checks?
 
@@ -14,7 +14,7 @@ You must hold at least 1 [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) for a
 
 ### 3. How are the allowlists created?
 
-A snapshot of all Pepe Checks holders is taken within 24 hours of the drop. A pseudorandom number generator (PRNG) is then used to select individual Pepe Checks for 2 phases of allowlist spots. The total amount of Checks selected for a given wallet are binned together to finalize the number of claims an individual wallet has.
+A snapshot of all Pepe Checks holders is usually taken within 24 hours of the drop. A pseudorandom number generator (PRNG) is then used to select individual Pepe Checks for 2 phases of allowlist spots. The total amount of Checks selected for a given wallet are binned together to finalize the number of claims an individual wallet has.
 
 ### 4. If I own multiple Pepe Checks can I win multiple allowlist spots?
 
@@ -22,7 +22,7 @@ You can win 1 allowlist spot for every [Pepe Checks](https://pepe.wtf/asset/Pepe
 
 ### 5. When is the snapshot taken?
 
-The snapshot will be taken usually within 24 hours of the drop. An exact time will not be announced to avoid anyone gaming the snapshot.
+The snapshot will usually be taken within 24 hours of the drop. An exact time will not be announced to avoid anyone gaming the snapshot.
 
 ### 6. When will the allowlists be announced?
 
@@ -30,7 +30,7 @@ The various Phases of each drop will be announced as far in advance as possible,
 
 ### 7. What are my odds of being selected for allowlist?
 
-Your odds of being chosen for an allowlist = (# of checks you hold / 237,869) x (# of allowlist spots)
+Your odds of being chosen for an allowlist = (# of checks you hold / 237,869) x (# of allowlist spots).
 
 ### 8. What are the phases?
 
@@ -42,7 +42,7 @@ There is no higher probability of being selected for allowlist spots by splittin
 
 ### 10. If my address is selected for Phase1 can I be in Phase2?
 
-No. If an address has been selected in Phase 1 it cannot be selected again in Phase2.
+No. If an address has been selected in Phase1 it currently cannot be selected again in Phase2.
 
 ### 11. Why are drops over-allocated?
 
@@ -60,11 +60,11 @@ There are 50 cards in each series.
 
 ### 14. How much does each card cost?
 
-Each card costs 0.069 ETH.
+The current price for each card is 0.069 ETH.
 
 ### 15. Is there an advantage to holding cards?
 
-Yes, there will be rewards given to complete set holders. And there will most likely be other mechanics that reward holding cards.
+There might be rewards and other mechanics given to card holders moving forward.
 
 ### 16. Will Pepe Checks be burned?
 
