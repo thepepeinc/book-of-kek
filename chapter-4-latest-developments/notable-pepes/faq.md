@@ -80,6 +80,8 @@ Artists are only required to burn a Pepe Cheque after their artwork has been sel
 
 ### 19. Where can I hear more about Notable Pepes?
 
+[https://twitter.com/notablepepes](https://twitter.com/notablepepes)
+
 [https://t.me/notablepepes](https://t.me/notablepepes)\
 [https://t.me/notablepepenews](https://t.me/notablepepenews)
 
