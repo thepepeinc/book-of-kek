@@ -4,7 +4,7 @@ description: Notable Pepes - Frequently Asked Questions
 
 # FAQ
 
-### 1. How do I participate in a Notable Pepes Drop?
+### 1. How do I participate in a Notable Pepes Drops?
 
 You must hold at least 1 [Pepe Checks](https://pepe.wtf/asset/Pepe-Checks) for a chance to win an allowlist spot.
 
