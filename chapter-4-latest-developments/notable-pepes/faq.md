@@ -5,7 +5,7 @@ description: Notable Pepes - Frequently Asked Questions
 # FAQ
 
 {% hint style="warning" %}
-These answers are meant to guide artists and collectors through the current evolution of Notable Pepes and their collecting process. Notable Pepes are an ever-evolving experiment and all answers in this FAQ are subject to change without prior notice. DYOR
+These answers are meant to guide artists and collectors through the current evolution of Notable Pepes and their collecting process. Notable Pepes are an ever-evolving experiment and all answers in this FAQ are subject to change without prior notice.
 {% endhint %}
 
 ### 1. How do I participate in a Notable Pepes Drops?
