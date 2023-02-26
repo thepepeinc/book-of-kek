@@ -34,7 +34,13 @@ The various Phases of each drop will be announced as far in advance as possible,
 
 ### 7. What are my odds of being selected for allowlist?
 
-Your odds of being chosen for an allowlist = (# of checks you hold / 237,869) x (# of allowlist spots).
+Odds of getting at least 1 Phase1 AL spot for any given week:
+
+**1 - \[ ((237,869 - N)/237,869) ^ (S x 1.5)]**
+
+N = # of Pepe Checks you own
+
+S = # of spots available across all drops. For a drop of 250, S = 200
 
 ### 8. What are the phases?
 

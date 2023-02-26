@@ -148,4 +148,3 @@ description: >-
 * [Embracing the Remix with Rare Scrilla | FutureFi](https://open.spotify.com/episode/5p9l9Sog5IQlmiMBSZ3lu1?si=CaH4J3e-TPaz0rD2UGT3zg)
 * [Great discussion with OG Rare Pepe artist Finest Rares](https://youtu.be/2tm51w40BJM)
 * [Rug Radio Live at Fake Basel ft. Scrilla & Pablo Rica\$$o](https://twitter.com/farokh/status/1598765019465908227)
-* [Fun interview with OG Rare Pepe artist MikeinSpace](https://www.youtube.com/watch?v=Dik72DHp\_nY)
