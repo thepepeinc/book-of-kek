@@ -4,15 +4,21 @@ description: These Pepes may or may not be notable.
 
 # Notable Pepes
 
+{% hint style="info" %}
+For Notable Submission Rules & Drop Parameters visit the "[How It Works](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/how-it-works)" page.
+
+For more information visit the Notable [FAQ](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/faq) page.
+{% endhint %}
+
 {% hint style="success" %}
-_To learn more about Notable Pepes, join our_ [_Telegram_](https://t.me/notablepepes) _and follow our_ [_Twitter_](https://twitter.com/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
+_To learn more about Notable Pepes you can join our_ [_Telegram_](https://t.me/notablepepes) _and follow our_ [_Twitter_](https://twitter.com/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
 
 On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks).
 
-The edition was minted 237869 times, making it one of the most minted editions of its time.&#x20;
+Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twitter.com/jackbutcher)'s Checks. 237869 were minted with 12k holders, making it one of the most minted editions of its time.
 
 <div>
 
@@ -36,7 +42,13 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
 </div>
 
-### On February 12th, 2023, [#vincentvandough-announces-notable-pepes](../../pepe-news-outlet/#vincentvandough-announces-notable-pepes "mention"): &#x20;
+### On February 12th, 2023, [#vincentvandough-announces-notable-pepes](../../pepe-news-outlet/#vincentvandough-announces-notable-pepes "mention"):&#x20;
+
+{% hint style="info" %}
+**TL;DR**: Notable Pepes will be a series of NFT drops of digital cards that are bringing the [Pepe meme](../../chapter-1-historical-lore/the-creation-pepe-the-frog/birth-of-the-meme/) to the Ethereum blockchain.
+
+The concept behind the project stems from the [Rare Pepe](broken-reference) series that has been trading on [Counterparty](../../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/)/Bitcoin since 2016.
+{% endhint %}
 
 _"You think memes are your ally?_
 
@@ -78,8 +90,8 @@ _Beginning 2 weeks from today, we will conduct the first batch of regularly sche
 
 _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will be priced at 0.069 ETH per card and have a supply ranging from 100-1000._
 
-_Prepare yourselves."_
+_Prepare yourselves." - Vincent Van Dough_
 
 <figure><img src="../../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
 
-**To be continued...**
+_**To be continued...**_
