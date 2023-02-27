@@ -16,6 +16,8 @@ _For more information visit our Notable_ [_FAQ_](https://wiki.pepe.wtf/chapter-4
 
 <figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
 
+## A Brief History of Notable Pepes
+
 On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks).
 
 Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twitter.com/jackbutcher)'s Checks. 237869 were minted with 12k holders, making it one of the most minted editions of its time.
