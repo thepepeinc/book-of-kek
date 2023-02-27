@@ -4,14 +4,14 @@ description: These Pepes may or may not be notable.
 
 # Notable Pepes
 
-{% hint style="info" %}
-For Notable Submission Rules & Drop Parameters visit the "[How It Works](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/how-it-works)" page.
-
-For more information visit the Notable [FAQ](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/faq) page.
-{% endhint %}
-
 {% hint style="success" %}
 _To learn more about Notable Pepes you can join our_ [_Telegram_](https://t.me/notablepepes) _and follow our_ [_Twitter_](https://twitter.com/notablepepes)_. A dedicated group of Pepe experts are standing by to answer any questions you may have._
+{% endhint %}
+
+{% hint style="info" %}
+_For Notable Submission Rules & Drop Parameters visit our "_[_How It Works_](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/how-it-works)_" page._
+
+_For more information visit our Notable_ [_FAQ_](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/faq) _page._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
