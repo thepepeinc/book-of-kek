@@ -34,13 +34,14 @@ The various Phases of each drop will be announced as far in advance as possible,
 
 ### 7. What are my odds of being selected for allowlist?
 
-Odds of getting at least 1 Phase1 AL spot for any given week:
+Odds of getting at least 1 Phase1 AL spot for any given week
 
 **1 - \[ ((237,869 - N)/237,869) ^ (S x 1.5)]**
 
 N = # of Pepe Checks you own
 
-S = # of spots available across all drops. For a drop of 250, S = 200
+S = # of spots available across 1 or multiple drops after 20% has been reserved for Artist and Notable Pepes Treasury\
+(_I.e. For a drop of 250 editions, S = 200)_
 
 ### 8. What are the phases?
 
