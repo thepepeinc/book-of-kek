@@ -90,3 +90,7 @@ description: >-
 * [Great discussion with OG Rare Pepe artist Finest Rares](https://youtu.be/2tm51w40BJM):&#x20;
 
 {% embed url="https://youtu.be/2tm51w40BJM" %}
+
+* [Fun interview with OG Rare Pepe artist MikeinSpace](https://www.youtube.com/watch?v=Dik72DHp\_nY):
+
+{% embed url="https://www.youtube.com/watch?v=Dik72DHp_nY" %}
