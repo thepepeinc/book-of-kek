@@ -94,3 +94,7 @@ description: >-
 * [Fun interview with OG Rare Pepe artist MikeinSpace](https://www.youtube.com/watch?v=Dik72DHp\_nY):
 
 {% embed url="https://www.youtube.com/watch?v=Dik72DHp_nY" %}
+
+* [Interview with Rare Pepe OG artist and Dank Directory creator Boost](https://youtu.be/rRvC767N5oI):&#x20;
+
+{% embed url="https://youtu.be/rRvC767N5oI" %}

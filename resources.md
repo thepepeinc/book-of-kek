@@ -149,3 +149,4 @@ description: >-
 * [Great discussion with OG Rare Pepe artist Finest Rares](https://youtu.be/2tm51w40BJM)
 * [Rug Radio Live at Fake Basel ft. Scrilla & Pablo Rica\$$o](https://twitter.com/farokh/status/1598765019465908227)
 * [Fun interview with OG Rare Pepe artist MikeinSpace](https://www.youtube.com/watch?v=Dik72DHp\_nY)
+* [Interview with Rare Pepe OG artist and Dank Directory creator Boost](https://youtu.be/rRvC767N5oI)
