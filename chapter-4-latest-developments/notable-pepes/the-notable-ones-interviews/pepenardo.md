@@ -14,11 +14,11 @@ Later, me and a friend started a cash-only stretcher bar business out of a garag
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/NardoBTS_1.jpg" alt=""><figcaption><p>Nardo's Studio</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NardoBTS_1.jpg" alt=""><figcaption><p>Nardo's Studio I</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/NardoBTS_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NardoBTS_3.jpg" alt=""><figcaption><p>Nardo's Studio II</p></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ To this day I don’t know who linked me to the telegram. The anonymous person e
 
 Huge shout out to Jsteezy as well – initially he didn’t know anything about me besides the work I had posted and took a chance by sponsoring my first 3 [FAKEASF](https://pepe.wtf/asset/FAKEASF)s.
 
-<figure><img src="../../../.gitbook/assets/FAKEPEPELISA.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FAKEPEPELISA"><em>FAKEPEPELISA</em></a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FAKEPEPELISA.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FAKEPEPELISA">FAKEPEPELISA</a></p></figcaption></figure>
 
 3. _**Speaking of Memetica, tell us about ‘MEMETICA NOW.’ I’m sure not many know what it means, but it’s definitely provocative.**_&#x20;
 
