@@ -22,13 +22,13 @@ Later, me and a friend started a cash-only stretcher bar business out of a garag
 
 </div>
 
-2. _**When we met in NYC, you shared an amazing story about how you got into**_ [_**Fake Rares**_](../../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) _**- it was a sort of break in the matrix as you put it. I also had the pleasure of speaking with Jsteezy about you and your work. There’s an amazing story here too. Please take us on a trip down Memetica lane.**_
+2. _**When we met in NYC, you shared an amazing story about how you got into**_ [_**Fake Rares**_](../../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) _**- it was a sort of break in the matrix as you put it. I also had the pleasure of speaking with**_ [_**Jsteezy**_](https://twitter.com/Jman\_\_12) _**about you and your work. There’s an amazing story here too. Please take us on a trip down Memetica lane.**_
 
 With [how things started](../../../chapter-2-the-rare-pepe-project/pepes-blockchain-beginnings.md) in Cryptoart, I definitely considered it a glitch in the matrix. I still do. I had been pursuing education as a Registered Nurse after taking a brief leave of absence from the traditional art world. Burying myself in textbooks and training in the operating room left me starving to create again. At the same time, I was watching the reignited craze for [Rare Pepes](../../../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/) in 2021. This inspired me to oil paint a pepe just for fun. I mashed the Mona Lisa with the face of [HAIRPEPE](https://pepe.wtf/asset/HAIRPEPE), created the Pepenardo [twitter account](https://twitter.com/PepenardoStudio), and threw work-in-progress images online.  Sure enough, someone linked me to the [Fake Rares telegram](https://t.me/OFFICIALFAKERARES), thus changing the course of my life.
 
 To this day I don’t know who linked me to the telegram. The anonymous person ended up deleting their post on my twitter. I now just refer to them as ‘Morpheus’.
 
-Huge shout out to Jsteezy as well – initially he didn’t know anything about me besides the work I had posted and took a chance by sponsoring my first 3 [FAKEASF](https://pepe.wtf/asset/FAKEASF)s.
+Huge shout out to [Jsteezy](https://twitter.com/Jman\_\_12) as well – initially he didn’t know anything about me besides the work I had posted and took a chance by sponsoring my first 3 [FAKEASF](https://pepe.wtf/asset/FAKEASF)s.
 
 <figure><img src="../../../.gitbook/assets/FAKEPEPELISA.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FAKEPEPELISA">FAKEPEPELISA</a></p></figcaption></figure>
 
