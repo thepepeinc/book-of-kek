@@ -11,11 +11,19 @@ description: >-
 _**Work in progress**_ - if you would like to contribute your sub asset-specific story, please follow the steps in [how-to-contribute-to-the-book-of-kek.md](../../how-to-contribute-to-the-book-of-kek.md "mention") or send us an email titled **"BoK Edit Request"** to [wiki@pepe.wtf.](mailto:wiki@pepe.wtf?subject=BoK%20Edit%20Request)&#x20;
 {% endhint %}
 
+## Series 2, Card 32 - HOMERPEPE
+
+<figure><img src="../../.gitbook/assets/S02 C32 - HOMERPEPE.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 2, Card 32** - [HOMERPEPE](https://pepe.wtf/asset/HOMERPEPE) was created by the artist known as "[Boost](https://pepe.wtf/artists/Boost)" who created a total of 25 cards for the Rare Pepe Project. HOMERPEPE is a 1 of 1 token which was famously sold [at auction](https://www.youtube.com/watch?v=-JyR8AEqpYY) for 350,000 PEPECASH (approximately $39,000 USD) during the 2017 Rare Digital Art Festival in New York City. It was then [sold again](https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sells-for-205-eth) in early 2021 for 205 ETH (approximately $320,000 USD). It should be pointed out that these sales were for the 1 of 1 token called HOMERPEPE. The token registration was not included. The registration has changed hands several times over the past 6 years and in May 2019 the holder created a sub-asset called [HOMERPEPE.Sock](https://xchain.io/asset/HOMERPEPE.Sock) locked the issuance at 12. They auctioned a pair of physical socks to go along with the token at the Rare Digital Art Festival 2 which was again held in New York City. As of April 23, 2023 there are 5 holders of this sub-asset. One of them is Rare Pepe scientist [Bench](https://twitter.com/benchbtc).
+
+<figure><img src="../../.gitbook/assets/HOMERPEPE.SOCK.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Series 11, Card 29 - CSAT
 
 <figure><img src="../../.gitbook/assets/S11 C29 - CSAT.jpg" alt=""><figcaption></figcaption></figure>
 
-****[**Seris 11, Card 29 - CSAT**](https://pepe.wtf/asset/CSAT) **** was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). In a [recent interview](https://www.youtube.com/watch?v=rRvC767N5oI), Boost stated that some of the text on the card was lifted from a graphics card box, and that he purposely misspelled a word just like the GPU box did. The word in question is "efficiency" which he spelled "effeciency."  To show the misspelling, Boost issued a sub-asset named [CSAT.cc0](https://xchain.io/asset/A18188137632490106252) and attached an image of the box. The sub-asset was distributed as a dividend for holders of the CSAT card. A total of 98,870 tokens were sent to 671 recipients on August 6, 2022. You can view the transaction [here](https://xchain.io/tx/2082427).&#x20;
+[**Seris 11, Card 29 - CSAT**](https://pepe.wtf/asset/CSAT) was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). In a [recent interview](https://www.youtube.com/watch?v=rRvC767N5oI), Boost stated that some of the text on the card was lifted from a graphics card box, and that he purposely misspelled a word just like the GPU box did. The word in question is "efficiency" which he spelled "effeciency."  To show the misspelling, Boost issued a sub-asset named [CSAT.cc0](https://xchain.io/asset/A18188137632490106252) and attached an image of the box. The sub-asset was distributed as a dividend for holders of the CSAT card. A total of 98,870 tokens were sent to 671 recipients on August 6, 2022. You can view the transaction [here](https://xchain.io/tx/2082427).&#x20;
 
 <figure><img src="../../.gitbook/assets/CSAT.cc0.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -35,3 +43,22 @@ In May of 2022, BOST issued a whopping 33 different sub-assets for VAPORMAGIC wi
 
 To view a full size version of the above image, click [here](https://i.imgur.com/x8pVBZe.jpg). &#x20;
 
+## Series 25, Card 38 - CHAMPAGNETNT
+
+<figure><img src="../../.gitbook/assets/S25 C38 - CHAMPAGNETNT.gif" alt=""><figcaption></figcaption></figure>
+
+**Series 25, Card 38** - [CHAMPAGNETNT](https://pepe.wtf/asset/CHAMPAGNETNT) was created by [Mike in Space](https://pepe.wtf/artists/Mike-in-space) it is his only card in the Rare Pepe project. The card portrays a pepefied version of [Wayne Vaughan](https://www.linkedin.com/in/wayne/), the CEO of Texas-based blockchain company [Tierion, Inc.](https://tierion.com/) Vaugn and his company was found to be guilty of conducting an unregistered security offering when it sold the TNT token and was ordered by the [SEC](https://en.wikipedia.org/wiki/U.S.\_Securities\_and\_Exchange\_Commission) to [return the $25 million they raised from investors](https://news.bitcoin.com/sec-lawsuit-tierion-refund-investors-25-million/).&#x20;
+
+Since minting the card in 2017, Mike has released 3 sub-assets.&#x20;
+
+<figure><img src="../../.gitbook/assets/CHAMPAGNETNT.SIGNED.gif" alt=""><figcaption></figcaption></figure>
+
+The first - [CHAMPAGNETNT.SIGNED](https://xchain.io/asset/CHAMPAGNETNT.SIGNED) was released in late 2021. What made this card so unique is that it includes the actual signature of the person being parodied on it (Wayne Vaughan).&#x20;
+
+<figure><img src="../../.gitbook/assets/CHAMPAGNETNT.KANDINSKY.gif" alt=""><figcaption></figcaption></figure>
+
+Then in June of 2022, Mike released a very creative version of his card entitled [CHAMPAGNETNT.KANDINSKY](https://xchain.io/asset/CHAMPAGNETNT.KANDINSKY) which he made to look like artwork from the artist [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily\_Kandinsky).&#x20;
+
+<figure><img src="../../.gitbook/assets/CHAMPAGNETNT.INSCRIPTION.jpg" alt=""><figcaption></figcaption></figure>
+
+And in February of 2023, at the height of Ordinal mania, Mike released [CHAMPAGNETNT.INSCRIPTION](https://xchain.io/asset/CHAMPAGNETNT.INSCRIPTION) which points to Ordinal Inscription #[47,947](https://ordinals.com/inscription/d69652c38d46523d2fad5436771f9d9a94e39e2b80cf9e144ed951c7d9997120i0). This was done by using a [tool](https://inscribe.art/) created by [Joe Looney](https://twitter.com/wasthatawolf) - the creator of [rarepepewallet.com](https://rarepepewallet.com/). The inscription is a still image taken from the original .gif file used for the Rare Pepe card.&#x20;

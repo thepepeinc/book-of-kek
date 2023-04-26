@@ -34,7 +34,7 @@ Users can have a view of all the necessary data about Rares, Fakes or Danks from
 &#x20;of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
 {% endhint %}
 
-### Introducing: [**Drops**](https://pepe.wtf/drops)****
+### Introducing: [**Drops**](https://pepe.wtf/drops)
 
 Drops is a newly added feature that automated the purchasing of new released and by doing so, massively enriches the user experience on the platform. Now, Pepe gatherers can buy a newly released drops straight from the Pepe.wtf website. You can stay tuned for future drop announcements via the [PepePawnShop Telegram Chat](https://t.me/PepePawnShop).
 

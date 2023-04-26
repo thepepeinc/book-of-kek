@@ -10,64 +10,64 @@ The list of artists contributing to Fake Rares is extensive and growing, for a c
 
 Here are some of the most prolific _(in alphabetical order)_:
 
-* ****[**Al**](https://pepe.wtf/artists/Al)****
-* ****[**Afonso Caravagio**](https://pepe.wtf/artists/Afonso-Caravagio-X-Aisha-Venus)****
-* ****[**Alpha Centaury Kid**](https://pepe.wtf/artists/Alpha-Centauri-Kid)
-* [**Archain Nair**](https://pepe.wtf/artists/ARCHAIN-NAIR)****
-* ****[**Carsonated**](https://pepe.wtf/artists/Carsonated)****
-* ****[**Claire Silver**](https://pepe.wtf/artists/Claire-Silver)****
-* ****[**Coit**](https://twitter.com/CoitNft)****
-* ****[**Coldie**](https://pepe.wtf/artists/Coldie)****
-* ****[**Crimson Rider**](https://pepe.wtf/artists/Crimson-Rider)****
-* ****[**Da'Block God**](https://pepe.wtf/artists/Da'Block-God)****
-* ****[**Dangiuz**](https://pepe.wtf/artists/Dangiuz)****
-* ****[**Darkfarms**](https://pepe.wtf/artists/Darkfarms)****
-* ****[**Deekay**](https://pepe.wtf/artists/DeeKay)****
-* ****[**DesktopCommando**](https://pepe.wtf/artists/DesktopCommando)****
-* [**Dim Zayan**](https://pepe.wtf/artists/Dim-Zayan)****
-* ****[**Dmitri Cherniak**](https://pepe.wtf/artists/Dmitri-Cherniak)****
-* ****[**Django Bits**](https://pepe.wtf/artists/Django-Bits)****
-* ****[**Eclectic Method**](https://pepe.wtf/artists/EclecticMethod)****
-* ****[**Fake Annie**](https://pepe.wtf/artists/Fake-Annie)****
-* ****[**FourLeafClover**](https://pepe.wtf/artists/FourLeafClover)****
-* ****[**FriendsWithYou**](https://pepe.wtf/artists/FRIENDS-WITH-YOU)****
+* [**Al**](https://pepe.wtf/artists/Al)
+* [**Afonso Caravagio**](https://pepe.wtf/artists/Afonso-Caravagio-X-Aisha-Venus)
+* [**Alpha Centaury Kid**](https://pepe.wtf/artists/Alpha-Centauri-Kid)
+* [**Archain Nair**](https://pepe.wtf/artists/ARCHAIN-NAIR)
+* [**Carsonated**](https://pepe.wtf/artists/Carsonated)
+* [**Claire Silver**](https://pepe.wtf/artists/Claire-Silver)
+* [**Coit**](https://twitter.com/CoitNft)
+* [**Coldie**](https://pepe.wtf/artists/Coldie)
+* [**Crimson Rider**](https://pepe.wtf/artists/Crimson-Rider)
+* [**Da'Block God**](https://pepe.wtf/artists/Da'Block-God)
+* [**Dangiuz**](https://pepe.wtf/artists/Dangiuz)
+* [**Darkfarms**](https://pepe.wtf/artists/Darkfarms)
+* [**Deekay**](https://pepe.wtf/artists/DeeKay)
+* [**DesktopCommando**](https://pepe.wtf/artists/DesktopCommando)
+* [**Dim Zayan**](https://pepe.wtf/artists/Dim-Zayan)
+* [**Dmitri Cherniak**](https://pepe.wtf/artists/Dmitri-Cherniak)
+* [**Django Bits**](https://pepe.wtf/artists/Django-Bits)
+* [**Eclectic Method**](https://pepe.wtf/artists/EclecticMethod)
+* [**Fake Annie**](https://pepe.wtf/artists/Fake-Annie)
+* [**FourLeafClover**](https://pepe.wtf/artists/FourLeafClover)
+* [**FriendsWithYou**](https://pepe.wtf/artists/FRIENDS-WITH-YOU)
 * [**GhostfaceKillah**](https://twitter.com/GhostfaceKillah)
-* [**GrantYun**](https://pepe.wtf/artists/GrantYun)****
-* [**Indelible**](https://pepe.wtf/artists/Indelible)****
-* ****[**IPUTSA**](https://pepe.wtf/artists/IPUTSA)****
-* ****[**Jack Kaido**](https://pepe.wtf/artists/JackKaido)****
-* ****[**Jak**](https://pepe.wtf/artists/Jak)****
-* ****[**Jake**](https://pepe.wtf/artists/Jake)****
-* [**JB**](https://pepe.wtf/artists/JB)****
-* ****[**Joe Pease**](https://twitter.com/joepease)****
-* ****[**Killer Acid**](https://pepe.wtf/artists/Killer-Acid)****
-* ****[**Kristy Glas**](https://pepe.wtf/artists/KristyGlas)****
-* ****[**Looney**](https://pepe.wtf/artists/Looney)****
-* ****[**Lord Jamie V. Shill**](https://pepe.wtf/artists/Lord-Jamie-V.-Shill)****
-* ****[**Lovebeing**](https://pepe.wtf/artists/LOVEBEING)****
-* ****[**Master Yin**](https://twitter.com/NftRooster)****[ **& Master Yang**](https://twitter.com/BabyPicassoo)****
-* ****[**Matt Kane**](https://pepe.wtf/artists/Matt-Kane)****
-* ****[**Matt Szczur**](https://pepe.wtf/artists/Matt-Szczur)****
-* ****[**Migrating Lines**](https://pepe.wtf/artists/MIGRATING-LINES)****
-* ****[**Mr Hansel**](https://pepe.wtf/artists/Mr-Hansel)****
-* ****[**Mr Hodlpig**](https://pepe.wtf/artists/Mr.-HODLPIG)****
-* ****[**Ness Graphics**](https://pepe.wtf/artists/NessGraphics)****
-* ****[**Other World**](https://pepe.wtf/artists/Other-World)****
-* ****[**Pepenardo**](https://pepe.wtf/artists/Pepenardo)****
-* ****[**Dr Greedy**](https://pepe.wtf/artists/Dr.-Greedy)****
-* ****[**Raf Grassetti**](https://pepe.wtf/artists/Raf-Grassetti)****
-* ****[**Rare Scrilla**](https://pepe.wtf/artists/Rare-Scrilla)****
-* ****[**REY**](https://pepe.wtf/artists/REY)****
-* ****[**Riven**](https://pepe.wtf/artists/Riven)****
-* ****[**Robness**](https://pepe.wtf/artists/Robness)****
-* ****[**SAHREDTOY**](https://pepe.wtf/artists/SAHREDTOY)****
-* ****[**SeerLight**](https://pepe.wtf/artists/SeerLight)****
-* ****[**Skife**](https://pepe.wtf/artists/Skife)****
-* ****[**SuperTrip64**](https://pepe.wtf/artists/SuperTrip64)****
-* ****[**Tomopen**](https://pepe.wtf/artists/Tomopen)****
-* ****[**VeryRareFren**](https://pepe.wtf/artists/VeryRareFren)****
-* [**VVD**](https://pepe.wtf/artists/VVD)****
-* ****[**WetPotatoBrain**](https://pepe.wtf/artists/WetPotatoBrain)****
-* ****[**WhoIsIt**](https://pepe.wtf/artists/Whoisit)****
-* ****[**Yotet**](https://pepe.wtf/artists/Yotet)****
-* ****[**Zaid Kirdsey**](https://pepe.wtf/artists/Zaid-Kirdsey)****
+* [**GrantYun**](https://pepe.wtf/artists/GrantYun)
+* [**Indelible**](https://pepe.wtf/artists/Indelible)
+* [**IPUTSA**](https://pepe.wtf/artists/IPUTSA)
+* [**Jack Kaido**](https://pepe.wtf/artists/JackKaido)
+* [**Jak**](https://pepe.wtf/artists/Jak)
+* [**Jake**](https://pepe.wtf/artists/Jake)
+* [**JB**](https://pepe.wtf/artists/JB)
+* [**Joe Pease**](https://twitter.com/joepease)
+* [**Killer Acid**](https://pepe.wtf/artists/Killer-Acid)
+* [**Kristy Glas**](https://pepe.wtf/artists/KristyGlas)
+* [**Looney**](https://pepe.wtf/artists/Looney)
+* [**Lord Jamie V. Shill**](https://pepe.wtf/artists/Lord-Jamie-V.-Shill)
+* [**Lovebeing**](https://pepe.wtf/artists/LOVEBEING)
+* [**Master Yin**](https://twitter.com/NftRooster)[ **& Master Yang**](https://twitter.com/BabyPicassoo)
+* [**Matt Kane**](https://pepe.wtf/artists/Matt-Kane)
+* [**Matt Szczur**](https://pepe.wtf/artists/Matt-Szczur)
+* [**Migrating Lines**](https://pepe.wtf/artists/MIGRATING-LINES)
+* [**Mr Hansel**](https://pepe.wtf/artists/Mr-Hansel)
+* [**Mr Hodlpig**](https://pepe.wtf/artists/Mr.-HODLPIG)
+* [**Ness Graphics**](https://pepe.wtf/artists/NessGraphics)
+* [**Other World**](https://pepe.wtf/artists/Other-World)
+* [**Pepenardo**](https://pepe.wtf/artists/Pepenardo)
+* [**Dr Greedy**](https://pepe.wtf/artists/Dr.-Greedy)
+* [**Raf Grassetti**](https://pepe.wtf/artists/Raf-Grassetti)
+* [**Rare Scrilla**](https://pepe.wtf/artists/Rare-Scrilla)
+* [**REY**](https://pepe.wtf/artists/REY)
+* [**Riven**](https://pepe.wtf/artists/Riven)
+* [**Robness**](https://pepe.wtf/artists/Robness)
+* [**SAHREDTOY**](https://pepe.wtf/artists/SAHREDTOY)
+* [**SeerLight**](https://pepe.wtf/artists/SeerLight)
+* [**Skife**](https://pepe.wtf/artists/Skife)
+* [**SuperTrip64**](https://pepe.wtf/artists/SuperTrip64)
+* [**Tomopen**](https://pepe.wtf/artists/Tomopen)
+* [**VeryRareFren**](https://pepe.wtf/artists/VeryRareFren)
+* [**VVD**](https://pepe.wtf/artists/VVD)
+* [**WetPotatoBrain**](https://pepe.wtf/artists/WetPotatoBrain)
+* [**WhoIsIt**](https://pepe.wtf/artists/Whoisit)
+* [**Yotet**](https://pepe.wtf/artists/Yotet)
+* [**Zaid Kirdsey**](https://pepe.wtf/artists/Zaid-Kirdsey)

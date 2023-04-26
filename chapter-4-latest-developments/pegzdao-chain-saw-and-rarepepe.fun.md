@@ -17,7 +17,7 @@ The PEGZ project came about as Matt focused on digitally created work, and provi
 PEGZ is operated by [Chain/Saw](https://www.chainsaw.fun/), a space for artists and collectors to both create and experiment with new digital art.
 
 > _“Welcome to pegz.fun! I've been mining my brains out to bring you these seeds of the metaverse. May the faces of these new mutants bring you joy, good luck, and good fortune from the digital dreamscape."_\
-> _****Peace, Love Unity, Respect,_\
+> _Peace, Love Unity, Respect,_\
 > _Matt Furie_
 
 ## **Chain/Saw**

@@ -61,7 +61,7 @@ The 3 auctioned Pepes were: [RAREPEPE](https://pepe.wtf/asset/RAREPEPE) (the fam
 
 The PEPEAIR card sold for $52,920, the RAREPEPE card sold for $239,400 and the 1/1 PEPENOPOLOUS card sold for an astonishing $3,650,000.
 
-## **"Pepe is Art" by** [**Scarce.city**](https://scarce.city/)****
+## **"Pepe is Art" by** [**Scarce.city**](https://scarce.city/)
 
 [Scarce.city](https://scarce.city/) has been a proud supporter of the Rare Pepe movement and Joe Looney.
 
