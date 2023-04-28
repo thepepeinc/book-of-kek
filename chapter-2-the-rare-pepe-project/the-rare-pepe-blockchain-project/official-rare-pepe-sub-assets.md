@@ -43,6 +43,16 @@ In May of 2022, BOST issued a whopping 33 different sub-assets for VAPORMAGIC wi
 
 To view a full size version of the above image, click [here](https://i.imgur.com/x8pVBZe.jpg). &#x20;
 
+## Series 25, Card 10 - RARECHERRY
+
+<figure><img src="../../.gitbook/assets/S25 C10 - RARECHERRY.gif" alt=""><figcaption></figcaption></figure>
+
+**Series 25, Card 10** - [RARECHERRY](https://pepe.wtf/asset/RARECHERRY) was created by the artist that goes by [Nathan Sonic](https://pepe.wtf/artists/nathan-sonic). It is one of 14 cards created by Sonic for the Rare Pepe project. RARECHERRY was coded to parody the victory animation from [Microsoft Solitaire](https://en.wikipedia.org/wiki/Microsoft\_Solitaire) which has been part of the Windows operating system since Windows 3.0 which was released in 1990. The asset name pays homage to the original author of the game - [Wes Cherry](https://www.youtube.com/watch?v=3x5VAg1HJIg). &#x20;
+
+RARECHERRY is a .gif file that runs through 35 different Rare Pepe cards. In October 2022, Sonic released the subasset [RARECHERRY.FULLCHERRY](https://xchain.io/asset/RARECHERRY.FULLCHERRY) which when loaded, a bit of code starts to run that displays all 1,774 Rare Pepe cards in order. If you were to view every card, it would take you approximately 45 minutes. You can view the animation by clicking the link below. &#x20;
+
+{% embed url="https://kaleidoscopexcp.com/directory/code/RARECHERRY/" %}
+
 ## Series 25, Card 38 - CHAMPAGNETNT
 
 <figure><img src="../../.gitbook/assets/S25 C38 - CHAMPAGNETNT.gif" alt=""><figcaption></figcaption></figure>
@@ -62,3 +72,14 @@ Then in June of 2022, Mike released a very creative version of his card entitled
 <figure><img src="../../.gitbook/assets/CHAMPAGNETNT.INSCRIPTION.jpg" alt=""><figcaption></figcaption></figure>
 
 And in February of 2023, at the height of Ordinal mania, Mike released [CHAMPAGNETNT.INSCRIPTION](https://xchain.io/asset/CHAMPAGNETNT.INSCRIPTION) which points to Ordinal Inscription #[47,947](https://ordinals.com/inscription/d69652c38d46523d2fad5436771f9d9a94e39e2b80cf9e144ed951c7d9997120i0). This was done by using a [tool](https://inscribe.art/) created by [Joe Looney](https://twitter.com/wasthatawolf) - the creator of [rarepepewallet.com](https://rarepepewallet.com/). The inscription is a still image taken from the original .gif file used for the Rare Pepe card.&#x20;
+
+## Series 29, Card 7 - RARETEMPLATE
+
+<figure><img src="../../.gitbook/assets/S29 C07 - RARETEMPLATE.gif" alt=""><figcaption></figcaption></figure>
+
+**Series 29, Card 7** - [RARETEMPLATE](https://pepe.wtf/asset/RARETEMPLATE) was created by the artist [Nathan Sonic](https://pepe.wtf/artists/nathan-sonic). The card is a looping gif of a smiling pepe vortex. In October 2022 Sonic released a subasset titled [RARETEMPLATE.FULLRARETEMPLATE](https://xchain.io/asset/RARETEMPLATE.FULLRARETEMPLATE). When loaded, a bit of code starts which is an interactive vortex of smiling pepes in every color of the rainbow. By moving your mouse around the screen, you can move the center of the vortex and the pattern that is displayed. Below is a sample from the program and a link to the site where you can interact with it. &#x20;
+
+<figure><img src="../../.gitbook/assets/RARETEMPLATE.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://kaleidoscopexcp.com/directory/code/RARETEMPLATE/" %}
+
