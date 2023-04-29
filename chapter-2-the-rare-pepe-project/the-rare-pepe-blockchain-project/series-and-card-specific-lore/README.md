@@ -53,12 +53,12 @@ Find more information about RAREPEPE in [series-1.md](series-1.md "mention").
 
 * [**SHITCOINCARD**](https://pepe.wtf/asset/SHITCOINCARD) (Series 1, Card 3, 1/3,000)
 
-![SHITCOINCARD](<../../../.gitbook/assets/S01 C03 - SHITCOINCARD.jpg>)
+![SHITCOINCARD](../../../.gitbook/assets/SHITCOINCARD.jpeg)
 
 * [**PEPECASH**](https://pepe.wtf/asset/PEPECASH) (Series 1, Card 11)\
   Alongside XCP, PEPECASH was the built-in currency of Rare Pepe Wallet. Many songs and memes were produced about the benefits of holding PEPECASH, including making you “alpha”. PEPECASH is a card just like the other cards on this directory, except it is a lot more liquid. Less than 700 million PEPECASH are in circulation at the moment. PEPECASH is meant to be the currency of the Pepesphere. It was initially needed to pay submission fees to get Rare Pepes into the Rare Pepe Directory, and into the wallets. Some people were also working on games that use PEPECASH. Each week half of the earnings from submissions were sacrificed to Kek for good luck. (This made PEPECASH deflationary.)
 
-![PEPECASH](<../../../.gitbook/assets/S01 C11 - PEPECASH.jpg>)
+![PEPECASH](../../../.gitbook/assets/PEPECASH.jpg)
 
 * [**HAIRPEPE**](https://pepe.wtf/asset/HAIRPEPE) (Series 1, Card 18, 1/1,000)\
   HAIRPEPE is a cult classic amongst the early Rare Pepe collectors for its dankness. Ownership of HAIRPEPE gains you access to a private chat room known as The Salon. HAIRPEPE trading caused the mempool to clog up on Dec 2nd, 2016.
@@ -94,7 +94,7 @@ Find more information about RAREPEPE in [series-1.md](series-1.md "mention").
 * [**HOMERPEPE**](https://pepe.wtf/asset/HOMERPEPE) (Series 2, Card 32, 1/1)\
   The rarest card, HOMERPEPE is a unique 1/1 Rare Pepe that rose to prominence in January 2018 at the Rare Digital Art Festival in NYC, when it was auctioned for 350,000 PEPECASH ($39,000 at the time). This sale was the first major NFT sale, demonstrating that this form of artwork could fetch significant value and become a source of income for artists. In March 2021, HOMERPEPE was resold for $320,000.
 
-![HOMERPEPE](../../../.gitbook/assets/HOMERPEPE.jpg)
+![HOMERPEPE](<../../../.gitbook/assets/S02 C32 - HOMERPEPE.jpg>)
 
 * [**DJPEPE**](https://pepe.wtf/asset/DJPEPE) (Series 4, Card 29, 1/169)\
   Created on October 13th, 2016, DJPEPE is the first audio NFT, where tokenized crypto art meets music. An artist known as RareScrilla created this first music-linked Rare Pepe card. DJPEPE had an issuance of 169 cards and allowed users access to bonus content, a private Soundcloud link with exclusive music. Owners of this token, when using Rare Pepe Wallet, can access a link to a private SoundCloud managed by creator Rare Scrilla. DJPEPE is part of a four card “Hip-Hop” Series, which includes [**MCPEPE**](https://pepe.wtf/asset/MCPEPE), [**BBOYPEPE**](https://pepe.wtf/asset/BBOYPEPE), and [**PEPEONE**](https://pepe.wtf/asset/PEPEONE). DJPEPE cards were mostly given away at blockchain conferences and events from 2017-19 making them highly sought-after and one of the original crypto art pieces with unlockable bonus content.
@@ -128,12 +128,12 @@ Interview with RareScrilla, the creator of DJPEPE
 * [**FEELSGOODMAN**](https://pepe.wtf/asset/FEELSGOODMAN) (Series 20, Card 50, 1/500)\
   While the Rare Pepe Directory was closed in March 2018, one notable exception was made for the 1000th card, which had been set aside for Matt Furie, Pepe's creator. On October 5, 2021, Furie finally submitted the artwork for FEELSGOODMAN, making the Rare Pepe Directory officially complete. Learn more about the card in [this](https://open.spotify.com/episode/7LLY16oChVmy64hCnXZhYr?si=7476abeb2cb94ba5) podcast from Deeze Spaces with Matt Furie and Joe Looney.
 
-![FEELSGOODMAN](../../../.gitbook/assets/FEELSGOODMAN.png)
+![FEELSGOODMAN](<../../../.gitbook/assets/FEELSGOODMAN (1).png>)
 
 * [**LUKEJRPEPE**](https://pepe.wtf/asset/LUKEJRPEPE) (Series 21, Card 7, 1/500)\
   [Luke-Jr](https://twitter.com/LukeDashjr) is also a longtime Bitcoin Core contributor. He is known to be a very devout Catholic.
 
-![LUKEJRPEPE](<../../../.gitbook/assets/LUKEJRPEPE (1).jpeg>)
+![LUKEJRPEPE](../../../.gitbook/assets/LUKEJRPEPE.jpeg)
 
 * [**YELLPEPE**](https://pepe.wtf/asset/YELLPEPE) (Series 30, Card 3, 1/2,600)\
   On June 21, 2017 the late Rare Pepe artist Nathan Carson, also known as [@streetarthustle](https://twitter.com/streetarthustle), was in a crowded classroom when he was dared by members of the Rare Pepe Blockchain Trading Group to scream “PEPE!!” loudly. [He recorded this](https://youtu.be/UH7x6CUa2XQ), and it was immortalized into the series 30 card YELLPEPE.

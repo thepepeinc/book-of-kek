@@ -24,7 +24,7 @@ Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twit
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Pepe Checks.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
 
  
 
@@ -78,7 +78,7 @@ _Pepe Cheques, card 2, will be made available next Sunday via a claim for any ar
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/Pepe-Cheques">Pepe Cheques</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Cheques.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/Pepe-Cheques">Pepe Cheques</a></p></figcaption></figure>
 
  
 

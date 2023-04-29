@@ -53,7 +53,7 @@ The Notables collection will drop 5 cards every week in a two-phased process whe
 
 The [Fake Rare submission rules](../../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-rares-submission-rules.md) will be in place for the Notables collection too. Series 1 will be mostly Rare Pepe and Fake Rare artists, with some curated artists from Ethereum. Overtime, submissions will be open to any artist through a submission portal on [Pepe.wtf](https://pepe.wtf), and will be checked by a dedicated team of Pepe scientists to ensure dankness. Once a submission is accepted, a Pepe Cheque will be required to be burnt to have the art entered into the Notable Pepe directory.
 
-<figure><img src="../../.gitbook/assets/Pepe Cheques.jpeg" alt=""><figcaption><p>Pepe Cheque</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt=""><figcaption><p>Pepe Cheque</p></figcaption></figure>
 
 There will be an initial supply of 2,000 Pepe Cheques that will be distributed as follows.
 

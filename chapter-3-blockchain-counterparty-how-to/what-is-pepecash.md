@@ -2,7 +2,7 @@
 
 What would a world of Rare Pepes be without it’s own blockchain based currency? No worries, the community has that problem solved as well. [PEPECASH is the currency of Pepes](http://rarepepedirectory.com/?p=65), and can be used to pay for new submissions to get your Rare Pepes into [rarepepedirectory.com](http://rarepepedirectory.com) and into the wallets to speculate with or to be used in p2p transactions.
 
-![PEPECASH](<../.gitbook/assets/S01 C11 - PEPECASH.jpg>)
+![PEPECASH](../.gitbook/assets/PEPECASH.jpg)
 
 With the token locked at 1 billion shares of PEPECASH, it lacks the inflationary aspect of a currency like dogecoin, while still maintaining the same meme-friendly madness. Each week half of the earnings from submissions is sacrificed to Kek for good luck, which makes PepeCash deflationary.
 
