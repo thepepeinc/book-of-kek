@@ -1,12 +1,10 @@
 # Pepe's Blockchain Beginnings
 
-At the same time all of the Pepe controversy was happening over the years, there was a growing community of Pepe fans trying to reclaim the meme in their own way, **using blockchain technology**.
+At the same time as the Pepe controversy was happening, there was a growing community of Pepe fans trying to reclaim the meme in their own way, **using blockchain technology**.
 
-On crypto forums like [Bitcointalk](https://bitcointalk.org/), people started creating pictures of Pepe, similar to collectible cards and tokenizing them on the blockchain.
+On crypto forums like [Bitcointalk](https://bitcointalk.org/), people started creating pictures of Pepe, similar to collectible cards and tokenizing them on the blockchain. Some Pepes were memes from 4chan, some were superhero knockoffs, some were even political Pepes.
 
-Some Pepes were memes from 4chan, some were superhero knockoffs, some were even political Pepes.
-
-They were named **Rare Pepes.**
+They were coined **Rare Pepes.**
 
 ![RAREPEPE](../.gitbook/assets/RAREPEPE.png)
 
