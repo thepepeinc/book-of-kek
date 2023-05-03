@@ -116,5 +116,6 @@
   * [The Notable Ones - Interviews](chapter-4-latest-developments/notable-pepes/the-notable-ones-interviews/README.md)
     * [PEPENARDO](chapter-4-latest-developments/notable-pepes/the-notable-ones-interviews/pepenardo.md)
     * [DANGIUZ](chapter-4-latest-developments/notable-pepes/the-notable-ones-interviews/dangiuz.md)
+    * [CARSONATED](chapter-4-latest-developments/notable-pepes/the-notable-ones-interviews/carsonated.md)
 * [PegzDAO, Chain/Saw & RarePepe.fun](chapter-4-latest-developments/pegzdao-chain-saw-and-rarepepe.fun.md)
 * [Rare Apepes](chapter-4-latest-developments/rare-apepes.md)
