@@ -14,7 +14,7 @@ _For Notable Submission Rules & Drop Parameters visit our "_[_How It Works_](htt
 _For more information visit our Notable_ [_FAQ_](https://wiki.pepe.wtf/chapter-4-latest-developments/notable-pepes/faq) _page._
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt=""><figcaption><p>Pepe Checks - Card 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Notable Pepe Checks.jpeg" alt="" width="427"><figcaption><p>Pepe Checks - S1 C1</p></figcaption></figure>
 
 ## A Brief History of Notable Pepes
 
@@ -47,53 +47,35 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 ### On February 12th, 2023, [#vincentvandough-announces-notable-pepes](../../pepe-news-outlet/#vincentvandough-announces-notable-pepes "mention"):&#x20;
 
 {% hint style="info" %}
-**TL;DR**: Notable Pepes will be a series of NFT drops of digital cards that are bringing the [Pepe meme](../../chapter-1-historical-lore/the-creation-pepe-the-frog/birth-of-the-meme/) to the Ethereum blockchain.
+**TL;DR**: Notable Pepes is a series of NFT drops of digital cards that are bringing the [Pepe meme](../../chapter-1-historical-lore/the-creation-pepe-the-frog/birth-of-the-meme/) to the Ethereum blockchain.
 
 The concept behind the project stems from the [Rare Pepe](broken-reference) series that has been trading on [Counterparty](../../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/)/Bitcoin since 2016.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt="" width="563"><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
 
 _"You think memes are your ally?_
 
 _You merely adopted the memes. We were born in them, molded by them. We didn’t see the light until we were already rare, by then it was nothing but dankness._
 
-{% embed url="https://twitter.com/Vince_Van_Dough/status/1624889005593485312" %}
-
 _After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
 
 _A contingent of Rare Pepe artists & scientists, Fake Rare creators, and representatives of the frogs have been assembled to give rise to a new movement, spreading dank Pepes far and wide._
 
-_Kicking off a week from today, we are on a mission to deliver the dankest memes directly to your wallet._
-
-_Pepe Checks will serve as your access pass on this journey, with every Pepe Check representing a raffle spot for allowlists to drops from highly esteemed creators of Pepes._
+{% embed url="https://twitter.com/Vince_Van_Dough/status/1624889005593485312" %}
 
 _Each series will contain a total of 50 cards, with Pepe Checks representing card 1 of series 1._
 
 _We will be experimenting with a variety of mechanisms with the goal of achieving fair distributions of cards while simultaneously rewarding the most dedicated collectors._
 
-_While a group of respected stewards of Pepe have been recruited for series 1, a submission portal will open to all in the coming weeks._
-
 _The long standing rules of Rare Pepes will be in place. Submissions will be checked by a dedicated team of Pepe scientists to ensure dankness._
 
-_Pepe Cheques, card 2, will be made available next Sunday via a claim for any artist who has ever minted a Rare Pepe or Fake Rare, or by way of burning a FAKEASF. A Pepe Cheque will be required to be burnt to have your art entered into the Notable Pepe directory._
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Pepe Cheques.jpeg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/Pepe-Cheques">Pepe Cheques</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt=""><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
-
-</div>
-
-_Pepe Cheques which go unclaimed by artists will be made available to Pepe Checks holders, with allowlist spots being raffled to Pepe Checks holders. No need to split wallets, the same wallet can win multiple allowlist spots. This will remain true for future drops as well._
-
-_Beginning 2 weeks from today, we will conduct the first batch of regularly scheduled drops._
+_Pepe Cheques, S1 C2, will be made available next Sunday via a claim for any artist who has ever minted a Rare Pepe or Fake Rare, or by way of burning a FAKEASF. A Pepe Cheque will be required to be burnt to have your art entered into the Notable Pepe directory._
 
 _Each Sunday at 4:20 PM EST, 5 new cards will be released. Series 1 cards will be priced at 0.069 ETH per card and have a supply ranging from 100-1000._
 
 _Prepare yourselves." - Vincent Van Dough_
 
-<figure><img src="../../.gitbook/assets/PEPECHECK.jpeg" alt=""><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PEPECHECK.jpeg" alt="" width="300"><figcaption><p> <a href="https://pepe.wtf/asset/CHECKPEPE">CHECKPEPE</a>  </p></figcaption></figure>
 
 _**To be continued...**_
