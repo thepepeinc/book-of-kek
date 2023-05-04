@@ -52,7 +52,7 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 The concept behind the project stems from the [Rare Pepe](broken-reference) series that has been trading on [Counterparty](../../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/)/Bitcoin since 2016.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt="" width="563"><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/The Daily - Notable Pepes.jpeg" alt="" width="375"><figcaption><p>Frogs Storm the Beaches of Ethereum</p></figcaption></figure>
 
 _"You think memes are your ally?_
 
@@ -62,7 +62,7 @@ _After 6 years of being molded in the depths of Counterparty, Pepes are coming t
 
 _A contingent of Rare Pepe artists & scientists, Fake Rare creators, and representatives of the frogs have been assembled to give rise to a new movement, spreading dank Pepes far and wide._
 
-{% embed url="https://twitter.com/Vince_Van_Dough/status/1624889005593485312" %}
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-03 at 9.54.01 PM.png" alt="" width="375"><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1624889005593485312">VVD announces Notable Pepes</a></p></figcaption></figure>
 
 _Each series will contain a total of 50 cards, with Pepe Checks representing card 1 of series 1._
 

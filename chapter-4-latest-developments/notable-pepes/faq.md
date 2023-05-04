@@ -48,7 +48,7 @@ _TNP = total # of Notable Pepes_&#x20;
 
 _N = # of Notable Pepes you own_
 
-_S = # of spots remaining after artist, treasury, and full set holders have been allocated_&#x20;
+_S = # of spots remaining after artist, treasury, and full set holder spots have been allocated_&#x20;
 
 _AM = allocation multiplier_
 
