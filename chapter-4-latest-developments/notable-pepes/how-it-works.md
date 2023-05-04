@@ -26,7 +26,7 @@ Some of the parameters in this document are hardcoded into the collection, but o
 {% endhint %}
 
 {% hint style="success" %}
-**Coming soon**: [Pepe.wtf](../pepe.wtf.md) dashboard where you can sign in with an ETH address and see any claims available for you and any drops you are able to mint without needing to search each AL individually.
+**Coming soon**: The [Pepe.wtf](../pepe.wtf.md) team is working on a dashboard where you can sign in with an ETH address and see any claims available for you and any drops you are able to mint without needing to search each AL individually.
 {% endhint %}
 
 ## THE COLLECTOR’S JOURNEY

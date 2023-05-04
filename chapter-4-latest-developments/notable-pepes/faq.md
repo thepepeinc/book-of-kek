@@ -10,7 +10,7 @@ These answers are meant to guide artists and collectors through the current evol
 
 ### 1. How do I participate in a Notable Pepes Drops?
 
-All [Notable Pepe](https://pepe.wtf/collection/notable-pepes) holdings will act as an access pass for collectors, representing a raffle ticket for each mint's allowlist.
+All [Notable Pepe](https://pepe.wtf/collection/notable-pepes) holdings will act as an access pass for collectors, each card representing a raffle ticket for each mint's allowlist.
 
 ### 2. Where can I purchase Notable Pepes?
 
