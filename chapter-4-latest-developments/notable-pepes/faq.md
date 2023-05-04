@@ -18,9 +18,9 @@ All [Notable Pepe](https://pepe.wtf/collection/notable-pepes) holdings will act 
 
 ### 3. How are the allowlists created?
 
-Allowlists are currently generated using https://www.apollo.xyz/&#x20;
+Allowlists are currently generated using [https://www.apollo.xyz/](https://www.apollo.xyz/)&#x20;
 
-For more information on how their on-chain provably fair raffles are conducted please visit https://docs.apollo.xyz/apollo-documentation/extensions/project/token-based-raffle/how-we-ensure-fairness
+For more information on how their on-chain provably fair raffles are conducted please visit [https://docs.apollo.xyz/apollo-documentation/extensions/project/token-based-raffle/how-we-ensure-fairness](https://docs.apollo.xyz/apollo-documentation/extensions/project/token-based-raffle/how-we-ensure-fairness)
 
 ### 4. If I own multiple Notable Pepes can I win multiple allowlist spots?
 
