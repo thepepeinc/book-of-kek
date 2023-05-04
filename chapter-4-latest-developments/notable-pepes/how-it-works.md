@@ -61,6 +61,8 @@ The [Fake Rare submission rules](../../chapter-2-the-rare-pepe-project/fake-rare
 
 Overtime, submissions opened to any artist through a [submission portal](https://pepe.wtf/submission) on pepe.wtf, and which are checked by a dedicated team of Pepe scientists to ensure dankness.
 
+You can find all submission requirements and the detailed process on [https://pepe.wtf/submission](https://pepe.wtf/submission).
+
 Once a submission is accepted, a [Pepe Cheques](https://pepe.wtf/asset/Pepe-Cheques) will be required to be burnt to have the art entered into the [Notable Pepes](https://pepe.wtf/collection/notable-pepes) directory.
 
 <figure><img src="../../.gitbook/assets/Pepe Cheques-3.jpeg" alt="" width="375"><figcaption><p>Pepe Cheque</p></figcaption></figure>
