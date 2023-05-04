@@ -24,11 +24,11 @@ Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twit
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt=""><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt="" width="563"><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,11 +36,11 @@ The artwork immediately inspired a large amount of derivatives, flooding Twitter
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">Beeple's DAWN OF CHECKS</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt="" width="563"><figcaption><p><a href="https://twitter.com/beeple/status/1622459994376388610">Beeple's DAWN OF CHECKS</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt=""><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737">Tommy Wilson's NOTABLE PEPE</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 7.51.25 PM copy.jpg" alt="" width="563"><figcaption><p><a href="https://twitter.com/tommy_wilson_/status/1622048466674548737">Tommy Wilson's NOTABLE PEPE</a></p></figcaption></figure>
 
 </div>
 
