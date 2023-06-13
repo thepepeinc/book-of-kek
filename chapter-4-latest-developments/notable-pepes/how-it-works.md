@@ -14,8 +14,8 @@ Some of the parameters in this document are hardcoded into the collection, but o
 **TL;DR:**
 
 * Each **Sunday at 4:20 PM EST**, 5 new cards will be released
-* All [Notable Pepe](https://pepe.wtf/collection/notable-pepes) holdings will act as an access pass for collectors, representing a raffle ticket for each mint's allowlist
-* [Pepe Cheques](https://pepe.wtf/asset/Pepe-Cheques) will act as an access pass for creators to submitting art, which they can do via the [submission portal](https://pepe.wtf/submission) on [pepe.wtf](../pepe.wtf.md)
+* All [Notable Pepe](https://pepe.wtf/collection/notable-pepes) holdings are used in determining allowlists for the latest mint. Each card, regardless of supply, gives equal weighting to its holder in allowlist selection.
+* [Pepe Cheques](https://pepe.wtf/asset/Pepe-Cheques) are used to secure winning art submissions into the notables registry. Eligible submissions must be made via the [submission portal](https://pepe.wtf/submission) on [pepe.wtf](../pepe.wtf.md). Cheques are not required until a submission has been confirmed as a winner.
 * 50 cards per Notable Pepes series
 * Cards Price = 0.069 ETH (different pricing might apply on cards with higher supply)
 * Supply = 100 to 1000 per card
