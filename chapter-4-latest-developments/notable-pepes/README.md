@@ -22,7 +22,7 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twitter.com/jackbutcher)'s Checks. 237869 were minted with 12k holders, making it one of the most minted editions of its time.
 
-<div>
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt="" width="563"><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
 
