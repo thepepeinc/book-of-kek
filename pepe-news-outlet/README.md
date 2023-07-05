@@ -7,6 +7,36 @@ description: >-
 
 # Pepe News Outlet 📰
 
+## Emblem Vault introduces Rare Pepe Curated Vaulting
+
+May 2nd, 2023 ; [source](https://twitter.com/EmblemVault/status/1653509016176439306?s=20)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Rare Pepe Curated Vaulting via [Emblem Vault](https://twitter.com/EmblemVault) is now PUBLIC! After a year in development, Curated Collections are now live, marking a future where NFTs will be easily accessible and discoverable across all blockchains and can be traded without the requirement of a bridge.
+
+**Main features:**
+
+* Individual Smart Contract
+* Individual OpenSea Page
+* Powered by [@EmblemVault](https://twitter.com/EmblemVault) Curated Collections
+* 4 Traits (Series #, Card #, Year, Supply)
+* Vaulting Pre-populates Metadata&#x20;
+* Royalties shared between Emblem and Artists
+* ERC-1155
+
+{% hint style="info" %}
+[Rare Pepe Wallet](../chapter-3-blockchain-counterparty-how-to/best-pepe-wallets.md#rare-pepe-wallet) creator Joe Looney also [redirected](https://twitter.com/wasthatawolf/status/1662098984683425796?s=20) his page [rarepe.pe](https://t.co/FSGyvRlSGk) to the Rare Pepe Curated Collection on Opensea for ease of discovery: _"Emblem has done a great job at building a contract that allows vaulted rare pepes to trade like any other editioned NFTs. Go check it out!"_
+{% endhint %}
+
+**Discover the complete Rare Pepe Collection on OpenSea** [**here**](https://opensea.io/collection/rare-pepe-curated)**.**
+
+**>>>** [**HOW TO BUY RARE PEPES ON OPENSEA**](https://twitter.com/EmblemVault/status/1654556258786226176?s=20) **<<<**
+
+{% embed url="https://twitter.com/EmblemVault/status/1653509016176439306" %}
+Rare Pepe Curated Vaulting is now PUBLIC!
+{% endembed %}
+
 ## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes/)
 
 February 12th, 2023 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1624889005593485312)

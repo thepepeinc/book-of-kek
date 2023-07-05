@@ -16,6 +16,7 @@ description: >-
 ## Directories and Explorers
 
 * [Pepe.wtf](https://pepe.wtf/)
+* [Notable Pepes](https://opensea.io/collection/notablepepes)
 * [Rare Pepe Directory](http://rarepepedirectory.com/)
 * [Fake Rare Directory](https://fakeraredirectory.com/)
 * [Dank Rare Directory](https://www.dankdirectory.io/)
@@ -25,11 +26,12 @@ description: >-
 ## Marketplaces
 
 * [Pepe.wtf](https://pepe.wtf/)
+* [Notable Pepes](https://opensea.io/collection/notablepepes)
 * [Rare Pepe Wallet](https://rarepepewallet.com/)
 * [Fake Rare Wallet](https://fakerarewallet.com/)
-* [Scarce City](https://scarce.city/)
-* [Emblem Vault on OpenSea](https://opensea.io/collection/emblem-vault)
+* [Emblem Vault on OpenSea](https://opensea.io/collection/rare-pepe-curated)
 * [Counterparty Dispensers on XChain](https://xchain.io/dispensers)
+* [Scarce City](https://scarce.city/)
 
 ## Wallets
 
@@ -38,22 +40,24 @@ description: >-
 * [Rare Pepe Wallet](https://rarepepewallet.com/)
 * [Fake Rare Wallet](https://fakerarewallet.com/)
 * [Casa Tookan Wallet](https://crystalsuite.com/casa-tookan-wallet/)
-* [0xFlow](https://hexflow.io/)
 
 ## Tutorials
 
 * [Rare Pepes Explained](https://www.youtube.com/watch?v=YkqZhhGPkIo\&list=PL\_XhCPNEKfhrSe0b7MRCGOTHwmfKpPOn7) - by RARE PEPES DOT COM
-* [Rare Pepe tutorials](https://www.youtube.com/watch?v=A3y2MiAf4\_Q\&list=PL\_XhCPNEKfhowYq0qpbo3\_nKb54K3EnPc) - by RARE PEPES DOT COM
+* [Rare Pepe Tutorials](https://www.youtube.com/watch?v=A3y2MiAf4\_Q\&list=PL\_XhCPNEKfhowYq0qpbo3\_nKb54K3EnPc) - by RARE PEPES DOT COM
 * [How to Get Started with Rare Pepes](http://rarepepenews.com/how-to-get-rare-pepes/) - by Django Bates
-* [How to Buy Rare Pepes](https://twitter.com/MattGarciaEth/status/1432725838085165072?s=20) - by MattGarciaEth on Twitter
-* [Robotlovecoffee.io ](https://robotlovecoffee.io/)- Counterparty tutorials by RobotLoveCoffee
-* [How to Use Emblem Vault](https://desktopcommando.medium.com/how-to-use-emblemvault-14ba241ca42a) - by DesktopCommando
-* [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58) - by DesktopCommando
+* [How to Buy Rare Pepes](https://twitter.com/MattGarciaEth/status/1432725838085165072?s=20) - by [MattGarciaEth](https://twitter.com/MattGarciaEth)
+* [How to Purchase Fake Rares using Drops](https://youtu.be/pjPzmjCc480) - by [Pepe.wtf](https://pepe.wtf/)
+* [Robotlovecoffee.io ](https://robotlovecoffee.io/)- Counterparty Tutorials by [RobotLoveCoffee](https://twitter.com/robotlovecoffee)
+* [How to Use Emblem Vault](https://desktopcommando.medium.com/how-to-use-emblemvault-14ba241ca42a) - by [DesktopCommando](https://twitter.com/DesktopCommando)
+* [How to buy Rare Pepes on OpenSea](https://twitter.com/EmblemVault/status/1654556258786226176) - by [Emblem Vault](https://twitter.com/EmblemVault)
+* [How to Vault Rare Pepe Curated Collection](https://youtube.com/watch?v=i1XF0PnGURs\&t=199s) - by [Emblem Vault](https://twitter.com/EmblemVault)
+* [How to Unlock Rare Pepe Curated Collection](https://www.youtube.com/watch?v=COOekJYi5hA) - by [Emblem Vault](https://twitter.com/EmblemVault)
+* [Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks](https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58) - by [DesktopCommando](https://twitter.com/DesktopCommando)
 * [How to Move Rare Pepes from XCP to ETH with Emblem Vault](https://www.youtube.com/watch?v=S4gNPzLunjA\&ab\_channel=NFTgames) - by Gillies
 * [How to Crack an Emblem Vault](https://www.youtube.com/watch?v=y-VEZR8e2Ro\&ab\_channel=MELLOWMINING) - by Mellow Mining
 * [How to buy Rarepepe NFTs on OpenSea (2022 Full Buyer's Guide)](https://www.youtube.com/watch?v=in8dHrKRrlo\&ab\_channel=DANIELGOTHITS) - by DANIEL GOT HITS
-* [How to create a Counterparty asset dispenser on xchain.io using FreeWallet](https://subterranean.medium.com/how-to-create-a-counterparty-asset-dispenser-on-xchain-io-using-freewallet-70ebe5b3e62f) - by Subterranea
-* [How to Purchase Fake Rares using Drops](https://youtu.be/pjPzmjCc480) - by Pepe.wtf
+* [How to create a Counterparty asset dispenser on xchain.io using FreeWallet](https://subterranean.medium.com/how-to-create-a-counterparty-asset-dispenser-on-xchain-io-using-freewallet-70ebe5b3e62f) - by [Subterranea](https://twitter.com/subterranean\_1)[n](https://twitter.com/subterranean\_1)
 
 ## Telegram Communities
 
@@ -115,7 +119,7 @@ description: >-
 * [Rare Digital Art Festival #1 Anniversary: Joe Looney - Right Click Save](https://www.rightclicksave.com/article/rare-digital-art-festival-anniversary-joe-looney)
 * [RarePepes: The "Origin" Story - Redlion](https://www.redlion.news/article/rarepepes-the-origin-story)
 
-## Videos / Podcasts
+## Videos / Podcasts / Interviews
 
 * [Feels Good Man Trailer #1 (2020) | Movieclips Indie](https://www.youtube.com/watch?v=ZEiqZWw5vYs)
 * [Short History of RAREPEPE BLOCKCHAIN TOKENS](https://www.youtube.com/watch?v=9n3JqJSLIpc)
@@ -150,3 +154,8 @@ description: >-
 * [Rug Radio Live at Fake Basel ft. Scrilla & Pablo Rica\$$o](https://twitter.com/farokh/status/1598765019465908227)
 * [Fun interview with OG Rare Pepe artist MikeinSpace](https://www.youtube.com/watch?v=Dik72DHp\_nY)
 * [Interview with Rare Pepe OG artist and Dank Directory creator Boost](https://youtu.be/rRvC767N5oI)
+* [Interview with Rare Pepe OG artist Yoni](https://youtu.be/tME0r5sTU94)
+* [Great interview with OG Rare Pepe artist and crypto journalist Juan Galt](https://youtu.be/pDn-hEONz6Q)
+* [Interview with fascinating OG Crypto artist Netidx, creator of OG Rare Pepe SCHROEPEPE](https://youtu.be/76hWsYFEMXM)
+* [Great interview with OG Rare Pepe artist ICQPEPE](https://youtu.be/6g9Cqi0Uns0)
+* [Fun interview with OG Rare Pepe Artist Davesta](https://youtu.be/60fJ3dITM6I)

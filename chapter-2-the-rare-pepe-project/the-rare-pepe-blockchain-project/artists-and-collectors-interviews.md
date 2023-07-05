@@ -98,3 +98,23 @@ description: >-
 * [Interview with Rare Pepe OG artist and Dank Directory creator Boost](https://youtu.be/rRvC767N5oI):&#x20;
 
 {% embed url="https://youtu.be/rRvC767N5oI" %}
+
+* [Interview with Rare Pepe OG artist Yoni](https://youtu.be/tME0r5sTU94):
+
+{% embed url="https://youtu.be/tME0r5sTU94" %}
+
+* [Great interview with OG Rare Pepe artist and crypto journalist Juan Galt](https://youtu.be/pDn-hEONz6Q):&#x20;
+
+{% embed url="https://youtu.be/pDn-hEONz6Q" %}
+
+* [Interview with fascinating OG Crypto artist Netidx, creator of OG Rare Pepe SCHROEPEPE](https://youtu.be/76hWsYFEMXM):&#x20;
+
+{% embed url="https://youtu.be/76hWsYFEMXM" %}
+
+* [Great interview with OG Rare Pepe artist ICQPEPE](https://youtu.be/6g9Cqi0Uns0):&#x20;
+
+{% embed url="https://youtu.be/6g9Cqi0Uns0" %}
+
+* [Fun interview with OG Rare Pepe Artist Davesta](https://youtu.be/60fJ3dITM6I):&#x20;
+
+{% embed url="https://youtu.be/60fJ3dITM6I" %}
