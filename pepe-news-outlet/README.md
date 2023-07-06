@@ -37,6 +37,68 @@ Rare Pepe Curated Vaulting via [Emblem Vault](https://twitter.com/EmblemVault) i
 Rare Pepe Curated Vaulting is now PUBLIC!
 {% endembed %}
 
+## Notable Pepes S1 concludes with Card 50 by Jack Butcher
+
+April 29th, 2023 ; [source](https://twitter.com/NotablePepes/status/1650308337529913348)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+Series 1 drops of [Notable Pepes](../chapter-4-latest-developments/notable-pepes/) are a wrap! After a last batch headlined by Checks creator [Jack Butcher](https://twitter.com/jackbutcher), this concludes 2 historic months bringing the [Pepe meme](../chapter-1-historical-lore/the-creation-pepe-the-frog/birth-of-the-meme/) to the Ethereum blockchain.
+
+<figure><img src="../.gitbook/assets/Green Check.jpeg" alt="" width="323"><figcaption><p>S1 C50 - <a href="https://pepe.wtf/asset/Green-Check">Green Checks</a> by Jack Butcher</p></figcaption></figure>
+
+As [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) first announced on [February 12th](./#vincentvandough-announces-notable-pepes):
+
+"_After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
+
+_A contingent of Rare Pepe artists & scientists, Fake Rare creators, and representatives of the frogs have been assembled to give rise to a new movement, spreading dank Pepes far and wide._
+
+_Each series will contain a total of 50 cards, with Pepe Checks representing card 1 of series 1."_
+
+{% embed url="https://twitter.com/NotablePepes/status/1650308337529913348" %}
+
+As s cherry on the cake, Notable Pepes announced that one final card in the series would be released as a claim for top collectors. On [April 29th](https://twitter.com/NotablePepes/status/1652378456712200194?s=20), a wild [MISSINGNO. PEPE](https://pepe.wtf/asset/MISSINGNO.-PEPE) by notorious Pepe artist [Lenny ( ͡° ͜ʖ ͡°)](https://twitter.com/fakelenny4) was minted, and the card was made available for claim by any holder of 25 or more unique Notable Pepes.
+
+<figure><img src="../.gitbook/assets/MISSINGNO. PEPE.jpeg" alt="" width="375"><figcaption><p>MISSINGNO. PEPE by <a href="https://twitter.com/fakelenny4">Lenny ( ͡° ͜ʖ ͡°)</a></p></figcaption></figure>
+
+## Pepe returns to NYC: Frogs Over Fiat 2023
+
+April 9th, 2023: [source](https://twitter.com/FAKERARES\_XCP/status/1645096013496045569)
+
+Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
+
+The annual Pepe event **Frogs Over Fiat**, organized by the [Pepe Inc](../chapter-4-latest-developments/pepe-inc..md), [Fake Rares](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/), and [Scarce City](../chapter-3-blockchain-counterparty-how-to/scarce.city.md) returned to 80W Broadway from Tuesday, April 11th to Friday, April 14th 2023.
+
+<figure><img src="../.gitbook/assets/Frogs Over Fiat 2023.jpeg" alt="" width="361"><figcaption><p>FROGS OVER FIAT 2023 by @Vanda</p></figcaption></figure>
+
+During 4 days, Pepe aficionados, artists, and collectors came together once again to exhibit and collect Notable and Fake **physical** artworks.
+
+36 Fake Rare artworks were available via Scarce City's [auction](https://scarce.city/collections/frogs-over-fiat-23) alone, with the [highest bid](https://twitter.com/Jman\_\_12/status/1646661244877766656?s=20) going to the physical [FAKESCIENCE](https://pepe.wtf/asset/FAKESCIENCE) by [Pepenardo](https://pepe.wtf/artists/Pepenardo) at 4.025 BTC ($122,064).
+
+{% embed url="https://twitter.com/FAKERARES_XCP/status/1646209534522802204" %}
+
+More legends such as Rare Scrilla, BasqKek, Jules, Chrome Void, Darky, Nikolina Petolas, Ciobo, Naples, Dr $uss, and more also exhibited physical artworks and interactive installations at the event.
+
+<div>
+
+<figure><img src="../.gitbook/assets/FAKEDOC.jpeg" alt="" width="243"><figcaption><p><a href="https://pepe.wtf/asset/FAKEDOC">FAKEDOC</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/GROCERYPEPE.jpeg" alt="" width="245"><figcaption><p><a href="https://pepe.wtf/asset/GROCERYPEPE">GROCERYPEPE</a></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/LEGOMOTO.jpeg" alt="" width="267"><figcaption><p><a href="https://pepe.wtf/asset/LEGOMOTO">LEGOMOTO</a></p></figcaption></figure>
+
+</div>
+
+{% embed url="https://twitter.com/nicedayJules/status/1645148347312013313" %}
+
+{% embed url="https://twitter.com/GusGrillasca/status/1649147255927058433?s=20" %}
+
+{% embed url="https://twitter.com/TruBlinkyNigiri/status/1647681248406454276" %}
+
 ## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes/)
 
 February 12th, 2023 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1624889005593485312)
@@ -460,7 +522,7 @@ On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter
 
 ![GRANTYUM](../.gitbook/assets/GRANTYUM.png) ![LILYPAD](<../.gitbook/assets/LILYPAD (1).jpeg>)
 
-This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading artists in the NFT space onboarded to Fake Rares & XCP, as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
+This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading crypto artists onboarded to Fake Rares & [XCP](../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/), as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1553189429136826369?s=20&t=YN-fFeszZoZ9Z06J44bpsw" %}
 
