@@ -69,7 +69,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 The annual Pepe event **Frogs Over Fiat**, organized by the [Pepe Inc](../chapter-4-latest-developments/pepe-inc..md), [Fake Rares](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/), and [Scarce City](../chapter-3-blockchain-counterparty-how-to/scarce.city.md) returned to 80W Broadway from Tuesday, April 11th to Friday, April 14th 2023.
 
-<figure><img src="../.gitbook/assets/Frogs Over Fiat 2023.jpeg" alt="" width="361"><figcaption><p>FROGS OVER FIAT 2023 by @Vanda</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frogs Over Fiat 2023.jpeg" alt="" width="361"><figcaption><p>FROGS OVER FIAT 2023 by <a href="https://twitter.com/viva_la_vandal">Viva La Vandal</a></p></figcaption></figure>
 
 During 4 days, Pepe aficionados, artists, and collectors came together once again to exhibit and collect Notable and Fake **physical** artworks.
 
@@ -77,7 +77,7 @@ During 4 days, Pepe aficionados, artists, and collectors came together once agai
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1646209534522802204" %}
 
-More legends such as Rare Scrilla, BasqKek, Jules, Chrome Void, Darky, Nikolina Petolas, Ciobo, Naples, Dr $uss, and more also exhibited physical artworks and interactive installations at the event.
+More legends such as Rare Scrilla, BasqKek, Jules, Chrome Void, Darky, Nikolina Petolas, Ciobo, Naples, Dr $uss, and more exhibited physical artworks and interactive installations at the event.
 
 <div>
 
