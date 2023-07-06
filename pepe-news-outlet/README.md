@@ -26,7 +26,7 @@ Rare Pepe Curated Vaulting via [Emblem Vault](https://twitter.com/EmblemVault) i
 * ERC-1155
 
 {% hint style="info" %}
-[Rare Pepe Wallet](../chapter-3-blockchain-counterparty-how-to/best-pepe-wallets.md#rare-pepe-wallet) creator Joe Looney also [redirected](https://twitter.com/wasthatawolf/status/1662098984683425796?s=20) his page [rarepe.pe](https://t.co/FSGyvRlSGk) to the Rare Pepe Curated Collection on Opensea for ease of discovery: _"Emblem has done a great job at building a contract that allows vaulted rare pepes to trade like any other editioned NFTs. Go check it out!"_
+[Rare Pepe Wallet](../chapter-3-blockchain-counterparty-how-to/best-pepe-wallets.md#rare-pepe-wallet) creator Joe Looney [redirected](https://twitter.com/wasthatawolf/status/1662098984683425796?s=20) his page [rarepe.pe](https://t.co/FSGyvRlSGk) to the Rare Pepe Curated Collection on Opensea for ease of discovery: _"Emblem has done a great job at building a contract that allows vaulted rare pepes to trade like any other editioned NFTs. Go check it out!"_
 {% endhint %}
 
 **Discover the complete Rare Pepe Collection on OpenSea** [**here**](https://opensea.io/collection/rare-pepe-curated)**.**
