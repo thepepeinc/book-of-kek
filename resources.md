@@ -159,3 +159,5 @@ description: >-
 * [Interview with fascinating OG Crypto artist Netidx, creator of OG Rare Pepe SCHROEPEPE](https://youtu.be/76hWsYFEMXM)
 * [Great interview with OG Rare Pepe artist ICQPEPE](https://youtu.be/6g9Cqi0Uns0)
 * [Fun interview with OG Rare Pepe Artist Davesta](https://youtu.be/60fJ3dITM6I)
+* [The Notable Ones: Hafftka](https://twitter.com/i/spaces/1BRJjZYYpgWJw?s=20)
+* [The Notable Ones: Pepenardo](https://twitter.com/i/spaces/1lDGLnMgwnMxm?s=20)

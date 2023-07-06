@@ -61,6 +61,10 @@ As s cherry on the cake, Notable Pepes announced that one final card in the seri
 
 <figure><img src="../.gitbook/assets/MISSINGNO. PEPE.jpeg" alt="" width="375"><figcaption><p>MISSINGNO. PEPE by <a href="https://twitter.com/fakelenny4">Lenny ( ͡° ͜ʖ ͡°)</a></p></figcaption></figure>
 
+{% hint style="info" %}
+Series 2 of Notable Pepes [kicked off](https://twitter.com/NotablePepes/status/1655205141245558786) on May 7th, 2023 with S2C1[ LEGOMOTO](https://pepe.wtf/asset/LEGOMOTO-notable) by [Coriot.eth](https://twitter.com/coriotcg).
+{% endhint %}
+
 ## Pepe returns to NYC: Frogs Over Fiat 2023
 
 April 9th, 2023: [source](https://twitter.com/FAKERARES\_XCP/status/1645096013496045569)
