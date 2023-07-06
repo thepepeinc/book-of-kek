@@ -10,6 +10,7 @@ The tutorial on the next page merely serves as an introductory approach to buyin
 
 * [**RAREPEPES DOT COM - YouTube**](https://www.youtube.com/channel/UCfwpmLp\_1mT7iSiz9hK-LLg)
 * [**How To Buy Rare Pepes - MattGarciaEth on Twitter**](https://twitter.com/MattGarciaEth/status/1432725838085165072?s=20)
+* [**How to buy Rare Pepes on OpenSea**](https://twitter.com/EmblemVault/status/1654556258786226176) **-** [**Emblem Vault**](https://twitter.com/EmblemVault)
 * [**How to buy Rarepepe NFTs on OpenSea (2022 Full Buyer's Guide)**](https://www.youtube.com/watch?v=in8dHrKRrlo\&ab\_channel=DANIELGOTHITS)
 * [**How to get started with Rare Pepes, by Django Bates**](http://rarepepenews.com/how-to-get-rare-pepes/)
 * [**RobotLoveCoffee Tutorials**](https://robotlovecoffee.io/)
