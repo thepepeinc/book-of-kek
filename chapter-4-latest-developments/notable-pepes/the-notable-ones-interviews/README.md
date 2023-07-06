@@ -11,7 +11,6 @@ Welcome to “The Notable Ones”, an interview series by [Dr. $uss](https://twi
 _Listen to the Notable Ones Twitter Spaces here:_
 
 * [The Notable Ones: Pepenardo](https://twitter.com/i/spaces/1lDGLnMgwnMxm?s=20)
-* [The Notable Ones: Hafftka](https://twitter.com/i/spaces/1BRJjZYYpgWJw?s=20)\
-
+* [The Notable Ones: Hafftka](https://twitter.com/i/spaces/1BRJjZYYpgWJw?s=20)
 
 <figure><img src="../../../.gitbook/assets/photo_2023-04-27 13.45.43.jpeg" alt=""><figcaption><p>The Notable Ones - Interviews by <a href="https://twitter.com/thedrsuss">Dr.$uss</a> (artwork: <a href="https://twitter.com/KeroNFTs">Kero</a>)</p></figcaption></figure>
