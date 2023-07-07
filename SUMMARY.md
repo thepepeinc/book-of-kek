@@ -103,7 +103,7 @@
 * [Scarce.city](chapter-3-blockchain-counterparty-how-to/scarce.city.md)
 * [Emblem Vault](chapter-3-blockchain-counterparty-how-to/emblem-vault/README.md)
   * [How to create an Emblem Vault](chapter-3-blockchain-counterparty-how-to/emblem-vault/how-to-create-an-emblem-vault.md)
-  * [Vaulting Rare Pepe in ERC-1155 tokens](chapter-3-blockchain-counterparty-how-to/emblem-vault/vaulting-rare-pepe-in-erc-1155-tokens.md)
+  * [Vaulting Rare Pepes in ERC-1155 Tokens](chapter-3-blockchain-counterparty-how-to/emblem-vault/vaulting-rare-pepes-in-erc-1155-tokens.md)
 
 ## Chapter 4 - latest developments
 

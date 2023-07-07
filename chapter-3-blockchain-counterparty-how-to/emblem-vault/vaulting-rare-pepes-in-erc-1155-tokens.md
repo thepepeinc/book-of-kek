@@ -1,4 +1,4 @@
-# Vaulting Rare Pepe in ERC-1155 tokens
+# Vaulting Rare Pepes in ERC-1155 Tokens
 
 In May 2023, after a test phase, Emblem Vault opened the vaulting of Rare Pepe XCP assets in ERC-1155 tokens on the Ethereum blockchain to the public. Other collections (Fake Rare, Fake Common, Dank Rare) will be available in the same standard.
 
