@@ -161,3 +161,5 @@ description: >-
 * [Fun interview with OG Rare Pepe Artist Davesta](https://youtu.be/60fJ3dITM6I)
 * [The Notable Ones: Hafftka](https://twitter.com/i/spaces/1BRJjZYYpgWJw?s=20)
 * [The Notable Ones: Pepenardo](https://twitter.com/i/spaces/1lDGLnMgwnMxm?s=20)
+* [Rare Designer on Crypto, NFT, and Pepe the Frog - DesignBoom](https://www.designboom.com/art/interview-rare-designer-crypto-art-nft-pepe-frog-03-16-2023/)
+
