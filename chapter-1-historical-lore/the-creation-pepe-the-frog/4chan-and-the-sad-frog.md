@@ -54,7 +54,7 @@ With the number of internet users growing, Pepe was ripe for the taking.
 
 Other communities outside of 4chan started percolating Pepe. He started getting the attention which the 4chan community did not like.
 
-![Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (1) (1) (1) (1) (1) (1).jpg>) ![Nicki Minaj Pepe IG post](<../../.gitbook/assets/nicki minaj pepe post.png>)
+![Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet.jpg>) ![Nicki Minaj Pepe IG post](<../../.gitbook/assets/nicki minaj pepe post (1).png>)
 
 Even some celebrities like Nicki Minaj and Katy Perry jumped on the Pepe-trend and posted him on their profiles, further increasing his popularity amongst "[the normies](https://www.urbandictionary.com/define.php?term=Normie)”.
 
@@ -72,7 +72,7 @@ At the same time, while all of this drama was culminating online, Matt was launc
 
 As a way of revolting against the unwelcomed outsiders, the 4chan community started creating angry and offensive versions of Pepe the Frog, some more distasteful than others.
 
-![Angry Pepe](<../../.gitbook/assets/angry pepe (1).png>)
+![Angry Pepe](<../../.gitbook/assets/angry pepe.png>)
 
 This was the birth of “The Angry Frog” meme, inspired by popular [videos](https://www.youtube.com/results?search\_query=screaming+frogs) of screaming frogs that went viral at the time.
 

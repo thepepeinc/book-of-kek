@@ -9,7 +9,7 @@ description: The memorial room of famous Pepe posts
 On November 8th, 2014, Katy Perry tweeted a picture of Pepe crying with the caption "Australian jet lag got me like".\
 Over the next three years, the tweet received more than 17,000 likes and 10,500 retweets.
 
-![The Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (1) (1) (1) (1) (1).jpg>)
+![The Katy Perry Pepe tweet](<../../.gitbook/assets/ketty perry tweet (1).jpg>)
 
 ### Nicki Minaj's Instagram Post
 

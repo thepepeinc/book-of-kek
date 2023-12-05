@@ -10,7 +10,7 @@ Submissions are now to any artist through a [submission portal](https://pepe.wtf
 
 Once a submission is accepted, a [Pepe Cheques](https://pepe.wtf/asset/Pepe-Cheques) will be required to be burnt to have the art entered into the [Notable Pepes](https://pepe.wtf/collection/notable-pepes) directory.
 
-<figure><img src="../../../.gitbook/assets/Pepe Cheques-3.jpeg" alt="" width="375"><figcaption><p>Pepe Cheque</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Pepe Cheques.jpeg" alt="" width="375"><figcaption><p>Pepe Cheque</p></figcaption></figure>
 
 There is an initial supply of 2,000 Pepe Cheques that is distributed as follows.
 

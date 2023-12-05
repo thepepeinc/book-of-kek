@@ -14,5 +14,9 @@ The vaulting process is very similar to the creation of an Emblem Vault Legacy (
 
 This innovation also makes it possible, in partnership with Pepe.wtf, to pay royalties resulting from transactions to the artists who created the Rare Pepe vaulted cards.
 
+{% hint style="success" %}
+[Emblem Vault Tutorials: Curated Collections](https://docs.emblem.wiki/tutorials/curated-collections)
+{% endhint %}
+
 {% embed url="https://twitter.com/EmblemVault/status/1625983523541905419" %}
 

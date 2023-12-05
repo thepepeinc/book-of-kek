@@ -14,7 +14,7 @@ On August 25, 2022 the artist informed me via Telegram that the dog pictured on 
 
 **Series 31, Card 17** - [UGANDANPEPE](https://pepe.wtf/asset/UGANDANPEPE) was created by an [unknown artist](https://pepe.wtf/artists/1NVvsfD2rgv2J2JewXZ9KgLvkYBW4FYyxW). They created a total of 9 cards for the Rare Pepe project.  The card is a parody of [Ugandan Knuckles](https://knowyourmeme.com/memes/ugandan-knuckles), who is in turn a parody of the character [Knuckles](https://en.wikipedia.org/wiki/Knuckles\_the\_Echidna) from the [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic\_the\_Hedgehog) franchise. Ugandan Knuckles was created by YouTuber [Gregzilla](https://www.youtube.com/user/GregzillaGT) in 2017.&#x20;
 
-<figure><img src="../../../.gitbook/assets/e3c05807a82f305a9174c0b223896bef (1).jpg" alt=""><figcaption><p>Knuckles the Echidna from Sonic the Hedgehog</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/e3c05807a82f305a9174c0b223896bef.jpg" alt=""><figcaption><p>Knuckles the Echidna from Sonic the Hedgehog</p></figcaption></figure>
 
 ## Series 31, Card 39 - PEPESTRY
 

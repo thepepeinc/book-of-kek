@@ -64,7 +64,7 @@
     * [Series 35](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-35.md)
     * [Series 36](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-36.md)
   * [Official Rare Pepe Sub Assets](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/official-rare-pepe-sub-assets.md)
-  * [Artists & Collectors Interviews](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md)
+  * [Artists & Collectors Interviews](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews/README.md)
     * [Collector Interview: TokenAngels](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews/collector-interview-tokenangels.md)
   * [Famous Rare Pepe auctions](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-auctions.md)
   * [“The Rarest Book” by Eleonora Brizi](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)

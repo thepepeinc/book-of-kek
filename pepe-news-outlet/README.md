@@ -113,7 +113,7 @@ On February 4th, 2023, notable collector and artist [VincentVanDough](https://tw
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.37.52 PM.png" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VVD Open Edition.png" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
 
  
 
@@ -480,7 +480,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 [The NFT Magazine](https://twitter.com/TheNFTMag) will release its first "phygital" book '[CryptoArt - Begins](https://www.thenftmag.io/cryptoartbegins/)', co-written by [Andrea Concas](https://twitter.com/acvault) _(aka @ACVAULT)_ and [Eleonora Brizi](https://twitter.com/eleonorabrizi) _(author of_ [_The Rarest Book_](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/the-rarest-book-by-eleonora-brizi.md)_)_, on September 19th via the marketplace [Nifty Gateway](https://www.niftygateway.com/marketplace).  Featured on the digital cover of the book is the Rare Pepe card [MODERNPEPE](https://pepe.wtf/asset/MODERNPEPE) issued in March 2017 by artist [Meme Conscious](https://pepe.wtf/artists/Meme-Conscious).&#x20;
 
-<figure><img src="../.gitbook/assets/Cryptoart Begins.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cryptoart Begins (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Inside the book, Rare Pepes will be featured among some of the 50 best crypto artists of our time, including works and words by OG Pepe artists such as [@ScrillaVentura](https://twitter.com/ScrillaVentura), [@theog\_\_](https://twitter.com/theog\_\_), [@pepe\_designer](https://twitter.com/pepe\_designer), [@Rare\_Luca](https://twitter.com/Rare\_Luca), [@NFTcloud69](https://twitter.com/NFTcloud69), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL) & [@MemeConscious](https://twitter.com/MemeConscious).
 
@@ -524,7 +524,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
 
-![GRANTYUM](../.gitbook/assets/GRANTYUM.png) ![LILYPAD](<../.gitbook/assets/LILYPAD (1).jpeg>)
+![GRANTYUM](../.gitbook/assets/GRANTYUM.png) ![LILYPAD](../.gitbook/assets/LILYPAD.jpeg)
 
 This concludes a historic month of [Fake Rares Series 8](./#vvd-announces-curated-fake-rares-series-8), praised as the "Pepe Summer" of 2022 by all frog-aficionados of the Fakeverse. The curated series was a huge success, with over 40 leading crypto artists onboarded to Fake Rares & [XCP](../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/), as well as 21k new active users on [pepe.wtf](https://pepe.wtf/) and 2.5k new members in the [PepePawnShop Telegram](https://t.me/PepePawnShop), setting the directory up for steady growth in the months to come!
 
@@ -756,7 +756,7 @@ May 26th, 2022 ; [source](https://fakeraredirectory.com/la-faka-has-been-defeate
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-![LAFAKADEMISE](../.gitbook/assets/LAFAKADEMISE.jpeg)
+![LAFAKADEMISE](<../.gitbook/assets/LAFAKADEMISE (1).jpeg>)
 
 ### How it all Began
 

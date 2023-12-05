@@ -22,7 +22,7 @@ Smug Frog, also known as Smug Pepe, is a reaction image of a smug-looking versio
 
 Angry Pepe, also known as Angry Frog, is a reaction image featuring a hostile-looking variation of Pepe. The image is often accompanied by expressions of rage and intense frustration.
 
-![Angry Pepe](<../../.gitbook/assets/angry pepe.png>)
+![Angry Pepe](<../../.gitbook/assets/angry pepe (1).png>)
 
 ### Nu Pepe
 

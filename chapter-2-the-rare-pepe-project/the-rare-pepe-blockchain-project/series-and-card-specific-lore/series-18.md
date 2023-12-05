@@ -2,7 +2,7 @@
 
 ## Series 18, Card 4 - LUPEPEN
 
-<figure><img src="../../../.gitbook/assets/S18 C04 - LUPEPEN card and source.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/S18 C04 - LUPEPEN card and source (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 18, Card 4** - [LUPEPEN](https://pepe.wtf/asset/LUPEPEN) was created by the artist [Luca](https://pepe.wtf/artists/Luca) ([@Rare\_Luca](https://twitter.com/Rare\_Luca) on Twitter). Luca created 18 cards for the Rare Pepe series including the popular [PEPEBASQUIAT](https://pepe.wtf/asset/PEPEBASQUIAT), the tranquil [KOIPEPE](https://pepe.wtf/asset/KOIPEPE), [PEPECLUB](https://pepe.wtf/asset/PEPECLUB), and [PEPEFICTION](https://pepe.wtf/asset/PEPFICTION).&#x20;
 

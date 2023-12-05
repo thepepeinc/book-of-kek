@@ -30,7 +30,7 @@ _However, it wasn't until I did my homework that I truly realized their historic
 
 _With the final_ [_"FEELSGOODMAN" card_](https://rarepepe.chainsaw.fun) _added in 2021 by the creator of Pepe the Frog,_ [_Matt Furie_](https://twitter.com/Matt\_Furie?s=20\&t=tacVYUTNDnA-axLawM7XPg)_, the original collection has come to a close. Although there are ongoing developments like_ [_Fake Rares_](https://twitter.com/FAKERARES\_XCP)_, for the most part, I believe that it's time to educate everyone new to NFTs about the OG projects like Rare Pepes and_ [_Spells of Genesis_](https://twitter.com/SpellsofGenesis)_._
 
-![FEELSGOODMAN](<../../../.gitbook/assets/FEELSGOODMAN (1).png>)
+![FEELSGOODMAN](../../../.gitbook/assets/FEELSGOODMAN.png)
 
 (During October 2021 Matt Furie worked with NFT marketplace [chainsaw.fun](../chainsaw.fun) to introduce the FEELSGOODMAN Rare Pepe card (shown above). In recognition of the longstanding discrepancies between Bitcoin and Ethereum maximalists, the NFT’s team of creators released it on both the Bitcoin blockchain (via Xchain) and Ethereum).
 

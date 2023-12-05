@@ -29,7 +29,7 @@ The set begins with the [FAKEASF](https://pepe.wtf/asset/FAKEASF) community-crea
 
 
 
-![FAKEASF](<../../.gitbook/assets/FAKEASF (1) (1).gif>)
+![FAKEASF](<../../.gitbook/assets/fakerare-collab\_10 (1) (1).gif>)
 
 ## [FAKETORCH](https://pepe.wtf/asset/FAKETORCH) - Series 1, Card 2, 1/1
 
@@ -99,7 +99,7 @@ SuperTrip64 develops pure 64 Bit Visuals™ games, playable via his website [Sup
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.44.11 PM (1).png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/BOOTLEGGED">BOOTLEGGED</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.44.11 PM.png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/BOOTLEGGED">BOOTLEGGED</a></p></figcaption></figure>
 
  
 

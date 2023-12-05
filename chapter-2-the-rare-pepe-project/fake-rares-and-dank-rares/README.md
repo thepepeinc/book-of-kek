@@ -16,7 +16,7 @@ The [Fake Rare Pepe movement](https://fakeraredirectory.com/about/) started in S
 
 While born from a troll, Fake Rares is a love letter to Rare Pepes and a continuation of that legacy. By design, Fake Rares pay homage to Rare Pepes with the structure, the rules, and the way we approach the entire ecosystem. Though curated much like Rare Pepes, the Fake Rare directory is decentralized for the most part (at least where it counts, as there are no fees) and the mechanism for publication is based on a community-derived, deflationary asset. The unofficial official first Fake Rare, S1 C1, was [FAKEASF](https://pepe.wtf/asset/FAKEASF), which was created by the community and airdropped in batches of 20 to the first 100 people who joined the telegram group.&#x20;
 
-![FAKEASF](<../../.gitbook/assets/FAKEASF (1).gif>)
+![FAKEASF](../../.gitbook/assets/FAKEASF.gif)
 
 The “Fake Scientists” believe that Rare Pepes, and now Fake Rares, reflect the broader thesis and showcase the narrative of Bitcoin in a compelling way, highlighting sovereignty, provenance, immutability, and the trustless dissemination of information, beliefs, and culture.  Pepes are a conduit for the transmission of this narrative, and as they evolve, have begun to bridge the gap and expand beyond the intimate community, igniting the Summer of Pepe in 2022 with an all-stars [Series 8](https://fakeraredirectory.com/series-8/) [curated by Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough/status/1541599342590537729).
 

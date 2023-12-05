@@ -13,7 +13,7 @@ _**Work in progress**_ - if you would like to contribute your sub asset-specific
 
 ## Series 2, Card 32 - HOMERPEPE
 
-<figure><img src="../../.gitbook/assets/HOMERPEPE.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S02 C32 - HOMERPEPE.jpg" alt=""><figcaption></figcaption></figure>
 
 **Series 2, Card 32** - [HOMERPEPE](https://pepe.wtf/asset/HOMERPEPE) was created by the artist known as "[Boost](https://pepe.wtf/artists/Boost)" who created a total of 25 cards for the Rare Pepe Project. HOMERPEPE is a 1 of 1 token which was famously sold [at auction](https://www.youtube.com/watch?v=-JyR8AEqpYY) for 350,000 PEPECASH (approximately $39,000 USD) during the 2017 Rare Digital Art Festival in New York City. It was then [sold again](https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sells-for-205-eth) in early 2021 for 205 ETH (approximately $320,000 USD). It should be pointed out that these sales were for the 1 of 1 token called HOMERPEPE. The token registration was not included. The registration has changed hands several times over the past 6 years and in May 2019 the holder created a sub-asset called [HOMERPEPE.Sock](https://xchain.io/asset/HOMERPEPE.Sock) locked the issuance at 12. They auctioned a pair of physical socks to go along with the token at the Rare Digital Art Festival 2 which was again held in New York City. As of April 23, 2023 there are 5 holders of this sub-asset. One of them is Rare Pepe scientist [Bench](https://twitter.com/benchbtc).
 
@@ -21,11 +21,11 @@ _**Work in progress**_ - if you would like to contribute your sub asset-specific
 
 ## Series 11, Card 29 - CSAT
 
-<figure><img src="../../.gitbook/assets/S11 C29 - CSAT.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S11 C29 - CSAT (1).jpg" alt=""><figcaption></figcaption></figure>
 
 [**Seris 11, Card 29 - CSAT**](https://pepe.wtf/asset/CSAT) was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). In a [recent interview](https://www.youtube.com/watch?v=rRvC767N5oI), Boost stated that some of the text on the card was lifted from a graphics card box, and that he purposely misspelled a word just like the GPU box did. The word in question is "efficiency" which he spelled "effeciency."  To show the misspelling, Boost issued a sub-asset named [CSAT.cc0](https://xchain.io/asset/A18188137632490106252) and attached an image of the box. The sub-asset was distributed as a dividend for holders of the CSAT card. A total of 98,870 tokens were sent to 671 recipients on August 6, 2022. You can view the transaction [here](https://xchain.io/tx/2082427).&#x20;
 
-<figure><img src="../../.gitbook/assets/CSAT.cc0.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CSAT.cc0 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Series 20, Card 16 - VAPORMAGIC
 

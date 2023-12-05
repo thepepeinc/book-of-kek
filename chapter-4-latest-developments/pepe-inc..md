@@ -4,7 +4,7 @@ description: 'The Merge: PepePawnShop + Pepe.wtf = Pepe Inc.'
 
 # Pepe Inc.
 
-![Pepe.wtf and PepePawnShop Back Alley Merger](<../.gitbook/assets/FM9VTbeUcBAd2FS (1).jpg>)
+![Pepe.wtf and PepePawnShop Back Alley Merger](../.gitbook/assets/FM9VTbeUcBAd2FS.jpg)
 
 As of March 2022, [Pepe Inc.](https://twitter.com/PepeInc\_) has been birthed. [PepePawnShop](https://t.me/PepePawnShop) and [Pepe.wtf](https://pepe.wtf) have combined operations and merged teams with the aim of streamlining the discovery and buying experience across the entire Pepe ecosystem.
 
@@ -12,7 +12,7 @@ In the past months, the team has implementing a large amount of new features, su
 
 * adding support for Fake Rares and Dank Rares :white\_check\_mark:
 * adding automated [drops](https://pepe.wtf/drops) via pepe.wtf :white\_check\_mark:
-* conducting [artists & collectors interviews](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews.md) :white\_check\_mark:
+* conducting [artists & collectors interviews](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/artists-and-collectors-interviews/) :white\_check\_mark:
 * documenting [background information ](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/)on cards :white\_check\_mark:
 * integrating OTC trades and secondary markets, directly on-site :white\_check\_mark:
 * user profile and multiple wallet linking :white\_check\_mark:

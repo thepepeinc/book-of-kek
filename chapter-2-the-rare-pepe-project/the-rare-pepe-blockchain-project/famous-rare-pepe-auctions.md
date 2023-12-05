@@ -27,7 +27,7 @@ A [RAREPEPE](https://pepe.wtf/asset/RAREPEPE), 1 of 300 ever made, was scooped f
 
 However, the star of the show was definitely [HOMERPEPE](https://pepe.wtf/asset/HOMERPEPE), a 1 of 1 Rare Pepe card.
 
-![HOMERPEPE](<../../.gitbook/assets/S02 C32 - HOMERPEPE.jpg>) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1) (1) (1) (1) (1) (1).jpg>)
+![HOMERPEPE](../../.gitbook/assets/HOMERPEPE.jpg) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1).jpg>)
 
 The bidding started at 20,000 PEPECASH and quickly surpassed 100,000. The excitement rose and the bidding was down to two individuals.
 
@@ -55,7 +55,7 @@ Later next month, on 7th of October, Sotheby’s official Twitter account [annou
 
 3 of the 53 showcased NFTs were Rare Pepes, auctioned by TokenAngles, an Italian collector active in the space since 2019 and the owner of the famous HOMERPEPE.
 
-![PEPEAIR](../../.gitbook/assets/PEPEAIR.png) ![PEPENOPOLOUS](../../.gitbook/assets/PEPENOPOULOS.jpg) ![RAREPEPE](<../../.gitbook/assets/RAREPEPE (1) (1) (1) (1) (1) (1) (1).jpg>)
+![PEPEAIR](../../.gitbook/assets/PEPEAIR.png) ![PEPENOPOLOUS](../../.gitbook/assets/PEPENOPOULOS.jpg) ![RAREPEPE](../../.gitbook/assets/RAREPEPE.jpg)
 
 The 3 auctioned Pepes were: [RAREPEPE](https://pepe.wtf/asset/RAREPEPE) (the famous Nakamoto Card), [PEPENOPOLOUS](https://pepe.wtf/asset/PEPENOPOULOS) - a 1/1 Series 3 card and [PEPEAIR](https://pepe.wtf/asset/PEPEAIR) - a 1/100 Series 28 card. The auction lasted until the 26th of October.
 

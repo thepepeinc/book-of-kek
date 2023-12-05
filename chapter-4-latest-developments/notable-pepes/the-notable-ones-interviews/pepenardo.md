@@ -54,7 +54,7 @@ I still don’t have words for the results other than immense gratitude for the 
 
 FREEDOMWAR kicks memetic ass. I see it as a pairing to [FAKEGENESIS](https://pepe.wtf/asset/FAKEGENESIS) or [FIGHT4HOPE](https://www.niftygateway.com/itemdetail/primary/0x6f5fd7d600664b239877ebf5e2e7fa9aa0246b36/2).  I am really drawn to creating these symbols that advocate for the progressive nature of Bitcoin, Web3, and decentralization in art. The final result of this work was a digital painting I completed in Procreate. How I got there was different than my usual process – I shoved my previous fakes into an ai prompt and added some extra text-spice in order to make the reference image for the final painting. Sure, the use of ai stirred some disagreement with a few people but a little controversy never hurts. Artists are meant to test new mediums and maybe break a few things along the way.
 
-<figure><img src="../../../.gitbook/assets/FREEDOMWAR (1).png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FREEDOMWAR">FREEDOMWAR</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FREEDOMWAR.png" alt=""><figcaption><p><a href="https://pepe.wtf/asset/FREEDOMWAR">FREEDOMWAR</a></p></figcaption></figure>
 
 7. _**You’ve had tons of wins during your time here. As they say, Nardo doesn’t miss. But nobody swings 100%. Tell us about about an L you’ve taken on your journey.**_
 

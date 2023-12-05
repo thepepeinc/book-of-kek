@@ -40,7 +40,7 @@ To find a card you wish to purchase, a great resource is [Pepe.wtf](https://pepe
 
 Once you have located a card you wish to purchase, you will be linked to the asset page on Xchain. Below is an example of an asset page:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.19.40 PM (1) (1).png" alt="" width="563"><figcaption><p><a href="https://xchain.io/asset/FAKEINC">FAKEINC</a> asset page on xchain.io</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 6.19.40 PM (2).png" alt="" width="563"><figcaption><p><a href="https://xchain.io/asset/FAKEINC">FAKEINC</a> asset page on xchain.io</p></figcaption></figure>
 
 When you open an asset page, the default tab is ‘Information’. To see available dispensers, click on the ‘Dispensers’ tab. Below is an example of a Dispensers tab:
 

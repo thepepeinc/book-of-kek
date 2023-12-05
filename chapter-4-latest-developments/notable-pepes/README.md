@@ -24,7 +24,7 @@ Pepe Checks was an $6.9 open edition in the style of [Jack Butcher](https://twit
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/Pepe Checks - OE Tweet.jpeg" alt="" width="563"><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pepe Checks.jpeg" alt="" width="563"><figcaption><p><a href="https://twitter.com/Vince_Van_Dough/status/1621982296973758466">Pepe Check Open Edition</a></p></figcaption></figure>
 
  
 
