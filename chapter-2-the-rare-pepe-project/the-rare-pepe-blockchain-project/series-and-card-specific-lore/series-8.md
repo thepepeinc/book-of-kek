@@ -24,7 +24,7 @@ The [original woodblock print](https://ukiyo-e.org/image/mfa/sc168576) entitled 
 
 <figure><img src="../../../.gitbook/assets/S08 C45 - BERNIEPEPE.jpg" alt=""><figcaption></figcaption></figure>
 
-**Series 8, Card 45** - [BERNIEPEPE](https://pepe.wtf/asset/BERNIEPEPE) was created the artist known as [EverydayEarth](https://twitter.com/EverydayEarth) as a commission for RarePepeTrader, who is an OG in the Rare Pepe Telegram group and runs the WTH Auction House.
+**Series 8, Card 45** - [BERNIEPEPE](https://pepe.wtf/asset/BERNIEPEPE) was created by the artist known as [EverydayEarth](https://twitter.com/EverydayEarth) as a commission for RarePepeTrader, who is an OG in the Rare Pepe Telegram group and runs the WTH Auction House.
 
 The man pictured on the card is the American politician and activist [Bernie Sanders](https://en.wikipedia.org/wiki/Bernie\_Sanders). The text on the card is a parody of a talking point that Sanders used several times while campaigning to become the President of the United States including on [July 1, 2015 in Madison Wisconsin](https://www.politifact.com/factchecks/2015/jul/29/bernie-s/bernie-sanders-madison-claims-top-01-americans-hav/).&#x20;
 
