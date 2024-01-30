@@ -124,3 +124,5 @@
     * [CARSONATED](chapter-4-latest-developments/notable-pepes/the-notable-ones-interviews/carsonated.md)
 * [PegzDAO, Chain/Saw & RarePepe.fun](chapter-4-latest-developments/pegzdao-chain-saw-and-rarepepe.fun.md)
 * [Rare Apepes](chapter-4-latest-developments/rare-apepes.md)
+* [Pepes in Paris 2023](chapter-4-latest-developments/pepes-in-paris-2023/README.md)
+  * [Fest Rares](chapter-4-latest-developments/pepes-in-paris-2023/fest-rares.md)
