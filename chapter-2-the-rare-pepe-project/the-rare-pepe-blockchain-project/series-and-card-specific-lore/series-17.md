@@ -26,4 +26,21 @@ The image on the card is a man dressed up as the character [Gachapin](https://en
 
 **Series 17 Card 39 -** [**FIGHTPEPE**](https://pepe.wtf/asset/FIGHTPEPE) was created by the artist known as 0jak. It is a mash-up of the video game "[Street Fighter](https://streetfighter.fandom.com/wiki/Street\_Fighter\_Wiki)" and and the cutest martial arts fight ever captured on film:smile:. The original "fight" video can be viewed below.
 
-{% embed url="https://youtu.be/eDu4MOA2zQg" %}
+{% embed url="https://youtu.be/IQIgy6-PS0A?si=y5y46THYlEFd73TC" %}
+
+## Series 17, Card 44 - GNUPEPE
+
+<figure><img src="../../../.gitbook/assets/S17 C44 - GNUPEPE copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 17, Card 44 -** [**GNUPEPE**](https://pepe.wtf/asset/GNUPEPE) was created by an [unknown artist](https://pepe.wtf/artists/12EExgjjzgnxuwidp9VbaTDQR4ttiyAzp6). It was the only card he or she contributed to the Rare Pepe Directory. The card is a religious caricature of [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard\_Stallman), an American free software movement activist and programmer. Stallman launched the [GNU Project](https://en.wikipedia.org/wiki/GNU\_Project),  developed the [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU\_Compiler\_Collection) and wrote all versions of the [GNU General Public License](https://en.wikipedia.org/wiki/GNU\_General\_Public\_License).&#x20;
+
+The image makes reference to the fact that Stallman sees himself as a self-proclaimed "[Saint in the Church of Emacs](https://stallman.org/saint.html)"&#x20;
+
+<figure><img src="../../../.gitbook/assets/saintignucius.jpg" alt=""><figcaption><p>Photo by Wouter van Oortmerssen</p></figcaption></figure>
+
+
+
+{% embed url="https://youtu.be/9sJUDx7iEJw?si=1GZOBAHGcQbUMVF7" %}
+A live performance of Stallman's "[Free Software Song](https://en.wikipedia.org/wiki/Free\_Software\_Song)"
+{% endembed %}
+

@@ -6,6 +6,16 @@ description: >-
 
 # Series 7
 
+## Series 7 Card 1 - PEPEADDICT
+
+<figure><img src="../../../.gitbook/assets/S07 C01 - PEPEADDICT source.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 7, Card 1** - [PEPEADDICT](https://pepe.wtf/asset/PEPEADDICT) was created by an [unknown artist](https://pepe.wtf/artists/1NnjxASDJc32UHy6ktPt1MwSJMpoGSUorG). They created a total of 7 cards for the Rare Pepe Project.  The image on the card is a still image of [Dave Chappelle](https://en.wikipedia.org/wiki/Dave\_Chappelle) from the skit entitled "Tyrone Biggums' Classroom Visit" from the [Comedy Central](https://en.wikipedia.org/wiki/Comedy\_Central) show, "[Chappelle's Show](https://en.wikipedia.org/wiki/Chappelle's\_Show)." The full clip can be viewed below.&#x20;
+
+
+
+{% embed url="https://youtu.be/4eHMgXlugIU" %}
+
 ## Series 7 Card 23 - COMEDYPEPE
 
 ![](<../../../.gitbook/assets/S07 C23 - COMEDYPEPE card and orig.jpg>)
