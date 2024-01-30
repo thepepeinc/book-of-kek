@@ -79,6 +79,8 @@
 
 * [Dank Rares](dank-rares/README.md)
   * [Dank Rares Submission Rules](dank-rares/dank-rares-submission-rules.md)
+* [Historical Counterparty Projects](historical-counterparty-projects/README.md)
+  * [Penisium Project](historical-counterparty-projects/penisium-project.md)
 
 ## Chapter 3 - Blockchain, Counterparty, How to
 
