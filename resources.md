@@ -26,12 +26,15 @@ description: >-
 ## Marketplaces
 
 * [Pepe.wtf](https://pepe.wtf/)
+* [Scarce City](https://scarce.city/)
 * [Notable Pepes](https://opensea.io/collection/notablepepes)
 * [Rare Pepe Wallet](https://rarepepewallet.com/)
 * [Fake Rare Wallet](https://fakerarewallet.com/)
-* [Emblem Vault on OpenSea](https://opensea.io/collection/rare-pepe-curated)
+* [Emblem Vault](https://opensea.io/collection/rare-pepe-curated)
 * [Counterparty Dispensers on XChain](https://xchain.io/dispensers)
-* [Scarce City](https://scarce.city/)
+* [Rare Pepes on Magic Eden](https://magiceden.io/collections/ethereum/0x7e6027a6a84fc1f6db6782c523efe62c923e46ff)
+* [Fake Rares on Magic Eden](https://magiceden.io/collections/ethereum/0x4c03bcad293fb0562d26faa7d90a0cb3ea74c919)
+* [Notable Pepes on Magic Eden](https://magiceden.io/collections/ethereum/0xe70659b717112ac4e14284d0db2f5d5703df8e43)
 
 ## Wallets
 
