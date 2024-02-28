@@ -53,6 +53,7 @@ Here are some of the most prolific _(in alphabetical order)_:
 * [**Mr Hodlpig**](https://pepe.wtf/artists/Mr.-HODLPIG)
 * [**Ness Graphics**](https://pepe.wtf/artists/NessGraphics)
 * [**Other World**](https://pepe.wtf/artists/Other-World)
+* [**Pablo Ricasso**](https://pepe.wtf/artists/PabloRicaSSo/fake-rares)
 * [**Pepenardo**](https://pepe.wtf/artists/Pepenardo)
 * [**Dr Greedy**](https://pepe.wtf/artists/Dr.-Greedy)
 * [**Raf Grassetti**](https://pepe.wtf/artists/Raf-Grassetti)
