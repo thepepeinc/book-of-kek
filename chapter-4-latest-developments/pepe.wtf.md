@@ -29,9 +29,7 @@ Users can have a view of all the necessary data about Rares, Fakes or Danks from
 **Activity tabs** on [pepe.wtf](https://pepe.wtf) allow users to have a broader market overview. They show monthly total sales, volume and asset count, as well as a chronological list of sales that are happening on the market starting from the latest. Activity tabs are supported for [Rares](https://pepe.wtf/activity), [Fakes](https://pepe.wtf/new/activity/Fake-Rares) and [Danks](https://pepe.wtf/new/activity/Dank-Rares).
 
 {% hint style="info" %}
-
-
-&#x20;of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
+As of April 2022, Pepe.wtf added support for Fake Rares and Dank Rare Pepes, becoming the first platform to support the full repertoire of Pepes.
 {% endhint %}
 
 ### Introducing: [**Drops**](https://pepe.wtf/drops)
