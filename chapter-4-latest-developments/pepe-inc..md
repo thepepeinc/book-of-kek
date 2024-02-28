@@ -30,7 +30,7 @@ In the past months, the team has implementing a large amount of new features, su
 * [@LordJamieVShill](https://twitter.com/LordJamieVShiLL)
 * [@Pepitovankekito](https://twitter.com/pepitovankekito)
 * [@PabloRicasso](https://twitter.com/PabloRicasso)&#x20;
-* [@Pepeguykek](https://twitter.com/pepeguykek)
+* [@thedrsuss](https://twitter.com/thedrsuss)
 * [@Jujimufu69](https://twitter.com/jujimufu69)
 * [@jlsoul1](https://twitter.com/jlsoul1)
 * [@GeorgiaOEth](https://twitter.com/GeorgiaOEth)&#x20;
