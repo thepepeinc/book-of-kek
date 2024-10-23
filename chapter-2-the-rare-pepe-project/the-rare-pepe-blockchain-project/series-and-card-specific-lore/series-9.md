@@ -14,6 +14,12 @@ Series 9, Card 1 - [SNOWDENPEPE](https://pepe.wtf/asset/SNOWDENPEPE) was created
 
 The person pictured on the card is [Edward Snowden](https://en.wikipedia.org/wiki/Edward\_Snowden), the computer intelligence consultant who leaked highly classified information from the [National Security Agency](https://en.wikipedia.org/wiki/National\_Security\_Agency) (NSA)  in 2013. Also pictured is a [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik's\_Cube). One interesting fact about this card is it's supply number - 40,320. RPT recently wrote in the official Telegram chat room that he chose that number because the total number of ways the positions of the 8 corner pieces of a Rubik's Cube can be arranged is 40,320.
 
+## Series 9, Card 3 - STEALPEPE
+
+<figure><img src="../../../.gitbook/assets/S09 C03 - STEALPEPE copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 9, Card 3 -** [**STEALPEPE**](https://pepe.wtf/asset/STEALPEPE) was created by [Raf Vantongerloo](https://x.com/RafVantongerloo). The card is a parody of the 1971 book titled, "[Steal This Book](https://en.wikipedia.org/wiki/Steal\_This\_Book)" which was written by [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie\_Hoffman) (born Abbot Howard Hoffman), an American political and social activist. The book which focused on the [counterculture of the 1960's](https://en.wikipedia.org/wiki/Counterculture\_of\_the\_1960s) in America sold more than a quarter of a million copies in the first 7 months of release.&#x20;
+
 ## Series 9, Card 4 - THEPEPE
 
 <figure><img src="../../../.gitbook/assets/S09 C04 - THEPEPE card and source.jpg" alt=""><figcaption></figcaption></figure>
@@ -34,9 +40,17 @@ The [original image](https://ukiyo-e.org/image/waseda/006-5705) is by the artist
 
 ![RUBBERPEPE and two screen captures from the 5 min. video](<../../../.gitbook/assets/S09 C06 - card and source.jpg>)
 
-**Series 9, Card 6 -** [**RUBBERPEPE**](https://pepe.wtf/asset/RUBBERPEPE) was created by an unknown artist. The artist also created the cards [THEANCAPEPE](https://pepe.wtf/asset/THEANCAPEPE), [STEALPEPE](https://pepe.wtf/asset/STEALPEPE), [PPKING](https://pepe.wtf/asset/PPKING), [PREPEDATOR](https://pepe.wtf/asset/PREPEDATOR), and [SCORPEPE](https://pepe.wtf/asset/SCORPEPE). The card appears to be a hand drawn interpretation of the character Johnny played by [Chris Cunningham](https://en.wikipedia.org/wiki/Chris\_Cunningham) in the 2005 British experimental short film/music video [Rubber Johnny](https://youtu.be/eRvfxWRi6qQ) which was written, directed, and produced by Cunningham as well. In the opening scene, an off screen voice can be heard saying "do you want mama to come in?", which causes Johnny to throw a fit for which he is then given a sedative to calm him down. The rest of the video is just Johnny maneuvering his wheel chair while the [Aphex Twin](https://en.wikipedia.org/wiki/Aphex\_Twin) track "Afx237 v. 7" from the album [_Drukqs_](https://en.wikipedia.org/wiki/Drukqs) plays in the background. That is the band's logo in the top right corner of the card.&#x20;
+**Series 9, Card 6 -** [**RUBBERPEPE**](https://pepe.wtf/asset/RUBBERPEPE) was created by [Raf Vantongerloo](https://x.com/RafVantongerloo). Also created by Raf are  [THEANCAPEPE](https://pepe.wtf/asset/THEANCAPEPE), [STEALPEPE](https://pepe.wtf/asset/STEALPEPE), [PPKING](https://pepe.wtf/asset/PPKING), [PREPEDATOR](https://pepe.wtf/asset/PREPEDATOR), and [SCORPEPE](https://pepe.wtf/asset/SCORPEPE). The card appears to be a hand drawn interpretation of the character Johnny played by [Chris Cunningham](https://en.wikipedia.org/wiki/Chris\_Cunningham) in the 2005 British experimental short film/music video [Rubber Johnny](https://youtu.be/eRvfxWRi6qQ) which was written, directed, and produced by Cunningham as well. In the opening scene, an off screen voice can be heard saying "do you want mama to come in?" which causes Johnny to throw a fit for which he is given a sedative to calm down. The rest of the video is just Johnny maneuvering his wheel chair while the [Aphex Twin](https://en.wikipedia.org/wiki/Aphex\_Twin) track "Afx237 v. 7" from the album [_Drukqs_](https://en.wikipedia.org/wiki/Drukqs) plays in the background. That is the band's logo in the top right corner of the card. Also included on the card is a hand drawn Chihuahua Dog to match the real Chihuahua in the  film.&#x20;
 
 ![The Band's Twitter account](<../../../.gitbook/assets/S09 C06 - RUBBERPEPE 3 of 2.png>)
+
+## Series 9, Card 10 - PPKING
+
+<figure><img src="../../../.gitbook/assets/S09 C10 - PPKING copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 9, Card 10 -** [**PPKING**](https://pepe.wtf/asset/PPKING) was created by [Raf Vantongerloo](https://x.com/RafVantongerloo). The guitarist on the card is none other than blues great [B.B. King](https://en.wikipedia.org/wiki/B.\_B.\_King) (pepefied of course). The original photo was taken at a jazz festival in Prague in 1990 and is attributed to [Reuters](https://pictures.reuters.com/).&#x20;
+
+
 
 ## Series 9, Card 16 - PEPEOROCHI
 
@@ -45,6 +59,14 @@ The [original image](https://ukiyo-e.org/image/waseda/006-5705) is by the artist
 **Series 9, Card 16** - [PEPEOROCHI](https://pepe.wtf/asset/PEPEOROCHI) was created by an [unknown artist](https://pepe.wtf/artists/1AKEuLtnq73BNQjHxU2BVoV4NQSEDDUATj). The [original image](https://www.fujiarts.com/cgi-bin/item.pl?item=680950) is by the artist [Utagawa Kunisada](https://en.wikipedia.org/wiki/Kunisada) and is titled Battling the Wicked Magician Orochimaru which was completed in 1855. The full print is a three panel piece which depicts two magicians battling each other. It depicts the wicked Orochimaru, who is the son of the Giant Snake, conjuring up an enormous serpent to help him.
 
 <figure><img src="../../../.gitbook/assets/S09 C16 - PEPEOROCHI.jpg" alt=""><figcaption><p>Battling the Wicked Magician Orochimaru, 1855</p></figcaption></figure>
+
+## Series 9, Card 22 - SCORPEPE
+
+<figure><img src="../../../.gitbook/assets/S09 C22 - SCORPEPE copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 9, Card 22 -** [**SCORPEPE**](https://pepe.wtf/asset/SCORPEPE) was created by [Raf Vantongerloo](https://x.com/RafVantongerloo). The image is a pepefied [Scorpion](https://en.wikipedia.org/wiki/Scorpion\_\(Mortal\_Kombat\)) (from the video game series Mortal Kombat). Specifically, it appears to be a hand-drawn rendition of Scorpion from the 2011 series reboot titled [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal\_Kombat\_\(2011\_video\_game\)) (also known as Mortal Kombat 9 (MK9)). The interesting thing about this hand-made drawing though is that Raf ran it through a mobile photo-editing application that uses [neural networks](https://en.wikipedia.org/wiki/Neural\_network) and [artificial intelligence](https://en.wikipedia.org/wiki/Artificial\_intelligence) to apply artistic effects. The fact that this was done in 2016 makes it one of the earliest examples of AI-enhanced art on any blockchain. There are now sites and Discord groups dedicated specifically to locating and documenting these early uses of AI in digital art. The application used for this card is called [Prisma](https://en.wikipedia.org/wiki/Prisma\_\(app\)) which was launched on iOS in June 2016 in Russia. In the first week of release the app was downloaded over 7.5 million times. It was later released on Android. &#x20;
+
+To view all Rare Pepe cards that have been identified as having some sort of AI manipulation done to them, visit the collection page on [pepe.wtf](https://pepe.wtf/sets/AI).
 
 ## Series 9, Card 41 - UKIPEPE
 

@@ -8,6 +8,12 @@
 
 {% embed url="https://youtu.be/0E00Zuayv9Q" %}
 
+## Series 6, Card 14 - THEANCAPEPE
+
+<figure><img src="../../../.gitbook/assets/S06 C14 - THEANCAPEPE copy.jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 6, Card 14 -** [**THEANCAPEPE**](https://pepe.wtf/asset/THEANCAPEPE) was created by [Raf Vantongerloo](https://x.com/RafVantongerloo). The subject of the card is [Anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism) or ANCAP for short. It pictures Pepe the frog in the official colors of the movement - black ([anarchism](https://en.wikipedia.org/wiki/Anarchism)) and gold ([capitalism](https://en.wikipedia.org/wiki/Capitalism)). The background appears to be a [graffiti](https://en.wikipedia.org/wiki/Graffiti) painted wall with a version of the ANCAP logo. Those that believe in the philosophy of Anarcho-capitalism are in favor of stateless societies, free markets, and self-ownership.
+
 ## Series 6, Card 16 - DAPPERPEPE
 
 <figure><img src="../../../.gitbook/assets/S06 C16 - DAPPERPEPE source and card.jpg" alt=""><figcaption></figcaption></figure>
