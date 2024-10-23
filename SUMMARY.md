@@ -28,6 +28,8 @@
   * [Rare Pepe Valuation](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/rare-pepe-valuation.md)
   * [Rare Pepe Scientists](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/rare-pepe-scientists.md)
   * [Most Famous Rare Pepe Artists](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/most-famous-rare-pepe-artists.md)
+  * [Unique Rare Pepe Sets](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/unique-rare-pepe-sets.md)
+  * [Famous Rare Pepe Cards](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/famous-rare-pepe-cards.md)
   * [Series & Card Specific Lore](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/README.md)
     * [Series 1](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-1.md)
     * [Series 2](chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-2.md)

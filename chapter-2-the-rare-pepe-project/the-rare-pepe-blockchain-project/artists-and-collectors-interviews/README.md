@@ -23,7 +23,11 @@ description: >-
 
 {% embed url="https://youtu.be/mgFFUY4KsU8" %}
 
-* [Creator of the Rare Pepe Wallet & A Rare Pepe Scientist | Joe Looney & Shawn Leary](https://www.youtube.com/watch?v=A1y4CDOtvos\&t=1635s):&#x20;
+* [Fellow Rare Pepe artist Juan Galt interviews Rare Scrilla about the world famous DJ Pepe](https://www.youtube.com/live/8xrFnbTv9wEd)
+
+{% embed url="https://www.youtube.com/live/8xrFnbTv9wEd" %}
+
+* [Creator of the Rare Pepe Wallet & A Rare Pepe Scientist | Joe Looney & Shawn Leary: ](https://youtu.be/A1y4CDOtvos)
 
 {% embed url="https://youtu.be/A1y4CDOtvos" %}
 
