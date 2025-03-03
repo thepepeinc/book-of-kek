@@ -16,7 +16,7 @@ You can find the official Dank Directory Submission Rules [here](http://www.dank
 8. No websites, no QR codes on the card unless permission granted by dank admin @boost.
 9. Do not distribute your meme before being added to the directory.
 
-**100,000 DANKMEMECASH or 1420 PEPECASH **_**AFTER APPROVAL**_** needs to be destroyed or sent to either one of the below addresses;**&#x20;
+**100,000 DANKMEMECASH or 1420 PEPECASH&#x20;**_**AFTER APPROVAL**_**&#x20;needs to be destroyed or sent to either one of the below addresses;**&#x20;
 
 1BurnDaNK476q5h7vtf3BTdqKpKu65SKbe
 

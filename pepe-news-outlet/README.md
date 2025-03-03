@@ -47,7 +47,7 @@ Series 1 drops of [Notable Pepes](../chapter-4-latest-developments/notable-pepes
 
 <figure><img src="../.gitbook/assets/Green Check.jpeg" alt="" width="323"><figcaption><p>S1 C50 - <a href="https://pepe.wtf/asset/Green-Check">Green Checks</a> by Jack Butcher</p></figcaption></figure>
 
-As [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) first announced on [February 12th](./#vincentvandough-announces-notable-pepes):
+As [VincentVanDough](https://twitter.com/Vince_Van_Dough) first announced on [February 12th](./#vincentvandough-announces-notable-pepes):
 
 "_After 6 years of being molded in the depths of Counterparty, Pepes are coming to Ethereum._
 
@@ -67,7 +67,7 @@ Series 2 of Notable Pepes [kicked off](https://twitter.com/NotablePepes/status/1
 
 ## Pepe returns to NYC: Frogs Over Fiat 2023
 
-April 9th, 2023: [source](https://twitter.com/FAKERARES\_XCP/status/1645096013496045569)
+April 9th, 2023: [source](https://twitter.com/FAKERARES_XCP/status/1645096013496045569)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -77,25 +77,13 @@ The annual Pepe event **Frogs Over Fiat**, organized by the [Pepe Inc](../chapte
 
 During 4 days, Pepe aficionados, artists, and collectors came together once again to exhibit and collect Notable and Fake **physical** artworks.
 
-36 Fake Rare artworks were available via Scarce City's [auction](https://scarce.city/collections/frogs-over-fiat-23) alone, with the [highest bid](https://twitter.com/Jman\_\_12/status/1646661244877766656?s=20) going to the physical [FAKESCIENCE](https://pepe.wtf/asset/FAKESCIENCE) by [Pepenardo](https://pepe.wtf/artists/Pepenardo) at 4.025 BTC ($122,064).
+36 Fake Rare artworks were available via Scarce City's [auction](https://scarce.city/collections/frogs-over-fiat-23) alone, with the [highest bid](https://twitter.com/Jman__12/status/1646661244877766656?s=20) going to the physical [FAKESCIENCE](https://pepe.wtf/asset/FAKESCIENCE) by [Pepenardo](https://pepe.wtf/artists/Pepenardo) at 4.025 BTC ($122,064).
 
 {% embed url="https://twitter.com/FAKERARES_XCP/status/1646209534522802204" %}
 
 More legends such as Rare Scrilla, BasqKek, Jules, Chrome Void, Darky, Nikolina Petolas, Ciobo, Naples, Dr $uss, and more exhibited physical artworks and interactive installations at the event.
 
-<div>
-
-<figure><img src="../.gitbook/assets/FAKEDOC.jpeg" alt="" width="243"><figcaption><p><a href="https://pepe.wtf/asset/FAKEDOC">FAKEDOC</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/GROCERYPEPE.jpeg" alt="" width="245"><figcaption><p><a href="https://pepe.wtf/asset/GROCERYPEPE">GROCERYPEPE</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/LEGOMOTO.jpeg" alt="" width="267"><figcaption><p><a href="https://pepe.wtf/asset/LEGOMOTO">LEGOMOTO</a></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/FAKEDOC.jpeg" alt="" width="243"><figcaption><p><a href="https://pepe.wtf/asset/FAKEDOC">FAKEDOC</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/GROCERYPEPE.jpeg" alt="" width="245"><figcaption><p><a href="https://pepe.wtf/asset/GROCERYPEPE">GROCERYPEPE</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/LEGOMOTO.jpeg" alt="" width="267"><figcaption><p><a href="https://pepe.wtf/asset/LEGOMOTO">LEGOMOTO</a></p></figcaption></figure></div>
 
 {% embed url="https://twitter.com/nicedayJules/status/1645148347312013313" %}
 
@@ -105,25 +93,13 @@ More legends such as Rare Scrilla, BasqKek, Jules, Chrome Void, Darky, Nikolina 
 
 ## VincentVanDough announces [Notable Pepes](../chapter-4-latest-developments/notable-pepes/)
 
-February 12th, 2023 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1624889005593485312)
+February 12th, 2023 ; [source](https://twitter.com/Vince_Van_Dough/status/1624889005593485312)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks). The edition was minted 237869 times, making it one of the most minted editions of its time. The artwork immediately inspired a large amount of derivatives, flooding Twitter and setting the perfect playground for speculation as to its future "utility"...
+On February 4th, 2023, notable collector and artist [VincentVanDough](https://twitter.com/Vince_Van_Dough) released his first open edition: [Pepe Checks](https://app.manifold.xyz/c/pepechecks). The edition was minted 237869 times, making it one of the most minted editions of its time. The artwork immediately inspired a large amount of derivatives, flooding Twitter and setting the perfect playground for speculation as to its future "utility"...
 
-<div>
-
-<figure><img src="../.gitbook/assets/VVD Open Edition.png" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption><p>Pepe Checks Manifold</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p>Beeple Derivative</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/VVD Open Edition.png" alt=""><figcaption><p>VVD Open Edition</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.48.55 PM.png" alt=""><figcaption><p>Pepe Checks Manifold</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-02-14 at 7.38.12 PM.png" alt=""><figcaption><p>Beeple Derivative</p></figcaption></figure></div>
 
 On February 12th, 2023, VincentVanDough announced [Notable Pepes](https://twitter.com/notablepepes), a new collection of Pepe cards coming to **Ethereum**:
 
@@ -145,7 +121,7 @@ _To learn more about Notable Pepes, join our Telegram and follow our Twitter. A 
 
 ## Pepe.wtf presents the 3rd Community Rewards card: GREENMEDAL
 
-December 10th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1601669696184459265)
+December 10th, 2022 ; [source](https://twitter.com/pepe__wtf/status/1601669696184459265)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -153,15 +129,7 @@ Pepe.wtf announces the 3rd [Community Rewards](https://pepe.wtf/collection/commu
 
 Card is available to those who have purchased cards in the [@PepePawnShop](https://twitter.com/PepePawnShop). Available for the first 250 to claim it!
 
-<div>
-
-<figure><img src="../.gitbook/assets/GREENMEDAL.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/GREENMEDAL">GREENMEDAL</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-15 at 11.51.45 AM.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/GREENMEDAL.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/GREENMEDAL">GREENMEDAL</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-02-15 at 11.51.45 AM.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Joe Looney announces rpw.wtf & hardware wallet support for RPW
 
@@ -175,29 +143,13 @@ RPW creator Joe Looney announced the next step in the evolution of RarePepeWalle
 
 While [rarepepewallet.com](https://t.co/tVuoQN0wm5) will remain mostly unchanged as an homage to the early days of crypto art, [rpw.wtf](https://t.co/tbPCY7pZLu) is a new platform for collectors to manage their collections of Rare Pepes, Fake Rares, Fake Commons and Dank Rares.
 
-<div>
-
-<figure><img src="../.gitbook/assets/RPW Hardware Support.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/RPW WTF.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/RPW Hardware Support.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/RPW WTF.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 [Rpw.wtf](https://t.co/uT5yNdQKZG) is built on a modern framework and optimized for use on both desktop and mobile. You can even use it on Android with a hardware wallet!
 
-Over the next weeks and months, Joe Looney will be working with [@al\_fernandz](https://twitter.com/al\_fernandz) to build a synergy between rpw.wtf and pepe.wtf, to create a one stop shop for creating and collecting in the Pepe ecosystem. Currently, you can sign into your pepe.wtf profile directly from rpw (more to come...)
+Over the next weeks and months, Joe Looney will be working with [@al\_fernandz](https://twitter.com/al_fernandz) to build a synergy between rpw.wtf and pepe.wtf, to create a one stop shop for creating and collecting in the Pepe ecosystem. Currently, you can sign into your pepe.wtf profile directly from rpw (more to come...)
 
-<div>
-
-<figure><img src="../.gitbook/assets/RPW  Pepe.wtf.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/RPW Hardware Support (2).jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/RPW  Pepe.wtf.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/RPW Hardware Support (2).jpeg" alt=""><figcaption></figcaption></figure></div>
 
 As with development on the original RarePepeWallet, Joe remains open to any and all feedback from users!
 
@@ -209,19 +161,11 @@ November 29th, 2022 ; [source](https://twitter.com/PabloRicasso/status/159766554
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-FAKE RARES INVADE MIAMI, AGAIN! We are coming to dominate the art world Dec 2-4... Since the beginning of [@FAKERARES\_XCP](https://twitter.com/FAKERARES\_XCP) a lil over a year ago, we have had galleries and showings in Zurich, Swiss Basel, Miami, NYC, Milan, Barcelona, London and more in that short time... selling hundreds of physical Pepes!
+FAKE RARES INVADE MIAMI, AGAIN! We are coming to dominate the art world Dec 2-4... Since the beginning of [@FAKERARES\_XCP](https://twitter.com/FAKERARES_XCP) a lil over a year ago, we have had galleries and showings in Zurich, Swiss Basel, Miami, NYC, Milan, Barcelona, London and more in that short time... selling hundreds of physical Pepes!
 
 This year we have some very fake events lined up at 3400 NW 7th Ave. We are open to the public from 11AM - 9PM, Dec 2-4... No RSVPs are required. Come as you are!
 
-<div>
-
-<figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22 Schedule.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/FAKE BASEL MIAMI 22 Schedule.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 The biggest event - the [auction](https://twitter.com/scarcedotcity/status/1594024335274131461) with [@scarcedotcity](https://twitter.com/scarcedotcity) is happening all weekend!
 
@@ -229,7 +173,7 @@ The biggest event - the [auction](https://twitter.com/scarcedotcity/status/15940
 
 ## Pepe.wtf turns 1 Year Old! 🎉
 
-November 19th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1594004170981482496)
+November 19th, 2022 ; [source](https://twitter.com/pepe__wtf/status/1594004170981482496)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -241,33 +185,17 @@ We wanted to thank all those who have contributed to this space bringing art, fu
 
 We are very happy and honored to present the second [Community Rewards](https://pepe.wtf/collection/community-rewards) card made by one of the most loved members of this space: [@robotlovecoffee](https://twitter.com/robotlovecoffee)! Give a warm welcome to [LAYERSOFLIFE](https://pepe.wtf/asset/LAYERSOFLIFE)
 
-<div>
-
-<figure><img src="../.gitbook/assets/LAYERSOFLIFE.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/LAYERSOFLIFE">LAYERSOFLIFE</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Community Rewards.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/LAYERSOFLIFE.jpg" alt=""><figcaption><p><a href="https://pepe.wtf/asset/LAYERSOFLIFE">LAYERSOFLIFE</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/Community Rewards.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pepe.wtf introduces new improved UI for collectors & artists
 
-November 6th, 2022 ; [source](https://twitter.com/pepe\_\_wtf/status/1589438437848862726)
+November 6th, 2022 ; [source](https://twitter.com/pepe__wtf/status/1589438437848862726)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-[Pepe.wtf](https://pepe.wtf) announced [new on-site features](https://twitter.com/pepe\_\_wtf/status/1589438437848862726) to improve the platform as a tool for collecting rare, fake and dank cards, gathering everything that can be useful for collectors and artists. Introducing new collector profiles and web3 connectivity:&#x20;
+[Pepe.wtf](https://pepe.wtf) announced [new on-site features](https://twitter.com/pepe__wtf/status/1589438437848862726) to improve the platform as a tool for collecting rare, fake and dank cards, gathering everything that can be useful for collectors and artists. Introducing new collector profiles and web3 connectivity:&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/Connect Wallet.jpeg" alt=""><figcaption><p>Connect your wallet</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Profile Page.jpeg" alt=""><figcaption><p>Collector Profile</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Connect Wallet.jpeg" alt=""><figcaption><p>Connect your wallet</p></figcaption></figure> <figure><img src="../.gitbook/assets/Profile Page.jpeg" alt=""><figcaption><p>Collector Profile</p></figcaption></figure></div>
 
 Users are now able to:
 
@@ -275,55 +203,23 @@ Users are now able to:
 
 2\. Add multiple addresses to view as a unique collection to find missing cards
 
-<div>
-
-<figure><img src="../.gitbook/assets/Wishlist.jpeg" alt=""><figcaption><p>Wishlist &#x26; Activity</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Multiple addresses.jpeg" alt=""><figcaption><p>Multiple Addresses</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Wishlist.jpeg" alt=""><figcaption><p>Wishlist &#x26; Activity</p></figcaption></figure> <figure><img src="../.gitbook/assets/Multiple addresses.jpeg" alt=""><figcaption><p>Multiple Addresses</p></figcaption></figure></div>
 
 3\. Find collectors, artists, and cards easily
 
 4\. Artist pages now have a summary of an artist's card activity
 
-<div>
-
-<figure><img src="../.gitbook/assets/Search Option.png" alt=""><figcaption><p>New Search Function</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Artist Page Activity.jpeg" alt=""><figcaption><p>Artist Cards Activity</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Search Option.png" alt=""><figcaption><p>New Search Function</p></figcaption></figure> <figure><img src="../.gitbook/assets/Artist Page Activity.jpeg" alt=""><figcaption><p>Artist Cards Activity</p></figcaption></figure></div>
 
 5\. Now it is possible to find missing cards in a fren's collection, or to know which ones your fren is missing from yours
 
 6\. Find trades from other collectors more easily via the [the-counterparty-dex.md](../chapter-3-blockchain-counterparty-how-to/counterparty-what-is-it/the-counterparty-dex.md "mention").
 
-<div>
-
-<figure><img src="../.gitbook/assets/Missing cards.png" alt=""><figcaption><p>Show Missing Cards</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Trades.jpeg" alt=""><figcaption><p>DEX Trades</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Missing cards.png" alt=""><figcaption><p>Show Missing Cards</p></figcaption></figure> <figure><img src="../.gitbook/assets/Trades.jpeg" alt=""><figcaption><p>DEX Trades</p></figcaption></figure></div>
 
 7\. The Drops page UX has also been improved, including new features to save your Payment & Delivery addresses for faster checkout, view your Purchase History, and a brand new "[How To Purchase](https://youtu.be/pjPzmjCc480)" video tutorial for newcomers:
 
-<div>
-
-<figure><img src="../.gitbook/assets/Drops Improvements.jpeg" alt=""><figcaption><p>Save Payment &#x26; Delivery Addresses</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Drops Improvements 2.jpeg" alt=""><figcaption><p>Purchase History</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Drops Improvements.jpeg" alt=""><figcaption><p>Save Payment &#x26; Delivery Addresses</p></figcaption></figure> <figure><img src="../.gitbook/assets/Drops Improvements 2.jpeg" alt=""><figcaption><p>Purchase History</p></figcaption></figure></div>
 
 {% embed url="https://youtu.be/pjPzmjCc480" %}
 
@@ -337,29 +233,13 @@ October 12th, 2022 ; [source](https://twitter.com/fabooowy/status/15780712969063
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-The CryptoArt exhibition [DYOR](https://twitter.com/DYOR\_CryptoArt) will take place at [Kunsthalle Zürich](https://twitter.com/KunsthalleZH) from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
+The CryptoArt exhibition [DYOR](https://twitter.com/DYOR_CryptoArt) will take place at [Kunsthalle Zürich](https://twitter.com/KunsthalleZH) from October 2022 to January 2023, with various Fake Rares and other Pepe art on display.
 
 <figure><img src="../.gitbook/assets/DYOR lineup.jpeg" alt=""><figcaption><p><a href="https://twitter.com/FAKERARES_XCP/status/1573801701106221056">DYOR Lineup</a></p></figcaption></figure>
 
-<div>
+<div><figure><img src="../.gitbook/assets/DYOR Exhibit 2.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/DYOR Exhibit 3.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/DYOR Exhibit 2.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/DYOR Exhibit 3.jpeg" alt=""><figcaption><p><a href="https://twitter.com/EmblematiXart/status/1578804423878316032?s=20&#x26;t=YbiWqhVVobjw02xtBikktw">@EmblematiXart</a></p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/DYOR Exhibit 4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/DYOR Exhibit 4.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/DYOR Exhibit.jpeg" alt=""><figcaption><p><a href="https://twitter.com/fabooowy/status/1578071296906346502">@fabooowy</a></p></figcaption></figure></div>
 
 ## Fake Rares in Tokyo
 
@@ -367,9 +247,9 @@ October 12th, 2022 ; [source](https://twitter.com/jakejfried/status/157798444770
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-Fake Rares have [once again](https://twitter.com/FAKERARES\_XCP/status/1568364590307622915) made it to the big billboards in the streets of Tokyo, curated by [@SuperchiefNFT](https://twitter.com/SuperchiefNFT) and [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough), thanks to a [partnership](https://twitter.com/SuperchiefNFT/status/1580280521497579520) with [@NEO\_SHIBUYA_\__TV](https://twitter.com/NEO\_SHIBUYA\_TV).
+Fake Rares have [once again](https://twitter.com/FAKERARES_XCP/status/1568364590307622915) made it to the big billboards in the streets of Tokyo, curated by [@SuperchiefNFT](https://twitter.com/SuperchiefNFT) and [@Vince\_Van\_Dough](https://twitter.com/Vince_Van_Dough), thanks to a [partnership](https://twitter.com/SuperchiefNFT/status/1580280521497579520) with [@NEO\_SHIBUY&#x41;_\__&#x54;V](https://twitter.com/NEO_SHIBUYA_TV).
 
-The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakejfried), [@killeracid](https://twitter.com/killeracid), [@Andrea\_Chiampo](https://twitter.com/Andrea\_Chiampo), [@Easy\_to\_the\_b](https://twitter.com/Easy\_to\_the\_b), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL), [@LordJamieVShill](https://twitter.com/LordJamieVShiLL), [@Vince\_Van\_Dough](https://twitter.com/Vince\_Van\_Dough) & [@PepeCloverNFT](https://twitter.com/PepeCloverNFT).
+The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakejfried), [@killeracid](https://twitter.com/killeracid), [@Andrea\_Chiampo](https://twitter.com/Andrea_Chiampo), [@Easy\_to\_the\_b](https://twitter.com/Easy_to_the_b), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL), [@LordJamieVShill](https://twitter.com/LordJamieVShiLL), [@Vince\_Van\_Dough](https://twitter.com/Vince_Van_Dough) & [@PepeCloverNFT](https://twitter.com/PepeCloverNFT).
 
 <figure><img src="../.gitbook/assets/Fakes in Tokyo.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -377,19 +257,19 @@ The art displayed included Fake Rares by [@jakejfried](https://twitter.com/jakej
 
 ## FROGTOBER launches with Fake Rares S10
 
-October 3rd, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1576983855738736640?s=20\&t=stLG41Lsjc9EQgcrn3ejlw)
+October 3rd, 2022 ; [source](https://twitter.com/FAKERARES_XCP/status/1576983855738736640?s=20\&t=stLG41Lsjc9EQgcrn3ejlw)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the [official announcement video](https://twitter.com/FAKERARES\_XCP/status/1576983855738736640) for more details!
+Fake Rares announced the beginning of FROGTOBER and the launch of Series 10 with another impressive artist lineup. Check the [official announcement video](https://twitter.com/FAKERARES_XCP/status/1576983855738736640) for more details!
 
-The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card [created by 72 fake artists](https://twitter.com/FAKERARES\_XCP/status/1574836566559789098), as an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@official\_coder](https://twitter.com/official\_coder) for organizing, to [@kr\_gif](https://twitter.com/kr\_gif) & [@chrome\_void](https://twitter.com/chrome\_void) for being on top of things, as well as to [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
+The first card of the series is [QUEENASF](https://pepe.wtf/asset/QUEENASF), a community card [created by 72 fake artists](https://twitter.com/FAKERARES_XCP/status/1574836566559789098), as an homage to the first Fake Rare community card [FAKEASF](https://pepe.wtf/asset/FAKEASF). Shoutout to [@official\_coder](https://twitter.com/official_coder) for organizing, to [@kr\_gif](https://twitter.com/kr_gif) & [@chrome\_void](https://twitter.com/chrome_void) for being on top of things, as well as to [@COITnft](https://twitter.com/COITnft) for the soundtrack. More info on [xchain](https://www.xchain.io/asset/QUEENASF).
 
 <figure><img src="../.gitbook/assets/QUEENASF.gif" alt=""><figcaption><p><a href="https://pepe.wtf/asset/QUEENASF">QUEENASF</a></p></figcaption></figure>
 
 ## Fake Anniversary - 1 Year of Fake Rares!
 
-September 21st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1572582812087365634)
+September 21st, 2022 ; [source](https://twitter.com/FAKERARES_XCP/status/1572582812087365634)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -411,42 +291,26 @@ Listen to the recording of the space here: [Fake Rares One Year Anniversary Chat
 
 ## Pepe.wtf introduces new Basket feature for picking multiple cards
 
-September 9th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1567836588155060224)
+September 9th, 2022 ; [source](https://twitter.com/al_fernandz/status/1567836588155060224)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-In a recent tweet, [Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature to better the Drops page UX:&#x20;
+In a recent tweet, [Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al_fernandz) announced a new feature to better the Drops page UX:&#x20;
 
 "_In our mission of helping artist to distribute and collectors to collect, we have been working on something... We are trying to make the process of buying drops, specially_ [_Commons_](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/fake-commons/) _and_ [_Danks_](../dank-rares/)_, more comfortable for those who want to pick multiple cards."_
 
 As part of the new feature, you can add them to the basket and then check out without having to fill the same form for each card. You can still change that information in case you want to specify a different delivery or payment address.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Bulk Basket Feature.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Bulk Basket Feature 2.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Bulk Basket Feature.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Bulk Basket Feature 2.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 You can add as many cards as you want and check out by clicking _Buy_ or on the floating basket icon in the down right corner. You can still enter a drop without passing through the basket by clicking the buy button directly.[\
-](https://twitter.com/al\_fernandz/status/1567836598888185859/photo/1)
+](https://twitter.com/al_fernandz/status/1567836598888185859/photo/1)
 
-<div>
-
-<figure><img src="../.gitbook/assets/Bulk Basket Feature 3.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Bulk Bag Feature.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Bulk Basket Feature 3.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Bulk Bag Feature.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 ## Fake Rares Submissions are open again!
 
-September 1st, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1565353860482285569)
+September 1st, 2022 ; [source](https://twitter.com/FAKERARES_XCP/status/1565353860482285569)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -462,11 +326,11 @@ Praise Lord Kek!
 
 ## Pepe.wtf introduces new Pepe Exchange Market
 
-September 1st, 2022 ; [source](https://twitter.com/al\_fernandz/status/1564264655773728768)
+September 1st, 2022 ; [source](https://twitter.com/al_fernandz/status/1564264655773728768)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-[Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al\_fernandz) announced a new feature on the site: [pepe.wtf/market](https://pepe.wtf/market), a page to easily explore all different listings across each collection: [Rare Pepes](https://pepe.wtf/market) - [Fake Rares](https://pepe.wtf/market/fake-rares) - [Fake Commons](https://pepe.wtf/market/fake-commons) - [Dank Rares](https://pepe.wtf/market/dank-rares)
+[Pepe.wtf](../chapter-4-latest-developments/pepe.wtf.md) creator [@al\_fernandz](https://twitter.com/al_fernandz) announced a new feature on the site: [pepe.wtf/market](https://pepe.wtf/market), a page to easily explore all different listings across each collection: [Rare Pepes](https://pepe.wtf/market) - [Fake Rares](https://pepe.wtf/market/fake-rares) - [Fake Commons](https://pepe.wtf/market/fake-commons) - [Dank Rares](https://pepe.wtf/market/dank-rares)
 
 The new Market page shows [OpenSea listings](../chapter-3-blockchain-counterparty-how-to/emblem-vault/), [Counterparty BTC dispensers](../chapter-3-blockchain-counterparty-how-to/dispensers-what-are-they-how-to-use-them.md), Counterparty trades and of course the latest [PepePawnShop ](../chapter-4-latest-developments/pepepawnshop/)drops!
 
@@ -482,7 +346,7 @@ Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 <figure><img src="../.gitbook/assets/Cryptoart Begins (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-Inside the book, Rare Pepes will be featured among some of the 50 best crypto artists of our time, including works and words by OG Pepe artists such as [@ScrillaVentura](https://twitter.com/ScrillaVentura), [@theog\_\_](https://twitter.com/theog\_\_), [@pepe\_designer](https://twitter.com/pepe\_designer), [@Rare\_Luca](https://twitter.com/Rare\_Luca), [@NFTcloud69](https://twitter.com/NFTcloud69), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL) & [@MemeConscious](https://twitter.com/MemeConscious).
+Inside the book, Rare Pepes will be featured among some of the 50 best crypto artists of our time, including works and words by OG Pepe artists such as [@ScrillaVentura](https://twitter.com/ScrillaVentura), [@theog\_\_](https://twitter.com/theog__), [@pepe\_designer](https://twitter.com/pepe_designer), [@Rare\_Luca](https://twitter.com/Rare_Luca), [@NFTcloud69](https://twitter.com/NFTcloud69), [@ROBNESSOFFICIAL](https://twitter.com/ROBNESSOFFICIAL) & [@MemeConscious](https://twitter.com/MemeConscious).
 
 As the author Eleonora Brizi would put it: "[Crypto Art explained from its core](https://twitter.com/eleonorabrizi/status/1564660555369029633)."
 
@@ -518,11 +382,11 @@ FAKEFAKEWAX Silent Auction
 
 ## Fake Rares S8 concludes with VVD & ACK drop
 
-July 30th, 2022 ; [source](https://twitter.com/FAKERARES\_XCP/status/1553006852971151360)
+July 30th, 2022 ; [source](https://twitter.com/FAKERARES_XCP/status/1553006852971151360)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince\_Van\_Dough) closed the [legendary lineup](https://twitter.com/Vince\_Van\_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
+On July 29th, high priest of Kek and curator [Vincent Van Dough](https://twitter.com/Vince_Van_Dough) closed the [legendary lineup](https://twitter.com/Vince_Van_Dough/status/1542982900454264832) of artists alongside the acclaimed [Alpha Centauri Kid](https://twitter.com/lphaCentauriKid) with their respective cards [LILYPAD](https://pepe.wtf/asset/LILYPAD) & [GRANTYUM](https://pepe.wtf/asset/GRANTYUM), a diptych in homage to [Grant Riven Yun](https://twitter.com/GrantYun2)'s "[Cow](https://superrare.com/artwork-v2/cow-33524)".
 
 ![GRANTYUM](../.gitbook/assets/GRANTYUM.png) ![LILYPAD](../.gitbook/assets/LILYPAD.jpeg)
 
@@ -546,11 +410,11 @@ SuperTrip64
 
 ## Welcome to the FAKEVERSE
 
-July 28th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1549352175054327814?s=20\&t=-NcXHkfQWe6d1sLdw1i08A)
+July 28th, 2022 ; [source](https://twitter.com/al_fernandz/status/1549352175054327814?s=20\&t=-NcXHkfQWe6d1sLdw1i08A)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
-On the 19th of July, [AL Fernandz](https://twitter.com/al\_fernandz?s=20\&t=EFVnMu0qbGu-\_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 Fake Rare collection curated by [VincentVanDough](https://twitter.com/Vince\_Van\_Dough).
+On the 19th of July, [AL Fernandz](https://twitter.com/al_fernandz?s=20\&t=EFVnMu0qbGu-_lraY9cEYw) released [FAKEVERSE](https://pepe.wtf/asset/FAKEVERSE) - a new addition to the Series 8 Fake Rare collection curated by [VincentVanDough](https://twitter.com/Vince_Van_Dough).
 
 ![PEPEVERSE](../.gitbook/assets/FAKEVERSE.png)
 
@@ -568,7 +432,7 @@ July 20th, 2022 ; [source](https://twitter.com/PabloRicasso/status/1549879030790
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
-On July 20th_,_ [Farokh](https://twitter.com/farokh) invited the OGs of Rares & Fakes to his daily podcast show GM NFTs on [Rug Radio](https://twitter.com/RugRadio): [Joe Looney](https://twitter.com/wasthatawolf), [Robness](https://twitter.com/ROBNESSOFFICIAL), [Rare Scrilla](https://twitter.com/ScrillaVentura) & [Fake Annie](https://twitter.com/fakefakeannie) joined him to talk about the beginnings of the [Rare Pepe Project](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), the current success of [Fake Rares](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) and the hype around [VVD's curated Series 8](./#vvd-announces-curated-fake-rares-series-8), as well as the Book Of Kek.
+On July 20t&#x68;_,_ [Farokh](https://twitter.com/farokh) invited the OGs of Rares & Fakes to his daily podcast show GM NFTs on [Rug Radio](https://twitter.com/RugRadio): [Joe Looney](https://twitter.com/wasthatawolf), [Robness](https://twitter.com/ROBNESSOFFICIAL), [Rare Scrilla](https://twitter.com/ScrillaVentura) & [Fake Annie](https://twitter.com/fakefakeannie) joined him to talk about the beginnings of the [Rare Pepe Project](../chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/), the current success of [Fake Rares](../chapter-2-the-rare-pepe-project/fake-rares-and-dank-rares/) and the hype around [VVD's curated Series 8](./#vvd-announces-curated-fake-rares-series-8), as well as the Book Of Kek.
 
 _"Today after diving into some of the positive macros we jumped into the Rare Pepe rabbit hole. Learning about everything from the creation, the inspiration to the eventual deviation due to strict moderation that became the Fake Rares. Listen in for a history lesson on all things Rare Pepe."_
 
@@ -582,7 +446,7 @@ _"Today after diving into some of the positive macros we jumped into the Rare Pe
 
 ## A new and improved look for pepe.wtf
 
-July 7th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1542861523764248579?s=20\&t=yUZ5WGFd0\_JS5-WPbF7gsQ)
+July 7th, 2022 ; [source](https://twitter.com/al_fernandz/status/1542861523764248579?s=20\&t=yUZ5WGFd0_JS5-WPbF7gsQ)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
@@ -592,11 +456,11 @@ On the 1st of July, pepe.wtf world was upgraded to better organise the ever-expa
 
 Although OG RarePepes will always be a focal point on the site, the team behind pepe.wtf believe that this new central location (for all collections) will only help streamline the learning experience for anyone starting their journey into the Pepeverse (especially through aspects like curated news, history, and the Book of Kek).
 
-Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna\_Lu\_Arts](https://twitter.com/Luna\_Lu\_Arts) for their collective time and effort to build this elegant new home.
+Special thanks goes to [@0xWillRock](https://twitter.com/0xWillRock) and [@Luna\_Lu\_Arts](https://twitter.com/Luna_Lu_Arts) for their collective time and effort to build this elegant new home.
 
 ## Matt Kane's NOTKAMOTO card launches S8 of Fake Rares
 
-July 1st, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1542964638450479104?s=20\&t=U2PT7wtbkflif8EHXwelZQ)
+July 1st, 2022 ; [source](https://twitter.com/Vince_Van_Dough/status/1542964638450479104?s=20\&t=U2PT7wtbkflif8EHXwelZQ)
 
 Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
@@ -604,7 +468,7 @@ Submitted by [@masonmarcobello](https://twitter.com/masonmarcobello)
 
 As the first NFT by artist [Matt Kane](https://twitter.com/MattKaneArtist) on the Bitcoin blockchain, NOTKAMOTO was minted at the [end of day June 10th](https://xchain.io/asset/NOTKAMOTO) as a master copy tribute to the original [RAREPEPE Nakamoto Card](https://pepe.wtf/asset/RAREPEPE), created by anonymous artist Mike in September 2016.
 
-Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince\_Van\_Dough)
+Released as an edition of 300 (mirroring the supply of the original RAREPEPE), The Notkamoto Card is the first and only time Matt Kane has deviated from his long-standing tradition of minting unique 1/1s. It’s also included as the first in [Series 8 of FakeRares](https://fakeraredirectory.com/series-8/) curated by a long-standing collector and purveyor of fine art, [VincentVanDough.](https://twitter.com/Vince_Van_Dough)
 
 **About the artist:**
 
@@ -640,7 +504,7 @@ Ultimately, while the original RAREPEPE Nakamoto card served as the progenitor o
 
 ## VVD announces curated Fake Rares Series 8
 
-June 29th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1541599342590537729?s=20\&t=7HfJZNSzMPqx7GJxIL\_EvQ)
+June 29th, 2022 ; [source](https://twitter.com/Vince_Van_Dough/status/1541599342590537729?s=20\&t=7HfJZNSzMPqx7GJxIL_EvQ)
 
 Submitted by [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -650,19 +514,19 @@ According to VVD, Series 8 will launch on July 1st and will last most of the mon
 
 {% embed url="https://twitter.com/Vince_Van_Dough/status/1541599342590537729?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
 
-The announcement was quickly followed by two promo videos, made by Fake Rare artists [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD) & [@viva\_la\_vandal](https://twitter.com/viva\_la\_vandal), including a more detailed schedule and only adding to the anticipation felt by the whole of the Pepe community.
+The announcement was quickly followed by two promo videos, made by Fake Rare artists [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD) & [@viva\_la\_vandal](https://twitter.com/viva_la_vandal), including a more detailed schedule and only adding to the anticipation felt by the whole of the Pepe community.
 
 {% embed url="https://twitter.com/Vince_Van_Dough/status/1541869455646392320?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
 Promo video by [@LOVEBEINGWORLD](https://twitter.com/LOVEBEINGWORLD)
 {% endembed %}
 
 {% embed url="https://twitter.com/Vince_Van_Dough/status/1542230932425306112?s=20&t=7HfJZNSzMPqx7GJxIL_EvQ" %}
-Promo video by [@viva\_la\_vandal](https://twitter.com/viva\_la\_vandal)
+Promo video by [@viva\_la\_vandal](https://twitter.com/viva_la_vandal)
 {% endembed %}
 
 ## Pepe.wtf added the 'Nakamoto 300 Club'
 
-June 16th, 2022 ; [source](https://twitter.com/al\_fernandz/status/1537397646415040514?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
+June 16th, 2022 ; [source](https://twitter.com/al_fernandz/status/1537397646415040514?s=20\&t=c15c4QCZmsw3pyxSUBc6-Q)
 
 Submitted by [@FeelsRareMan](https://twitter.com/FeelsRareMan)
 
@@ -674,17 +538,17 @@ Also, [Pepe.wtf](https://t.co/7H2dOxwXNK) is showing them as PFPs in the leaderb
 
 Pepe.wtf will continue working and adding cool things to the 300 club. Hats off to the incredible work developed by [@TheNakasClub](https://twitter.com/TheNakasClub)!
 
-![](<../.gitbook/assets/Screen Shot 2022-06-16 at 9.16.35 PM.png>) ![](../.gitbook/assets/FVXtT\_NWAAAG3Vj.jpeg)
+![](<../.gitbook/assets/Screen Shot 2022-06-16 at 9.16.35 PM.png>) ![](../.gitbook/assets/FVXtT_NWAAAG3Vj.jpeg)
 
 ## Joe Looney joins the Pepe Inc.
 
-June 13th, 2022 ; [source](https://twitter.com/Vince\_Van\_Dough/status/1536425389245054976?s=20\&t=K2hyFywQsHoWcpRxbNraVQ)
+June 13th, 2022 ; [source](https://twitter.com/Vince_Van_Dough/status/1536425389245054976?s=20\&t=K2hyFywQsHoWcpRxbNraVQ)
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
 OG Rare Pepe RPW creator Joe Looney joins Pepe.Inc full-time. He will be focusing on developing the Bitcoin/Counterparty ecosystem!
 
-_Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch?v=A1y4CDOtvos\&ab\_channel=NFTCulture) _from August 31, 2021 check it out!_
+_Great_ [_interview w Joe Looney and Shawn Leary_](https://www.youtube.com/watch?v=A1y4CDOtvos\&ab_channel=NFTCulture) _from August 31, 2021 check it out!_
 
 {% embed url="https://twitter.com/wasthatawolf/status/1536434424560091141?s=20&t=K2hyFywQsHoWcpRxbNraVQ" %}
 The Beginning of a New Era
@@ -692,7 +556,7 @@ The Beginning of a New Era
 
 ## Danks are now being dropped at Pepe.wtf
 
-June 13th, 2022 ; [source](https://twitter.com/DankDirectory/status/1536814235291996166?s=20\&t=aKfKhQq925gmK8uh\_-tbqg)
+June 13th, 2022 ; [source](https://twitter.com/DankDirectory/status/1536814235291996166?s=20\&t=aKfKhQq925gmK8uh_-tbqg)
 
 Submitted by: [@PabloRicasso](https://twitter.com/PabloRicasso)
 
@@ -710,7 +574,7 @@ Starting on June 19th to 23rd, taking place in TriBeCa, 80 W Broadway, "FROGS > 
 
 ![](https://user-images.githubusercontent.com/106767091/173698571-8fc2c195-9ce7-4794-97c8-9cda5b870656.png)
 
-Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20\&t=PKjaZg5EiktvibjYJ\_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
+Visitors can come mint a free random BTC NFT from an NFT ATM provided by [@BabyPicassoo](https://twitter.com/BabyPicassoo). Check out how the NFT ATM looks [here](https://twitter.com/IrlMint/status/1536029289828818944?s=20\&t=PKjaZg5EiktvibjYJ_IZLw). There's only 414 mints, randomized between 6 different fake artists. These fakes will only be distributed this week, in this way. Participants must have Proof-of-Bid in the Fake Rare Gallery auction to claim the free NFT.
 
 ![IRL Fake Rares dispenser at FROGS>FIAT NYC](<../.gitbook/assets/Mint IRL Fakes.jpeg>)
 

@@ -8,7 +8,7 @@
 
 Matt's vast world of characters come to life in the form of collectable/tradable files, each with a 2D avatar .PNG file, a 3D .GLB coin file, and an animated .GIF file.
 
-Every 10 PEGZ is a [PEPE](https://www.pegz.fun/family/peper), and after every 30 PEGZ plops a [DAZZLER](https://www.pegz.fun/family/dazzler). The last of the Dazzler family ([Peg 103](https://www.pegz.fun/asset/peg-103)) sold for 269.42 ETH to collector [VincentVanDough](https://twitter.com/Vince\_Van\_Dough) in 2021.
+Every 10 PEGZ is a [PEPE](https://www.pegz.fun/family/peper), and after every 30 PEGZ plops a [DAZZLER](https://www.pegz.fun/family/dazzler). The last of the Dazzler family ([Peg 103](https://www.pegz.fun/asset/peg-103)) sold for 269.42 ETH to collector [VincentVanDough](https://twitter.com/Vince_Van_Dough) in 2021.
 
 ![Peg 103,  sold to Vincent Van Dough](<../.gitbook/assets/peg 103.gif>)
 
@@ -17,7 +17,7 @@ The PEGZ project came about as Matt focused on digitally created work, and provi
 PEGZ is operated by [Chain/Saw](https://www.chainsaw.fun/), a space for artists and collectors to both create and experiment with new digital art.
 
 > _“Welcome to pegz.fun! I've been mining my brains out to bring you these seeds of the metaverse. May the faces of these new mutants bring you joy, good luck, and good fortune from the digital dreamscape."_\
-> _Peace, Love Unity, Respect,_\
+> &#xNAN;_&#x50;eace, Love Unity, Respect,_\
 > _Matt Furie_
 
 ## **Chain/Saw**
