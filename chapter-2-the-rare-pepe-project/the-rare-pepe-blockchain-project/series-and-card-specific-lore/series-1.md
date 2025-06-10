@@ -138,9 +138,9 @@ The man pictured on the card is [Vinay Gupta](https://medium.com/@leashless), Co
 
 ## Series 1, Card 18 - HAIRPEPE
 
-<figure><img src="../../../.gitbook/assets/S01 C18 - HAIRPEPE.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/S01 C18 - HAIRPEPE.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/HAIRPEPE.jpeg" alt=""><figcaption><p>Yuki Himura</p></figcaption></figure></div>
 
-**Series 1, Card 18** - [HAIRPEPE](https://pepe.wtf/asset/HAIRPEPE) was created by [ayaLAN](https://twitter.com/ayaLAN) who sadly lost the keys to the wallet it was issued from. This card is considered a "grail" by most in the Rare Pepe community due to its unique look. The text on the card reference [Pantene](https://pantene.com/en-us) hair products and [Maybelline](https://www.maybelline.com/) makeup. The card is also highly sought after because it permits entry to one of earliest art-based private Telegram rooms - "The Salon." A [Telegram bot](https://github.com/chiguireitor/telly-kickbot) scans your wallet for the card. If it is present, it grants you entry to the private room. If you ever move the card out of the wallet you used to gain entry (to sell it for example), the bot would kick you out of the room during one of it's frequent wallet scans.
+**Series 1, Card 18** - [HAIRPEPE](https://pepe.wtf/asset/HAIRPEPE) was created by [ayaLAN](https://twitter.com/ayaLAN), who sadly lost the keys to the wallet from which it was issued. This card is considered a "grail" by most in the Rare Pepe community due to its unique look. Yuki Himura, a Japanese comedian, inspires the image immortalized in this card. The text on the card references [Pantene](https://pantene.com/en-us) hair products and [Maybelline](https://www.maybelline.com/) makeup. The card is also highly sought after because it permits entry to one of the earliest art-based private Telegram rooms - "The Salon." A [Telegram bot](https://github.com/chiguireitor/telly-kickbot) scans your wallet for the card. If it is present, it grants you entry to the private room. If you ever move the card out of the wallet you used to gain entry (to sell it, for example), the bot would kick you out of the room during one of its frequent wallet scans.
 
 &#x20;
 
