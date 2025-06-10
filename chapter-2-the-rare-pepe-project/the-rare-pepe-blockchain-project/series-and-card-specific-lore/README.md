@@ -7,6 +7,8 @@ description: >-
 
 # Series & Card Specific Lore
 
+_Special thanks to_ [_Subterranean_](https://x.com/subterranean_1)_, true historian of Kek, for their dedication and hard work to complete the lore in this section._
+
 {% hint style="info" %}
 _**Work in progress**_ - if you would like to contribute your card-specific story, please follow the steps in [how-to-contribute-to-the-book-of-kek.md](../../../how-to-contribute-to-the-book-of-kek.md "mention") or send us an email titled **"BoK Edit Request"** to [wiki@pepe.wtf.](mailto:wiki@pepe.wtf?subject=BoK%20Edit%20Request)&#x20;
 {% endhint %}
