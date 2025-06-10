@@ -19,6 +19,24 @@ _**Work in progress**_ - if you would like to contribute your sub asset-specific
 
 <figure><img src="../../.gitbook/assets/HOMERPEPE.SOCK.jpg" alt=""><figcaption></figcaption></figure>
 
+## Series 4, Card 29 - DJPEPE
+
+<figure><img src="../../.gitbook/assets/S04 C29 - DJPEPE (1).jpg" alt=""><figcaption></figcaption></figure>
+
+**Series 4, card 29 -** [**DJPEPE**](https://pepe.wtf/asset/DJPEPE) was created by [**Rare Scrilla**](https://pepe.wtf/artists/Rare-Scrilla). The token ownership is still held by Scrilla and has been steadily issuing sub assets since January 2018. To date, he has issued 37 unique sub assets. Some are to celebrate special occasions such as "[**5\_YEAR\_BDAY\_PARTY**](https://tokenscan.io/asset/DJPEPE.5_YEAR_BDAY_PARTY)" issued to celebrate the 5 year anniversary of the DJPEPE card and announced a party at the [**Rare Villa**](https://www.voxels.com/parcels/4681) inside the virtual world known as [**Cryptovoxels**](https://www.voxels.com/), "[**434102**](https://tokenscan.io/asset/DJPEPE.434102)" which is the Bitcoin block that included the DJPEPE token issuance transaction,  "[**TWENTYFIRSTANNIVERSARY**](https://tokenscan.io/asset/DJPEPE.TWENTYFIRSTANNIVERSARY)", which commemorated the [**September 11th attacks**](https://en.wikipedia.org/wiki/September_11_attacks) with a series of 35mm film images of [**The Pentagon**](https://en.wikipedia.org/wiki/The_Pentagon) taken on that day, [**MEXICO**](https://tokenscan.io/asset/DJPEPE.mexico) which was a special drop for the Non-NFT Summit in Mexico City Nov 7, 2022 and "[**XMAS2022**](https://tokenscan.io/asset/DJPEPE.XMAS2022)" for Christmas 2022.
+
+Others were proof-of-ownership tokens such as the 21 SOUNDMONEYLP tokens, [**6FOOT**](https://tokenscan.io/asset/DJPEPE.6foot) for the 1 of 1 cardboard DJPEPE standup displayed at the [**2018 RARE AF Festival in New York City**](https://www.theparisreview.org/blog/2018/01/23/much-pepe-scenes-first-rare-digital-art-auction/). And some were simply art pieces or parodies of the original DJPEPE.
+
+<figure><img src="../../.gitbook/assets/LIST.jpg" alt=""><figcaption><p>An up-to-date list of official DJPEPE sub assets</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/SOUNDMONEYLP 01-21.jpg" alt=""><figcaption><p>The twenty one 1 of 1 "receipts" for buyers of the Sound Money vinyl record</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/26 - 5_YEAR_BDAY_PARTY.png" alt=""><figcaption><p>DJ Pepe's 5th birthday anouncement flyer</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/03 - GOLDEDITION.gif" alt=""><figcaption><p>The GOLDEDITION</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/parodies.png" alt=""><figcaption><p>MEXICO and XMAS2022</p></figcaption></figure>
+
 ## Series 11, Card 29 - CSAT
 
 <figure><img src="../../.gitbook/assets/S11 C29 - CSAT (1).jpg" alt=""><figcaption></figcaption></figure>
@@ -31,7 +49,7 @@ _**Work in progress**_ - if you would like to contribute your sub asset-specific
 
 <figure><img src="../../.gitbook/assets/S20 C16 - VAPORMAGIC.png" alt=""><figcaption></figcaption></figure>
 
-**Series 20, Card 16 -** [**VAPORMAGIC**](https://pepe.wtf/asset/VAPORMAGIC) was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). In a [recent interview](https://www.youtube.com/watch?v=rRvC767N5oI), Boost explained that VAPORMAGIC was a mashup of his own [CSAT](https://pepe.wtf/asset/CSAT) card and Series 1, Card 16 card [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE). Of the card, Boost said that CSAT visually displayed taking a trip (through space), so he wanted VAPORMAGIC to display taking a trip of a different type (LSD) by making the background look like a piece of [Blotting paper](https://en.wikipedia.org/wiki/Blotting\_paper).&#x20;
+**Series 20, Card 16 -** [**VAPORMAGIC**](https://pepe.wtf/asset/VAPORMAGIC) was created by the artist known as [Boost](https://pepe.wtf/artists/Boost). In a [recent interview](https://www.youtube.com/watch?v=rRvC767N5oI), Boost explained that VAPORMAGIC was a mashup of his own [CSAT](https://pepe.wtf/asset/CSAT) card and Series 1, Card 16 card [MAGICPEPEYE](https://pepe.wtf/asset/MAGICPEPEYE). Of the card, Boost said that CSAT visually displayed taking a trip (through space), so he wanted VAPORMAGIC to display taking a trip of a different type (LSD) by making the background look like a piece of [Blotting paper](https://en.wikipedia.org/wiki/Blotting_paper).&#x20;
 
 In May of 2022, BOST issued a whopping 33 different sub-assets for VAPORMAGIC with supplies ranging from 0 to 300. Of the 33 tokens, 30 of them had an image attached. Boost stated that these were just random images he made with no specific purpose or reason. The tokens were distributed as dividends to VAPORMAGIC token holders between May 2022 and August 2022. Below is a list of the sub-assets in the order in which they were distributed:
 
@@ -47,7 +65,7 @@ To view a full size version of the above image, click [here](https://i.imgur.com
 
 <figure><img src="../../.gitbook/assets/S25 C10 - RARECHERRY.gif" alt=""><figcaption></figcaption></figure>
 
-**Series 25, Card 10** - [RARECHERRY](https://pepe.wtf/asset/RARECHERRY) was created by the artist that goes by [Nathan Sonic](https://pepe.wtf/artists/nathan-sonic). It is one of 14 cards created by Sonic for the Rare Pepe project. RARECHERRY was coded to parody the victory animation from [Microsoft Solitaire](https://en.wikipedia.org/wiki/Microsoft\_Solitaire) which has been part of the Windows operating system since Windows 3.0 which was released in 1990. The asset name pays homage to the original author of the game - [Wes Cherry](https://www.youtube.com/watch?v=3x5VAg1HJIg). &#x20;
+**Series 25, Card 10** - [RARECHERRY](https://pepe.wtf/asset/RARECHERRY) was created by the artist that goes by [Nathan Sonic](https://pepe.wtf/artists/nathan-sonic). It is one of 14 cards created by Sonic for the Rare Pepe project. RARECHERRY was coded to parody the victory animation from [Microsoft Solitaire](https://en.wikipedia.org/wiki/Microsoft_Solitaire) which has been part of the Windows operating system since Windows 3.0 which was released in 1990. The asset name pays homage to the original author of the game - [Wes Cherry](https://www.youtube.com/watch?v=3x5VAg1HJIg). &#x20;
 
 RARECHERRY is a .gif file that runs through 35 different Rare Pepe cards. In October 2022, Sonic released the subasset [RARECHERRY.FULLCHERRY](https://xchain.io/asset/RARECHERRY.FULLCHERRY) which when loaded, a bit of code starts to run that displays all 1,774 Rare Pepe cards in order. If you were to view every card, it would take you approximately 45 minutes. You can view the animation by clicking the link below. &#x20;
 
@@ -57,7 +75,7 @@ RARECHERRY is a .gif file that runs through 35 different Rare Pepe cards. In Oct
 
 <figure><img src="../../.gitbook/assets/S25 C38 - CHAMPAGNETNT.gif" alt=""><figcaption></figcaption></figure>
 
-**Series 25, Card 38** - [CHAMPAGNETNT](https://pepe.wtf/asset/CHAMPAGNETNT) was created by [Mike in Space](https://pepe.wtf/artists/Mike-in-space) it is his only card in the Rare Pepe project. The card portrays a pepefied version of [Wayne Vaughan](https://www.linkedin.com/in/wayne/), the CEO of Texas-based blockchain company [Tierion, Inc.](https://tierion.com/) Vaugn and his company was found to be guilty of conducting an unregistered security offering when it sold the TNT token and was ordered by the [SEC](https://en.wikipedia.org/wiki/U.S.\_Securities\_and\_Exchange\_Commission) to [return the $25 million they raised from investors](https://news.bitcoin.com/sec-lawsuit-tierion-refund-investors-25-million/).&#x20;
+**Series 25, Card 38** - [CHAMPAGNETNT](https://pepe.wtf/asset/CHAMPAGNETNT) was created by [Mike in Space](https://pepe.wtf/artists/Mike-in-space) it is his only card in the Rare Pepe project. The card portrays a pepefied version of [Wayne Vaughan](https://www.linkedin.com/in/wayne/), the CEO of Texas-based blockchain company [Tierion, Inc.](https://tierion.com/) Vaugn and his company was found to be guilty of conducting an unregistered security offering when it sold the TNT token and was ordered by the [SEC](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission) to [return the $25 million they raised from investors](https://news.bitcoin.com/sec-lawsuit-tierion-refund-investors-25-million/).&#x20;
 
 Since minting the card in 2017, Mike has released 3 sub-assets.&#x20;
 
@@ -67,7 +85,7 @@ The first - [CHAMPAGNETNT.SIGNED](https://xchain.io/asset/CHAMPAGNETNT.SIGNED) w
 
 <figure><img src="../../.gitbook/assets/CHAMPAGNETNT.KANDINSKY.gif" alt=""><figcaption></figcaption></figure>
 
-Then in June of 2022, Mike released a very creative version of his card entitled [CHAMPAGNETNT.KANDINSKY](https://xchain.io/asset/CHAMPAGNETNT.KANDINSKY) which he made to look like artwork from the artist [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily\_Kandinsky).&#x20;
+Then in June of 2022, Mike released a very creative version of his card entitled [CHAMPAGNETNT.KANDINSKY](https://xchain.io/asset/CHAMPAGNETNT.KANDINSKY) which he made to look like artwork from the artist [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).&#x20;
 
 <figure><img src="../../.gitbook/assets/CHAMPAGNETNT.INSCRIPTION.jpg" alt=""><figcaption></figcaption></figure>
 
